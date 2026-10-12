@@ -1,0 +1,29 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Blender backups
+*.blend1
+*.blend2
+*.blend@
+
+# Unreal Engine Temporary & Build Caches
+GRAI/Binaries/
+GRAI/DerivedDataCache/
+GRAI/Intermediate/
+GRAI/Saved/
+GRAI/*.VC.db
+GRAI/*.sln
+
+# Agent temp
+.agents/
+.tempmediaStorage/

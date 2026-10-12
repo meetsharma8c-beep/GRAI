@@ -1,0 +1,37 @@
+{
+  "project": "GRAI (Grand Roads of India)",
+  "target": "Mumbai Digital Twin",
+  "crs": "WGS 84 / UTM Zone 43N (EPSG:32643)",
+  "projection": "Transverse Mercator",
+  "projection_center": {
+    "latitude": 18.923000000000002,
+    "longitude": 72.833,
+    "elevation_msl": 0.0
+  },
+  "key_landmarks_local_m": {
+    "Gateway_of_India": {
+      "x": 174.17,
+      "y": -113.1,
+      "lat": 18.921984,
+      "lon": 72.834654
+    },
+    "Taj_Mahal_Palace": {
+      "x": 94.17,
+      "y": -163.1,
+      "lat": 18.9216,
+      "lon": 72.8333
+    },
+    "Colaba_Causeway_Start": {
+      "x": -175.83,
+      "y": -513.1,
+      "lat": 18.92,
+      "lon": 72.831
+    }
+  },
+  "scale_factor": 1.0,
+  "unit": "meters",
+  "unreal_engine_conversion": {
+    "scale_multiplier": 100.0,
+    "axis_mapping": "X_East_Y_North_Z_Up to Unreal X_Forward_Y_Right_Z_Up"
+  }
+}

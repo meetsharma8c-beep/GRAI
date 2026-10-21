@@ -1,0 +1,515 @@
+{
+  "tile_id": "TILE_E-001_N+006",
+  "bounds": {
+    "min_x": -500.0,
+    "max_x": 0.0,
+    "min_y": 3000.0,
+    "max_y": 3500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.950038,
+    "max_lat": 18.954609,
+    "min_lon": 72.827905,
+    "max_lon": 72.832592
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 9,
+    "road_length_m": 1175.82,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22850988",
+      "osm_id": 22850988,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 265.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655339,
+        620403338,
+        620400517,
+        12843656850,
+        245655305,
+        10687844876,
+        2184321321,
+        620400516,
+        245655223
+      ],
+      "coordinates_3d": [
+        [
+          -99.65,
+          3431.0,
+          10.69
+        ],
+        [
+          -109.82,
+          3420.47,
+          10.68
+        ],
+        [
+          -141.91,
+          3395.17,
+          11.46
+        ],
+        [
+          -154.47,
+          3387.37,
+          11.69
+        ],
+        [
+          -177.77,
+          3372.89,
+          10.41
+        ],
+        [
+          -189.14,
+          3364.48,
+          9.39
+        ],
+        [
+          -248.21,
+          3320.76,
+          9.2
+        ],
+        [
+          -256.1,
+          3314.92,
+          9.73
+        ],
+        [
+          -301.1,
+          3260.26,
+          11.23
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_40283784",
+      "osm_id": 40283784,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 228.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655223,
+        5510030709,
+        245655200,
+        245655154,
+        245655096,
+        1273104875,
+        13629391807,
+        245655072,
+        620408597
+      ],
+      "coordinates_3d": [
+        [
+          -301.1,
+          3260.26,
+          11.23
+        ],
+        [
+          -313.18,
+          3222.48,
+          13.08
+        ],
+        [
+          -317.93,
+          3199.21,
+          13.14
+        ],
+        [
+          -336.73,
+          3152.23,
+          13.11
+        ],
+        [
+          -348.07,
+          3135.31,
+          13.54
+        ],
+        [
+          -364.27,
+          3112.3,
+          13.06
+        ],
+        [
+          -371.66,
+          3105.98,
+          13.18
+        ],
+        [
+          -393.42,
+          3090.55,
+          13.17
+        ],
+        [
+          -402.23,
+          3061.87,
+          14.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1097890837",
+      "osm_id": 1097890837,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 34.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6552240725,
+        10885845629,
+        10885845628
+      ],
+      "coordinates_3d": [
+        [
+          -82.66,
+          3457.45,
+          11.01
+        ],
+        [
+          -66.88,
+          3479.88,
+          11.2
+        ],
+        [
+          -60.51,
+          3482.58,
+          11.32
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137199653",
+      "osm_id": 1137199653,
+      "name": "Kalbadevi Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 484.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        620408597,
+        620377768,
+        620404556,
+        11056613014,
+        245655029,
+        245654969,
+        11058099667,
+        13702945734,
+        245654892,
+        13697841783,
+        13385811344,
+        245654863,
+        13697724381,
+        355841563,
+        2248513091,
+        245654796,
+        485953812,
+        2244632754,
+        1643210517
+      ],
+      "coordinates_3d": [
+        [
+          -402.23,
+          3061.87,
+          14.05
+        ],
+        [
+          -405.56,
+          3042.03,
+          14.23
+        ],
+        [
+          -405.09,
+          3023.03,
+          14.07
+        ],
+        [
+          -404.14,
+          2988.7,
+          14.56
+        ],
+        [
+          -396.42,
+          2878.48,
+          13.86
+        ],
+        [
+          -395.5,
+          2856.11,
+          15.63
+        ],
+        [
+          -402.59,
+          2819.04,
+          17.66
+        ],
+        [
+          -405.32,
+          2806.68,
+          17.82
+        ],
+        [
+          -406.41,
+          2801.27,
+          17.79
+        ],
+        [
+          -406.64,
+          2799.94,
+          17.78
+        ],
+        [
+          -412.01,
+          2768.85,
+          17.42
+        ],
+        [
+          -413.89,
+          2745.56,
+          17.25
+        ],
+        [
+          -414.46,
+          2722.45,
+          18.76
+        ],
+        [
+          -412.5,
+          2692.48,
+          19.85
+        ],
+        [
+          -406.93,
+          2667.94,
+          18.05
+        ],
+        [
+          -397.53,
+          2638.47,
+          15.79
+        ],
+        [
+          -391.77,
+          2618.9,
+          15.15
+        ],
+        [
+          -387.33,
+          2601.07,
+          16.15
+        ],
+        [
+          -382.56,
+          2584.25,
+          16.62
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171497217",
+      "osm_id": 1171497217,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 4.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655339,
+        10885845626
+      ],
+      "coordinates_3d": [
+        [
+          -99.65,
+          3431.0,
+          10.69
+        ],
+        [
+          -96.66,
+          3434.65,
+          10.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171497218",
+      "osm_id": 1171497218,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 60.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885845628,
+        10885845630,
+        10885845632,
+        10885845631,
+        10885845626
+      ],
+      "coordinates_3d": [
+        [
+          -60.51,
+          3482.58,
+          11.32
+        ],
+        [
+          -62.42,
+          3476.41,
+          11.5
+        ],
+        [
+          -78.99,
+          3454.15,
+          11.31
+        ],
+        [
+          -91.18,
+          3437.77,
+          11.0
+        ],
+        [
+          -96.66,
+          3434.65,
+          10.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171497219",
+      "osm_id": 1171497219,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885845628,
+        245655412
+      ],
+      "coordinates_3d": [
+        [
+          -60.51,
+          3482.58,
+          11.32
+        ],
+        [
+          -56.21,
+          3490.43,
+          11.36
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1343709661",
+      "osm_id": 1343709661,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885845626,
+        10885845627,
+        6552240725
+      ],
+      "coordinates_3d": [
+        [
+          -96.66,
+          3434.65,
+          10.73
+        ],
+        [
+          -95.07,
+          3441.14,
+          10.62
+        ],
+        [
+          -82.66,
+          3457.45,
+          11.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1484792770",
+      "osm_id": 1484792770,
+      "name": "Ebrahim Rehmatullah Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 60.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655525,
+        245655467,
+        245655412
+      ],
+      "coordinates_3d": [
+        [
+          -38.98,
+          3548.24,
+          12.05
+        ],
+        [
+          -44.33,
+          3517.61,
+          11.2
+        ],
+        [
+          -56.21,
+          3490.43,
+          11.36
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

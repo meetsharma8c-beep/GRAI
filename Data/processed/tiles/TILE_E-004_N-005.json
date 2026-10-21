@@ -1,0 +1,115 @@
+{
+  "tile_id": "TILE_E-004_N-005",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": -2500.0,
+    "max_y": -2000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.900199,
+    "max_lat": 18.904771,
+    "min_lon": 72.814314,
+    "max_lon": 72.818999
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 756.11,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_1165552351",
+      "osm_id": 1165552351,
+      "name": "Nanabhai Moos Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 756.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653028,
+        459482418,
+        669252926,
+        459482423,
+        2241842169,
+        459482411,
+        2241842117,
+        4233118278,
+        13597583292,
+        2241842073,
+        459482449
+      ],
+      "coordinates_3d": [
+        [
+          -1772.36,
+          -1859.96,
+          13.1
+        ],
+        [
+          -1791.36,
+          -1909.04,
+          13.84
+        ],
+        [
+          -1829.01,
+          -1978.36,
+          12.1
+        ],
+        [
+          -1834.82,
+          -1989.05,
+          11.43
+        ],
+        [
+          -1857.39,
+          -2088.81,
+          11.44
+        ],
+        [
+          -1878.3,
+          -2153.96,
+          12.57
+        ],
+        [
+          -1923.44,
+          -2257.59,
+          11.42
+        ],
+        [
+          -1930.4,
+          -2275.49,
+          12.18
+        ],
+        [
+          -2006.75,
+          -2462.2,
+          12.05
+        ],
+        [
+          -2010.59,
+          -2470.82,
+          12.05
+        ],
+        [
+          -2065.0,
+          -2552.73,
+          13.08
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

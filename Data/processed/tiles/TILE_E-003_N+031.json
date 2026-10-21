@@ -1,0 +1,91 @@
+{
+  "tile_id": "TILE_E-003_N+031",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 15500.0,
+    "max_y": 16000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.062815,
+    "max_lat": 19.067387,
+    "min_lon": 72.81694,
+    "max_lon": 72.82163
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 503.07,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_898358906",
+      "osm_id": 898358906,
+      "name": "1997 ZHENG DONG SHIPWRECK",
+      "highway": "footway",
+      "width_m": 4.0,
+      "width_source": "osm_explicit_width",
+      "length_m": 503.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8348411076,
+        8348411070,
+        8348411071,
+        8348411072,
+        8348411077,
+        8348411074,
+        8348411075
+      ],
+      "coordinates_3d": [
+        [
+          -910.06,
+          15594.65,
+          0.05
+        ],
+        [
+          -935.92,
+          15598.94,
+          0.05
+        ],
+        [
+          -939.69,
+          15601.84,
+          0.05
+        ],
+        [
+          -1109.23,
+          15633.48,
+          0.05
+        ],
+        [
+          -1326.23,
+          15676.89,
+          0.05
+        ],
+        [
+          -1366.71,
+          15694.94,
+          0.05
+        ],
+        [
+          -1399.98,
+          15702.02,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

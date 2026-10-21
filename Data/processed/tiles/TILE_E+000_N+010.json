@@ -1,0 +1,1857 @@
+{
+  "tile_id": "TILE_E+000_N+010",
+  "bounds": {
+    "min_x": 0.0,
+    "max_x": 500.0,
+    "min_y": 5000.0,
+    "max_y": 5500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.968156,
+    "max_lat": 18.972727,
+    "min_lon": 72.832417,
+    "max_lon": 72.837105
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 35,
+    "road_length_m": 4778.93,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_40665617",
+      "osm_id": 40665617,
+      "name": "Olivant Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 95.14,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245657172,
+        493911796,
+        493911797
+      ],
+      "coordinates_3d": [
+        [
+          104.61,
+          5146.67,
+          17.6
+        ],
+        [
+          120.7,
+          5161.0,
+          15.47
+        ],
+        [
+          188.92,
+          5188.6,
+          14.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_40665618",
+      "osm_id": 40665618,
+      "name": "S B Dhody Marg (Nesbit Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 321.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3777263487,
+        2244632924,
+        245657289,
+        245657290,
+        2244632914,
+        11045715548,
+        11045730668,
+        2244632902,
+        245657233,
+        2244632901,
+        245657227,
+        6581428612,
+        10883705276
+      ],
+      "coordinates_3d": [
+        [
+          320.95,
+          5186.31,
+          12.27
+        ],
+        [
+          337.99,
+          5181.57,
+          12.33
+        ],
+        [
+          351.29,
+          5179.37,
+          13.1
+        ],
+        [
+          400.68,
+          5151.8,
+          15.11
+        ],
+        [
+          419.59,
+          5133.98,
+          15.07
+        ],
+        [
+          436.42,
+          5120.72,
+          14.23
+        ],
+        [
+          482.84,
+          5084.18,
+          14.39
+        ],
+        [
+          490.98,
+          5077.76,
+          14.18
+        ],
+        [
+          512.19,
+          5070.19,
+          14.24
+        ],
+        [
+          524.69,
+          5064.83,
+          15.03
+        ],
+        [
+          538.83,
+          5061.89,
+          15.89
+        ],
+        [
+          572.25,
+          5063.96,
+          16.57
+        ],
+        [
+          604.99,
+          5065.15,
+          16.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_48891223",
+      "osm_id": 48891223,
+      "name": "S B Dhody Marg (Nesbit Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 32.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482657,
+        13439444133,
+        620382510,
+        7370574854
+      ],
+      "coordinates_3d": [
+        [
+          39.75,
+          4997.58,
+          11.47
+        ],
+        [
+          47.58,
+          5000.81,
+          12.11
+        ],
+        [
+          53.52,
+          5007.85,
+          12.74
+        ],
+        [
+          59.78,
+          5020.76,
+          13.61
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_89198554",
+      "osm_id": 89198554,
+      "name": "A Patil Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 140.98,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304338,
+        10316090259,
+        10316090261,
+        1375482690,
+        1375482685,
+        10316090257,
+        1375482681,
+        10603309273
+      ],
+      "coordinates_3d": [
+        [
+          92.54,
+          5508.62,
+          13.03
+        ],
+        [
+          65.95,
+          5477.53,
+          16.11
+        ],
+        [
+          54.95,
+          5463.34,
+          16.99
+        ],
+        [
+          45.38,
+          5447.74,
+          17.49
+        ],
+        [
+          39.31,
+          5435.12,
+          17.56
+        ],
+        [
+          35.86,
+          5422.34,
+          17.35
+        ],
+        [
+          33.35,
+          5405.36,
+          16.62
+        ],
+        [
+          32.03,
+          5386.0,
+          15.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_123299204",
+      "osm_id": 123299204,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 226.31,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304326,
+        1375482669,
+        474700959,
+        1375482676,
+        1375482679,
+        1375482671,
+        474700960
+      ],
+      "coordinates_3d": [
+        [
+          16.84,
+          5285.78,
+          14.11
+        ],
+        [
+          5.69,
+          5324.93,
+          14.36
+        ],
+        [
+          -3.77,
+          5357.64,
+          15.55
+        ],
+        [
+          -7.58,
+          5377.04,
+          15.28
+        ],
+        [
+          -7.41,
+          5401.54,
+          15.41
+        ],
+        [
+          -4.15,
+          5423.55,
+          16.27
+        ],
+        [
+          18.37,
+          5505.54,
+          17.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_123299214",
+      "osm_id": 123299214,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 341.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657656,
+        6167841737,
+        1375482718,
+        7379857228,
+        1375482714,
+        1375482708,
+        1375482701,
+        1375482696,
+        1375482691,
+        1375482683,
+        1375482678,
+        1375482677,
+        1375482674
+      ],
+      "coordinates_3d": [
+        [
+          -29.99,
+          5680.57,
+          8.18
+        ],
+        [
+          -17.82,
+          5668.86,
+          8.14
+        ],
+        [
+          17.17,
+          5620.24,
+          9.0
+        ],
+        [
+          22.81,
+          5603.69,
+          8.6
+        ],
+        [
+          25.2,
+          5596.68,
+          8.43
+        ],
+        [
+          28.67,
+          5575.64,
+          8.17
+        ],
+        [
+          30.31,
+          5548.2,
+          8.84
+        ],
+        [
+          29.75,
+          5522.28,
+          10.67
+        ],
+        [
+          22.67,
+          5488.17,
+          13.64
+        ],
+        [
+          5.14,
+          5421.04,
+          10.87
+        ],
+        [
+          2.38,
+          5401.25,
+          10.43
+        ],
+        [
+          2.63,
+          5377.98,
+          10.22
+        ],
+        [
+          5.56,
+          5360.61,
+          10.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492438",
+      "osm_id": 216492438,
+      "name": "A Patil Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 234.3,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304326,
+        5848131197,
+        10316090255,
+        10316090256,
+        2258304333,
+        2258304334,
+        10316090258,
+        2258304335,
+        10316090270
+      ],
+      "coordinates_3d": [
+        [
+          16.84,
+          5285.78,
+          14.11
+        ],
+        [
+          16.73,
+          5341.64,
+          14.25
+        ],
+        [
+          18.28,
+          5387.56,
+          16.35
+        ],
+        [
+          18.51,
+          5401.08,
+          16.52
+        ],
+        [
+          20.23,
+          5416.35,
+          16.73
+        ],
+        [
+          25.68,
+          5435.75,
+          17.6
+        ],
+        [
+          33.66,
+          5454.19,
+          17.99
+        ],
+        [
+          48.67,
+          5475.99,
+          17.25
+        ],
+        [
+          73.07,
+          5503.66,
+          14.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477979",
+      "osm_id": 618477979,
+      "name": "A Patil Flyover",
+      "highway": "trunk_link",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 99.03,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1375482703,
+        12129053134,
+        12129053133,
+        10316090276,
+        1375482698,
+        10316090260,
+        2258304338
+      ],
+      "coordinates_3d": [
+        [
+          145.33,
+          5589.82,
+          14.4
+        ],
+        [
+          130.37,
+          5551.58,
+          11.62
+        ],
+        [
+          127.06,
+          5546.22,
+          11.19
+        ],
+        [
+          119.24,
+          5533.15,
+          11.25
+        ],
+        [
+          114.25,
+          5527.0,
+          11.62
+        ],
+        [
+          106.05,
+          5518.77,
+          12.17
+        ],
+        [
+          92.54,
+          5508.62,
+          13.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477994",
+      "osm_id": 618477994,
+      "name": "Dr Babasaheb Ambedkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 83.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5845797344,
+        5637109060
+      ],
+      "coordinates_3d": [
+        [
+          27.7,
+          5369.48,
+          9.64
+        ],
+        [
+          28.75,
+          5286.12,
+          6.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477998",
+      "osm_id": 618477998,
+      "name": "A Patil Flyover",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 25.61,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        5845797345,
+        2258304326
+      ],
+      "coordinates_3d": [
+        [
+          17.6,
+          5260.18,
+          14.96
+        ],
+        [
+          16.84,
+          5285.78,
+          14.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618478002",
+      "osm_id": 618478002,
+      "name": "Sir Jamshetji Jeejeebhoy Road",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 379.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304311,
+        620382319,
+        2258304312,
+        7365778303,
+        245656964,
+        2258304313,
+        2258304315,
+        2258304316,
+        2258304317,
+        620382701,
+        2258304318,
+        620382693
+      ],
+      "coordinates_3d": [
+        [
+          -32.19,
+          4622.85,
+          10.72
+        ],
+        [
+          -27.28,
+          4646.88,
+          10.1
+        ],
+        [
+          -26.2,
+          4651.42,
+          9.98
+        ],
+        [
+          -16.41,
+          4685.47,
+          9.16
+        ],
+        [
+          -6.51,
+          4719.84,
+          8.15
+        ],
+        [
+          6.83,
+          4768.74,
+          8.06
+        ],
+        [
+          16.54,
+          4805.79,
+          9.18
+        ],
+        [
+          23.88,
+          4869.92,
+          11.99
+        ],
+        [
+          27.28,
+          4937.85,
+          11.7
+        ],
+        [
+          27.48,
+          4954.34,
+          11.16
+        ],
+        [
+          28.42,
+          4985.89,
+          10.76
+        ],
+        [
+          28.04,
+          4995.49,
+          11.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788337315",
+      "osm_id": 788337315,
+      "name": "Unnamed Road",
+      "highway": "primary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:primary_link",
+      "length_m": 25.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7370574857,
+        7370574856,
+        7370574853,
+        7370574855,
+        7370574854
+      ],
+      "coordinates_3d": [
+        [
+          39.95,
+          5035.04,
+          13.65
+        ],
+        [
+          46.79,
+          5026.89,
+          13.25
+        ],
+        [
+          50.74,
+          5024.19,
+          13.26
+        ],
+        [
+          55.08,
+          5022.62,
+          13.42
+        ],
+        [
+          60.6,
+          5024.78,
+          13.86
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788337316",
+      "osm_id": 788337316,
+      "name": "Olivant Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 125.22,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1375482659,
+        493911802,
+        1375482664,
+        245657172
+      ],
+      "coordinates_3d": [
+        [
+          66.86,
+          5028.35,
+          19.82
+        ],
+        [
+          77.0,
+          5078.39,
+          21.87
+        ],
+        [
+          89.96,
+          5121.76,
+          20.66
+        ],
+        [
+          104.61,
+          5146.67,
+          17.6
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1053051875",
+      "osm_id": 1053051875,
+      "name": "Sir Jamshetji Jeejeebhoy Road",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 257.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5637109060,
+        6573788301,
+        2258304321,
+        7370574857
+      ],
+      "coordinates_3d": [
+        [
+          28.75,
+          5286.12,
+          6.56
+        ],
+        [
+          32.54,
+          5157.85,
+          18.79
+        ],
+        [
+          34.81,
+          5081.4,
+          18.21
+        ],
+        [
+          37.93,
+          5028.5,
+          12.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1053051876",
+      "osm_id": 1053051876,
+      "name": "S B Dhody Marg (Nesbit Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        620382693,
+        1375482657
+      ],
+      "coordinates_3d": [
+        [
+          28.04,
+          4995.49,
+          11.01
+        ],
+        [
+          39.75,
+          4997.58,
+          11.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137497524",
+      "osm_id": 1137497524,
+      "name": "A Patil Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 17.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10603309273,
+        5845797344
+      ],
+      "coordinates_3d": [
+        [
+          32.03,
+          5386.0,
+          10.29
+        ],
+        [
+          27.7,
+          5369.48,
+          9.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466410",
+      "osm_id": 1235466410,
+      "name": "Sir Jamshetji Jeejeebhoy Road",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 11.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482657,
+        2258304319
+      ],
+      "coordinates_3d": [
+        [
+          39.75,
+          4997.58,
+          11.47
+        ],
+        [
+          39.43,
+          4986.05,
+          11.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466421",
+      "osm_id": 1235466421,
+      "name": "Sir Jamshetji Jeejeebhoy Road",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 85.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        620382693,
+        495059134,
+        2258304323
+      ],
+      "coordinates_3d": [
+        [
+          28.04,
+          4995.49,
+          11.01
+        ],
+        [
+          26.08,
+          5027.39,
+          12.95
+        ],
+        [
+          22.91,
+          5081.06,
+          18.6
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237791684",
+      "osm_id": 1237791684,
+      "name": "S B Dhody Marg (Nesbit Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7370574854,
+        1375482659
+      ],
+      "coordinates_3d": [
+        [
+          59.78,
+          5020.76,
+          13.61
+        ],
+        [
+          66.86,
+          5028.35,
+          14.32
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237791685",
+      "osm_id": 1237791685,
+      "name": "Sir Jamshetji Jeejeebhoy Road",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 30.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7370574857,
+        1375482657
+      ],
+      "coordinates_3d": [
+        [
+          37.93,
+          5028.5,
+          12.97
+        ],
+        [
+          39.75,
+          4997.58,
+          11.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895021",
+      "osm_id": 1238895021,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 78.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482674,
+        5845797343,
+        5637109060
+      ],
+      "coordinates_3d": [
+        [
+          5.56,
+          5360.61,
+          10.09
+        ],
+        [
+          15.82,
+          5327.82,
+          7.9
+        ],
+        [
+          28.75,
+          5286.12,
+          6.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895025",
+      "osm_id": 1238895025,
+      "name": "N M Joshi Marg (Delisle Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        474700960,
+        1375482697
+      ],
+      "coordinates_3d": [
+        [
+          18.37,
+          5505.54,
+          12.47
+        ],
+        [
+          23.23,
+          5523.08,
+          10.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122782",
+      "osm_id": 1239122782,
+      "name": "A Patil Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 71.17,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        10316090270,
+        1375482695,
+        10316090273,
+        10316090275,
+        5637109058
+      ],
+      "coordinates_3d": [
+        [
+          73.07,
+          5503.66,
+          14.05
+        ],
+        [
+          84.73,
+          5517.16,
+          12.83
+        ],
+        [
+          91.01,
+          5524.7,
+          12.31
+        ],
+        [
+          105.86,
+          5544.96,
+          11.6
+        ],
+        [
+          115.38,
+          5560.71,
+          12.3
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241917375",
+      "osm_id": 1241917375,
+      "name": "A Patil Flyover",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 147.79,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12129053136,
+        5845797345
+      ],
+      "coordinates_3d": [
+        [
+          21.98,
+          5112.45,
+          23.97
+        ],
+        [
+          17.6,
+          5260.18,
+          14.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309028298",
+      "osm_id": 1309028298,
+      "name": "Olivant Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 132.26,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        493911797,
+        1375482666,
+        7365876059,
+        245657263,
+        3777263487
+      ],
+      "coordinates_3d": [
+        [
+          188.92,
+          5188.6,
+          14.8
+        ],
+        [
+          202.41,
+          5189.64,
+          15.52
+        ],
+        [
+          230.91,
+          5191.07,
+          16.9
+        ],
+        [
+          243.51,
+          5191.24,
+          17.47
+        ],
+        [
+          320.95,
+          5186.31,
+          17.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1310006665",
+      "osm_id": 1310006665,
+      "name": "A Patil Flyover",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 31.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304323,
+        12129053136
+      ],
+      "coordinates_3d": [
+        [
+          22.91,
+          5081.06,
+          18.6
+        ],
+        [
+          21.98,
+          5112.45,
+          18.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22851955",
+      "osm_id": 22851955,
+      "name": "Seth Moti Shah Road (Love Lane)",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 820.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657326,
+        2244632951,
+        245657407,
+        4366151606,
+        14002916110,
+        4366151597,
+        4366151594,
+        493911807,
+        8678653836,
+        2244632977,
+        14022061889,
+        14022061888,
+        245657476,
+        14022061891,
+        2244632980,
+        10939527447,
+        493911808,
+        6575755233,
+        493911809,
+        6575755231,
+        3777263491,
+        6575755230,
+        2244632996,
+        4366151377,
+        245657599,
+        14118660053,
+        6571805234,
+        1375482694
+      ],
+      "coordinates_3d": [
+        [
+          853.88,
+          5255.05,
+          17.61
+        ],
+        [
+          813.93,
+          5275.69,
+          16.52
+        ],
+        [
+          722.16,
+          5334.38,
+          14.16
+        ],
+        [
+          714.92,
+          5337.39,
+          14.05
+        ],
+        [
+          642.94,
+          5367.38,
+          15.58
+        ],
+        [
+          633.38,
+          5371.36,
+          16.35
+        ],
+        [
+          606.13,
+          5382.71,
+          21.26
+        ],
+        [
+          598.86,
+          5385.73,
+          22.88
+        ],
+        [
+          582.22,
+          5401.55,
+          24.37
+        ],
+        [
+          572.67,
+          5413.35,
+          22.84
+        ],
+        [
+          552.34,
+          5428.81,
+          20.63
+        ],
+        [
+          550.34,
+          5433.3,
+          19.92
+        ],
+        [
+          550.42,
+          5442.52,
+          18.52
+        ],
+        [
+          546.97,
+          5442.46,
+          18.42
+        ],
+        [
+          535.86,
+          5442.26,
+          18.58
+        ],
+        [
+          500.17,
+          5447.98,
+          18.56
+        ],
+        [
+          489.73,
+          5451.52,
+          17.56
+        ],
+        [
+          458.11,
+          5457.71,
+          15.73
+        ],
+        [
+          377.83,
+          5473.3,
+          14.44
+        ],
+        [
+          362.36,
+          5478.74,
+          15.04
+        ],
+        [
+          337.92,
+          5490.73,
+          14.62
+        ],
+        [
+          289.39,
+          5524.39,
+          12.19
+        ],
+        [
+          282.85,
+          5529.52,
+          11.77
+        ],
+        [
+          224.87,
+          5593.0,
+          10.31
+        ],
+        [
+          195.88,
+          5620.65,
+          10.51
+        ],
+        [
+          191.24,
+          5624.19,
+          10.27
+        ],
+        [
+          171.15,
+          5639.48,
+          8.42
+        ],
+        [
+          162.72,
+          5647.0,
+          8.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_48891306",
+      "osm_id": 48891306,
+      "name": "Haines Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 179.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657418,
+        6574282575,
+        494882469,
+        245657576,
+        1375482697
+      ],
+      "coordinates_3d": [
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ],
+        [
+          -16.1,
+          5383.38,
+          9.23
+        ],
+        [
+          -8.16,
+          5432.66,
+          11.47
+        ],
+        [
+          14.31,
+          5513.19,
+          11.97
+        ],
+        [
+          23.23,
+          5523.08,
+          10.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_123299180",
+      "osm_id": 123299180,
+      "name": "A Patil Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 470.33,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        3777263508,
+        12129053129,
+        12129053128,
+        5637109057,
+        2258304348,
+        5848131198,
+        2258304344,
+        1375482729,
+        2258304342,
+        12129053131,
+        12129053130,
+        1375482723,
+        12129053132,
+        1375482719,
+        1375482712,
+        12129053135,
+        2258304341,
+        2258304338
+      ],
+      "coordinates_3d": [
+        [
+          128.9,
+          5961.78,
+          14.41
+        ],
+        [
+          126.61,
+          5941.78,
+          13.23
+        ],
+        [
+          126.39,
+          5934.49,
+          13.1
+        ],
+        [
+          126.78,
+          5915.09,
+          12.91
+        ],
+        [
+          128.69,
+          5888.62,
+          14.39
+        ],
+        [
+          131.24,
+          5862.52,
+          15.39
+        ],
+        [
+          138.26,
+          5811.1,
+          14.8
+        ],
+        [
+          151.94,
+          5742.84,
+          16.79
+        ],
+        [
+          156.55,
+          5702.99,
+          14.08
+        ],
+        [
+          158.81,
+          5685.32,
+          13.66
+        ],
+        [
+          159.38,
+          5678.18,
+          13.62
+        ],
+        [
+          159.26,
+          5672.88,
+          13.59
+        ],
+        [
+          158.12,
+          5665.91,
+          13.56
+        ],
+        [
+          155.68,
+          5654.67,
+          13.55
+        ],
+        [
+          132.84,
+          5581.54,
+          13.87
+        ],
+        [
+          125.02,
+          5560.55,
+          12.39
+        ],
+        [
+          123.92,
+          5558.45,
+          12.21
+        ],
+        [
+          92.54,
+          5508.62,
+          13.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1128373756",
+      "osm_id": 1128373756,
+      "name": "A Patil Flyover",
+      "highway": "trunk_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:trunk_link",
+      "length_m": 139.11,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        10603309272,
+        10316090263,
+        10316090264,
+        10316090265,
+        10316090266,
+        10316090267,
+        10316090268,
+        10316090269,
+        10316090271,
+        10316090272,
+        10316090278,
+        10316090277,
+        10316090270
+      ],
+      "coordinates_3d": [
+        [
+          24.27,
+          5377.17,
+          15.68
+        ],
+        [
+          24.47,
+          5386.68,
+          16.1
+        ],
+        [
+          25.17,
+          5404.25,
+          16.56
+        ],
+        [
+          26.61,
+          5414.88,
+          16.87
+        ],
+        [
+          29.69,
+          5428.23,
+          17.36
+        ],
+        [
+          34.56,
+          5441.23,
+          17.68
+        ],
+        [
+          43.69,
+          5458.37,
+          17.55
+        ],
+        [
+          50.81,
+          5470.22,
+          17.15
+        ],
+        [
+          58.61,
+          5480.86,
+          16.52
+        ],
+        [
+          67.91,
+          5492.89,
+          15.17
+        ],
+        [
+          69.88,
+          5495.47,
+          14.85
+        ],
+        [
+          71.3,
+          5498.26,
+          14.56
+        ],
+        [
+          73.07,
+          5503.66,
+          14.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137497523",
+      "osm_id": 1137497523,
+      "name": "A Patil Flyover",
+      "highway": "trunk_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:trunk_link",
+      "length_m": 8.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5845797344,
+        10603309272
+      ],
+      "coordinates_3d": [
+        [
+          27.7,
+          5369.48,
+          9.64
+        ],
+        [
+          24.27,
+          5377.17,
+          10.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171228006",
+      "osm_id": 1171228006,
+      "name": "Mirza Ghalib Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657418,
+        10883734239
+      ],
+      "coordinates_3d": [
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ],
+        [
+          -24.12,
+          5339.65,
+          10.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895020",
+      "osm_id": 1238895020,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482674,
+        245657418
+      ],
+      "coordinates_3d": [
+        [
+          5.56,
+          5360.61,
+          10.09
+        ],
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122783",
+      "osm_id": 1239122783,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 23.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5845797344,
+        1375482674
+      ],
+      "coordinates_3d": [
+        [
+          27.7,
+          5369.48,
+          9.64
+        ],
+        [
+          5.56,
+          5360.61,
+          10.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788337317",
+      "osm_id": 788337317,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 66.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482659,
+        7370574851,
+        7370574852,
+        7370574858,
+        12557971223,
+        7370574859,
+        2258304319,
+        2258304318
+      ],
+      "coordinates_3d": [
+        [
+          66.86,
+          5028.35,
+          14.32
+        ],
+        [
+          66.27,
+          5019.94,
+          14.0
+        ],
+        [
+          63.67,
+          5010.2,
+          13.51
+        ],
+        [
+          57.27,
+          4995.54,
+          12.61
+        ],
+        [
+          53.82,
+          4991.94,
+          12.26
+        ],
+        [
+          48.06,
+          4988.77,
+          11.76
+        ],
+        [
+          39.43,
+          4986.05,
+          11.15
+        ],
+        [
+          28.42,
+          4985.89,
+          10.76
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

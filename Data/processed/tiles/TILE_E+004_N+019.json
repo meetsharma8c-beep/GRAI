@@ -1,0 +1,914 @@
+{
+  "tile_id": "TILE_E+004_N+019",
+  "bounds": {
+    "min_x": 2000.0,
+    "max_x": 2500.0,
+    "min_y": 9500.0,
+    "max_y": 10000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.009018,
+    "max_lat": 19.013589,
+    "min_lon": 72.850881,
+    "max_lon": 72.85557
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 18,
+    "road_length_m": 3265.19,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22848359",
+      "osm_id": 22848359,
+      "name": "Road No 26",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 16.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12901659999,
+        12901660000,
+        7374507918
+      ],
+      "coordinates_3d": [
+        [
+          2379.36,
+          9744.66,
+          0.05
+        ],
+        [
+          2372.34,
+          9746.43,
+          0.05
+        ],
+        [
+          2363.27,
+          9748.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788781168",
+      "osm_id": 788781168,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 718.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507910,
+        7374507911,
+        7374507912,
+        10254668927,
+        7374507914,
+        7374507915,
+        7374507913,
+        12082695044,
+        7374507916,
+        11046257712,
+        7374507917,
+        11046257708,
+        11046230003,
+        7374507918
+      ],
+      "coordinates_3d": [
+        [
+          2309.83,
+          9032.88,
+          0.05
+        ],
+        [
+          2312.65,
+          9098.05,
+          0.05
+        ],
+        [
+          2319.57,
+          9248.75,
+          0.05
+        ],
+        [
+          2328.77,
+          9427.73,
+          0.05
+        ],
+        [
+          2329.2,
+          9435.93,
+          0.05
+        ],
+        [
+          2331.68,
+          9465.33,
+          0.05
+        ],
+        [
+          2335.2,
+          9498.89,
+          0.05
+        ],
+        [
+          2336.83,
+          9524.96,
+          0.05
+        ],
+        [
+          2337.12,
+          9529.62,
+          0.05
+        ],
+        [
+          2339.35,
+          9551.87,
+          0.05
+        ],
+        [
+          2347.74,
+          9635.63,
+          0.05
+        ],
+        [
+          2348.26,
+          9639.41,
+          0.05
+        ],
+        [
+          2355.25,
+          9690.34,
+          0.05
+        ],
+        [
+          2363.27,
+          9748.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139181305",
+      "osm_id": 1139181305,
+      "name": "Road No 26",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 427.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13661562614,
+        13672357387,
+        1287692142,
+        6495040639,
+        6494965488,
+        6494965490,
+        14014134299,
+        245660296,
+        13658722645,
+        13658722651
+      ],
+      "coordinates_3d": [
+        [
+          2263.55,
+          9774.67,
+          0.05
+        ],
+        [
+          2168.59,
+          9799.63,
+          0.05
+        ],
+        [
+          2140.79,
+          9806.95,
+          0.05
+        ],
+        [
+          2090.32,
+          9821.18,
+          0.05
+        ],
+        [
+          2002.79,
+          9845.89,
+          0.05
+        ],
+        [
+          1944.32,
+          9865.76,
+          0.05
+        ],
+        [
+          1931.09,
+          9869.6,
+          0.05
+        ],
+        [
+          1904.73,
+          9877.23,
+          0.05
+        ],
+        [
+          1883.86,
+          9885.17,
+          0.05
+        ],
+        [
+          1853.53,
+          9895.31,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771379",
+      "osm_id": 1235771379,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 563.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12092977989,
+        7374507901,
+        7374507900,
+        7374507899,
+        7374507898,
+        12069488859,
+        7374507897,
+        7374507888
+      ],
+      "coordinates_3d": [
+        [
+          2370.72,
+          9594.27,
+          0.05
+        ],
+        [
+          2361.51,
+          9513.87,
+          0.05
+        ],
+        [
+          2359.53,
+          9496.53,
+          0.05
+        ],
+        [
+          2355.06,
+          9448.67,
+          0.05
+        ],
+        [
+          2343.61,
+          9273.74,
+          0.05
+        ],
+        [
+          2340.63,
+          9165.73,
+          0.05
+        ],
+        [
+          2338.54,
+          9089.59,
+          0.05
+        ],
+        [
+          2336.26,
+          9031.75,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1305685431",
+      "osm_id": 1305685431,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 150.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507903,
+        7374507902,
+        12092977989
+      ],
+      "coordinates_3d": [
+        [
+          2386.77,
+          9743.52,
+          0.05
+        ],
+        [
+          2377.64,
+          9654.64,
+          0.05
+        ],
+        [
+          2370.72,
+          9594.27,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1409160392",
+      "osm_id": 1409160392,
+      "name": "Road No 26",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 7.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507903,
+        12901659999
+      ],
+      "coordinates_3d": [
+        [
+          2386.77,
+          9743.52,
+          0.05
+        ],
+        [
+          2379.36,
+          9744.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1490565307",
+      "osm_id": 1490565307,
+      "name": "Road No 26",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 65.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507918,
+        13686888109,
+        13673305658,
+        13673305654,
+        13661562615
+      ],
+      "coordinates_3d": [
+        [
+          2363.27,
+          9748.71,
+          0.05
+        ],
+        [
+          2321.24,
+          9759.35,
+          0.05
+        ],
+        [
+          2317.99,
+          9760.17,
+          0.05
+        ],
+        [
+          2308.19,
+          9762.65,
+          0.05
+        ],
+        [
+          2299.87,
+          9764.76,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1490565308",
+      "osm_id": 1490565308,
+      "name": "Road No 26",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 38.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13661562615,
+        13661562617,
+        245660229,
+        13661562623,
+        13661562616,
+        13661562614
+      ],
+      "coordinates_3d": [
+        [
+          2299.87,
+          9764.76,
+          0.05
+        ],
+        [
+          2294.78,
+          9763.94,
+          0.05
+        ],
+        [
+          2285.91,
+          9766.6,
+          0.05
+        ],
+        [
+          2279.27,
+          9768.44,
+          0.05
+        ],
+        [
+          2267.39,
+          9771.73,
+          0.05
+        ],
+        [
+          2263.55,
+          9774.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22848379",
+      "osm_id": 22848379,
+      "name": "Tilak Road Extension",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6495203633,
+        245660369
+      ],
+      "coordinates_3d": [
+        [
+          2448.54,
+          9960.74,
+          0.05
+        ],
+        [
+          2441.58,
+          9964.9,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162912",
+      "osm_id": 1139162912,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 553.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507922,
+        7374459532,
+        11061379618,
+        13661870832,
+        7374459531,
+        13321682514,
+        13661870850,
+        13661870864,
+        13661870856,
+        7374459530,
+        9880815256,
+        7374459529,
+        13673715700,
+        13673716509,
+        7374459528,
+        13154734986,
+        7374459527
+      ],
+      "coordinates_3d": [
+        [
+          2850.62,
+          10341.4,
+          0.05
+        ],
+        [
+          2829.23,
+          10319.37,
+          0.05
+        ],
+        [
+          2778.22,
+          10279.58,
+          0.05
+        ],
+        [
+          2720.25,
+          10234.34,
+          0.05
+        ],
+        [
+          2715.15,
+          10230.35,
+          0.05
+        ],
+        [
+          2703.2,
+          10220.22,
+          0.05
+        ],
+        [
+          2698.32,
+          10216.17,
+          0.05
+        ],
+        [
+          2695.59,
+          10213.93,
+          0.05
+        ],
+        [
+          2680.81,
+          10201.24,
+          0.05
+        ],
+        [
+          2601.84,
+          10134.3,
+          0.05
+        ],
+        [
+          2585.99,
+          10119.05,
+          0.05
+        ],
+        [
+          2568.4,
+          10102.14,
+          0.05
+        ],
+        [
+          2549.48,
+          10077.43,
+          0.05
+        ],
+        [
+          2536.17,
+          10060.05,
+          0.05
+        ],
+        [
+          2494.05,
+          10005.04,
+          0.05
+        ],
+        [
+          2490.82,
+          10000.53,
+          0.05
+        ],
+        [
+          2458.82,
+          9955.96,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1190749636",
+      "osm_id": 1190749636,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 144.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12092977990,
+        7374507920,
+        7374459515,
+        7374459516
+      ],
+      "coordinates_3d": [
+        [
+          2382.25,
+          9834.46,
+          0.05
+        ],
+        [
+          2390.08,
+          9865.08,
+          0.05
+        ],
+        [
+          2400.9,
+          9894.71,
+          0.05
+        ],
+        [
+          2435.69,
+          9967.95,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895022",
+      "osm_id": 1238895022,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 225.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459527,
+        7374459526,
+        7374507904,
+        7374507903
+      ],
+      "coordinates_3d": [
+        [
+          2458.82,
+          9955.96,
+          0.05
+        ],
+        [
+          2429.38,
+          9889.87,
+          0.05
+        ],
+        [
+          2395.06,
+          9786.12,
+          0.05
+        ],
+        [
+          2386.77,
+          9743.52,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895023",
+      "osm_id": 1238895023,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 128.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459516,
+        7374459517
+      ],
+      "coordinates_3d": [
+        [
+          2435.69,
+          9967.95,
+          0.05
+        ],
+        [
+          2512.56,
+          10070.69,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1285069330",
+      "osm_id": 1285069330,
+      "name": "Tilak Road Extension",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459527,
+        6495203633
+      ],
+      "coordinates_3d": [
+        [
+          2458.82,
+          9955.96,
+          0.05
+        ],
+        [
+          2448.54,
+          9960.74,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1305685433",
+      "osm_id": 1305685433,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 87.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507918,
+        12901659995,
+        7374507919,
+        12092977990
+      ],
+      "coordinates_3d": [
+        [
+          2363.27,
+          9748.71,
+          0.05
+        ],
+        [
+          2365.66,
+          9760.76,
+          0.05
+        ],
+        [
+          2373.47,
+          9800.14,
+          0.05
+        ],
+        [
+          2382.25,
+          9834.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1409160391",
+      "osm_id": 1409160391,
+      "name": "Tilak Road Extension",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660369,
+        7374459516
+      ],
+      "coordinates_3d": [
+        [
+          2441.58,
+          9964.9,
+          0.05
+        ],
+        [
+          2435.69,
+          9967.95,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1490565315",
+      "osm_id": 1490565315,
+      "name": "Tilak Road Extension",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 78.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459516,
+        13661562636
+      ],
+      "coordinates_3d": [
+        [
+          2435.69,
+          9967.95,
+          0.05
+        ],
+        [
+          2368.63,
+          10008.18,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1490565316",
+      "osm_id": 1490565316,
+      "name": "Tilak Road Extension",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 34.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13661562635,
+        13661562637,
+        245660437,
+        13661562634,
+        13661562638,
+        13661562636
+      ],
+      "coordinates_3d": [
+        [
+          2340.69,
+          10026.06,
+          0.05
+        ],
+        [
+          2345.37,
+          10025.97,
+          0.05
+        ],
+        [
+          2354.6,
+          10020.13,
+          0.05
+        ],
+        [
+          2360.36,
+          10016.76,
+          0.05
+        ],
+        [
+          2366.37,
+          10012.88,
+          0.05
+        ],
+        [
+          2368.63,
+          10008.18,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

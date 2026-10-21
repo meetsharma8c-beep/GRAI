@@ -1,0 +1,1164 @@
+{
+  "tile_id": "TILE_E-004_N+008",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": 4000.0,
+    "max_y": 4500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.958902,
+    "max_lat": 18.963473,
+    "min_lon": 72.81355,
+    "max_lon": 72.818237
+  },
+  "statistics": {
+    "total_buildings": 1,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 1,
+    "total_roads": 20,
+    "road_length_m": 3171.36,
+    "confidence_score": 0.3
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_48755011",
+      "source_id": "osm_way_48755011",
+      "osm_id": 48755011,
+      "sub_index": 0,
+      "tags": {
+        "bench": "yes",
+        "building": "concourse",
+        "covered": "yes",
+        "departures_board": "realtime",
+        "name": "Platform 4",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4",
+        "train": "yes"
+      },
+      "area_sqm": 2338.16,
+      "perimeter_m": 539.43,
+      "local_centroid": [
+        -1713.6,
+        4475.65
+      ],
+      "geo_centroid": [
+        18.963143,
+        72.816167
+      ],
+      "local_polygon_vertices": [
+        [
+          -1747.81,
+          4408.43
+        ],
+        [
+          -1768.6,
+          4361.86
+        ],
+        [
+          -1756.94,
+          4362.14
+        ],
+        [
+          -1732.53,
+          4420.31
+        ],
+        [
+          -1683.41,
+          4535.91
+        ],
+        [
+          -1654.33,
+          4598.13
+        ],
+        [
+          -1661.92,
+          4601.32
+        ],
+        [
+          -1690.61,
+          4539.63
+        ],
+        [
+          -1741.24,
+          4424.94
+        ],
+        [
+          -1747.81,
+          4408.43
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9626187,
+          72.8158954
+        ],
+        [
+          18.9621958,
+          72.8157036
+        ],
+        [
+          18.9621996,
+          72.8158142
+        ],
+        [
+          18.9627277,
+          72.8160391
+        ],
+        [
+          18.9637772,
+          72.8164917
+        ],
+        [
+          18.9643424,
+          72.8167604
+        ],
+        [
+          18.9643703,
+          72.816688
+        ],
+        [
+          18.96381,
+          72.8164229
+        ],
+        [
+          18.9627686,
+          72.8159558
+        ],
+        [
+          18.9626187,
+          72.8158954
+        ]
+      ],
+      "elevation_msl": 6.07,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_concourse"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_22853664",
+      "osm_id": 22853664,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 565.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4513730348,
+        4513730336,
+        4513730337,
+        7384371668,
+        13908820757,
+        13908820773,
+        460941612,
+        13901790649,
+        4513730338,
+        4513730339,
+        4513730340,
+        12587073962,
+        4513730341,
+        619218094,
+        4513730342,
+        2244783879,
+        619219529,
+        13905111286,
+        13905111285,
+        460957533,
+        4361515207,
+        618691479,
+        460957539,
+        245656502,
+        11527702434,
+        2178293626
+      ],
+      "coordinates_3d": [
+        [
+          -1967.44,
+          4870.62,
+          6.21
+        ],
+        [
+          -1967.85,
+          4862.57,
+          6.46
+        ],
+        [
+          -1982.62,
+          4840.07,
+          7.34
+        ],
+        [
+          -2000.47,
+          4822.55,
+          8.9
+        ],
+        [
+          -2004.3,
+          4818.67,
+          9.05
+        ],
+        [
+          -2015.59,
+          4807.24,
+          9.13
+        ],
+        [
+          -2025.69,
+          4797.03,
+          9.03
+        ],
+        [
+          -2028.03,
+          4793.03,
+          8.96
+        ],
+        [
+          -2034.49,
+          4782.02,
+          8.65
+        ],
+        [
+          -2043.37,
+          4749.73,
+          8.11
+        ],
+        [
+          -2049.17,
+          4721.44,
+          8.56
+        ],
+        [
+          -2050.38,
+          4714.62,
+          8.61
+        ],
+        [
+          -2054.46,
+          4675.24,
+          8.46
+        ],
+        [
+          -2053.77,
+          4651.95,
+          9.94
+        ],
+        [
+          -2049.88,
+          4634.18,
+          12.09
+        ],
+        [
+          -2026.69,
+          4590.73,
+          18.5
+        ],
+        [
+          -2020.73,
+          4577.95,
+          19.08
+        ],
+        [
+          -2004.11,
+          4536.19,
+          14.19
+        ],
+        [
+          -2000.39,
+          4518.68,
+          12.77
+        ],
+        [
+          -1996.97,
+          4507.13,
+          11.37
+        ],
+        [
+          -1993.06,
+          4484.9,
+          8.86
+        ],
+        [
+          -1992.46,
+          4480.45,
+          8.72
+        ],
+        [
+          -1989.55,
+          4456.44,
+          7.84
+        ],
+        [
+          -1990.78,
+          4391.11,
+          6.1
+        ],
+        [
+          -1991.62,
+          4372.18,
+          6.06
+        ],
+        [
+          -1993.99,
+          4344.66,
+          6.41
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_47977746",
+      "osm_id": 47977746,
+      "name": "A Irani Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 188.96,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        356178487,
+        12121961990,
+        2442514347,
+        610251008,
+        13905421972,
+        245656091
+      ],
+      "coordinates_3d": [
+        [
+          -1864.7,
+          3956.22,
+          16.06
+        ],
+        [
+          -1869.7,
+          3975.33,
+          15.1
+        ],
+        [
+          -1873.73,
+          3987.17,
+          14.32
+        ],
+        [
+          -1880.96,
+          4003.35,
+          13.7
+        ],
+        [
+          -1903.73,
+          4063.0,
+          14.54
+        ],
+        [
+          -1937.45,
+          4130.14,
+          14.26
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207568660",
+      "osm_id": 207568660,
+      "name": "Frere Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 95.3,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2178293623,
+        2178293621
+      ],
+      "coordinates_3d": [
+        [
+          -1822.67,
+          4338.07,
+          14.24
+        ],
+        [
+          -1727.45,
+          4334.25,
+          16.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207568661",
+      "osm_id": 207568661,
+      "name": "J Shankarsheth Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 134.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442514350,
+        2178293598,
+        9909489521,
+        4266875862,
+        10755619266,
+        2178293601
+      ],
+      "coordinates_3d": [
+        [
+          -1957.73,
+          4171.19,
+          10.13
+        ],
+        [
+          -1974.58,
+          4205.87,
+          14.53
+        ],
+        [
+          -2001.93,
+          4253.92,
+          11.12
+        ],
+        [
+          -2006.4,
+          4262.0,
+          10.04
+        ],
+        [
+          -2014.92,
+          4276.65,
+          7.98
+        ],
+        [
+          -2025.46,
+          4286.75,
+          7.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207568662",
+      "osm_id": 207568662,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 186.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293618,
+        2178293630,
+        2178293631,
+        4361515210,
+        13905111287,
+        2178293636,
+        12293752579,
+        4513497813,
+        2178293638,
+        13905111284,
+        2244783860
+      ],
+      "coordinates_3d": [
+        [
+          -2004.6,
+          4348.03,
+          7.06
+        ],
+        [
+          -1999.46,
+          4377.0,
+          6.16
+        ],
+        [
+          -1997.74,
+          4391.75,
+          6.29
+        ],
+        [
+          -1997.67,
+          4396.51,
+          6.34
+        ],
+        [
+          -1998.23,
+          4434.19,
+          6.95
+        ],
+        [
+          -1998.44,
+          4456.6,
+          7.91
+        ],
+        [
+          -2001.53,
+          4484.26,
+          8.84
+        ],
+        [
+          -2002.65,
+          4491.05,
+          9.09
+        ],
+        [
+          -2005.42,
+          4504.24,
+          10.7
+        ],
+        [
+          -2008.82,
+          4515.72,
+          11.9
+        ],
+        [
+          -2013.55,
+          4532.38,
+          13.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207568666",
+      "osm_id": 207568666,
+      "name": "Frere Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 136.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293621,
+        4266875872,
+        10885739620
+      ],
+      "coordinates_3d": [
+        [
+          -1727.45,
+          4334.25,
+          10.9
+        ],
+        [
+          -1594.48,
+          4328.93,
+          8.65
+        ],
+        [
+          -1591.04,
+          4328.84,
+          8.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207568667",
+      "osm_id": 207568667,
+      "name": "Frere Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 160.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293627,
+        2178293624,
+        2178293623
+      ],
+      "coordinates_3d": [
+        [
+          -1982.74,
+          4343.59,
+          6.05
+        ],
+        [
+          -1964.25,
+          4343.6,
+          6.05
+        ],
+        [
+          -1822.67,
+          4338.07,
+          8.74
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138190220",
+      "osm_id": 1138190220,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 218.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656387,
+        11025363672,
+        10917512137,
+        245656627
+      ],
+      "coordinates_3d": [
+        [
+          -1574.74,
+          4334.03,
+          6.59
+        ],
+        [
+          -1525.22,
+          4459.0,
+          8.7
+        ],
+        [
+          -1497.07,
+          4529.59,
+          8.22
+        ],
+        [
+          -1494.26,
+          4536.81,
+          7.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171486342",
+      "osm_id": 1171486342,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 521.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9201447745,
+        13905421977,
+        10885739633,
+        10885739632,
+        10885739631,
+        13905111288,
+        5279592373,
+        5279599068,
+        5279599554,
+        10885739630,
+        10885739629,
+        10277863433
+      ],
+      "coordinates_3d": [
+        [
+          -1572.81,
+          4324.06,
+          7.06
+        ],
+        [
+          -1579.96,
+          4299.97,
+          9.1
+        ],
+        [
+          -1595.59,
+          4221.14,
+          10.95
+        ],
+        [
+          -1602.43,
+          4170.65,
+          10.76
+        ],
+        [
+          -1604.49,
+          4133.75,
+          13.97
+        ],
+        [
+          -1602.45,
+          4108.03,
+          13.98
+        ],
+        [
+          -1600.09,
+          4078.29,
+          11.8
+        ],
+        [
+          -1598.27,
+          4041.54,
+          10.38
+        ],
+        [
+          -1597.47,
+          4031.13,
+          9.9
+        ],
+        [
+          -1602.37,
+          4008.92,
+          8.73
+        ],
+        [
+          -1626.76,
+          3941.62,
+          9.01
+        ],
+        [
+          -1669.41,
+          3818.23,
+          12.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171487717",
+      "osm_id": 1171487717,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 251.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885774562,
+        10885774561,
+        10885774560,
+        9201447745
+      ],
+      "coordinates_3d": [
+        [
+          -1321.39,
+          4320.92,
+          12.91
+        ],
+        [
+          -1458.38,
+          4325.36,
+          8.07
+        ],
+        [
+          -1473.23,
+          4325.31,
+          7.69
+        ],
+        [
+          -1572.81,
+          4324.06,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243875",
+      "osm_id": 1174243875,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 536.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655758,
+        2244783764,
+        471972441,
+        10885739636,
+        10885739635,
+        10885739637,
+        245656123,
+        13905111289,
+        245656169,
+        13821217651,
+        11050458385,
+        3743631916,
+        5279597925,
+        13905421978,
+        10885739622
+      ],
+      "coordinates_3d": [
+        [
+          -1683.44,
+          3798.56,
+          13.37
+        ],
+        [
+          -1668.45,
+          3844.27,
+          12.78
+        ],
+        [
+          -1633.22,
+          3944.22,
+          8.62
+        ],
+        [
+          -1609.39,
+          4011.41,
+          8.7
+        ],
+        [
+          -1606.44,
+          4024.44,
+          9.27
+        ],
+        [
+          -1604.47,
+          4041.11,
+          10.26
+        ],
+        [
+          -1607.12,
+          4077.73,
+          11.78
+        ],
+        [
+          -1609.02,
+          4107.69,
+          14.1
+        ],
+        [
+          -1610.91,
+          4134.65,
+          13.89
+        ],
+        [
+          -1608.48,
+          4171.4,
+          10.16
+        ],
+        [
+          -1608.36,
+          4182.97,
+          9.43
+        ],
+        [
+          -1601.23,
+          4222.24,
+          10.79
+        ],
+        [
+          -1594.58,
+          4264.94,
+          10.75
+        ],
+        [
+          -1587.04,
+          4305.13,
+          9.09
+        ],
+        [
+          -1583.43,
+          4319.29,
+          8.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573823",
+      "osm_id": 1237573823,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 37.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7384691416,
+        13539744632,
+        2178293618
+      ],
+      "coordinates_3d": [
+        [
+          -2035.39,
+          4326.16,
+          8.94
+        ],
+        [
+          -2015.83,
+          4339.79,
+          8.53
+        ],
+        [
+          -2004.6,
+          4348.03,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573830",
+      "osm_id": 1237573830,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 50.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293626,
+        2178293610,
+        2442519133
+      ],
+      "coordinates_3d": [
+        [
+          -1993.99,
+          4344.66,
+          6.41
+        ],
+        [
+          -2011.24,
+          4326.78,
+          7.62
+        ],
+        [
+          -2027.16,
+          4307.22,
+          6.95
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573831",
+      "osm_id": 1237573831,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293618,
+        2178293626
+      ],
+      "coordinates_3d": [
+        [
+          -2004.6,
+          4348.03,
+          7.06
+        ],
+        [
+          -1993.99,
+          4344.66,
+          6.41
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1308998010",
+      "osm_id": 1308998010,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2178293626,
+        2178293627
+      ],
+      "coordinates_3d": [
+        [
+          -1993.99,
+          4344.66,
+          6.41
+        ],
+        [
+          -1982.74,
+          4343.59,
+          6.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309007507",
+      "osm_id": 1309007507,
+      "name": "A Irani Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 45.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656091,
+        2442514350
+      ],
+      "coordinates_3d": [
+        [
+          -1937.45,
+          4130.14,
+          8.76
+        ],
+        [
+          -1957.73,
+          4171.19,
+          10.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1472155720",
+      "osm_id": 1472155720,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 1.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739620,
+        13508229965
+      ],
+      "coordinates_3d": [
+        [
+          -1591.04,
+          4328.84,
+          8.33
+        ],
+        [
+          -1589.11,
+          4328.93,
+          8.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1563399781",
+      "osm_id": 1563399781,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13508229962,
+        245656387
+      ],
+      "coordinates_3d": [
+        [
+          -1581.04,
+          4325.61,
+          7.56
+        ],
+        [
+          -1574.74,
+          4334.03,
+          6.59
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1563399782",
+      "osm_id": 1563399782,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 1.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13508229965,
+        13508229960
+      ],
+      "coordinates_3d": [
+        [
+          -1589.11,
+          4328.93,
+          8.14
+        ],
+        [
+          -1587.37,
+          4329.01,
+          7.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1563399784",
+      "osm_id": 1563399784,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739622,
+        13508229962
+      ],
+      "coordinates_3d": [
+        [
+          -1583.43,
+          4319.29,
+          8.13
+        ],
+        [
+          -1581.04,
+          4325.61,
+          7.56
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

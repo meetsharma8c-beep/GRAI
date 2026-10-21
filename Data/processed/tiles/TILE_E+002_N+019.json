@@ -1,0 +1,1011 @@
+{
+  "tile_id": "TILE_E+002_N+019",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 9500.0,
+    "max_y": 10000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.008908,
+    "max_lat": 19.013479,
+    "min_lon": 72.841386,
+    "max_lon": 72.846075
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 17,
+    "road_length_m": 4700.83,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_100841113",
+      "osm_id": 100841113,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 244.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179273129,
+        245660324,
+        10768460327,
+        245660183,
+        2258304455
+      ],
+      "coordinates_3d": [
+        [
+          1306.61,
+          9930.5,
+          0.05
+        ],
+        [
+          1285.57,
+          9898.05,
+          0.05
+        ],
+        [
+          1244.74,
+          9835.07,
+          0.05
+        ],
+        [
+          1178.68,
+          9741.84,
+          0.05
+        ],
+        [
+          1169.53,
+          9727.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161600",
+      "osm_id": 102161600,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 234.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304456,
+        245660237,
+        13658822221,
+        1179273102
+      ],
+      "coordinates_3d": [
+        [
+          1167.13,
+          9741.8,
+          0.05
+        ],
+        [
+          1231.31,
+          9841.21,
+          0.05
+        ],
+        [
+          1243.38,
+          9859.97,
+          0.05
+        ],
+        [
+          1294.34,
+          9939.14,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102172139",
+      "osm_id": 102172139,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 371.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179221113,
+        2258304449,
+        12566268246,
+        1179221116,
+        1179221118,
+        2258304446,
+        1179221121,
+        5921458181,
+        1179221127,
+        6576064125,
+        1179221131,
+        13664207499,
+        1179221134,
+        8667921107,
+        2258304438
+      ],
+      "coordinates_3d": [
+        [
+          1131.64,
+          9655.58,
+          0.05
+        ],
+        [
+          1109.46,
+          9621.37,
+          0.05
+        ],
+        [
+          1076.7,
+          9567.7,
+          0.05
+        ],
+        [
+          1071.78,
+          9559.63,
+          0.05
+        ],
+        [
+          1067.55,
+          9552.24,
+          0.05
+        ],
+        [
+          1046.48,
+          9517.63,
+          0.05
+        ],
+        [
+          1045.34,
+          9514.77,
+          0.05
+        ],
+        [
+          1032.28,
+          9485.02,
+          0.05
+        ],
+        [
+          1028.19,
+          9475.72,
+          0.05
+        ],
+        [
+          1021.92,
+          9459.35,
+          0.05
+        ],
+        [
+          1011.75,
+          9432.78,
+          0.05
+        ],
+        [
+          1006.98,
+          9419.06,
+          0.05
+        ],
+        [
+          995.2,
+          9385.25,
+          0.05
+        ],
+        [
+          982.2,
+          9343.84,
+          0.05
+        ],
+        [
+          971.87,
+          9322.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477973",
+      "osm_id": 618477973,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 466.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304441,
+        11068361024,
+        1179088434,
+        11068364951,
+        1165399625,
+        6552759583,
+        2258304444,
+        11068367225,
+        587965971,
+        5921458180,
+        13664207493,
+        10282040378,
+        245660038,
+        2258304447,
+        2258304448,
+        245660069,
+        2258304450,
+        245660115,
+        13664270642,
+        1179273120,
+        2258304454,
+        2258304456
+      ],
+      "coordinates_3d": [
+        [
+          950.55,
+          9335.07,
+          0.05
+        ],
+        [
+          956.03,
+          9346.97,
+          0.05
+        ],
+        [
+          958.82,
+          9352.83,
+          0.05
+        ],
+        [
+          964.91,
+          9372.24,
+          0.05
+        ],
+        [
+          971.44,
+          9393.02,
+          0.05
+        ],
+        [
+          981.48,
+          9421.56,
+          0.05
+        ],
+        [
+          988.23,
+          9441.27,
+          0.05
+        ],
+        [
+          991.65,
+          9450.2,
+          0.05
+        ],
+        [
+          1005.02,
+          9485.09,
+          0.05
+        ],
+        [
+          1008.99,
+          9494.18,
+          0.05
+        ],
+        [
+          1010.72,
+          9498.24,
+          0.05
+        ],
+        [
+          1021.85,
+          9523.72,
+          0.05
+        ],
+        [
+          1022.79,
+          9525.87,
+          0.05
+        ],
+        [
+          1024.13,
+          9528.88,
+          0.05
+        ],
+        [
+          1045.17,
+          9564.11,
+          0.05
+        ],
+        [
+          1050.27,
+          9571.0,
+          0.05
+        ],
+        [
+          1088.24,
+          9634.53,
+          0.05
+        ],
+        [
+          1111.2,
+          9670.05,
+          0.05
+        ],
+        [
+          1114.96,
+          9676.13,
+          0.05
+        ],
+        [
+          1129.58,
+          9699.78,
+          0.05
+        ],
+        [
+          1154.42,
+          9736.01,
+          0.05
+        ],
+        [
+          1167.13,
+          9741.8,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139101844",
+      "osm_id": 1139101844,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 83.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304455,
+        2258304451,
+        1179221111,
+        1179221113
+      ],
+      "coordinates_3d": [
+        [
+          1169.53,
+          9727.94,
+          0.05
+        ],
+        [
+          1167.45,
+          9710.54,
+          0.05
+        ],
+        [
+          1151.08,
+          9685.16,
+          0.05
+        ],
+        [
+          1131.64,
+          9655.58,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235802713",
+      "osm_id": 1235802713,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 243.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179261850,
+        13658809284,
+        13658795066,
+        1179261854,
+        1179273129
+      ],
+      "coordinates_3d": [
+        [
+          1446.58,
+          10129.81,
+          0.05
+        ],
+        [
+          1430.53,
+          10105.85,
+          0.05
+        ],
+        [
+          1387.48,
+          10041.64,
+          0.05
+        ],
+        [
+          1336.13,
+          9965.06,
+          0.05
+        ],
+        [
+          1306.61,
+          9930.5,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235802717",
+      "osm_id": 1235802717,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 249.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179273102,
+        1179088437,
+        587976171,
+        1287692114,
+        1287692256,
+        587976199
+      ],
+      "coordinates_3d": [
+        [
+          1294.34,
+          9939.14,
+          0.05
+        ],
+        [
+          1315.31,
+          9978.11,
+          0.05
+        ],
+        [
+          1331.54,
+          10003.32,
+          0.05
+        ],
+        [
+          1349.81,
+          10031.75,
+          0.05
+        ],
+        [
+          1364.31,
+          10054.11,
+          0.05
+        ],
+        [
+          1429.0,
+          10149.54,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550519039",
+      "osm_id": 1550519039,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 38.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179273129,
+        245660324
+      ],
+      "coordinates_3d": [
+        [
+          1306.61,
+          9930.5,
+          0.05
+        ],
+        [
+          1285.57,
+          9898.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550519040",
+      "osm_id": 1550519040,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 16.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660183,
+        2258304455
+      ],
+      "coordinates_3d": [
+        [
+          1178.68,
+          9741.84,
+          0.05
+        ],
+        [
+          1169.53,
+          9727.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102170847",
+      "osm_id": 102170847,
+      "name": "Hindmata Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 420.87,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304443,
+        1179215860,
+        1179215867,
+        1179215865,
+        1179217474,
+        1179217475,
+        1179217476,
+        1179217477,
+        2258304453
+      ],
+      "coordinates_3d": [
+        [
+          966.21,
+          9350.2,
+          5.55
+        ],
+        [
+          979.52,
+          9390.38,
+          5.55
+        ],
+        [
+          996.23,
+          9438.38,
+          5.55
+        ],
+        [
+          1012.9,
+          9481.9,
+          5.55
+        ],
+        [
+          1031.73,
+          9525.06,
+          5.55
+        ],
+        [
+          1055.73,
+          9566.03,
+          5.55
+        ],
+        [
+          1095.45,
+          9630.05,
+          5.55
+        ],
+        [
+          1136.74,
+          9695.2,
+          5.55
+        ],
+        [
+          1155.53,
+          9723.62,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102171414",
+      "osm_id": 102171414,
+      "name": "Hindmata Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 417.44,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304452,
+        1179217491,
+        1179217492,
+        1179217493,
+        1179217494,
+        1179217495,
+        1179217496,
+        1179217497,
+        2258304442
+      ],
+      "coordinates_3d": [
+        [
+          1162.16,
+          9717.19,
+          5.55
+        ],
+        [
+          1144.32,
+          9690.36,
+          5.55
+        ],
+        [
+          1103.1,
+          9625.31,
+          5.55
+        ],
+        [
+          1063.45,
+          9561.43,
+          5.55
+        ],
+        [
+          1039.77,
+          9521.0,
+          5.55
+        ],
+        [
+          1021.24,
+          9478.53,
+          5.55
+        ],
+        [
+          1004.69,
+          9435.32,
+          5.55
+        ],
+        [
+          988.07,
+          9387.58,
+          5.55
+        ],
+        [
+          975.19,
+          9346.54,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102172129",
+      "osm_id": 102172129,
+      "name": "Hindmata Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 13.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304455,
+        2258304452
+      ],
+      "coordinates_3d": [
+        [
+          1169.53,
+          9727.94,
+          0.05
+        ],
+        [
+          1162.16,
+          9717.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102176163",
+      "osm_id": 102176163,
+      "name": "Dadar TT flyover",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 895.32,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304459,
+        1179253625,
+        1179253626,
+        1179253629,
+        5921458192,
+        1179253631,
+        1179253634,
+        1179253638,
+        1179253643,
+        1179253651,
+        1179253647
+      ],
+      "coordinates_3d": [
+        [
+          1321.76,
+          9974.08,
+          5.55
+        ],
+        [
+          1392.23,
+          10081.52,
+          5.55
+        ],
+        [
+          1439.51,
+          10150.1,
+          5.55
+        ],
+        [
+          1475.51,
+          10199.79,
+          5.55
+        ],
+        [
+          1490.57,
+          10221.69,
+          5.55
+        ],
+        [
+          1515.68,
+          10258.21,
+          5.55
+        ],
+        [
+          1555.09,
+          10309.39,
+          5.55
+        ],
+        [
+          1656.23,
+          10441.69,
+          5.55
+        ],
+        [
+          1734.54,
+          10551.3,
+          5.55
+        ],
+        [
+          1787.92,
+          10627.22,
+          5.55
+        ],
+        [
+          1842.68,
+          10701.93,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102177465",
+      "osm_id": 102177465,
+      "name": "Dadar TT flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 893.86,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1179261811,
+        12127441649,
+        1179261813,
+        1179261818,
+        1179261820,
+        1179261823,
+        1179261824,
+        1179261825,
+        1179261826,
+        1179261828,
+        2258304458
+      ],
+      "coordinates_3d": [
+        [
+          1849.53,
+          10695.71,
+          5.55
+        ],
+        [
+          1823.15,
+          10660.29,
+          5.55
+        ],
+        [
+          1794.85,
+          10622.3,
+          5.55
+        ],
+        [
+          1741.49,
+          10546.43,
+          5.55
+        ],
+        [
+          1663.09,
+          10436.69,
+          5.55
+        ],
+        [
+          1561.85,
+          10304.26,
+          5.55
+        ],
+        [
+          1522.58,
+          10253.25,
+          5.55
+        ],
+        [
+          1482.47,
+          10194.93,
+          5.55
+        ],
+        [
+          1446.47,
+          10145.24,
+          5.55
+        ],
+        [
+          1399.3,
+          10076.83,
+          5.55
+        ],
+        [
+          1328.88,
+          9969.47,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492417",
+      "osm_id": 216492417,
+      "name": "Hindmata Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 21.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304453,
+        12127489755,
+        2258304456
+      ],
+      "coordinates_3d": [
+        [
+          1155.53,
+          9723.62,
+          0.05
+        ],
+        [
+          1159.45,
+          9729.77,
+          0.05
+        ],
+        [
+          1167.13,
+          9741.8,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492422",
+      "osm_id": 216492422,
+      "name": "Jaganath Shankur Seth (Dadar TT) Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 44.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304458,
+        12127441650,
+        1179273129
+      ],
+      "coordinates_3d": [
+        [
+          1328.88,
+          9969.47,
+          0.05
+        ],
+        [
+          1323.89,
+          9960.74,
+          0.05
+        ],
+        [
+          1306.61,
+          9930.5,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492423",
+      "osm_id": 216492423,
+      "name": "Jaganath Shankur Seth (Dadar TT) Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 44.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179273102,
+        2258304459
+      ],
+      "coordinates_3d": [
+        [
+          1294.34,
+          9939.14,
+          0.05
+        ],
+        [
+          1321.76,
+          9974.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

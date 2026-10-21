@@ -1,0 +1,1181 @@
+{
+  "tile_id": "TILE_E-003_N+009",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 4500.0,
+    "max_y": 5000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.963473,
+    "max_lat": 18.968045,
+    "min_lon": 72.818237,
+    "max_lon": 72.822924
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 27,
+    "road_length_m": 2818.3,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22853107",
+      "osm_id": 22853107,
+      "name": "Balram Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 278.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656408,
+        13904788477,
+        245656520,
+        245656576,
+        11025371439,
+        245656651,
+        11025371435,
+        13904788480,
+        561165513
+      ],
+      "coordinates_3d": [
+        [
+          -1321.39,
+          4327.84,
+          12.28
+        ],
+        [
+          -1321.99,
+          4392.77,
+          11.03
+        ],
+        [
+          -1322.66,
+          4434.59,
+          10.34
+        ],
+        [
+          -1320.44,
+          4466.84,
+          8.95
+        ],
+        [
+          -1317.68,
+          4491.7,
+          7.81
+        ],
+        [
+          -1313.25,
+          4531.62,
+          7.66
+        ],
+        [
+          -1305.15,
+          4567.56,
+          8.05
+        ],
+        [
+          -1299.58,
+          4585.29,
+          7.48
+        ],
+        [
+          -1293.75,
+          4603.56,
+          7.07
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_40701023",
+      "osm_id": 40701023,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494358456,
+        561165512,
+        494358473,
+        10885757450,
+        10885825807,
+        561165513
+      ],
+      "coordinates_3d": [
+        [
+          -1278.77,
+          4609.76,
+          8.08
+        ],
+        [
+          -1281.74,
+          4606.64,
+          8.05
+        ],
+        [
+          -1285.48,
+          4604.49,
+          7.87
+        ],
+        [
+          -1286.74,
+          4604.09,
+          7.75
+        ],
+        [
+          -1289.63,
+          4603.17,
+          7.48
+        ],
+        [
+          -1293.75,
+          4603.56,
+          7.07
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123862522",
+      "osm_id": 1123862522,
+      "name": "Unnamed Road",
+      "highway": "secondary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:secondary_link",
+      "length_m": 66.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277829350,
+        10277829355
+      ],
+      "coordinates_3d": [
+        [
+          -1386.6,
+          4785.67,
+          6.92
+        ],
+        [
+          -1370.06,
+          4721.41,
+          9.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138190220",
+      "osm_id": 1138190220,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 218.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656387,
+        11025363672,
+        10917512137,
+        245656627
+      ],
+      "coordinates_3d": [
+        [
+          -1574.74,
+          4334.03,
+          6.59
+        ],
+        [
+          -1525.22,
+          4459.0,
+          8.7
+        ],
+        [
+          -1497.07,
+          4529.59,
+          8.22
+        ],
+        [
+          -1494.26,
+          4536.81,
+          7.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171493520",
+      "osm_id": 1171493520,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 244.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804881,
+        10885804888,
+        11025452285,
+        11025452283,
+        10885804889,
+        11025452281,
+        10885804887,
+        10885804890,
+        10885804891,
+        10885804886
+      ],
+      "coordinates_3d": [
+        [
+          -788.62,
+          4807.35,
+          6.4
+        ],
+        [
+          -792.25,
+          4803.69,
+          6.04
+        ],
+        [
+          -837.35,
+          4786.85,
+          5.08
+        ],
+        [
+          -867.87,
+          4775.46,
+          5.91
+        ],
+        [
+          -887.05,
+          4769.53,
+          6.31
+        ],
+        [
+          -894.37,
+          4766.89,
+          6.37
+        ],
+        [
+          -919.6,
+          4757.79,
+          6.09
+        ],
+        [
+          -928.11,
+          4754.59,
+          6.05
+        ],
+        [
+          -952.64,
+          4745.33,
+          5.3
+        ],
+        [
+          -1017.26,
+          4720.98,
+          6.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171493521",
+      "osm_id": 1171493521,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 48.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804884,
+        10885804880
+      ],
+      "coordinates_3d": [
+        [
+          -1231.24,
+          4639.62,
+          10.26
+        ],
+        [
+          -1277.06,
+          4623.66,
+          8.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171493523",
+      "osm_id": 1171493523,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 81.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804885,
+        13720258136,
+        10885804893,
+        10885804884
+      ],
+      "coordinates_3d": [
+        [
+          -1154.61,
+          4668.73,
+          16.78
+        ],
+        [
+          -1166.86,
+          4664.07,
+          16.74
+        ],
+        [
+          -1205.51,
+          4649.39,
+          11.92
+        ],
+        [
+          -1231.24,
+          4639.62,
+          10.26
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174930385",
+      "osm_id": 1174930385,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 219.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13906012110,
+        13508229958,
+        9181888357,
+        14046168604,
+        245656815,
+        10885775500
+      ],
+      "coordinates_3d": [
+        [
+          -1490.32,
+          4546.23,
+          7.12
+        ],
+        [
+          -1488.17,
+          4553.05,
+          7.12
+        ],
+        [
+          -1474.86,
+          4597.92,
+          7.99
+        ],
+        [
+          -1456.06,
+          4651.35,
+          9.74
+        ],
+        [
+          -1442.36,
+          4690.29,
+          7.28
+        ],
+        [
+          -1413.65,
+          4751.72,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188615735",
+      "osm_id": 1188615735,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 21.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494838735,
+        245656863
+      ],
+      "coordinates_3d": [
+        [
+          -1039.54,
+          4717.7,
+          6.82
+        ],
+        [
+          -1019.71,
+          4724.67,
+          6.08
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236032549",
+      "osm_id": 1236032549,
+      "name": "Dr Anand Rao Nair Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 338.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4294951462,
+        4294951457,
+        7383826091,
+        4294951456,
+        14000086086,
+        10277829350
+      ],
+      "coordinates_3d": [
+        [
+          -1225.83,
+          5083.66,
+          5.13
+        ],
+        [
+          -1265.67,
+          5009.72,
+          5.51
+        ],
+        [
+          -1284.34,
+          4974.43,
+          4.88
+        ],
+        [
+          -1328.01,
+          4888.48,
+          1.98
+        ],
+        [
+          -1364.56,
+          4823.18,
+          6.77
+        ],
+        [
+          -1386.6,
+          4785.67,
+          6.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236032560",
+      "osm_id": 1236032560,
+      "name": "Dr Anand Rao Nair Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 368.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656894,
+        494838734,
+        619251971,
+        12069225873,
+        619248355,
+        13999310703,
+        245657186
+      ],
+      "coordinates_3d": [
+        [
+          -1407.35,
+          4759.02,
+          5.07
+        ],
+        [
+          -1398.08,
+          4780.75,
+          6.41
+        ],
+        [
+          -1342.51,
+          4884.43,
+          2.31
+        ],
+        [
+          -1338.26,
+          4893.15,
+          2.05
+        ],
+        [
+          -1273.4,
+          5014.22,
+          5.43
+        ],
+        [
+          -1266.52,
+          5025.69,
+          5.58
+        ],
+        [
+          -1235.69,
+          5085.01,
+          4.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239092988",
+      "osm_id": 1239092988,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        561165516,
+        494358479,
+        494358481,
+        561165518,
+        10885775496,
+        494358464
+      ],
+      "coordinates_3d": [
+        [
+          -1305.38,
+          4614.3,
+          5.82
+        ],
+        [
+          -1305.9,
+          4619.26,
+          5.76
+        ],
+        [
+          -1304.75,
+          4624.11,
+          5.87
+        ],
+        [
+          -1302.03,
+          4628.31,
+          6.14
+        ],
+        [
+          -1298.07,
+          4631.38,
+          6.54
+        ],
+        [
+          -1293.3,
+          4632.98,
+          7.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239092989",
+      "osm_id": 1239092989,
+      "name": "Patthe Bapurao Marg (Falkland Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 117.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277829355,
+        7411177806,
+        13720464104,
+        13904788483,
+        619265641,
+        494358464
+      ],
+      "coordinates_3d": [
+        [
+          -1370.06,
+          4721.41,
+          9.54
+        ],
+        [
+          -1358.06,
+          4707.75,
+          10.81
+        ],
+        [
+          -1326.95,
+          4674.29,
+          10.02
+        ],
+        [
+          -1310.29,
+          4655.5,
+          8.44
+        ],
+        [
+          -1307.05,
+          4651.87,
+          8.19
+        ],
+        [
+          -1293.3,
+          4632.98,
+          7.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239131945",
+      "osm_id": 1239131945,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494358449,
+        10885804883,
+        10885804880
+      ],
+      "coordinates_3d": [
+        [
+          -1280.58,
+          4629.15,
+          8.13
+        ],
+        [
+          -1278.49,
+          4626.72,
+          8.17
+        ],
+        [
+          -1277.06,
+          4623.66,
+          8.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239131949",
+      "osm_id": 1239131949,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494358464,
+        494358483,
+        561165523,
+        494358449
+      ],
+      "coordinates_3d": [
+        [
+          -1293.3,
+          4632.98,
+          7.03
+        ],
+        [
+          -1288.26,
+          4632.91,
+          7.55
+        ],
+        [
+          -1283.53,
+          4631.17,
+          8.03
+        ],
+        [
+          -1280.58,
+          4629.15,
+          8.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240710731",
+      "osm_id": 1240710731,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494358477,
+        6167532229,
+        561165516
+      ],
+      "coordinates_3d": [
+        [
+          -1301.17,
+          4607.43,
+          6.26
+        ],
+        [
+          -1303.76,
+          4610.58,
+          5.99
+        ],
+        [
+          -1305.38,
+          4614.3,
+          5.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240710732",
+      "osm_id": 1240710732,
+      "name": "Rusi Mehta Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804880,
+        561165526,
+        494358493,
+        494358456
+      ],
+      "coordinates_3d": [
+        [
+          -1277.06,
+          4623.66,
+          8.18
+        ],
+        [
+          -1276.06,
+          4618.92,
+          8.17
+        ],
+        [
+          -1276.66,
+          4614.12,
+          8.12
+        ],
+        [
+          -1278.77,
+          4609.76,
+          8.08
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240758488",
+      "osm_id": 1240758488,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 118.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494358449,
+        1651496430,
+        6925978257,
+        13720258116
+      ],
+      "coordinates_3d": [
+        [
+          -1280.58,
+          4629.15,
+          8.13
+        ],
+        [
+          -1233.67,
+          4644.78,
+          11.6
+        ],
+        [
+          -1207.83,
+          4654.08,
+          13.17
+        ],
+        [
+          -1168.3,
+          4668.51,
+          17.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1341982350",
+      "osm_id": 1341982350,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 121.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4294951451,
+        13371098132,
+        494838735
+      ],
+      "coordinates_3d": [
+        [
+          -1153.28,
+          4673.99,
+          17.79
+        ],
+        [
+          -1142.93,
+          4677.97,
+          17.17
+        ],
+        [
+          -1039.54,
+          4717.7,
+          6.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1341982352",
+      "osm_id": 1341982352,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 117.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12414199683,
+        13352599414,
+        10885804885
+      ],
+      "coordinates_3d": [
+        [
+          -1044.8,
+          4710.5,
+          6.99
+        ],
+        [
+          -1141.42,
+          4673.73,
+          16.19
+        ],
+        [
+          -1154.61,
+          4668.73,
+          16.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1341982353",
+      "osm_id": 1341982353,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 246.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656863,
+        7404692489,
+        7404692492,
+        7404692494,
+        10885804882,
+        10885804881
+      ],
+      "coordinates_3d": [
+        [
+          -1019.71,
+          4724.67,
+          6.08
+        ],
+        [
+          -954.69,
+          4749.6,
+          5.23
+        ],
+        [
+          -926.52,
+          4760.56,
+          6.08
+        ],
+        [
+          -886.41,
+          4775.72,
+          6.4
+        ],
+        [
+          -794.52,
+          4808.41,
+          6.5
+        ],
+        [
+          -788.62,
+          4807.35,
+          6.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1341982355",
+      "osm_id": 1341982355,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 22.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804886,
+        10885804892
+      ],
+      "coordinates_3d": [
+        [
+          -1017.26,
+          4720.98,
+          6.11
+        ],
+        [
+          -1037.83,
+          4713.15,
+          6.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1341982357",
+      "osm_id": 1341982357,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 7.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885804892,
+        12414199683
+      ],
+      "coordinates_3d": [
+        [
+          -1037.83,
+          4713.15,
+          6.83
+        ],
+        [
+          -1044.8,
+          4710.5,
+          6.99
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1498141540",
+      "osm_id": 1498141540,
+      "name": "R S Nimkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13720258116,
+        4294951451
+      ],
+      "coordinates_3d": [
+        [
+          -1168.3,
+          4668.51,
+          17.83
+        ],
+        [
+          -1153.28,
+          4673.99,
+          17.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1525641018",
+      "osm_id": 1525641018,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656627,
+        13906012110
+      ],
+      "coordinates_3d": [
+        [
+          -1494.26,
+          4536.81,
+          7.83
+        ],
+        [
+          -1490.32,
+          4546.23,
+          7.12
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1561022496",
+      "osm_id": 1561022496,
+      "name": "Balram Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 59.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885757450,
+        14203494734,
+        14203494733,
+        13904788480,
+        561165513
+      ],
+      "coordinates_3d": [
+        [
+          -1286.74,
+          4604.09,
+          7.75
+        ],
+        [
+          -1291.35,
+          4583.08,
+          7.83
+        ],
+        [
+          -1298.76,
+          4576.49,
+          7.94
+        ],
+        [
+          -1299.58,
+          4585.29,
+          7.48
+        ],
+        [
+          -1293.75,
+          4603.56,
+          7.07
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1563753947",
+      "osm_id": 1563753947,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885775500,
+        245656894
+      ],
+      "coordinates_3d": [
+        [
+          -1413.65,
+          4751.72,
+          5.05
+        ],
+        [
+          -1407.35,
+          4759.02,
+          5.07
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

@@ -1,0 +1,1345 @@
+{
+  "tile_id": "TILE_E+003_N+021",
+  "bounds": {
+    "min_x": 1500.0,
+    "max_x": 2000.0,
+    "min_y": 10500.0,
+    "max_y": 11000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.017994,
+    "max_lat": 19.022565,
+    "min_lon": 72.846017,
+    "max_lon": 72.850706
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 25,
+    "road_length_m": 6691.02,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22848363",
+      "osm_id": 22848363,
+      "name": "Khodadad Circle",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 31.25,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163592452,
+        536726918,
+        536726923,
+        5576202384,
+        6072268838
+      ],
+      "coordinates_3d": [
+        [
+          1727.53,
+          10491.78,
+          0.05
+        ],
+        [
+          1729.91,
+          10484.34,
+          0.05
+        ],
+        [
+          1730.9,
+          10476.59,
+          0.05
+        ],
+        [
+          1730.47,
+          10468.78,
+          0.05
+        ],
+        [
+          1728.64,
+          10461.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22848583",
+      "osm_id": 22848583,
+      "name": "Tilak Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 77.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660832,
+        2163592457,
+        245660846
+      ],
+      "coordinates_3d": [
+        [
+          1647.89,
+          10493.29,
+          0.05
+        ],
+        [
+          1632.85,
+          10511.08,
+          0.05
+        ],
+        [
+          1588.6,
+          10542.58,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102177717",
+      "osm_id": 102177717,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 275.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179257896,
+        1179257897,
+        7371919120,
+        1179261806,
+        7374036800,
+        1179261838,
+        7371919118,
+        13390581178,
+        1179261840,
+        13386465168,
+        1179269798,
+        2163592452
+      ],
+      "coordinates_3d": [
+        [
+          1870.44,
+          10721.69,
+          0.05
+        ],
+        [
+          1865.72,
+          10701.1,
+          0.05
+        ],
+        [
+          1816.44,
+          10635.62,
+          0.05
+        ],
+        [
+          1810.96,
+          10627.93,
+          0.05
+        ],
+        [
+          1798.47,
+          10610.88,
+          0.05
+        ],
+        [
+          1754.19,
+          10550.07,
+          0.05
+        ],
+        [
+          1743.25,
+          10534.96,
+          0.05
+        ],
+        [
+          1738.14,
+          10527.61,
+          0.05
+        ],
+        [
+          1730.34,
+          10516.36,
+          0.05
+        ],
+        [
+          1728.09,
+          10513.15,
+          0.05
+        ],
+        [
+          1726.54,
+          10506.67,
+          0.05
+        ],
+        [
+          1727.53,
+          10491.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102178070",
+      "osm_id": 102178070,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 282.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        536726910,
+        1179269830,
+        13386425882,
+        245660848,
+        2446156196,
+        2446156202,
+        2446156206,
+        1179088376,
+        2446156210,
+        12127441646,
+        245661107
+      ],
+      "coordinates_3d": [
+        [
+          1687.3,
+          10518.32,
+          0.05
+        ],
+        [
+          1702.61,
+          10525.85,
+          0.05
+        ],
+        [
+          1707.01,
+          10528.85,
+          0.05
+        ],
+        [
+          1709.7,
+          10531.34,
+          0.05
+        ],
+        [
+          1739.81,
+          10573.33,
+          0.05
+        ],
+        [
+          1775.25,
+          10622.74,
+          0.05
+        ],
+        [
+          1810.49,
+          10671.87,
+          0.05
+        ],
+        [
+          1832.76,
+          10702.91,
+          0.05
+        ],
+        [
+          1846.29,
+          10721.36,
+          0.05
+        ],
+        [
+          1851.67,
+          10728.16,
+          0.05
+        ],
+        [
+          1865.24,
+          10731.5,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206352343",
+      "osm_id": 206352343,
+      "name": "Tilak Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 242.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163592469,
+        2163592463,
+        2163592461,
+        8867307206,
+        536726906
+      ],
+      "coordinates_3d": [
+        [
+          1460.14,
+          10641.55,
+          0.05
+        ],
+        [
+          1594.66,
+          10548.72,
+          0.05
+        ],
+        [
+          1637.81,
+          10518.95,
+          0.05
+        ],
+        [
+          1653.62,
+          10513.69,
+          0.05
+        ],
+        [
+          1662.67,
+          10510.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139790",
+      "osm_id": 618139790,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 47.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179089888,
+        12127441647,
+        1179257896
+      ],
+      "coordinates_3d": [
+        [
+          1900.03,
+          10759.28,
+          0.05
+        ],
+        [
+          1885.81,
+          10741.21,
+          0.05
+        ],
+        [
+          1870.44,
+          10721.69,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139791",
+      "osm_id": 618139791,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 201.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179088379,
+        7371795863,
+        245661186,
+        7371795861,
+        245661262,
+        12836819141
+      ],
+      "coordinates_3d": [
+        [
+          1889.71,
+          10764.19,
+          0.05
+        ],
+        [
+          1894.75,
+          10785.38,
+          0.05
+        ],
+        [
+          1900.63,
+          10798.21,
+          0.05
+        ],
+        [
+          1922.09,
+          10826.29,
+          0.05
+        ],
+        [
+          1990.24,
+          10915.87,
+          0.05
+        ],
+        [
+          2000.29,
+          10930.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139792",
+      "osm_id": 618139792,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 40.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661107,
+        12127441648,
+        1179088379
+      ],
+      "coordinates_3d": [
+        [
+          1865.24,
+          10731.5,
+          0.05
+        ],
+        [
+          1877.71,
+          10748.16,
+          0.05
+        ],
+        [
+          1889.71,
+          10764.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139105218",
+      "osm_id": 1139105218,
+      "name": "Tilak Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 162.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660846,
+        1233329720
+      ],
+      "coordinates_3d": [
+        [
+          1588.6,
+          10542.58,
+          0.05
+        ],
+        [
+          1456.58,
+          10636.57,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139114149",
+      "osm_id": 1139114149,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 200.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12836819142,
+        13670926249,
+        1179090905,
+        12127489754,
+        1179090901,
+        1179089888
+      ],
+      "coordinates_3d": [
+        [
+          2027.11,
+          10913.93,
+          0.05
+        ],
+        [
+          2018.48,
+          10902.21,
+          0.05
+        ],
+        [
+          2016.29,
+          10899.23,
+          0.05
+        ],
+        [
+          1978.62,
+          10849.98,
+          0.05
+        ],
+        [
+          1926.16,
+          10781.37,
+          0.05
+        ],
+        [
+          1900.03,
+          10759.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235213730",
+      "osm_id": 1235213730,
+      "name": "Khodadad Circle",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 33.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179269788,
+        2163592446,
+        536726953,
+        245660832
+      ],
+      "coordinates_3d": [
+        [
+          1646.25,
+          10460.79,
+          0.05
+        ],
+        [
+          1643.96,
+          10471.65,
+          0.05
+        ],
+        [
+          1644.52,
+          10482.73,
+          0.05
+        ],
+        [
+          1647.89,
+          10493.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235236199",
+      "osm_id": 1235236199,
+      "name": "Khodadad Circle",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 50.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        536726910,
+        2163592459,
+        2163592455,
+        5637109052,
+        2163592452
+      ],
+      "coordinates_3d": [
+        [
+          1687.3,
+          10518.32,
+          0.05
+        ],
+        [
+          1699.92,
+          10516.48,
+          0.05
+        ],
+        [
+          1711.46,
+          10511.1,
+          0.05
+        ],
+        [
+          1720.93,
+          10502.63,
+          0.05
+        ],
+        [
+          1727.53,
+          10491.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235236200",
+      "osm_id": 1235236200,
+      "name": "Khodadad Circle",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 26.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        536726906,
+        5637109051,
+        536726910
+      ],
+      "coordinates_3d": [
+        [
+          1662.67,
+          10510.68,
+          0.05
+        ],
+        [
+          1674.41,
+          10516.35,
+          0.05
+        ],
+        [
+          1687.3,
+          10518.32,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235236201",
+      "osm_id": 1235236201,
+      "name": "Khodadad Circle",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 23.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660832,
+        2163592453,
+        536726906
+      ],
+      "coordinates_3d": [
+        [
+          1647.89,
+          10493.29,
+          0.05
+        ],
+        [
+          1654.11,
+          10502.97,
+          0.05
+        ],
+        [
+          1662.67,
+          10510.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1386585584",
+      "osm_id": 1386585584,
+      "name": "Dr Babasaheb Ambedkar Marg (Vincent Road)",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 30.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12836819141,
+        13658722680,
+        245661288
+      ],
+      "coordinates_3d": [
+        [
+          2000.29,
+          10930.46,
+          0.05
+        ],
+        [
+          2013.55,
+          10948.9,
+          0.05
+        ],
+        [
+          2018.31,
+          10955.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161599",
+      "osm_id": 102161599,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1405.93,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1179088417,
+        1179088418,
+        8853925261,
+        2258304468,
+        1179088419,
+        1179088420,
+        1179088422,
+        1179088423,
+        2258304474,
+        2258304476,
+        2258304478,
+        1179088425,
+        1179088426,
+        1179088427,
+        1179088428,
+        2258304491
+      ],
+      "coordinates_3d": [
+        [
+          1909.45,
+          10793.06,
+          5.55
+        ],
+        [
+          1992.42,
+          10902.48,
+          5.55
+        ],
+        [
+          2029.1,
+          10953.42,
+          5.55
+        ],
+        [
+          2066.04,
+          11003.21,
+          5.55
+        ],
+        [
+          2117.94,
+          11068.26,
+          5.55
+        ],
+        [
+          2165.88,
+          11125.15,
+          5.55
+        ],
+        [
+          2235.2,
+          11205.3,
+          5.55
+        ],
+        [
+          2328.63,
+          11304.36,
+          5.55
+        ],
+        [
+          2386.75,
+          11365.41,
+          5.55
+        ],
+        [
+          2473.65,
+          11456.19,
+          5.55
+        ],
+        [
+          2567.78,
+          11557.04,
+          5.55
+        ],
+        [
+          2650.54,
+          11646.61,
+          5.55
+        ],
+        [
+          2695.53,
+          11714.21,
+          5.55
+        ],
+        [
+          2725.66,
+          11768.66,
+          5.55
+        ],
+        [
+          2759.06,
+          11851.73,
+          5.55
+        ],
+        [
+          2774.19,
+          11890.12,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102176163",
+      "osm_id": 102176163,
+      "name": "Dadar TT flyover",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 895.32,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304459,
+        1179253625,
+        1179253626,
+        1179253629,
+        5921458192,
+        1179253631,
+        1179253634,
+        1179253638,
+        1179253643,
+        1179253651,
+        1179253647
+      ],
+      "coordinates_3d": [
+        [
+          1321.76,
+          9974.08,
+          5.55
+        ],
+        [
+          1392.23,
+          10081.52,
+          5.55
+        ],
+        [
+          1439.51,
+          10150.1,
+          5.55
+        ],
+        [
+          1475.51,
+          10199.79,
+          5.55
+        ],
+        [
+          1490.57,
+          10221.69,
+          5.55
+        ],
+        [
+          1515.68,
+          10258.21,
+          5.55
+        ],
+        [
+          1555.09,
+          10309.39,
+          5.55
+        ],
+        [
+          1656.23,
+          10441.69,
+          5.55
+        ],
+        [
+          1734.54,
+          10551.3,
+          5.55
+        ],
+        [
+          1787.92,
+          10627.22,
+          5.55
+        ],
+        [
+          1842.68,
+          10701.93,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102177465",
+      "osm_id": 102177465,
+      "name": "Dadar TT flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 893.86,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1179261811,
+        12127441649,
+        1179261813,
+        1179261818,
+        1179261820,
+        1179261823,
+        1179261824,
+        1179261825,
+        1179261826,
+        1179261828,
+        2258304458
+      ],
+      "coordinates_3d": [
+        [
+          1849.53,
+          10695.71,
+          5.55
+        ],
+        [
+          1823.15,
+          10660.29,
+          5.55
+        ],
+        [
+          1794.85,
+          10622.3,
+          5.55
+        ],
+        [
+          1741.49,
+          10546.43,
+          5.55
+        ],
+        [
+          1663.09,
+          10436.69,
+          5.55
+        ],
+        [
+          1561.85,
+          10304.26,
+          5.55
+        ],
+        [
+          1522.58,
+          10253.25,
+          5.55
+        ],
+        [
+          1482.47,
+          10194.93,
+          5.55
+        ],
+        [
+          1446.47,
+          10145.24,
+          5.55
+        ],
+        [
+          1399.3,
+          10076.83,
+          5.55
+        ],
+        [
+          1328.88,
+          9969.47,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102177908",
+      "osm_id": 102177908,
+      "name": "Jaganath Shankur Seth (Dadar TT) Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 37.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179253647,
+        245661107
+      ],
+      "coordinates_3d": [
+        [
+          1842.68,
+          10701.93,
+          0.05
+        ],
+        [
+          1865.24,
+          10731.5,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492415",
+      "osm_id": 216492415,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 32.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179089890,
+        1179089888
+      ],
+      "coordinates_3d": [
+        [
+          1918.0,
+          10786.54,
+          0.05
+        ],
+        [
+          1900.03,
+          10759.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492419",
+      "osm_id": 216492419,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 34.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179088379,
+        1179088417
+      ],
+      "coordinates_3d": [
+        [
+          1889.71,
+          10764.19,
+          0.05
+        ],
+        [
+          1909.45,
+          10793.06,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139789",
+      "osm_id": 618139789,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1131.99,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304484,
+        1179089909,
+        2258304477,
+        2258304475,
+        2258304472,
+        1179089903,
+        1179089901,
+        1179089899,
+        1179089896,
+        2258304466,
+        1179089894,
+        1179089890
+      ],
+      "coordinates_3d": [
+        [
+          2657.75,
+          11641.91,
+          5.55
+        ],
+        [
+          2639.04,
+          11621.73,
+          5.55
+        ],
+        [
+          2573.07,
+          11548.23,
+          5.55
+        ],
+        [
+          2482.4,
+          11448.02,
+          5.55
+        ],
+        [
+          2395.46,
+          11357.2,
+          5.55
+        ],
+        [
+          2337.31,
+          11296.11,
+          5.55
+        ],
+        [
+          2246.37,
+          11198.52,
+          5.55
+        ],
+        [
+          2173.95,
+          11116.38,
+          5.55
+        ],
+        [
+          2127.12,
+          11060.57,
+          5.55
+        ],
+        [
+          2076.92,
+          10997.77,
+          5.55
+        ],
+        [
+          2001.52,
+          10895.43,
+          5.55
+        ],
+        [
+          1918.0,
+          10786.54,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139793",
+      "osm_id": 618139793,
+      "name": "Jaganath Shankur Seth (Dadar TT) Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 33.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179257896,
+        1179261811
+      ],
+      "coordinates_3d": [
+        [
+          1870.44,
+          10721.69,
+          0.05
+        ],
+        [
+          1849.53,
+          10695.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_686608756",
+      "osm_id": 686608756,
+      "name": "Mancherji Joshi Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 264.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6435703225,
+        245660822,
+        13659168088,
+        13659168091,
+        13659168078,
+        13659168094,
+        245660945,
+        13659168100,
+        13659211303,
+        13659211316
+      ],
+      "coordinates_3d": [
+        [
+          1843.17,
+          10451.37,
+          0.05
+        ],
+        [
+          1956.61,
+          10510.76,
+          0.05
+        ],
+        [
+          1974.68,
+          10520.73,
+          0.05
+        ],
+        [
+          1991.68,
+          10530.1,
+          0.05
+        ],
+        [
+          2001.39,
+          10535.45,
+          0.05
+        ],
+        [
+          2012.9,
+          10541.8,
+          0.05
+        ],
+        [
+          2024.32,
+          10548.09,
+          0.05
+        ],
+        [
+          2034.07,
+          10553.89,
+          0.05
+        ],
+        [
+          2055.91,
+          10566.89,
+          0.05
+        ],
+        [
+          2075.07,
+          10577.65,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1249027314",
+      "osm_id": 1249027314,
+      "name": "Khareghat Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 235.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13659211313,
+        13659211310,
+        13659211307,
+        536785095,
+        245661060,
+        12127441647
+      ],
+      "coordinates_3d": [
+        [
+          2075.89,
+          10602.83,
+          0.05
+        ],
+        [
+          2061.64,
+          10613.33,
+          0.05
+        ],
+        [
+          2052.09,
+          10620.28,
+          0.05
+        ],
+        [
+          2017.91,
+          10645.14,
+          0.05
+        ],
+        [
+          1982.4,
+          10670.99,
+          0.05
+        ],
+        [
+          1885.81,
+          10741.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

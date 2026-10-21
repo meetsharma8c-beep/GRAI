@@ -1,0 +1,1169 @@
+{
+  "tile_id": "TILE_E+005_N+023",
+  "bounds": {
+    "min_x": 2500.0,
+    "max_x": 3000.0,
+    "min_y": 11500.0,
+    "max_y": 12000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.027136,
+    "max_lat": 19.031707,
+    "min_lon": 72.855396,
+    "max_lon": 72.860086
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 21,
+    "road_length_m": 6146.4,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_102161596",
+      "osm_id": 102161596,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 276.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1650694545,
+        1650694548,
+        1650694550,
+        13667015069,
+        11029951266,
+        245661921,
+        296338218,
+        245661974,
+        245662037
+      ],
+      "coordinates_3d": [
+        [
+          2517.26,
+          11531.46,
+          0.05
+        ],
+        [
+          2530.99,
+          11532.03,
+          0.05
+        ],
+        [
+          2544.93,
+          11543.08,
+          0.05
+        ],
+        [
+          2554.21,
+          11553.36,
+          0.05
+        ],
+        [
+          2592.65,
+          11595.99,
+          0.05
+        ],
+        [
+          2609.55,
+          11614.73,
+          0.05
+        ],
+        [
+          2644.97,
+          11653.62,
+          0.05
+        ],
+        [
+          2686.91,
+          11717.62,
+          0.05
+        ],
+        [
+          2696.58,
+          11734.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138170",
+      "osm_id": 618138170,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 233.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9903536150,
+        1179090920,
+        2258304486,
+        5637109049,
+        1650738244
+      ],
+      "coordinates_3d": [
+        [
+          2769.97,
+          11822.03,
+          0.05
+        ],
+        [
+          2736.46,
+          11745.69,
+          0.05
+        ],
+        [
+          2726.06,
+          11721.83,
+          0.05
+        ],
+        [
+          2711.3,
+          11695.88,
+          0.05
+        ],
+        [
+          2659.69,
+          11616.89,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138171",
+      "osm_id": 618138171,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 132.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304504,
+        13991977861,
+        1179314492
+      ],
+      "coordinates_3d": [
+        [
+          2864.14,
+          12054.31,
+          0.05
+        ],
+        [
+          2853.81,
+          12027.61,
+          0.05
+        ],
+        [
+          2816.23,
+          11930.42,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138173",
+      "osm_id": 618138173,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 132.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179314485,
+        2258304500,
+        6494367463,
+        13667094562,
+        13667094555,
+        2258304506
+      ],
+      "coordinates_3d": [
+        [
+          2785.09,
+          11942.31,
+          0.05
+        ],
+        [
+          2812.28,
+          12006.81,
+          0.05
+        ],
+        [
+          2820.5,
+          12027.72,
+          0.05
+        ],
+        [
+          2821.72,
+          12031.91,
+          0.05
+        ],
+        [
+          2834.38,
+          12060.37,
+          0.05
+        ],
+        [
+          2836.18,
+          12064.6,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139112224",
+      "osm_id": 1139112224,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 116.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        536808590,
+        5792168772,
+        1179314485
+      ],
+      "coordinates_3d": [
+        [
+          2742.87,
+          11833.29,
+          0.05
+        ],
+        [
+          2766.61,
+          11893.07,
+          0.05
+        ],
+        [
+          2785.09,
+          11942.31,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235473854",
+      "osm_id": 1235473854,
+      "name": "King's Circle",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 67.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1650694545,
+        245661909,
+        245661891,
+        1179104909,
+        1650694511
+      ],
+      "coordinates_3d": [
+        [
+          2517.26,
+          11531.46,
+          0.05
+        ],
+        [
+          2532.69,
+          11524.85,
+          0.05
+        ],
+        [
+          2545.84,
+          11514.46,
+          0.05
+        ],
+        [
+          2555.81,
+          11501.02,
+          0.05
+        ],
+        [
+          2561.9,
+          11485.45,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569523",
+      "osm_id": 1235569523,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 169.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1650738244,
+        2258304482,
+        2258304479,
+        12770325612,
+        1650694521,
+        1650694512,
+        1650694511
+      ],
+      "coordinates_3d": [
+        [
+          2659.69,
+          11616.89,
+          0.05
+        ],
+        [
+          2619.61,
+          11576.9,
+          0.05
+        ],
+        [
+          2615.74,
+          11572.6,
+          0.05
+        ],
+        [
+          2574.08,
+          11526.05,
+          0.05
+        ],
+        [
+          2565.86,
+          11516.87,
+          0.05
+        ],
+        [
+          2561.93,
+          11501.54,
+          0.05
+        ],
+        [
+          2561.9,
+          11485.45,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766587",
+      "osm_id": 1235766587,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 117.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179314492,
+        1179090925,
+        12294664513,
+        9903536150
+      ],
+      "coordinates_3d": [
+        [
+          2816.23,
+          11930.42,
+          0.05
+        ],
+        [
+          2796.34,
+          11878.71,
+          0.05
+        ],
+        [
+          2785.19,
+          11851.4,
+          0.05
+        ],
+        [
+          2769.97,
+          11822.03,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766592",
+      "osm_id": 1235766592,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 109.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662037,
+        5637109050,
+        536808590
+      ],
+      "coordinates_3d": [
+        [
+          2696.58,
+          11734.44,
+          0.05
+        ],
+        [
+          2717.62,
+          11773.79,
+          0.05
+        ],
+        [
+          2742.87,
+          11833.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1245773002",
+      "osm_id": 1245773002,
+      "name": "King's Circle",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 33.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661908,
+        1373812084,
+        1650694545
+      ],
+      "coordinates_3d": [
+        [
+          2484.49,
+          11531.96,
+          0.05
+        ],
+        [
+          2500.91,
+          11533.84,
+          0.05
+        ],
+        [
+          2517.26,
+          11531.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161599",
+      "osm_id": 102161599,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1405.93,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1179088417,
+        1179088418,
+        8853925261,
+        2258304468,
+        1179088419,
+        1179088420,
+        1179088422,
+        1179088423,
+        2258304474,
+        2258304476,
+        2258304478,
+        1179088425,
+        1179088426,
+        1179088427,
+        1179088428,
+        2258304491
+      ],
+      "coordinates_3d": [
+        [
+          1909.45,
+          10793.06,
+          5.55
+        ],
+        [
+          1992.42,
+          10902.48,
+          5.55
+        ],
+        [
+          2029.1,
+          10953.42,
+          5.55
+        ],
+        [
+          2066.04,
+          11003.21,
+          5.55
+        ],
+        [
+          2117.94,
+          11068.26,
+          5.55
+        ],
+        [
+          2165.88,
+          11125.15,
+          5.55
+        ],
+        [
+          2235.2,
+          11205.3,
+          5.55
+        ],
+        [
+          2328.63,
+          11304.36,
+          5.55
+        ],
+        [
+          2386.75,
+          11365.41,
+          5.55
+        ],
+        [
+          2473.65,
+          11456.19,
+          5.55
+        ],
+        [
+          2567.78,
+          11557.04,
+          5.55
+        ],
+        [
+          2650.54,
+          11646.61,
+          5.55
+        ],
+        [
+          2695.53,
+          11714.21,
+          5.55
+        ],
+        [
+          2725.66,
+          11768.66,
+          5.55
+        ],
+        [
+          2759.06,
+          11851.73,
+          5.55
+        ],
+        [
+          2774.19,
+          11890.12,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161735",
+      "osm_id": 102161735,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 276.26,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304489,
+        1179089922,
+        1179089912,
+        1179089911,
+        2258304484
+      ],
+      "coordinates_3d": [
+        [
+          2782.48,
+          11886.89,
+          5.55
+        ],
+        [
+          2767.16,
+          11847.42,
+          5.55
+        ],
+        [
+          2734.49,
+          11765.29,
+          5.55
+        ],
+        [
+          2704.32,
+          11709.06,
+          5.55
+        ],
+        [
+          2657.75,
+          11641.91,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152248869",
+      "osm_id": 152248869,
+      "name": "Nathalal Parekh Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 287.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1650738244,
+        1650738243,
+        245661910,
+        245661795,
+        6430638714,
+        245661680
+      ],
+      "coordinates_3d": [
+        [
+          2659.69,
+          11616.89,
+          0.05
+        ],
+        [
+          2659.32,
+          11586.41,
+          0.05
+        ],
+        [
+          2660.46,
+          11559.18,
+          0.05
+        ],
+        [
+          2665.27,
+          11463.44,
+          0.05
+        ],
+        [
+          2663.99,
+          11381.39,
+          0.05
+        ],
+        [
+          2668.47,
+          11330.24,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492426",
+      "osm_id": 216492426,
+      "name": "Eastern Express Highway",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 203.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304514,
+        2258304493,
+        2258304489
+      ],
+      "coordinates_3d": [
+        [
+          2861.25,
+          12075.06,
+          0.05
+        ],
+        [
+          2790.57,
+          11906.19,
+          0.05
+        ],
+        [
+          2782.48,
+          11886.89,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_216492427",
+      "osm_id": 216492427,
+      "name": "Eastern Express Highway",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 204.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304491,
+        2258304495,
+        2258304516
+      ],
+      "coordinates_3d": [
+        [
+          2774.19,
+          11890.12,
+          0.05
+        ],
+        [
+          2782.47,
+          11910.05,
+          0.05
+        ],
+        [
+          2852.47,
+          12078.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618139789",
+      "osm_id": 618139789,
+      "name": "King's Circle Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1131.99,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304484,
+        1179089909,
+        2258304477,
+        2258304475,
+        2258304472,
+        1179089903,
+        1179089901,
+        1179089899,
+        1179089896,
+        2258304466,
+        1179089894,
+        1179089890
+      ],
+      "coordinates_3d": [
+        [
+          2657.75,
+          11641.91,
+          5.55
+        ],
+        [
+          2639.04,
+          11621.73,
+          5.55
+        ],
+        [
+          2573.07,
+          11548.23,
+          5.55
+        ],
+        [
+          2482.4,
+          11448.02,
+          5.55
+        ],
+        [
+          2395.46,
+          11357.2,
+          5.55
+        ],
+        [
+          2337.31,
+          11296.11,
+          5.55
+        ],
+        [
+          2246.37,
+          11198.52,
+          5.55
+        ],
+        [
+          2173.95,
+          11116.38,
+          5.55
+        ],
+        [
+          2127.12,
+          11060.57,
+          5.55
+        ],
+        [
+          2076.92,
+          10997.77,
+          5.55
+        ],
+        [
+          2001.52,
+          10895.43,
+          5.55
+        ],
+        [
+          1918.0,
+          10786.54,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_699880832",
+      "osm_id": 699880832,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 570.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386251,
+        6572386252,
+        6572386253,
+        6572386254,
+        6572386255,
+        6572386256,
+        6572386257,
+        6572386258,
+        6572386259,
+        6572386260,
+        11068733871,
+        6572386262,
+        12294664514,
+        2258304486
+      ],
+      "coordinates_3d": [
+        [
+          3013.21,
+          11263.2,
+          0.05
+        ],
+        [
+          3011.23,
+          11277.4,
+          0.05
+        ],
+        [
+          3008.46,
+          11305.51,
+          0.05
+        ],
+        [
+          2995.69,
+          11370.24,
+          0.05
+        ],
+        [
+          2988.43,
+          11400.65,
+          0.05
+        ],
+        [
+          2960.02,
+          11479.05,
+          0.05
+        ],
+        [
+          2923.62,
+          11552.68,
+          0.05
+        ],
+        [
+          2894.77,
+          11594.4,
+          0.05
+        ],
+        [
+          2856.63,
+          11640.35,
+          0.05
+        ],
+        [
+          2816.6,
+          11669.75,
+          0.05
+        ],
+        [
+          2785.19,
+          11686.56,
+          0.05
+        ],
+        [
+          2771.55,
+          11693.48,
+          0.05
+        ],
+        [
+          2743.04,
+          11705.8,
+          0.05
+        ],
+        [
+          2726.06,
+          11721.83,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_699880833",
+      "osm_id": 699880833,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 528.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12294664504,
+        6572386277,
+        6572386276,
+        6572386275,
+        6572386274,
+        11068729015,
+        6572386273,
+        6572386272,
+        6572386271,
+        6572386270,
+        6572386269,
+        6572386268,
+        6572386246
+      ],
+      "coordinates_3d": [
+        [
+          2795.02,
+          11710.78,
+          0.05
+        ],
+        [
+          2812.64,
+          11704.33,
+          0.05
+        ],
+        [
+          2855.07,
+          11675.32,
+          0.05
+        ],
+        [
+          2897.23,
+          11634.1,
+          0.05
+        ],
+        [
+          2916.8,
+          11606.76,
+          0.05
+        ],
+        [
+          2918.82,
+          11603.56,
+          0.05
+        ],
+        [
+          2944.37,
+          11563.19,
+          0.05
+        ],
+        [
+          2968.1,
+          11516.57,
+          0.05
+        ],
+        [
+          2994.7,
+          11462.62,
+          0.05
+        ],
+        [
+          3010.13,
+          11407.97,
+          0.05
+        ],
+        [
+          3021.74,
+          11363.18,
+          0.05
+        ],
+        [
+          3034.54,
+          11290.03,
+          0.05
+        ],
+        [
+          3037.03,
+          11266.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766586",
+      "osm_id": 1235766586,
+      "name": "R.A. Kidwai Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 70.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12294664506,
+        6494856675,
+        10225119982,
+        12294664503,
+        12294664504
+      ],
+      "coordinates_3d": [
+        [
+          2770.79,
+          11774.82,
+          0.05
+        ],
+        [
+          2772.69,
+          11759.61,
+          0.05
+        ],
+        [
+          2777.36,
+          11740.42,
+          0.05
+        ],
+        [
+          2785.19,
+          11721.53,
+          0.05
+        ],
+        [
+          2795.02,
+          11710.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766593",
+      "osm_id": 1235766593,
+      "name": "Rafi Ahmed Kidwai Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 32.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2258304486,
+        245662037
+      ],
+      "coordinates_3d": [
+        [
+          2726.06,
+          11721.83,
+          0.05
+        ],
+        [
+          2696.58,
+          11734.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1384259084",
+      "osm_id": 1384259084,
+      "name": "R.A. Kidwai Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 47.25,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9903536150,
+        12294664510,
+        12294664506
+      ],
+      "coordinates_3d": [
+        [
+          2769.97,
+          11822.03,
+          0.05
+        ],
+        [
+          2770.83,
+          11812.13,
+          0.05
+        ],
+        [
+          2770.79,
+          11774.82,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

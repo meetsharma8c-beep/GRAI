@@ -1,0 +1,822 @@
+{
+  "tile_id": "TILE_E-002_N+007",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 3500.0,
+    "max_y": 4000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.954498,
+    "max_lat": 18.959069,
+    "min_lon": 72.8231,
+    "max_lon": 72.827788
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 14,
+    "road_length_m": 1979.28,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22852876",
+      "osm_id": 22852876,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 337.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881679,
+        245655524,
+        714897355,
+        11036765122,
+        245655585,
+        245655595,
+        245655628,
+        245655649,
+        1625321745,
+        245655695,
+        10282069991
+      ],
+      "coordinates_3d": [
+        [
+          -713.75,
+          3543.83,
+          9.78
+        ],
+        [
+          -670.31,
+          3581.31,
+          9.42
+        ],
+        [
+          -648.02,
+          3592.49,
+          10.2
+        ],
+        [
+          -640.04,
+          3598.04,
+          10.47
+        ],
+        [
+          -605.27,
+          3622.25,
+          11.13
+        ],
+        [
+          -562.99,
+          3643.55,
+          10.98
+        ],
+        [
+          -514.45,
+          3666.29,
+          10.41
+        ],
+        [
+          -472.91,
+          3687.05,
+          9.0
+        ],
+        [
+          -446.23,
+          3701.35,
+          8.09
+        ],
+        [
+          -434.69,
+          3712.61,
+          7.77
+        ],
+        [
+          -430.19,
+          3720.31,
+          7.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853178",
+      "osm_id": 22853178,
+      "name": "Patthe Bapurao Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 248.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10282069983,
+        13907626457,
+        245655743,
+        245655794,
+        245655855,
+        245655904,
+        13908755147,
+        13908755149
+      ],
+      "coordinates_3d": [
+        [
+          -439.88,
+          3731.26,
+          6.38
+        ],
+        [
+          -451.81,
+          3738.6,
+          6.3
+        ],
+        [
+          -478.88,
+          3755.38,
+          7.39
+        ],
+        [
+          -523.36,
+          3789.17,
+          6.91
+        ],
+        [
+          -567.61,
+          3822.79,
+          8.71
+        ],
+        [
+          -604.84,
+          3856.85,
+          9.52
+        ],
+        [
+          -629.93,
+          3878.68,
+          8.45
+        ],
+        [
+          -633.62,
+          3884.99,
+          8.3
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240710733",
+      "osm_id": 1240710733,
+      "name": "Patthe Bapurao Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 15.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655932,
+        7384002973
+      ],
+      "coordinates_3d": [
+        [
+          -658.02,
+          3901.85,
+          9.57
+        ],
+        [
+          -645.16,
+          3893.31,
+          8.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1248814267",
+      "osm_id": 1248814267,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 93.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655937,
+        1648784452,
+        245655939
+      ],
+      "coordinates_3d": [
+        [
+          -514.58,
+          3895.81,
+          8.79
+        ],
+        [
+          -471.55,
+          3895.58,
+          6.68
+        ],
+        [
+          -421.22,
+          3896.45,
+          6.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1248814268",
+      "osm_id": 1248814268,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 143.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655932,
+        13906038547,
+        245655934,
+        245655935,
+        245655937
+      ],
+      "coordinates_3d": [
+        [
+          -658.02,
+          3901.85,
+          9.57
+        ],
+        [
+          -642.35,
+          3900.71,
+          8.55
+        ],
+        [
+          -598.8,
+          3899.02,
+          7.9
+        ],
+        [
+          -560.5,
+          3898.41,
+          9.72
+        ],
+        [
+          -514.58,
+          3895.81,
+          8.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1525988058",
+      "osm_id": 1525988058,
+      "name": "Patthe Bapurao Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 14.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13908755149,
+        7384002973
+      ],
+      "coordinates_3d": [
+        [
+          -633.62,
+          3884.99,
+          8.3
+        ],
+        [
+          -645.16,
+          3893.31,
+          8.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852740",
+      "osm_id": 22852740,
+      "name": "Khatar Gali",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 67.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655361,
+        610283530,
+        7384332478,
+        245655491
+      ],
+      "coordinates_3d": [
+        [
+          -785.01,
+          3490.06,
+          12.45
+        ],
+        [
+          -784.84,
+          3500.22,
+          12.66
+        ],
+        [
+          -772.37,
+          3517.54,
+          12.05
+        ],
+        [
+          -746.17,
+          3542.83,
+          10.16
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_47982651",
+      "osm_id": 47982651,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 148.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13697619191,
+        610283488,
+        11036785700,
+        13697619192,
+        2244783704,
+        610283489,
+        2244783718,
+        245655361
+      ],
+      "coordinates_3d": [
+        [
+          -754.42,
+          3344.89,
+          12.8
+        ],
+        [
+          -763.67,
+          3384.99,
+          10.56
+        ],
+        [
+          -764.95,
+          3397.47,
+          9.41
+        ],
+        [
+          -766.58,
+          3418.57,
+          9.22
+        ],
+        [
+          -768.1,
+          3426.08,
+          9.17
+        ],
+        [
+          -772.59,
+          3448.39,
+          10.28
+        ],
+        [
+          -778.2,
+          3465.58,
+          11.17
+        ],
+        [
+          -785.01,
+          3490.06,
+          12.45
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151509166",
+      "osm_id": 151509166,
+      "name": "Bhuleshwar Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 153.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881676,
+        2439533624,
+        1647371902,
+        2439533620,
+        245655336
+      ],
+      "coordinates_3d": [
+        [
+          -718.34,
+          3529.54,
+          9.32
+        ],
+        [
+          -708.6,
+          3509.83,
+          9.58
+        ],
+        [
+          -676.04,
+          3451.49,
+          14.3
+        ],
+        [
+          -651.11,
+          3417.95,
+          14.44
+        ],
+        [
+          -634.77,
+          3401.69,
+          13.32
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152322065",
+      "osm_id": 152322065,
+      "name": "Vithalbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 699.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881688,
+        2439533626,
+        13905242583,
+        13905242582,
+        245655584,
+        13905242584,
+        245655611,
+        245655626,
+        245655648,
+        245655647,
+        11036719477,
+        245655644,
+        11036719463,
+        10595272374,
+        11041657199,
+        245655676,
+        10595272369,
+        610289935,
+        610289928,
+        245655693,
+        2244783751,
+        245655742,
+        11036704253,
+        245655759,
+        7384062523,
+        245655778
+      ],
+      "coordinates_3d": [
+        [
+          -729.68,
+          3551.08,
+          10.01
+        ],
+        [
+          -733.36,
+          3558.75,
+          10.37
+        ],
+        [
+          -738.04,
+          3566.43,
+          10.89
+        ],
+        [
+          -763.71,
+          3597.66,
+          13.32
+        ],
+        [
+          -790.83,
+          3629.92,
+          13.55
+        ],
+        [
+          -816.45,
+          3639.72,
+          13.36
+        ],
+        [
+          -841.41,
+          3648.49,
+          12.57
+        ],
+        [
+          -887.77,
+          3661.12,
+          10.94
+        ],
+        [
+          -939.81,
+          3674.58,
+          10.01
+        ],
+        [
+          -972.01,
+          3683.83,
+          13.29
+        ],
+        [
+          -1004.78,
+          3693.95,
+          13.84
+        ],
+        [
+          -1025.21,
+          3700.03,
+          11.94
+        ],
+        [
+          -1036.68,
+          3703.98,
+          11.32
+        ],
+        [
+          -1064.61,
+          3715.72,
+          12.52
+        ],
+        [
+          -1068.85,
+          3717.93,
+          12.76
+        ],
+        [
+          -1091.56,
+          3731.22,
+          13.75
+        ],
+        [
+          -1097.98,
+          3734.46,
+          13.89
+        ],
+        [
+          -1120.71,
+          3746.95,
+          13.88
+        ],
+        [
+          -1147.48,
+          3758.61,
+          13.51
+        ],
+        [
+          -1177.05,
+          3764.36,
+          14.05
+        ],
+        [
+          -1239.05,
+          3773.02,
+          11.2
+        ],
+        [
+          -1301.39,
+          3791.15,
+          12.85
+        ],
+        [
+          -1311.39,
+          3794.82,
+          12.57
+        ],
+        [
+          -1327.86,
+          3800.85,
+          12.05
+        ],
+        [
+          -1343.72,
+          3809.57,
+          12.24
+        ],
+        [
+          -1354.4,
+          3820.33,
+          12.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123867113",
+      "osm_id": 1123867113,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 19.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881688,
+        10277881671,
+        10277881670,
+        10277881669,
+        10277881680,
+        10277881679
+      ],
+      "coordinates_3d": [
+        [
+          -729.68,
+          3551.08,
+          10.01
+        ],
+        [
+          -726.53,
+          3551.9,
+          10.04
+        ],
+        [
+          -722.49,
+          3551.61,
+          10.03
+        ],
+        [
+          -718.74,
+          3550.02,
+          9.98
+        ],
+        [
+          -715.73,
+          3547.34,
+          9.9
+        ],
+        [
+          -713.75,
+          3543.83,
+          9.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123867115",
+      "osm_id": 1123867115,
+      "name": "Khadilkar Marg (Kandewadi Lane)",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 8.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881672,
+        245655491
+      ],
+      "coordinates_3d": [
+        [
+          -737.59,
+          3541.63,
+          9.7
+        ],
+        [
+          -746.17,
+          3542.83,
+          10.16
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123867116",
+      "osm_id": 1123867116,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 12.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881672,
+        10277881687,
+        10277881686,
+        10277881685,
+        10277881688
+      ],
+      "coordinates_3d": [
+        [
+          -737.59,
+          3541.63,
+          9.7
+        ],
+        [
+          -736.29,
+          3545.44,
+          9.83
+        ],
+        [
+          -733.83,
+          3548.65,
+          9.93
+        ],
+        [
+          -730.45,
+          3550.88,
+          10.01
+        ],
+        [
+          -729.68,
+          3551.08,
+          10.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123867117",
+      "osm_id": 1123867117,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 16.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881679,
+        10277881684,
+        10277881678,
+        10277881677,
+        10277881676
+      ],
+      "coordinates_3d": [
+        [
+          -713.75,
+          3543.83,
+          9.78
+        ],
+        [
+          -713.02,
+          3539.88,
+          9.65
+        ],
+        [
+          -713.6,
+          3535.91,
+          9.53
+        ],
+        [
+          -715.44,
+          3532.33,
+          9.41
+        ],
+        [
+          -718.34,
+          3529.54,
+          9.32
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

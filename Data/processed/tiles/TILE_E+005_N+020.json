@@ -1,0 +1,550 @@
+{
+  "tile_id": "TILE_E+005_N+020",
+  "bounds": {
+    "min_x": 2500.0,
+    "max_x": 3000.0,
+    "min_y": 10000.0,
+    "max_y": 10500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.013589,
+    "max_lat": 19.01816,
+    "min_lon": 72.85557,
+    "max_lon": 72.86026
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 10,
+    "road_length_m": 2369.77,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_788767154",
+      "osm_id": 788767154,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 362.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416891,
+        12320187643,
+        7375972035,
+        7374320618,
+        7374320617,
+        12721918106,
+        7374320616
+      ],
+      "coordinates_3d": [
+        [
+          2543.89,
+          10579.21,
+          0.05
+        ],
+        [
+          2619.52,
+          10525.58,
+          0.05
+        ],
+        [
+          2694.2,
+          10472.63,
+          0.05
+        ],
+        [
+          2715.95,
+          10457.21,
+          0.05
+        ],
+        [
+          2780.0,
+          10411.57,
+          0.05
+        ],
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ],
+        [
+          2840.1,
+          10369.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788781169",
+      "osm_id": 788781169,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 284.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386240,
+        7374459536,
+        7374459535,
+        7374459534,
+        7374459533,
+        7374507921
+      ],
+      "coordinates_3d": [
+        [
+          3022.87,
+          10586.55,
+          0.05
+        ],
+        [
+          3017.08,
+          10575.39,
+          0.05
+        ],
+        [
+          2987.24,
+          10513.71,
+          0.05
+        ],
+        [
+          2944.07,
+          10448.25,
+          0.05
+        ],
+        [
+          2899.14,
+          10393.38,
+          0.05
+        ],
+        [
+          2862.25,
+          10353.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162899",
+      "osm_id": 1139162899,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 270.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660696,
+        12721918107,
+        245660734,
+        7374384437,
+        6262417043,
+        7374384440,
+        7374384438,
+        245660897
+      ],
+      "coordinates_3d": [
+        [
+          2828.58,
+          10358.97,
+          0.05
+        ],
+        [
+          2824.13,
+          10361.94,
+          0.05
+        ],
+        [
+          2767.49,
+          10399.67,
+          0.05
+        ],
+        [
+          2744.56,
+          10415.88,
+          0.05
+        ],
+        [
+          2687.46,
+          10455.86,
+          0.05
+        ],
+        [
+          2673.54,
+          10467.23,
+          0.05
+        ],
+        [
+          2656.8,
+          10480.82,
+          0.05
+        ],
+        [
+          2610.35,
+          10518.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162902",
+      "osm_id": 1139162902,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 282.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12721918106,
+        7374459523,
+        7374459524,
+        6572386235
+      ],
+      "coordinates_3d": [
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ],
+        [
+          2908.75,
+          10447.28,
+          0.05
+        ],
+        [
+          2963.69,
+          10528.32,
+          0.05
+        ],
+        [
+          2997.83,
+          10600.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162903",
+      "osm_id": 1139162903,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 17.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507921,
+        7374507922
+      ],
+      "coordinates_3d": [
+        [
+          2862.25,
+          10353.98,
+          0.05
+        ],
+        [
+          2850.62,
+          10341.4,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162905",
+      "osm_id": 1139162905,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374320615,
+        7374507921
+      ],
+      "coordinates_3d": [
+        [
+          2847.23,
+          10363.01,
+          0.05
+        ],
+        [
+          2862.25,
+          10353.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162907",
+      "osm_id": 1139162907,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374320616,
+        7374320615
+      ],
+      "coordinates_3d": [
+        [
+          2840.1,
+          10369.7,
+          0.05
+        ],
+        [
+          2847.23,
+          10363.01,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162912",
+      "osm_id": 1139162912,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 553.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507922,
+        7374459532,
+        11061379618,
+        13661870832,
+        7374459531,
+        13321682514,
+        13661870850,
+        13661870864,
+        13661870856,
+        7374459530,
+        9880815256,
+        7374459529,
+        13673715700,
+        13673716509,
+        7374459528,
+        13154734986,
+        7374459527
+      ],
+      "coordinates_3d": [
+        [
+          2850.62,
+          10341.4,
+          0.05
+        ],
+        [
+          2829.23,
+          10319.37,
+          0.05
+        ],
+        [
+          2778.22,
+          10279.58,
+          0.05
+        ],
+        [
+          2720.25,
+          10234.34,
+          0.05
+        ],
+        [
+          2715.15,
+          10230.35,
+          0.05
+        ],
+        [
+          2703.2,
+          10220.22,
+          0.05
+        ],
+        [
+          2698.32,
+          10216.17,
+          0.05
+        ],
+        [
+          2695.59,
+          10213.93,
+          0.05
+        ],
+        [
+          2680.81,
+          10201.24,
+          0.05
+        ],
+        [
+          2601.84,
+          10134.3,
+          0.05
+        ],
+        [
+          2585.99,
+          10119.05,
+          0.05
+        ],
+        [
+          2568.4,
+          10102.14,
+          0.05
+        ],
+        [
+          2549.48,
+          10077.43,
+          0.05
+        ],
+        [
+          2536.17,
+          10060.05,
+          0.05
+        ],
+        [
+          2494.05,
+          10005.04,
+          0.05
+        ],
+        [
+          2490.82,
+          10000.53,
+          0.05
+        ],
+        [
+          2458.82,
+          9955.96,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139181304",
+      "osm_id": 1139181304,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 444.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459517,
+        7374459518,
+        11061304559,
+        7374459519,
+        12069775982,
+        7374459520,
+        12721918107,
+        12721918106
+      ],
+      "coordinates_3d": [
+        [
+          2512.56,
+          10070.69,
+          0.05
+        ],
+        [
+          2563.79,
+          10136.79,
+          0.05
+        ],
+        [
+          2595.29,
+          10163.45,
+          0.05
+        ],
+        [
+          2637.95,
+          10199.56,
+          0.05
+        ],
+        [
+          2692.48,
+          10247.42,
+          0.05
+        ],
+        [
+          2759.29,
+          10306.04,
+          0.05
+        ],
+        [
+          2824.13,
+          10361.94,
+          0.05
+        ],
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895023",
+      "osm_id": 1238895023,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 128.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374459516,
+        7374459517
+      ],
+      "coordinates_3d": [
+        [
+          2435.69,
+          9967.95,
+          0.05
+        ],
+        [
+          2512.56,
+          10070.69,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

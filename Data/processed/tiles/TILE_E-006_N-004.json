@@ -1,0 +1,85 @@
+{
+  "tile_id": "TILE_E-006_N-004",
+  "bounds": {
+    "min_x": -3000.0,
+    "max_x": -2500.0,
+    "min_y": -2000.0,
+    "max_y": -1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.904603,
+    "max_lat": 18.909175,
+    "min_lon": 72.804766,
+    "max_lon": 72.809452
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 329.26,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_1244585202",
+      "osm_id": 1244585202,
+      "name": "Dr Homi Bhaba Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 329.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1934089147,
+        459482358,
+        4307040294,
+        459482388,
+        4307040295,
+        459482553
+      ],
+      "coordinates_3d": [
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ],
+        [
+          -2464.97,
+          -1717.34,
+          9.4
+        ],
+        [
+          -2545.55,
+          -1705.17,
+          8.86
+        ],
+        [
+          -2564.28,
+          -1702.34,
+          9.12
+        ],
+        [
+          -2580.87,
+          -1699.97,
+          9.7
+        ],
+        [
+          -2626.64,
+          -1693.7,
+          10.43
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

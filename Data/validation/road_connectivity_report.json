@@ -1,0 +1,12 @@
+{
+  "report_type": "Road Connectivity and Topology Audit",
+  "timestamp": "2026-10-14T13:51:48Z",
+  "total_edges": 12018,
+  "total_nodes": 78746,
+  "multi_way_intersections": 1828,
+  "dead_end_terminals": 66136,
+  "bridge_segments": 1618,
+  "tunnel_segments": 21,
+  "connectivity_ratio": 0.1601,
+  "status": "PASS"
+}

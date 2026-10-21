@@ -1,0 +1,461 @@
+{
+  "tile_id": "TILE_E+001_N+009",
+  "bounds": {
+    "min_x": 500.0,
+    "max_x": 1000.0,
+    "min_y": 4500.0,
+    "max_y": 5000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.963696,
+    "max_lat": 18.968267,
+    "min_lon": 72.837221,
+    "max_lon": 72.841909
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 9,
+    "road_length_m": 1217.58,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22850851",
+      "osm_id": 22850851,
+      "name": "Dockyard Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 350.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657099,
+        245657129,
+        245657138,
+        245657150,
+        11070512504,
+        11070565507,
+        11070565508,
+        3777263480,
+        245657173,
+        4343426715,
+        245657187,
+        4343426716
+      ],
+      "coordinates_3d": [
+        [
+          1307.91,
+          4921.97,
+          8.65
+        ],
+        [
+          1248.61,
+          4956.77,
+          9.66
+        ],
+        [
+          1235.17,
+          4965.92,
+          10.11
+        ],
+        [
+          1200.23,
+          4992.42,
+          13.51
+        ],
+        [
+          1177.88,
+          5004.48,
+          15.96
+        ],
+        [
+          1154.43,
+          5018.13,
+          14.43
+        ],
+        [
+          1148.35,
+          5018.97,
+          14.21
+        ],
+        [
+          1120.18,
+          5022.83,
+          14.47
+        ],
+        [
+          1093.71,
+          5018.51,
+          17.08
+        ],
+        [
+          1024.1,
+          5000.74,
+          21.77
+        ],
+        [
+          1002.66,
+          5002.96,
+          20.43
+        ],
+        [
+          988.41,
+          5005.48,
+          19.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171225915",
+      "osm_id": 1171225915,
+      "name": "Dockyard Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 123.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657229,
+        7365802220,
+        10883705289,
+        4343426716
+      ],
+      "coordinates_3d": [
+        [
+          874.78,
+          5051.62,
+          19.09
+        ],
+        [
+          948.5,
+          5024.15,
+          20.06
+        ],
+        [
+          986.13,
+          5010.08,
+          19.61
+        ],
+        [
+          988.41,
+          5005.48,
+          19.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171225916",
+      "osm_id": 1171225916,
+      "name": "Dockyard Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 126.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4343426716,
+        10883705291,
+        11070636128,
+        10883705290
+      ],
+      "coordinates_3d": [
+        [
+          988.41,
+          5005.48,
+          19.69
+        ],
+        [
+          983.24,
+          5003.14,
+          19.68
+        ],
+        [
+          895.3,
+          5035.72,
+          19.05
+        ],
+        [
+          869.67,
+          5045.38,
+          19.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22850811",
+      "osm_id": 22850811,
+      "name": "Hancock Bridge",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 73.19,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245656739,
+        245656843
+      ],
+      "coordinates_3d": [
+        [
+          604.99,
+          4566.86,
+          16.15
+        ],
+        [
+          653.08,
+          4622.04,
+          13.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22850833",
+      "osm_id": 22850833,
+      "name": "Shivdas Champsi Marg (Mazagoan Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 316.48,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12082381201,
+        6552251918,
+        6552320391,
+        2244632863,
+        2178176382,
+        14118859781,
+        12069277530,
+        245657149,
+        14118859795,
+        14124135559
+      ],
+      "coordinates_3d": [
+        [
+          704.74,
+          4740.02,
+          15.18
+        ],
+        [
+          707.17,
+          4745.5,
+          14.87
+        ],
+        [
+          710.02,
+          4752.43,
+          14.19
+        ],
+        [
+          721.28,
+          4773.3,
+          12.89
+        ],
+        [
+          758.26,
+          4839.63,
+          14.18
+        ],
+        [
+          784.44,
+          4891.5,
+          15.01
+        ],
+        [
+          797.02,
+          4930.18,
+          14.98
+        ],
+        [
+          833.4,
+          4997.69,
+          18.47
+        ],
+        [
+          842.61,
+          5013.56,
+          19.61
+        ],
+        [
+          847.04,
+          5021.99,
+          19.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591112",
+      "osm_id": 1304591112,
+      "name": "Shivdas Champsi Marg (Mazagoan Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 100.21,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245656843,
+        2442809538,
+        6552251913,
+        6552251914
+      ],
+      "coordinates_3d": [
+        [
+          653.08,
+          4622.04,
+          13.96
+        ],
+        [
+          665.91,
+          4645.62,
+          15.47
+        ],
+        [
+          688.07,
+          4697.38,
+          23.18
+        ],
+        [
+          694.55,
+          4713.16,
+          23.35
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591113",
+      "osm_id": 1304591113,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 73.57,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12082381183,
+        12082381185,
+        2244632856,
+        245656739
+      ],
+      "coordinates_3d": [
+        [
+          573.57,
+          4500.73,
+          20.19
+        ],
+        [
+          577.82,
+          4512.47,
+          19.81
+        ],
+        [
+          589.74,
+          4542.91,
+          17.99
+        ],
+        [
+          604.99,
+          4566.86,
+          16.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591114",
+      "osm_id": 1304591114,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 23.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12082381187,
+        12082381183
+      ],
+      "coordinates_3d": [
+        [
+          565.18,
+          4478.35,
+          14.77
+        ],
+        [
+          573.57,
+          4500.73,
+          14.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550522170",
+      "osm_id": 1550522170,
+      "name": "Shivdas Champsi Marg (Mazagoan Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 28.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6552251914,
+        12082381194,
+        4366151615,
+        12082381201
+      ],
+      "coordinates_3d": [
+        [
+          694.55,
+          4713.16,
+          17.85
+        ],
+        [
+          697.05,
+          4720.79,
+          16.99
+        ],
+        [
+          702.11,
+          4733.64,
+          15.55
+        ],
+        [
+          704.74,
+          4740.02,
+          15.18
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

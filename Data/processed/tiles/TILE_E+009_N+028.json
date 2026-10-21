@@ -1,0 +1,1286 @@
+{
+  "tile_id": "TILE_E+009_N+028",
+  "bounds": {
+    "min_x": 4500.0,
+    "max_x": 5000.0,
+    "min_y": 14000.0,
+    "max_y": 14500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.049934,
+    "max_lat": 19.054504,
+    "min_lon": 72.874101,
+    "max_lon": 72.878792
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 24,
+    "road_length_m": 5582.1,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_376503086",
+      "osm_id": 376503086,
+      "name": "Chunabhatti Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 857.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2131949254,
+        1654348841,
+        2077290156,
+        10945626421,
+        14278970615,
+        14278970616,
+        2131949241,
+        13790104312,
+        2131950307,
+        10936787851,
+        2077290154,
+        1654348839,
+        7374085551,
+        2077290160,
+        10294672079,
+        2077290155,
+        7374085535,
+        6495023334,
+        12071395897,
+        2077290161,
+        3273736210,
+        11064596200,
+        2123789061,
+        1648356959,
+        4415528859,
+        4366129966,
+        2131982681,
+        2131982680,
+        2077290158,
+        7372175040,
+        7177453416,
+        1179199558
+      ],
+      "coordinates_3d": [
+        [
+          4882.41,
+          14386.52,
+          0.05
+        ],
+        [
+          4858.04,
+          14384.34,
+          0.05
+        ],
+        [
+          4787.42,
+          14395.36,
+          0.05
+        ],
+        [
+          4783.31,
+          14395.69,
+          0.05
+        ],
+        [
+          4782.2,
+          14395.78,
+          0.05
+        ],
+        [
+          4779.7,
+          14395.57,
+          0.05
+        ],
+        [
+          4767.01,
+          14394.47,
+          0.05
+        ],
+        [
+          4731.39,
+          14394.73,
+          0.05
+        ],
+        [
+          4725.7,
+          14393.33,
+          0.05
+        ],
+        [
+          4656.18,
+          14357.89,
+          0.05
+        ],
+        [
+          4647.29,
+          14352.61,
+          0.05
+        ],
+        [
+          4628.48,
+          14343.56,
+          0.05
+        ],
+        [
+          4609.99,
+          14333.1,
+          0.05
+        ],
+        [
+          4589.0,
+          14327.99,
+          0.05
+        ],
+        [
+          4544.86,
+          14324.64,
+          0.05
+        ],
+        [
+          4521.38,
+          14322.87,
+          0.05
+        ],
+        [
+          4506.15,
+          14322.61,
+          0.05
+        ],
+        [
+          4429.04,
+          14321.33,
+          0.05
+        ],
+        [
+          4394.05,
+          14320.75,
+          0.05
+        ],
+        [
+          4385.07,
+          14320.6,
+          0.05
+        ],
+        [
+          4344.83,
+          14319.93,
+          0.05
+        ],
+        [
+          4304.73,
+          14321.41,
+          0.05
+        ],
+        [
+          4240.97,
+          14324.32,
+          0.05
+        ],
+        [
+          4203.62,
+          14326.39,
+          0.05
+        ],
+        [
+          4194.65,
+          14328.5,
+          0.05
+        ],
+        [
+          4177.22,
+          14332.71,
+          0.05
+        ],
+        [
+          4148.76,
+          14339.29,
+          0.05
+        ],
+        [
+          4136.58,
+          14343.12,
+          0.05
+        ],
+        [
+          4066.73,
+          14365.18,
+          0.05
+        ],
+        [
+          4061.75,
+          14367.81,
+          0.05
+        ],
+        [
+          4058.82,
+          14370.37,
+          0.05
+        ],
+        [
+          4054.65,
+          14379.81,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_376503087",
+      "osm_id": 376503087,
+      "name": "Chunabhatti Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 33.12,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        3799138478,
+        2131949254
+      ],
+      "coordinates_3d": [
+        [
+          4915.47,
+          14384.52,
+          5.55
+        ],
+        [
+          4882.41,
+          14386.52,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_611811719",
+      "osm_id": 611811719,
+      "name": "Chunabhatti Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 308.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3799138478,
+        10936829391,
+        4366129942,
+        3273736211,
+        245664865
+      ],
+      "coordinates_3d": [
+        [
+          4915.47,
+          14384.52,
+          0.05
+        ],
+        [
+          5005.71,
+          14379.77,
+          0.05
+        ],
+        [
+          5031.81,
+          14380.11,
+          0.05
+        ],
+        [
+          5069.22,
+          14380.55,
+          0.05
+        ],
+        [
+          5224.25,
+          14385.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_611811720",
+      "osm_id": 611811720,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 568.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5841999701,
+        9993913777,
+        6430607036,
+        5841999709,
+        5841999703
+      ],
+      "coordinates_3d": [
+        [
+          4038.63,
+          13901.38,
+          0.05
+        ],
+        [
+          4313.76,
+          14002.73,
+          0.05
+        ],
+        [
+          4403.13,
+          14035.58,
+          0.05
+        ],
+        [
+          4514.61,
+          14076.54,
+          0.05
+        ],
+        [
+          4572.74,
+          14096.34,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_617731232",
+      "osm_id": 617731232,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 259.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5839247427,
+        528845324,
+        5792168758,
+        245664779
+      ],
+      "coordinates_3d": [
+        [
+          4938.48,
+          14231.6,
+          0.05
+        ],
+        [
+          4998.69,
+          14253.74,
+          0.05
+        ],
+        [
+          5136.72,
+          14309.8,
+          0.05
+        ],
+        [
+          5177.48,
+          14331.13,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_617731233",
+      "osm_id": 617731233,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 47.9,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        5839247424,
+        5839247427
+      ],
+      "coordinates_3d": [
+        [
+          4893.48,
+          14215.19,
+          5.55
+        ],
+        [
+          4938.48,
+          14231.6,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_617731234",
+      "osm_id": 617731234,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 341.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5839247425,
+        1642954392,
+        1642954393,
+        5841999704
+      ],
+      "coordinates_3d": [
+        [
+          4900.72,
+          14195.57,
+          0.05
+        ],
+        [
+          4867.88,
+          14183.42,
+          0.05
+        ],
+        [
+          4840.27,
+          14173.21,
+          0.05
+        ],
+        [
+          4580.02,
+          14076.91,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_617731235",
+      "osm_id": 617731235,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 47.9,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        5839247426,
+        5839247425
+      ],
+      "coordinates_3d": [
+        [
+          4945.72,
+          14211.98,
+          5.55
+        ],
+        [
+          4900.72,
+          14195.57,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477971",
+      "osm_id": 618477971,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 568.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5841999704,
+        5841999710,
+        1179340118,
+        10112883690,
+        11329781477,
+        5841999702
+      ],
+      "coordinates_3d": [
+        [
+          4580.02,
+          14076.91,
+          0.05
+        ],
+        [
+          4522.87,
+          14054.14,
+          0.05
+        ],
+        [
+          4493.37,
+          14043.26,
+          0.05
+        ],
+        [
+          4452.01,
+          14028.01,
+          0.05
+        ],
+        [
+          4210.49,
+          13938.91,
+          0.05
+        ],
+        [
+          4045.48,
+          13882.24,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618477972",
+      "osm_id": 618477972,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 342.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5841999703,
+        5839247424
+      ],
+      "coordinates_3d": [
+        [
+          4572.74,
+          14096.34,
+          0.05
+        ],
+        [
+          4893.48,
+          14215.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235478371",
+      "osm_id": 1235478371,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 307.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1642951748,
+        1642951746,
+        8894102991,
+        5838250422,
+        1642951740,
+        5839247426
+      ],
+      "coordinates_3d": [
+        [
+          5235.41,
+          14310.56,
+          0.05
+        ],
+        [
+          5212.53,
+          14308.64,
+          0.05
+        ],
+        [
+          5189.85,
+          14305.3,
+          0.05
+        ],
+        [
+          5167.14,
+          14300.09,
+          0.05
+        ],
+        [
+          5006.04,
+          14233.84,
+          0.05
+        ],
+        [
+          4945.72,
+          14211.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1557525014",
+      "osm_id": 1557525014,
+      "name": "Sion Panvel Highway",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 153.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5841999704,
+        5841999710,
+        14280582122,
+        1179340118,
+        10112883690
+      ],
+      "coordinates_3d": [
+        [
+          4580.02,
+          14076.91,
+          0.05
+        ],
+        [
+          4522.87,
+          14054.14,
+          0.05
+        ],
+        [
+          4500.45,
+          14045.88,
+          0.05
+        ],
+        [
+          4493.37,
+          14043.26,
+          0.05
+        ],
+        [
+          4437.48,
+          14020.95,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_42357182",
+      "osm_id": 42357182,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 235.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        7366340610,
+        10738867823,
+        245664334,
+        6569658748,
+        8894103008,
+        2929595630,
+        10036504371,
+        8894103007,
+        10938757582,
+        1642954374,
+        1642954376
+      ],
+      "coordinates_3d": [
+        [
+          4892.85,
+          13798.17,
+          5.55
+        ],
+        [
+          4888.35,
+          13811.87,
+          5.55
+        ],
+        [
+          4886.02,
+          13819.31,
+          5.55
+        ],
+        [
+          4875.44,
+          13848.71,
+          5.55
+        ],
+        [
+          4837.79,
+          13955.62,
+          5.55
+        ],
+        [
+          4833.1,
+          13971.15,
+          5.55
+        ],
+        [
+          4830.88,
+          13982.57,
+          5.55
+        ],
+        [
+          4829.78,
+          13988.25,
+          5.55
+        ],
+        [
+          4829.24,
+          13996.26,
+          5.55
+        ],
+        [
+          4828.45,
+          14007.76,
+          5.55
+        ],
+        [
+          4828.33,
+          14023.22,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152629607",
+      "osm_id": 152629607,
+      "name": "Sewri-Chembur Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 384.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5792168754,
+        1642954383,
+        528845331,
+        1642951730,
+        528845330,
+        2929595636,
+        1642954378,
+        1642954377,
+        1642954375,
+        2929595631,
+        2929595629,
+        1642954373,
+        10738867822,
+        10738867821
+      ],
+      "coordinates_3d": [
+        [
+          4923.57,
+          14149.69,
+          0.05
+        ],
+        [
+          4908.43,
+          14135.31,
+          0.05
+        ],
+        [
+          4869.94,
+          14099.07,
+          0.05
+        ],
+        [
+          4859.8,
+          14084.26,
+          0.05
+        ],
+        [
+          4851.79,
+          14069.23,
+          0.05
+        ],
+        [
+          4846.71,
+          14053.62,
+          0.05
+        ],
+        [
+          4843.14,
+          14032.03,
+          0.05
+        ],
+        [
+          4842.0,
+          14014.45,
+          0.05
+        ],
+        [
+          4841.76,
+          13994.83,
+          0.05
+        ],
+        [
+          4844.53,
+          13975.46,
+          0.05
+        ],
+        [
+          4849.78,
+          13956.26,
+          0.05
+        ],
+        [
+          4894.1,
+          13822.72,
+          0.05
+        ],
+        [
+          4895.98,
+          13815.13,
+          0.05
+        ],
+        [
+          4898.88,
+          13803.4,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_289412606",
+      "osm_id": 289412606,
+      "name": "Bhagwan Swaminarayan Flyover",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 136.48,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1642954376,
+        1633934097,
+        2929595637,
+        245664429,
+        1642951728,
+        2929595639,
+        245664540,
+        245664598,
+        2929595642,
+        2929595644,
+        1642951737
+      ],
+      "coordinates_3d": [
+        [
+          4828.33,
+          14023.22,
+          0.05
+        ],
+        [
+          4823.53,
+          14045.64,
+          0.05
+        ],
+        [
+          4822.43,
+          14054.09,
+          0.05
+        ],
+        [
+          4822.9,
+          14062.43,
+          0.05
+        ],
+        [
+          4826.06,
+          14072.2,
+          0.05
+        ],
+        [
+          4833.14,
+          14085.76,
+          0.05
+        ],
+        [
+          4843.55,
+          14099.93,
+          0.05
+        ],
+        [
+          4852.78,
+          14108.71,
+          0.05
+        ],
+        [
+          4867.39,
+          14119.17,
+          0.05
+        ],
+        [
+          4876.61,
+          14127.13,
+          0.05
+        ],
+        [
+          4883.44,
+          14135.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_376503106",
+      "osm_id": 376503106,
+      "name": "Sewri-Chembur Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 45.4,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        528845332,
+        5792168754
+      ],
+      "coordinates_3d": [
+        [
+          4956.13,
+          14181.33,
+          5.55
+        ],
+        [
+          4923.57,
+          14149.69,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618038080",
+      "osm_id": 618038080,
+      "name": "BKC Connector",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 155.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        5841999704,
+        11976367726,
+        5841999705
+      ],
+      "coordinates_3d": [
+        [
+          4580.02,
+          14076.91,
+          5.55
+        ],
+        [
+          4523.05,
+          14063.39,
+          5.55
+        ],
+        [
+          4432.56,
+          14029.26,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618038081",
+      "osm_id": 618038081,
+      "name": "BKC Connector",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 155.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        5841999708,
+        11976367727,
+        5841999703
+      ],
+      "coordinates_3d": [
+        [
+          4429.55,
+          14037.43,
+          5.55
+        ],
+        [
+          4520.03,
+          14070.17,
+          5.55
+        ],
+        [
+          4572.74,
+          14096.34,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_686633916",
+      "osm_id": 686633916,
+      "name": "Sewri-Chembur Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 26.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2629741737,
+        528845332
+      ],
+      "coordinates_3d": [
+        [
+          4971.84,
+          14203.03,
+          0.05
+        ],
+        [
+          4956.13,
+          14181.33,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_692038117",
+      "osm_id": 692038117,
+      "name": "Sewri-Chembur Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 284.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1642951748,
+        11976394049,
+        10305216865,
+        8579731575,
+        2629741742,
+        8894102990,
+        11976394057,
+        2629741737
+      ],
+      "coordinates_3d": [
+        [
+          5235.41,
+          14310.56,
+          0.05
+        ],
+        [
+          5213.8,
+          14302.21,
+          0.05
+        ],
+        [
+          5211.34,
+          14301.26,
+          0.05
+        ],
+        [
+          5198.89,
+          14296.27,
+          0.05
+        ],
+        [
+          5172.85,
+          14285.99,
+          0.05
+        ],
+        [
+          5066.27,
+          14242.79,
+          0.05
+        ],
+        [
+          4985.17,
+          14211.35,
+          0.05
+        ],
+        [
+          4971.84,
+          14203.03,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1201623094",
+      "osm_id": 1201623094,
+      "name": "Bhagwan Swaminarayan Flyover",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 65.27,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        11140589508,
+        1180138030,
+        1180138032,
+        245664684,
+        2929595651,
+        1179340298
+      ],
+      "coordinates_3d": [
+        [
+          4949.94,
+          14224.39,
+          5.55
+        ],
+        [
+          4964.08,
+          14243.33,
+          5.55
+        ],
+        [
+          4969.88,
+          14250.13,
+          5.55
+        ],
+        [
+          4979.09,
+          14256.8,
+          5.55
+        ],
+        [
+          4989.02,
+          14262.54,
+          5.55
+        ],
+        [
+          4997.84,
+          14266.93,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1201623095",
+      "osm_id": 1201623095,
+      "name": "Bhagwan Swaminarayan Flyover",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 35.38,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 2,
+      "node_ids": [
+        11140589509,
+        11140589508
+      ],
+      "coordinates_3d": [
+        [
+          4928.78,
+          14196.04,
+          11.05
+        ],
+        [
+          4949.94,
+          14224.39,
+          11.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1291885011",
+      "osm_id": 1291885011,
+      "name": "Bhagwan Swaminarayan Flyover",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 75.8,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1642951737,
+        11140589509
+      ],
+      "coordinates_3d": [
+        [
+          4883.44,
+          14135.29,
+          5.55
+        ],
+        [
+          4928.78,
+          14196.04,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1291885012",
+      "osm_id": 1291885012,
+      "name": "Bhagwan Swaminarayan Flyover",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 144.71,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179340298,
+        1642951761
+      ],
+      "coordinates_3d": [
+        [
+          4997.84,
+          14266.93,
+          0.05
+        ],
+        [
+          5132.36,
+          14320.26,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

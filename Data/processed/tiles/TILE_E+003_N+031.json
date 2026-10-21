@@ -1,0 +1,747 @@
+{
+  "tile_id": "TILE_E+003_N+031",
+  "bounds": {
+    "min_x": 1500.0,
+    "max_x": 2000.0,
+    "min_y": 15500.0,
+    "max_y": 16000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.06315,
+    "max_lat": 19.067721,
+    "min_lon": 72.845434,
+    "max_lon": 72.850125
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 17,
+    "road_length_m": 4619.15,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_48802231",
+      "osm_id": 48802231,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 848.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        588597487,
+        11069702437,
+        5346806114,
+        6243685418
+      ],
+      "coordinates_3d": [
+        [
+          1654.89,
+          16404.82,
+          0.05
+        ],
+        [
+          1645.08,
+          16061.25,
+          0.05
+        ],
+        [
+          1636.05,
+          15697.09,
+          0.05
+        ],
+        [
+          1630.69,
+          15557.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_280340474",
+      "osm_id": 280340474,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 51.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666364,
+        6243685412
+      ],
+      "coordinates_3d": [
+        [
+          1614.47,
+          15504.47,
+          0.05
+        ],
+        [
+          1616.01,
+          15556.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841871",
+      "osm_id": 666841871,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 475.65,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6243685410,
+        12279680441,
+        245666364
+      ],
+      "coordinates_3d": [
+        [
+          1602.19,
+          15028.98,
+          5.55
+        ],
+        [
+          1603.13,
+          15065.32,
+          5.55
+        ],
+        [
+          1614.47,
+          15504.47,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841874",
+      "osm_id": 666841874,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 128.41,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6243685421,
+        14213578575
+      ],
+      "coordinates_3d": [
+        [
+          1629.17,
+          15504.09,
+          5.55
+        ],
+        [
+          1625.86,
+          15375.72,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841875",
+      "osm_id": 666841875,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 293.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9931191124,
+        11069733971,
+        6243685422,
+        6243685412
+      ],
+      "coordinates_3d": [
+        [
+          1596.41,
+          15264.84,
+          0.05
+        ],
+        [
+          1596.94,
+          15288.59,
+          0.05
+        ],
+        [
+          1601.86,
+          15504.75,
+          0.05
+        ],
+        [
+          1616.01,
+          15556.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841876",
+      "osm_id": 666841876,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 285.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685418,
+        6243685420,
+        11069733972,
+        10738567709
+      ],
+      "coordinates_3d": [
+        [
+          1630.69,
+          15557.04,
+          0.05
+        ],
+        [
+          1641.46,
+          15503.76,
+          0.05
+        ],
+        [
+          1634.83,
+          15288.27,
+          0.05
+        ],
+        [
+          1634.53,
+          15272.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442605",
+      "osm_id": 1235442605,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 52.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685418,
+        6243685421
+      ],
+      "coordinates_3d": [
+        [
+          1630.69,
+          15557.04,
+          0.05
+        ],
+        [
+          1629.17,
+          15504.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442616",
+      "osm_id": 1235442616,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 848.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685412,
+        593054844
+      ],
+      "coordinates_3d": [
+        [
+          1616.01,
+          15556.25,
+          0.05
+        ],
+        [
+          1641.23,
+          16404.53,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859148",
+      "osm_id": 22859148,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 184.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666560,
+        2244797301,
+        245666578
+      ],
+      "coordinates_3d": [
+        [
+          1926.49,
+          15629.78,
+          0.05
+        ],
+        [
+          1837.5,
+          15631.7,
+          0.05
+        ],
+        [
+          1742.1,
+          15633.3,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859198",
+      "osm_id": 22859198,
+      "name": "Sharada Devi Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 323.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10696472335,
+        2439333823,
+        12350301184,
+        245666579,
+        10696472328,
+        7244122240,
+        10696472346,
+        631507923,
+        245666580,
+        12350391112,
+        10696472343
+      ],
+      "coordinates_3d": [
+        [
+          1965.98,
+          15753.51,
+          0.05
+        ],
+        [
+          1975.9,
+          15744.26,
+          0.05
+        ],
+        [
+          1993.14,
+          15710.73,
+          0.05
+        ],
+        [
+          1999.75,
+          15697.61,
+          0.05
+        ],
+        [
+          2031.91,
+          15633.74,
+          0.05
+        ],
+        [
+          2038.31,
+          15625.81,
+          0.05
+        ],
+        [
+          2043.87,
+          15622.56,
+          0.05
+        ],
+        [
+          2055.93,
+          15623.77,
+          0.05
+        ],
+        [
+          2125.95,
+          15660.98,
+          0.05
+        ],
+        [
+          2128.5,
+          15662.34,
+          0.05
+        ],
+        [
+          2195.43,
+          15695.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859283",
+      "osm_id": 22859283,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 235.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666578,
+        245666591,
+        245666445,
+        245666365,
+        245666245,
+        476506233
+      ],
+      "coordinates_3d": [
+        [
+          1742.1,
+          15633.3,
+          0.05
+        ],
+        [
+          1740.25,
+          15532.61,
+          0.05
+        ],
+        [
+          1740.69,
+          15515.96,
+          0.05
+        ],
+        [
+          1740.57,
+          15479.73,
+          0.05
+        ],
+        [
+          1740.35,
+          15454.75,
+          0.05
+        ],
+        [
+          1736.67,
+          15397.91,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_776413949",
+      "osm_id": 776413949,
+      "name": "Sharada Devi Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 194.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666850,
+        14209064467,
+        2244797381,
+        245666852,
+        245666778
+      ],
+      "coordinates_3d": [
+        [
+          1743.89,
+          15814.4,
+          0.05
+        ],
+        [
+          1836.88,
+          15814.39,
+          0.05
+        ],
+        [
+          1842.97,
+          15814.39,
+          0.05
+        ],
+        [
+          1883.11,
+          15810.31,
+          0.05
+        ],
+        [
+          1931.76,
+          15785.18,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1192361029",
+      "osm_id": 1192361029,
+      "name": "Sharada Devi Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 320.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10732507507,
+        12350391111,
+        10294725029,
+        10696472341,
+        10696472340,
+        10696472339,
+        10696472338,
+        10696472337,
+        11021999392,
+        12350425034,
+        10696472336
+      ],
+      "coordinates_3d": [
+        [
+          2198.68,
+          15689.18,
+          0.05
+        ],
+        [
+          2131.84,
+          15654.78,
+          0.05
+        ],
+        [
+          2123.85,
+          15650.73,
+          0.05
+        ],
+        [
+          2058.6,
+          15617.72,
+          0.05
+        ],
+        [
+          2044.96,
+          15615.62,
+          0.05
+        ],
+        [
+          2037.36,
+          15617.39,
+          0.05
+        ],
+        [
+          2031.5,
+          15622.8,
+          0.05
+        ],
+        [
+          2026.0,
+          15629.83,
+          0.05
+        ],
+        [
+          2010.33,
+          15660.21,
+          0.05
+        ],
+        [
+          1992.85,
+          15694.11,
+          0.05
+        ],
+        [
+          1969.04,
+          15740.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1253603266",
+      "osm_id": 1253603266,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 181.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666850,
+        476507109,
+        245666693,
+        2244797307,
+        245666578
+      ],
+      "coordinates_3d": [
+        [
+          1743.89,
+          15814.4,
+          0.05
+        ],
+        [
+          1742.64,
+          15769.49,
+          0.05
+        ],
+        [
+          1743.16,
+          15740.17,
+          0.05
+        ],
+        [
+          1742.31,
+          15655.16,
+          0.05
+        ],
+        [
+          1742.1,
+          15633.3,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1253603267",
+      "osm_id": 1253603267,
+      "name": "JL Shirshekar Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 109.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666560,
+        245666674
+      ],
+      "coordinates_3d": [
+        [
+          1926.49,
+          15629.78,
+          0.05
+        ],
+        [
+          1928.86,
+          15738.85,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1253603269",
+      "osm_id": 1253603269,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 40.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10696472336,
+        245666674
+      ],
+      "coordinates_3d": [
+        [
+          1969.04,
+          15740.25,
+          0.05
+        ],
+        [
+          1928.86,
+          15738.85,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1366250412",
+      "osm_id": 1366250412,
+      "name": "Sharada Devi Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 46.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666778,
+        245666744,
+        10696472335
+      ],
+      "coordinates_3d": [
+        [
+          1931.76,
+          15785.18,
+          0.05
+        ],
+        [
+          1955.72,
+          15765.91,
+          0.05
+        ],
+        [
+          1965.98,
+          15753.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

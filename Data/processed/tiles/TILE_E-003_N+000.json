@@ -1,0 +1,595 @@
+{
+  "tile_id": "TILE_E-003_N+000",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 0.0,
+    "max_y": 500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.922833,
+    "max_lat": 18.927405,
+    "min_lon": 72.818765,
+    "max_lon": 72.823452
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 13,
+    "road_length_m": 1597.46,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22845980",
+      "osm_id": 22845980,
+      "name": "Free Press Journal Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 231.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176684336,
+        9819307340,
+        9819307338,
+        11047870935,
+        11031501077,
+        11047885005,
+        11031501082,
+        13997302398,
+        2176684445
+      ],
+      "coordinates_3d": [
+        [
+          -1016.71,
+          -7.58,
+          10.39
+        ],
+        [
+          -993.09,
+          20.71,
+          17.01
+        ],
+        [
+          -961.62,
+          58.83,
+          24.62
+        ],
+        [
+          -955.39,
+          66.37,
+          25.86
+        ],
+        [
+          -931.26,
+          95.61,
+          27.19
+        ],
+        [
+          -924.75,
+          103.5,
+          27.25
+        ],
+        [
+          -901.71,
+          131.41,
+          25.7
+        ],
+        [
+          -891.27,
+          143.52,
+          25.69
+        ],
+        [
+          -868.0,
+          170.44,
+          27.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_42347930",
+      "osm_id": 42347930,
+      "name": "Barrister Rajni Patel Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 234.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528644180,
+        528644218,
+        12088314608,
+        528644225,
+        9788769595,
+        2241842819,
+        528644237,
+        245653837,
+        13318691909,
+        9313040216
+      ],
+      "coordinates_3d": [
+        [
+          -815.28,
+          275.17,
+          14.43
+        ],
+        [
+          -829.53,
+          277.03,
+          14.43
+        ],
+        [
+          -853.96,
+          276.78,
+          14.67
+        ],
+        [
+          -874.12,
+          277.99,
+          14.86
+        ],
+        [
+          -909.35,
+          280.76,
+          22.14
+        ],
+        [
+          -931.88,
+          284.37,
+          29.06
+        ],
+        [
+          -978.48,
+          298.74,
+          20.09
+        ],
+        [
+          -1027.66,
+          318.58,
+          11.74
+        ],
+        [
+          -1040.94,
+          326.34,
+          13.64
+        ],
+        [
+          -1041.44,
+          326.63,
+          13.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_402642461",
+      "osm_id": 402642461,
+      "name": "Jamnalal Bajaj Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 12.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9313067504,
+        9313067502
+      ],
+      "coordinates_3d": [
+        [
+          -1136.63,
+          234.37,
+          22.09
+        ],
+        [
+          -1128.34,
+          244.29,
+          23.44
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1009368758",
+      "osm_id": 1009368758,
+      "name": "Barrister Rajni Patel Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 228.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653869,
+        2176684869,
+        13701170795,
+        2241842857,
+        12373566825,
+        2176684859,
+        13318691910,
+        2176684763
+      ],
+      "coordinates_3d": [
+        [
+          -1183.84,
+          518.87,
+          25.35
+        ],
+        [
+          -1167.59,
+          481.14,
+          36.37
+        ],
+        [
+          -1151.56,
+          452.87,
+          41.43
+        ],
+        [
+          -1146.68,
+          444.27,
+          39.78
+        ],
+        [
+          -1140.45,
+          435.76,
+          37.32
+        ],
+        [
+          -1077.42,
+          361.53,
+          17.53
+        ],
+        [
+          -1046.86,
+          342.01,
+          14.2
+        ],
+        [
+          -1046.32,
+          341.67,
+          14.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136641413",
+      "osm_id": 1136641413,
+      "name": "Vinayak K Shah Marg",
+      "highway": "tertiary",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 225.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9313067504,
+        11029997825,
+        13005872832,
+        245653829,
+        459457477,
+        245653840
+      ],
+      "coordinates_3d": [
+        [
+          -1136.63,
+          234.37,
+          22.09
+        ],
+        [
+          -1183.84,
+          273.42,
+          24.07
+        ],
+        [
+          -1195.4,
+          282.98,
+          22.67
+        ],
+        [
+          -1248.0,
+          326.48,
+          10.22
+        ],
+        [
+          -1272.25,
+          346.53,
+          11.33
+        ],
+        [
+          -1310.35,
+          378.04,
+          20.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136641415",
+      "osm_id": 1136641415,
+      "name": "Vinayak K Shah Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 104.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653840,
+        528622444
+      ],
+      "coordinates_3d": [
+        [
+          -1310.35,
+          378.04,
+          20.76
+        ],
+        [
+          -1391.15,
+          444.85,
+          4.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240185725",
+      "osm_id": 1240185725,
+      "name": "Free Press Journal Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 240.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653788,
+        9949164579,
+        245653778,
+        2176684334,
+        2176684336
+      ],
+      "coordinates_3d": [
+        [
+          -859.6,
+          162.5,
+          21.64
+        ],
+        [
+          -922.05,
+          91.9,
+          24.1
+        ],
+        [
+          -1008.97,
+          -13.16,
+          9.86
+        ],
+        [
+          -1013.41,
+          -10.35,
+          10.22
+        ],
+        [
+          -1016.71,
+          -7.58,
+          10.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765608",
+      "osm_id": 1240765608,
+      "name": "Jamnalal Bajaj Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 118.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9313067503,
+        14008017385,
+        12309203496,
+        9313067502
+      ],
+      "coordinates_3d": [
+        [
+          -1052.45,
+          334.19,
+          15.74
+        ],
+        [
+          -1091.58,
+          282.66,
+          26.97
+        ],
+        [
+          -1113.72,
+          253.5,
+          25.16
+        ],
+        [
+          -1128.34,
+          244.29,
+          23.44
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765611",
+      "osm_id": 1240765611,
+      "name": "Barrister Rajni Patel Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 13.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9313040216,
+        12343177493,
+        9313067503
+      ],
+      "coordinates_3d": [
+        [
+          -1041.44,
+          326.63,
+          13.72
+        ],
+        [
+          -1046.05,
+          329.8,
+          14.46
+        ],
+        [
+          -1052.45,
+          334.19,
+          15.74
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1308550069",
+      "osm_id": 1308550069,
+      "name": "Barrister Rajni Patel Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 12.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176684763,
+        9313040215
+      ],
+      "coordinates_3d": [
+        [
+          -1046.32,
+          341.67,
+          14.1
+        ],
+        [
+          -1036.09,
+          335.01,
+          12.65
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444852908",
+      "osm_id": 1444852908,
+      "name": "Sir Dorab Tata Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 12.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653855,
+        9313067505
+      ],
+      "coordinates_3d": [
+        [
+          -1401.54,
+          453.44,
+          2.13
+        ],
+        [
+          -1393.18,
+          463.31,
+          3.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1452271232",
+      "osm_id": 1452271232,
+      "name": "Vinayak K Shah Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 13.48,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528622444,
+        245653855
+      ],
+      "coordinates_3d": [
+        [
+          -1391.15,
+          444.85,
+          4.37
+        ],
+        [
+          -1401.54,
+          453.44,
+          2.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1452271233",
+      "osm_id": 1452271233,
+      "name": "Sir Dorab Tata Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 148.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9313067505,
+        12378144234
+      ],
+      "coordinates_3d": [
+        [
+          -1393.18,
+          463.31,
+          3.33
+        ],
+        [
+          -1297.32,
+          576.53,
+          3.86
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

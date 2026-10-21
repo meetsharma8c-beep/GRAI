@@ -1,0 +1,698 @@
+{
+  "tile_id": "TILE_E+002_N+008",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 4000.0,
+    "max_y": 4500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.959236,
+    "max_lat": 18.963807,
+    "min_lon": 72.842026,
+    "max_lon": 72.846714
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 12,
+    "road_length_m": 3738.27,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22850562",
+      "osm_id": 22850562,
+      "name": "Muzawar Pakhadi Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 590.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656354,
+        11143263708,
+        11143248398,
+        700746553,
+        11143248397,
+        700742310,
+        12444109101,
+        245656725,
+        11054109503,
+        8678095816,
+        245656871
+      ],
+      "coordinates_3d": [
+        [
+          1408.8,
+          4138.59,
+          8.25
+        ],
+        [
+          1416.01,
+          4171.96,
+          7.61
+        ],
+        [
+          1454.88,
+          4351.87,
+          6.61
+        ],
+        [
+          1455.49,
+          4354.7,
+          6.72
+        ],
+        [
+          1457.79,
+          4364.54,
+          7.34
+        ],
+        [
+          1472.46,
+          4435.46,
+          10.85
+        ],
+        [
+          1501.25,
+          4547.83,
+          10.99
+        ],
+        [
+          1508.07,
+          4574.47,
+          11.99
+        ],
+        [
+          1533.45,
+          4665.57,
+          12.32
+        ],
+        [
+          1536.08,
+          4675.02,
+          12.06
+        ],
+        [
+          1546.45,
+          4712.23,
+          10.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_55784549",
+      "osm_id": 55784549,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 487.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        700736527,
+        11068221212,
+        700736511,
+        700736536,
+        700736521,
+        700736541,
+        700736523,
+        700736550,
+        700736532,
+        700736515,
+        700736512,
+        245656132
+      ],
+      "coordinates_3d": [
+        [
+          1775.09,
+          3773.07,
+          1.05
+        ],
+        [
+          1770.53,
+          3776.92,
+          1.05
+        ],
+        [
+          1762.94,
+          3783.7,
+          1.05
+        ],
+        [
+          1620.98,
+          3840.84,
+          3.8
+        ],
+        [
+          1590.74,
+          3843.82,
+          4.61
+        ],
+        [
+          1539.99,
+          3857.97,
+          2.7
+        ],
+        [
+          1514.29,
+          3873.55,
+          2.79
+        ],
+        [
+          1455.21,
+          3888.24,
+          3.97
+        ],
+        [
+          1439.95,
+          3896.27,
+          4.66
+        ],
+        [
+          1430.05,
+          3912.54,
+          5.01
+        ],
+        [
+          1429.69,
+          3990.43,
+          6.19
+        ],
+        [
+          1433.36,
+          4019.96,
+          6.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1121664478",
+      "osm_id": 1121664478,
+      "name": "Malet Bandar Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 33.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656132,
+        700736537
+      ],
+      "coordinates_3d": [
+        [
+          1433.36,
+          4019.96,
+          6.91
+        ],
+        [
+          1403.88,
+          4035.93,
+          6.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145112128",
+      "osm_id": 1145112128,
+      "name": "Muzawar Pakhadi Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 103.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        700736537,
+        10259205317,
+        245656354
+      ],
+      "coordinates_3d": [
+        [
+          1403.88,
+          4035.93,
+          6.47
+        ],
+        [
+          1409.99,
+          4057.35,
+          6.0
+        ],
+        [
+          1408.8,
+          4138.59,
+          8.25
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237545825",
+      "osm_id": 1237545825,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 480.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656132,
+        700736551,
+        700736526,
+        700736543,
+        700736514,
+        700736531,
+        700736549,
+        700736535,
+        700736533,
+        11068221213
+      ],
+      "coordinates_3d": [
+        [
+          1433.36,
+          4019.96,
+          6.91
+        ],
+        [
+          1440.21,
+          3988.98,
+          5.46
+        ],
+        [
+          1439.73,
+          3914.82,
+          4.46
+        ],
+        [
+          1447.92,
+          3902.07,
+          4.25
+        ],
+        [
+          1459.71,
+          3896.69,
+          3.98
+        ],
+        [
+          1518.79,
+          3882.88,
+          3.32
+        ],
+        [
+          1546.26,
+          3868.15,
+          3.05
+        ],
+        [
+          1621.52,
+          3849.12,
+          3.47
+        ],
+        [
+          1782.26,
+          3784.34,
+          1.05
+        ],
+        [
+          1785.53,
+          3781.72,
+          1.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22851312",
+      "osm_id": 22851312,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 616.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656885,
+        10282074758,
+        245656844,
+        2176144865,
+        2176144863,
+        2176144844,
+        2176144843,
+        9868433322,
+        2176144841,
+        11929919469,
+        11929911054,
+        12449363009,
+        12449363014,
+        2176144839
+      ],
+      "coordinates_3d": [
+        [
+          1231.26,
+          4688.11,
+          14.03
+        ],
+        [
+          1219.79,
+          4667.33,
+          13.15
+        ],
+        [
+          1204.43,
+          4634.83,
+          10.08
+        ],
+        [
+          1197.25,
+          4601.58,
+          10.06
+        ],
+        [
+          1196.3,
+          4565.02,
+          11.74
+        ],
+        [
+          1203.53,
+          4530.2,
+          10.36
+        ],
+        [
+          1225.92,
+          4475.34,
+          6.84
+        ],
+        [
+          1227.33,
+          4451.89,
+          6.69
+        ],
+        [
+          1227.74,
+          4445.01,
+          6.57
+        ],
+        [
+          1222.25,
+          4422.38,
+          5.79
+        ],
+        [
+          1212.54,
+          4382.34,
+          4.61
+        ],
+        [
+          1170.3,
+          4208.18,
+          2.08
+        ],
+        [
+          1162.71,
+          4176.9,
+          3.21
+        ],
+        [
+          1142.71,
+          4094.43,
+          6.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_55784553",
+      "osm_id": 55784553,
+      "name": "Malet Bandar Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 216.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        700736537,
+        10259202079,
+        12902600290,
+        245656173
+      ],
+      "coordinates_3d": [
+        [
+          1403.88,
+          4035.93,
+          6.47
+        ],
+        [
+          1370.83,
+          4044.34,
+          6.27
+        ],
+        [
+          1211.12,
+          4083.72,
+          6.08
+        ],
+        [
+          1193.12,
+          4087.25,
+          7.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261156",
+      "osm_id": 647261156,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 613.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656245,
+        11929911055,
+        11929904068,
+        2176144842,
+        245656633,
+        245656708,
+        475993106,
+        475993114,
+        10282074754,
+        10282074755,
+        11494602133
+      ],
+      "coordinates_3d": [
+        [
+          1129.59,
+          4097.56,
+          5.77
+        ],
+        [
+          1199.34,
+          4386.06,
+          4.89
+        ],
+        [
+          1208.76,
+          4425.02,
+          5.22
+        ],
+        [
+          1214.25,
+          4447.68,
+          5.35
+        ],
+        [
+          1214.3,
+          4474.61,
+          4.73
+        ],
+        [
+          1196.39,
+          4528.95,
+          9.61
+        ],
+        [
+          1189.15,
+          4564.99,
+          11.42
+        ],
+        [
+          1188.6,
+          4603.73,
+          9.63
+        ],
+        [
+          1196.19,
+          4637.93,
+          10.85
+        ],
+        [
+          1214.08,
+          4677.51,
+          14.39
+        ],
+        [
+          1221.67,
+          4690.87,
+          15.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145105898",
+      "osm_id": 1145105898,
+      "name": "Malet Bandar Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 51.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656173,
+        12902600293,
+        245656228,
+        2176144839
+      ],
+      "coordinates_3d": [
+        [
+          1193.12,
+          4087.25,
+          7.01
+        ],
+        [
+          1183.74,
+          4086.8,
+          7.3
+        ],
+        [
+          1175.11,
+          4086.71,
+          7.57
+        ],
+        [
+          1142.71,
+          4094.43,
+          6.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237545821",
+      "osm_id": 1237545821,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 269.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144837,
+        245656245
+      ],
+      "coordinates_3d": [
+        [
+          1066.88,
+          3835.83,
+          4.43
+        ],
+        [
+          1129.59,
+          4097.56,
+          5.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573833",
+      "osm_id": 1237573833,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 262.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144839,
+        5330552414
+      ],
+      "coordinates_3d": [
+        [
+          1142.71,
+          4094.43,
+          6.43
+        ],
+        [
+          1080.92,
+          3839.63,
+          4.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573834",
+      "osm_id": 1237573834,
+      "name": "Malet Bandar Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 13.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144839,
+        245656245
+      ],
+      "coordinates_3d": [
+        [
+          1142.71,
+          4094.43,
+          6.43
+        ],
+        [
+          1129.59,
+          4097.56,
+          5.77
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

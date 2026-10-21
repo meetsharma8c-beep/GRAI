@@ -1,0 +1,371 @@
+{
+  "tile_id": "TILE_E-003_N+012",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 6000.0,
+    "max_y": 6500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.97702,
+    "max_lat": 18.981592,
+    "min_lon": 72.818061,
+    "max_lon": 72.822748
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 9,
+    "road_length_m": 1012.07,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_988421628",
+      "osm_id": 988421628,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 64.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3878649594,
+        245658152
+      ],
+      "coordinates_3d": [
+        [
+          -1103.66,
+          6324.98,
+          7.34
+        ],
+        [
+          -1166.65,
+          6312.25,
+          7.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_988421629",
+      "osm_id": 988421629,
+      "name": "Dr E Moses Marg",
+      "highway": "construction",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:construction",
+      "length_m": 32.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6168435925,
+        8675232535,
+        768595325
+      ],
+      "coordinates_3d": [
+        [
+          -1146.79,
+          6328.09,
+          9.14
+        ],
+        [
+          -1122.5,
+          6332.81,
+          9.49
+        ],
+        [
+          -1114.57,
+          6334.35,
+          9.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239287369",
+      "osm_id": 1239287369,
+      "name": "Keshavrao Khadye Marg",
+      "highway": "construction",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:construction",
+      "length_m": 190.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13997533216,
+        10099954518
+      ],
+      "coordinates_3d": [
+        [
+          -1353.85,
+          6284.52,
+          7.63
+        ],
+        [
+          -1167.25,
+          6323.94,
+          8.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239287372",
+      "osm_id": 1239287372,
+      "name": "Dr E Moses Marg",
+      "highway": "construction",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:construction",
+      "length_m": 57.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        768595325,
+        3878649598,
+        768595326,
+        10099954517
+      ],
+      "coordinates_3d": [
+        [
+          -1114.57,
+          6334.35,
+          9.47
+        ],
+        [
+          -1084.63,
+          6346.97,
+          7.01
+        ],
+        [
+          -1071.61,
+          6356.84,
+          6.69
+        ],
+        [
+          -1065.85,
+          6362.72,
+          6.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239287373",
+      "osm_id": 1239287373,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 78.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658209,
+        12408811462,
+        12159350798,
+        245658188,
+        3878649596,
+        3878649594
+      ],
+      "coordinates_3d": [
+        [
+          -1044.51,
+          6374.2,
+          6.42
+        ],
+        [
+          -1048.74,
+          6368.75,
+          6.13
+        ],
+        [
+          -1052.85,
+          6363.44,
+          5.79
+        ],
+        [
+          -1062.15,
+          6351.43,
+          5.17
+        ],
+        [
+          -1079.22,
+          6336.85,
+          5.46
+        ],
+        [
+          -1103.66,
+          6324.98,
+          7.34
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239340602",
+      "osm_id": 1239340602,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 273.02,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658338,
+        6581423127,
+        6581423128,
+        245658209
+      ],
+      "coordinates_3d": [
+        [
+          -888.15,
+          6598.01,
+          9.78
+        ],
+        [
+          -977.41,
+          6470.24,
+          11.78
+        ],
+        [
+          -1027.4,
+          6398.69,
+          12.82
+        ],
+        [
+          -1044.51,
+          6374.2,
+          11.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239340606",
+      "osm_id": 1239340606,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 274.06,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12159350797,
+        6581423129,
+        6581423126,
+        768595237
+      ],
+      "coordinates_3d": [
+        [
+          -1054.16,
+          6379.96,
+          13.51
+        ],
+        [
+          -1036.77,
+          6404.78,
+          13.97
+        ],
+        [
+          -986.71,
+          6476.2,
+          11.59
+        ],
+        [
+          -896.96,
+          6604.45,
+          10.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1313666897",
+      "osm_id": 1313666897,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 20.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10099954517,
+        13432439162,
+        768595327,
+        12159350797
+      ],
+      "coordinates_3d": [
+        [
+          -1065.85,
+          6362.72,
+          6.83
+        ],
+        [
+          -1057.68,
+          6374.68,
+          7.63
+        ],
+        [
+          -1055.44,
+          6378.15,
+          7.89
+        ],
+        [
+          -1054.16,
+          6379.96,
+          8.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1464354108",
+      "osm_id": 1464354108,
+      "name": "Keshavrao Khadye Marg",
+      "highway": "construction",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:construction",
+      "length_m": 20.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10099954518,
+        6168435925
+      ],
+      "coordinates_3d": [
+        [
+          -1167.25,
+          6323.94,
+          8.87
+        ],
+        [
+          -1146.79,
+          6328.09,
+          9.14
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

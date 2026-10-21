@@ -1,0 +1,821 @@
+{
+  "tile_id": "TILE_E-002_N+003",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 1500.0,
+    "max_y": 2000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.936436,
+    "max_lat": 18.941007,
+    "min_lon": 72.823335,
+    "max_lon": 72.828021
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 15,
+    "road_length_m": 3149.79,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_373571811",
+      "osm_id": 373571811,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 589.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        461490081,
+        355834712,
+        2244632742,
+        2244632740,
+        2244632738,
+        2244632736,
+        7345775414,
+        2244632733,
+        2244632731,
+        2175541372,
+        13997654006,
+        245654423,
+        13997654008,
+        245654400,
+        245654359
+      ],
+      "coordinates_3d": [
+        [
+          -697.42,
+          2149.0,
+          7.03
+        ],
+        [
+          -687.72,
+          2130.02,
+          7.31
+        ],
+        [
+          -678.8,
+          2106.26,
+          9.3
+        ],
+        [
+          -666.78,
+          2073.93,
+          13.48
+        ],
+        [
+          -657.06,
+          2037.83,
+          12.43
+        ],
+        [
+          -649.86,
+          2008.18,
+          9.75
+        ],
+        [
+          -637.4,
+          1978.54,
+          8.86
+        ],
+        [
+          -627.3,
+          1944.98,
+          13.25
+        ],
+        [
+          -620.12,
+          1917.56,
+          14.24
+        ],
+        [
+          -618.21,
+          1910.97,
+          14.35
+        ],
+        [
+          -605.5,
+          1857.45,
+          15.82
+        ],
+        [
+          -591.89,
+          1780.85,
+          10.37
+        ],
+        [
+          -584.06,
+          1721.05,
+          13.07
+        ],
+        [
+          -578.55,
+          1665.67,
+          8.83
+        ],
+        [
+          -571.35,
+          1576.73,
+          9.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137487205",
+      "osm_id": 1137487205,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 586.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6133809574,
+        2175541348,
+        9133367183,
+        9133367182,
+        2175541366,
+        9820350985,
+        9133367191,
+        9133367190,
+        2175541369,
+        13997654005,
+        13997654004,
+        13997654003,
+        2175541380,
+        5878590691
+      ],
+      "coordinates_3d": [
+        [
+          -578.22,
+          1576.74,
+          9.2
+        ],
+        [
+          -585.75,
+          1664.9,
+          8.31
+        ],
+        [
+          -588.36,
+          1682.53,
+          9.84
+        ],
+        [
+          -592.68,
+          1725.47,
+          12.02
+        ],
+        [
+          -598.46,
+          1769.51,
+          9.49
+        ],
+        [
+          -600.12,
+          1777.38,
+          9.25
+        ],
+        [
+          -612.22,
+          1844.81,
+          13.15
+        ],
+        [
+          -624.09,
+          1899.77,
+          13.74
+        ],
+        [
+          -625.56,
+          1906.21,
+          13.61
+        ],
+        [
+          -632.09,
+          1936.88,
+          12.61
+        ],
+        [
+          -639.29,
+          1963.99,
+          10.28
+        ],
+        [
+          -663.57,
+          2036.56,
+          12.3
+        ],
+        [
+          -684.55,
+          2098.95,
+          10.45
+        ],
+        [
+          -705.0,
+          2146.47,
+          7.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241028624",
+      "osm_id": 1241028624,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 91.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654359,
+        2242540299,
+        6601747697,
+        245654309
+      ],
+      "coordinates_3d": [
+        [
+          -571.35,
+          1576.73,
+          9.9
+        ],
+        [
+          -568.84,
+          1538.89,
+          9.92
+        ],
+        [
+          -568.38,
+          1500.15,
+          11.84
+        ],
+        [
+          -567.87,
+          1485.33,
+          13.65
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241028625",
+      "osm_id": 1241028625,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 92.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2175541312,
+        6601747696,
+        6133809574
+      ],
+      "coordinates_3d": [
+        [
+          -574.18,
+          1484.64,
+          12.98
+        ],
+        [
+          -574.66,
+          1500.37,
+          11.12
+        ],
+        [
+          -578.22,
+          1576.74,
+          9.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_654614290",
+      "osm_id": 654614290,
+      "name": "N Thackersey Road (Carnegy Road)",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 6.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654359,
+        6133809574
+      ],
+      "coordinates_3d": [
+        [
+          -571.35,
+          1576.73,
+          9.9
+        ],
+        [
+          -578.22,
+          1576.74,
+          9.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136622916",
+      "osm_id": 1136622916,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 53.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400907,
+        13167809418,
+        2241843189
+      ],
+      "coordinates_3d": [
+        [
+          -898.7,
+          1562.24,
+          9.76
+        ],
+        [
+          -899.42,
+          1554.02,
+          10.62
+        ],
+        [
+          -904.5,
+          1509.33,
+          14.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136629033",
+      "osm_id": 1136629033,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 36.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2244783256,
+        12793884518,
+        13073684410
+      ],
+      "coordinates_3d": [
+        [
+          -897.95,
+          1609.08,
+          6.97
+        ],
+        [
+          -897.93,
+          1606.98,
+          7.01
+        ],
+        [
+          -897.89,
+          1573.02,
+          8.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136629034",
+      "osm_id": 1136629034,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 42.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13167820405,
+        8605035721
+      ],
+      "coordinates_3d": [
+        [
+          -911.0,
+          1573.75,
+          7.67
+        ],
+        [
+          -910.83,
+          1616.48,
+          5.07
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136639105",
+      "osm_id": 1136639105,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 324.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10595675492,
+        13167783546,
+        13236079125,
+        1236410262,
+        13257254189
+      ],
+      "coordinates_3d": [
+        [
+          -976.97,
+          1195.31,
+          6.81
+        ],
+        [
+          -974.63,
+          1203.36,
+          7.04
+        ],
+        [
+          -953.9,
+          1285.74,
+          4.59
+        ],
+        [
+          -936.17,
+          1370.44,
+          4.5
+        ],
+        [
+          -918.22,
+          1513.95,
+          12.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1308550070",
+      "osm_id": 1308550070,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 140.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2241843189,
+        486400933,
+        11069001000,
+        13700869311,
+        486400953
+      ],
+      "coordinates_3d": [
+        [
+          -904.5,
+          1509.33,
+          14.22
+        ],
+        [
+          -910.5,
+          1456.51,
+          11.62
+        ],
+        [
+          -915.38,
+          1419.96,
+          8.44
+        ],
+        [
+          -915.8,
+          1417.06,
+          8.3
+        ],
+        [
+          -922.64,
+          1370.36,
+          5.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1430000529",
+      "osm_id": 1430000529,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 583.45,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12506352386,
+        13167751626,
+        2244783330,
+        2244783321,
+        486390343,
+        2244783307,
+        2244783300,
+        486390460,
+        2244783294,
+        2244783289,
+        486390469,
+        2244783283,
+        2244783277,
+        2244783271,
+        2244783267,
+        2244783263,
+        2244783259,
+        2244783256
+      ],
+      "coordinates_3d": [
+        [
+          -973.31,
+          2185.09,
+          7.84
+        ],
+        [
+          -971.84,
+          2178.43,
+          7.57
+        ],
+        [
+          -961.89,
+          2141.81,
+          7.24
+        ],
+        [
+          -952.79,
+          2108.74,
+          6.74
+        ],
+        [
+          -940.94,
+          2061.0,
+          6.98
+        ],
+        [
+          -930.73,
+          2013.39,
+          9.84
+        ],
+        [
+          -923.86,
+          1970.27,
+          13.33
+        ],
+        [
+          -920.64,
+          1945.09,
+          15.52
+        ],
+        [
+          -918.48,
+          1932.72,
+          15.64
+        ],
+        [
+          -913.2,
+          1896.79,
+          13.75
+        ],
+        [
+          -908.75,
+          1869.05,
+          10.79
+        ],
+        [
+          -907.08,
+          1856.51,
+          9.69
+        ],
+        [
+          -902.35,
+          1812.88,
+          9.87
+        ],
+        [
+          -900.76,
+          1773.21,
+          10.36
+        ],
+        [
+          -897.77,
+          1733.12,
+          9.0
+        ],
+        [
+          -897.78,
+          1688.76,
+          8.15
+        ],
+        [
+          -897.99,
+          1647.48,
+          4.77
+        ],
+        [
+          -897.95,
+          1609.08,
+          6.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444852906",
+      "osm_id": 1444852906,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 531.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8605035721,
+        5730056115,
+        245654398,
+        245654422,
+        245654458,
+        2184393635,
+        2184393641,
+        13257254184
+      ],
+      "coordinates_3d": [
+        [
+          -910.83,
+          1616.48,
+          5.07
+        ],
+        [
+          -910.02,
+          1706.05,
+          6.01
+        ],
+        [
+          -909.76,
+          1734.26,
+          6.81
+        ],
+        [
+          -911.89,
+          1781.93,
+          9.57
+        ],
+        [
+          -919.65,
+          1866.24,
+          9.63
+        ],
+        [
+          -932.73,
+          1946.74,
+          13.59
+        ],
+        [
+          -954.27,
+          2056.11,
+          5.78
+        ],
+        [
+          -975.16,
+          2142.24,
+          5.86
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444852911",
+      "osm_id": 1444852911,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 50.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13257254189,
+        13073684411,
+        245654298
+      ],
+      "coordinates_3d": [
+        [
+          -918.22,
+          1513.95,
+          12.67
+        ],
+        [
+          -913.06,
+          1555.32,
+          9.75
+        ],
+        [
+          -911.96,
+          1563.86,
+          8.85
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444853967",
+      "osm_id": 1444853967,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 10.81,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13073684410,
+        486400907
+      ],
+      "coordinates_3d": [
+        [
+          -897.89,
+          1573.02,
+          8.72
+        ],
+        [
+          -898.7,
+          1562.24,
+          9.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1453296553",
+      "osm_id": 1453296553,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 9.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654298,
+        13167820405
+      ],
+      "coordinates_3d": [
+        [
+          -911.96,
+          1563.86,
+          8.85
+        ],
+        [
+          -911.0,
+          1573.75,
+          7.67
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

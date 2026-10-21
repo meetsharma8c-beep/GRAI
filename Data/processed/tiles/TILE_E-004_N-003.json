@@ -1,0 +1,273 @@
+{
+  "tile_id": "TILE_E-004_N-003",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": -1500.0,
+    "max_y": -1000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.909231,
+    "max_lat": 18.913802,
+    "min_lon": 72.814196,
+    "max_lon": 72.818882
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 5,
+    "road_length_m": 1003.91,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22846453",
+      "osm_id": 22846453,
+      "name": "S Vaswani Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 8.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653086,
+        4307040326
+      ],
+      "coordinates_3d": [
+        [
+          -1487.21,
+          -1287.18,
+          7.38
+        ],
+        [
+          -1493.53,
+          -1281.25,
+          6.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_425101247",
+      "osm_id": 425101247,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 266.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040305,
+        4307040309,
+        11056101722,
+        1278344000,
+        4307040318,
+        4307040324,
+        4307040325,
+        4307040326
+      ],
+      "coordinates_3d": [
+        [
+          -1679.94,
+          -1469.8,
+          7.4
+        ],
+        [
+          -1670.87,
+          -1451.54,
+          6.5
+        ],
+        [
+          -1656.45,
+          -1436.94,
+          6.45
+        ],
+        [
+          -1627.67,
+          -1407.79,
+          6.46
+        ],
+        [
+          -1574.04,
+          -1353.2,
+          6.07
+        ],
+        [
+          -1544.31,
+          -1326.03,
+          6.58
+        ],
+        [
+          -1516.04,
+          -1303.05,
+          6.87
+        ],
+        [
+          -1493.53,
+          -1281.25,
+          6.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_556491643",
+      "osm_id": 556491643,
+      "name": "S Vaswani Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 463.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040326,
+        9348211569,
+        1278343815,
+        9513750368,
+        9315182294,
+        11061240764,
+        486072716,
+        245653212,
+        245653223
+      ],
+      "coordinates_3d": [
+        [
+          -1493.53,
+          -1281.25,
+          6.79
+        ],
+        [
+          -1519.77,
+          -1255.14,
+          6.28
+        ],
+        [
+          -1604.93,
+          -1184.36,
+          6.7
+        ],
+        [
+          -1629.26,
+          -1158.02,
+          5.24
+        ],
+        [
+          -1553.73,
+          -1064.35,
+          6.48
+        ],
+        [
+          -1544.99,
+          -1053.48,
+          7.4
+        ],
+        [
+          -1490.76,
+          -986.13,
+          9.77
+        ],
+        [
+          -1476.37,
+          -967.94,
+          10.62
+        ],
+        [
+          -1454.62,
+          -939.93,
+          11.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_818279567",
+      "osm_id": 818279567,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 19.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2241842315,
+        4307040305
+      ],
+      "coordinates_3d": [
+        [
+          -1665.55,
+          -1456.37,
+          7.0
+        ],
+        [
+          -1679.94,
+          -1469.8,
+          7.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237732049",
+      "osm_id": 1237732049,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 246.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653086,
+        1278569769,
+        4307040323,
+        2241842344,
+        2241842315
+      ],
+      "coordinates_3d": [
+        [
+          -1487.21,
+          -1287.18,
+          7.38
+        ],
+        [
+          -1505.09,
+          -1303.54,
+          7.33
+        ],
+        [
+          -1536.78,
+          -1328.16,
+          6.9
+        ],
+        [
+          -1568.51,
+          -1357.55,
+          6.59
+        ],
+        [
+          -1665.55,
+          -1456.37,
+          7.0
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

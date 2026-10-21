@@ -1,0 +1,409 @@
+{
+  "tile_id": "TILE_E+002_N+025",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 12500.0,
+    "max_y": 13000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.036001,
+    "max_lat": 19.040572,
+    "min_lon": 72.841036,
+    "max_lon": 72.845726
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 7,
+    "road_length_m": 2246.67,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_1092043279",
+      "osm_id": 1092043279,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 691.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        674869953,
+        11058973857,
+        5271602956,
+        5271602951,
+        5271602946,
+        5271602944,
+        13551155701,
+        9598016735,
+        5271602938
+      ],
+      "coordinates_3d": [
+        [
+          916.38,
+          13260.95,
+          0.05
+        ],
+        [
+          1001.46,
+          13075.61,
+          0.05
+        ],
+        [
+          1025.43,
+          13023.37,
+          0.05
+        ],
+        [
+          1059.53,
+          12947.06,
+          0.05
+        ],
+        [
+          1102.97,
+          12822.52,
+          0.05
+        ],
+        [
+          1112.68,
+          12771.15,
+          0.05
+        ],
+        [
+          1114.97,
+          12758.02,
+          0.05
+        ],
+        [
+          1128.37,
+          12681.39,
+          0.05
+        ],
+        [
+          1139.23,
+          12610.83,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145064276",
+      "osm_id": 1145064276,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 686.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662760,
+        13506472498,
+        10579711469,
+        245662917,
+        2128607208,
+        245662966,
+        8678998804,
+        245663074,
+        3704031690,
+        245663303,
+        245663409
+      ],
+      "coordinates_3d": [
+        [
+          1129.59,
+          12611.77,
+          0.05
+        ],
+        [
+          1121.58,
+          12678.92,
+          0.05
+        ],
+        [
+          1110.74,
+          12743.09,
+          0.05
+        ],
+        [
+          1102.76,
+          12773.78,
+          0.05
+        ],
+        [
+          1097.51,
+          12789.28,
+          0.05
+        ],
+        [
+          1091.86,
+          12819.81,
+          0.05
+        ],
+        [
+          1087.19,
+          12835.48,
+          0.05
+        ],
+        [
+          1048.76,
+          12943.03,
+          0.05
+        ],
+        [
+          1014.83,
+          13018.56,
+          0.05
+        ],
+        [
+          946.59,
+          13171.95,
+          0.05
+        ],
+        [
+          905.81,
+          13256.16,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145068121",
+      "osm_id": 1145068121,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 179.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5271602938,
+        12721850246,
+        11023548664,
+        5271602930
+      ],
+      "coordinates_3d": [
+        [
+          1139.23,
+          12610.83,
+          0.05
+        ],
+        [
+          1141.06,
+          12588.5,
+          0.05
+        ],
+        [
+          1146.97,
+          12516.59,
+          0.05
+        ],
+        [
+          1144.67,
+          12431.26,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1391796336",
+      "osm_id": 1391796336,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 156.81,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662646,
+        11023548663,
+        12721850245
+      ],
+      "coordinates_3d": [
+        [
+          1133.75,
+          12431.82,
+          0.05
+        ],
+        [
+          1135.94,
+          12515.61,
+          0.05
+        ],
+        [
+          1131.45,
+          12588.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1391796337",
+      "osm_id": 1391796337,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 23.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12721850245,
+        245662760
+      ],
+      "coordinates_3d": [
+        [
+          1131.45,
+          12588.46,
+          0.05
+        ],
+        [
+          1129.59,
+          12611.77,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22849470",
+      "osm_id": 22849470,
+      "name": "L. J. Cross Road No 2",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 209.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245663073,
+        245663042,
+        245663043,
+        245663074
+      ],
+      "coordinates_3d": [
+        [
+          843.31,
+          12941.99,
+          0.05
+        ],
+        [
+          926.3,
+          12929.26,
+          0.05
+        ],
+        [
+          972.69,
+          12923.71,
+          0.05
+        ],
+        [
+          1048.76,
+          12943.03,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22849520",
+      "osm_id": 22849520,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 299.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662848,
+        2294332803,
+        245662872,
+        2128607212,
+        245662941,
+        10956828319,
+        12069214348,
+        9598020548,
+        11058922240,
+        245663043
+      ],
+      "coordinates_3d": [
+        [
+          877.38,
+          12697.44,
+          0.05
+        ],
+        [
+          912.71,
+          12709.1,
+          0.05
+        ],
+        [
+          990.75,
+          12752.73,
+          0.05
+        ],
+        [
+          992.88,
+          12777.13,
+          0.05
+        ],
+        [
+          990.56,
+          12794.21,
+          0.05
+        ],
+        [
+          989.23,
+          12803.82,
+          0.05
+        ],
+        [
+          988.21,
+          12811.15,
+          0.05
+        ],
+        [
+          985.5,
+          12830.63,
+          0.05
+        ],
+        [
+          976.71,
+          12893.96,
+          0.05
+        ],
+        [
+          972.69,
+          12923.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

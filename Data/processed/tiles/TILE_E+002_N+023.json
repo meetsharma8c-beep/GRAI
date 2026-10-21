@@ -1,0 +1,763 @@
+{
+  "tile_id": "TILE_E+002_N+023",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 11500.0,
+    "max_y": 12000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.02697,
+    "max_lat": 19.031541,
+    "min_lon": 72.841152,
+    "max_lon": 72.845842
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 13,
+    "road_length_m": 3216.71,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_48803914",
+      "osm_id": 48803914,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 705.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5271602112,
+        5271602102,
+        5271602095,
+        13542582002,
+        245661871,
+        7371092122,
+        5271602088,
+        5271602086,
+        5271602084
+      ],
+      "coordinates_3d": [
+        [
+          1104.51,
+          12001.85,
+          0.05
+        ],
+        [
+          1068.49,
+          11833.19,
+          0.05
+        ],
+        [
+          1034.66,
+          11674.81,
+          0.05
+        ],
+        [
+          1032.66,
+          11665.91,
+          0.05
+        ],
+        [
+          1024.93,
+          11631.5,
+          0.05
+        ],
+        [
+          1020.2,
+          11609.34,
+          0.05
+        ],
+        [
+          987.7,
+          11452.91,
+          0.05
+        ],
+        [
+          968.22,
+          11348.87,
+          0.05
+        ],
+        [
+          951.69,
+          11314.02,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_122140431",
+      "osm_id": 122140431,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 262.24,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1365560132,
+        1365560131,
+        10629587075,
+        245662117,
+        1365560130,
+        1365560133
+      ],
+      "coordinates_3d": [
+        [
+          1761.35,
+          11873.65,
+          5.55
+        ],
+        [
+          1743.67,
+          11863.66,
+          5.55
+        ],
+        [
+          1732.92,
+          11859.37,
+          5.55
+        ],
+        [
+          1722.93,
+          11858.41,
+          5.55
+        ],
+        [
+          1701.32,
+          11862.36,
+          5.55
+        ],
+        [
+          1507.69,
+          11905.41,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_741809418",
+      "osm_id": 741809418,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 327.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662295,
+        6428553778,
+        13551140428,
+        7459352399,
+        245662306,
+        245662324,
+        9909512441
+      ],
+      "coordinates_3d": [
+        [
+          1095.69,
+          12004.05,
+          0.05
+        ],
+        [
+          1028.25,
+          12021.36,
+          0.05
+        ],
+        [
+          993.49,
+          12029.64,
+          0.05
+        ],
+        [
+          989.89,
+          12030.5,
+          0.05
+        ],
+        [
+          986.23,
+          12031.4,
+          0.05
+        ],
+        [
+          896.32,
+          12053.88,
+          0.05
+        ],
+        [
+          778.55,
+          12086.95,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_741809419",
+      "osm_id": 741809419,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5271602112,
+        245662295
+      ],
+      "coordinates_3d": [
+        [
+          1104.51,
+          12001.85,
+          0.05
+        ],
+        [
+          1095.69,
+          12004.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_797565015",
+      "osm_id": 797565015,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 30.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7459352414,
+        7459352415,
+        7459352420,
+        7459352417,
+        7459352421,
+        7466305131,
+        13552218476,
+        7459352418,
+        10629587074
+      ],
+      "coordinates_3d": [
+        [
+          1480.81,
+          11908.61,
+          0.05
+        ],
+        [
+          1479.57,
+          11908.01,
+          0.05
+        ],
+        [
+          1474.95,
+          11905.24,
+          0.05
+        ],
+        [
+          1469.86,
+          11905.17,
+          0.05
+        ],
+        [
+          1465.55,
+          11907.38,
+          0.05
+        ],
+        [
+          1462.75,
+          11911.33,
+          0.05
+        ],
+        [
+          1462.49,
+          11913.24,
+          0.05
+        ],
+        [
+          1462.11,
+          11916.13,
+          0.05
+        ],
+        [
+          1463.5,
+          11920.17,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_798280853",
+      "osm_id": 798280853,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 339.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13552218473,
+        13851209893,
+        245662229,
+        245662251,
+        245662265,
+        5271602112
+      ],
+      "coordinates_3d": [
+        [
+          1435.06,
+          11924.59,
+          0.05
+        ],
+        [
+          1348.53,
+          11942.25,
+          0.05
+        ],
+        [
+          1339.28,
+          11944.22,
+          0.05
+        ],
+        [
+          1247.35,
+          11966.14,
+          0.05
+        ],
+        [
+          1190.75,
+          11980.28,
+          0.05
+        ],
+        [
+          1104.51,
+          12001.85,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_798280854",
+      "osm_id": 798280854,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13552218468,
+        6428893717,
+        7459352414
+      ],
+      "coordinates_3d": [
+        [
+          1498.63,
+          11907.0,
+          0.05
+        ],
+        [
+          1490.38,
+          11906.87,
+          0.05
+        ],
+        [
+          1480.81,
+          11908.61,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1107313161",
+      "osm_id": 1107313161,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 297.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5271602925,
+        13551253787,
+        5271602120,
+        5271602117,
+        5271602112
+      ],
+      "coordinates_3d": [
+        [
+          1134.37,
+          12297.66,
+          0.05
+        ],
+        [
+          1131.36,
+          12271.19,
+          0.05
+        ],
+        [
+          1122.03,
+          12189.11,
+          0.05
+        ],
+        [
+          1114.65,
+          12110.19,
+          0.05
+        ],
+        [
+          1104.51,
+          12001.85,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139163618",
+      "osm_id": 1139163618,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 725.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165604811,
+        12788008185,
+        1633736382,
+        1344777934,
+        5921458228,
+        13542582014,
+        13542582001,
+        245661918,
+        10957009335,
+        245662058,
+        4364457164,
+        11066873310,
+        11066873315,
+        1633767964,
+        245662295
+      ],
+      "coordinates_3d": [
+        [
+          924.28,
+          11302.57,
+          0.05
+        ],
+        [
+          943.63,
+          11334.52,
+          0.05
+        ],
+        [
+          955.25,
+          11353.19,
+          0.05
+        ],
+        [
+          977.91,
+          11455.01,
+          0.05
+        ],
+        [
+          1011.57,
+          11614.15,
+          0.05
+        ],
+        [
+          1019.09,
+          11647.48,
+          0.05
+        ],
+        [
+          1021.75,
+          11661.75,
+          0.05
+        ],
+        [
+          1024.79,
+          11675.58,
+          0.05
+        ],
+        [
+          1042.76,
+          11757.44,
+          0.05
+        ],
+        [
+          1048.18,
+          11784.13,
+          0.05
+        ],
+        [
+          1059.19,
+          11834.7,
+          0.05
+        ],
+        [
+          1068.21,
+          11876.48,
+          0.05
+        ],
+        [
+          1072.53,
+          11896.53,
+          0.05
+        ],
+        [
+          1074.37,
+          11905.05,
+          0.05
+        ],
+        [
+          1095.69,
+          12004.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1251090675",
+      "osm_id": 1251090675,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 32.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10629587074,
+        7466305130,
+        7459352419,
+        7459352423,
+        7459352413,
+        10629587076,
+        13552218470,
+        7459352414
+      ],
+      "coordinates_3d": [
+        [
+          1463.5,
+          11920.17,
+          0.05
+        ],
+        [
+          1467.58,
+          11924.04,
+          0.05
+        ],
+        [
+          1471.47,
+          11925.5,
+          0.05
+        ],
+        [
+          1476.61,
+          11924.57,
+          0.05
+        ],
+        [
+          1481.13,
+          11919.2,
+          0.05
+        ],
+        [
+          1482.34,
+          11915.93,
+          0.05
+        ],
+        [
+          1481.82,
+          11913.42,
+          0.05
+        ],
+        [
+          1480.81,
+          11908.61,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1297154536",
+      "osm_id": 1297154536,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 429.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662295,
+        7370958952,
+        7459352401,
+        245662378,
+        245662462,
+        13551265102,
+        13551253789,
+        245662526,
+        245662646
+      ],
+      "coordinates_3d": [
+        [
+          1095.69,
+          12004.05,
+          0.05
+        ],
+        [
+          1100.6,
+          12058.19,
+          0.05
+        ],
+        [
+          1101.17,
+          12064.51,
+          0.05
+        ],
+        [
+          1105.51,
+          12112.23,
+          0.05
+        ],
+        [
+          1112.31,
+          12187.1,
+          0.05
+        ],
+        [
+          1119.13,
+          12262.23,
+          0.05
+        ],
+        [
+          1121.88,
+          12290.97,
+          0.05
+        ],
+        [
+          1122.83,
+          12303.01,
+          0.05
+        ],
+        [
+          1133.75,
+          12431.82,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1477491051",
+      "osm_id": 1477491051,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 29.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13552218473,
+        13552218474,
+        10629587074
+      ],
+      "coordinates_3d": [
+        [
+          1435.06,
+          11924.59,
+          0.05
+        ],
+        [
+          1440.48,
+          11926.41,
+          0.05
+        ],
+        [
+          1463.5,
+          11920.17,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1477491055",
+      "osm_id": 1477491055,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1365560133,
+        4264462839,
+        13552218468
+      ],
+      "coordinates_3d": [
+        [
+          1507.69,
+          11905.41,
+          0.05
+        ],
+        [
+          1500.55,
+          11906.66,
+          0.05
+        ],
+        [
+          1498.63,
+          11907.0,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

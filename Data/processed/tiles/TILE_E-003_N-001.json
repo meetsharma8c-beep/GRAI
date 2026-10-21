@@ -1,0 +1,150 @@
+{
+  "tile_id": "TILE_E-003_N-001",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": -500.0,
+    "max_y": 0.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.918318,
+    "max_lat": 18.922889,
+    "min_lon": 72.818824,
+    "max_lon": 72.82351
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 2,
+    "road_length_m": 472.14,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22845980",
+      "osm_id": 22845980,
+      "name": "Free Press Journal Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 231.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176684336,
+        9819307340,
+        9819307338,
+        11047870935,
+        11031501077,
+        11047885005,
+        11031501082,
+        13997302398,
+        2176684445
+      ],
+      "coordinates_3d": [
+        [
+          -1016.71,
+          -7.58,
+          10.39
+        ],
+        [
+          -993.09,
+          20.71,
+          17.01
+        ],
+        [
+          -961.62,
+          58.83,
+          24.62
+        ],
+        [
+          -955.39,
+          66.37,
+          25.86
+        ],
+        [
+          -931.26,
+          95.61,
+          27.19
+        ],
+        [
+          -924.75,
+          103.5,
+          27.25
+        ],
+        [
+          -901.71,
+          131.41,
+          25.7
+        ],
+        [
+          -891.27,
+          143.52,
+          25.69
+        ],
+        [
+          -868.0,
+          170.44,
+          27.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240185725",
+      "osm_id": 1240185725,
+      "name": "Free Press Journal Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 240.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653788,
+        9949164579,
+        245653778,
+        2176684334,
+        2176684336
+      ],
+      "coordinates_3d": [
+        [
+          -859.6,
+          162.5,
+          21.64
+        ],
+        [
+          -922.05,
+          91.9,
+          24.1
+        ],
+        [
+          -1008.97,
+          -13.16,
+          9.86
+        ],
+        [
+          -1013.41,
+          -10.35,
+          10.22
+        ],
+        [
+          -1016.71,
+          -7.58,
+          10.39
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

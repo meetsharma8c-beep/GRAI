@@ -1,0 +1,1473 @@
+{
+  "tile_id": "TILE_E+005_N+021",
+  "bounds": {
+    "min_x": 2500.0,
+    "max_x": 3000.0,
+    "min_y": 10500.0,
+    "max_y": 11000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.018105,
+    "max_lat": 19.022675,
+    "min_lon": 72.855512,
+    "max_lon": 72.860202
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 29,
+    "road_length_m": 5548.61,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22847929",
+      "osm_id": 22847929,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 306.28,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245660949,
+        5907931794,
+        245660881
+      ],
+      "coordinates_3d": [
+        [
+          2946.84,
+          10576.52,
+          5.55
+        ],
+        [
+          3063.02,
+          10565.5,
+          5.55
+        ],
+        [
+          3251.99,
+          10550.31,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22847951",
+      "osm_id": 22847951,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 80.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660948,
+        245660949
+      ],
+      "coordinates_3d": [
+        [
+          2867.37,
+          10585.87,
+          0.05
+        ],
+        [
+          2946.84,
+          10576.52,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152248865",
+      "osm_id": 152248865,
+      "name": "Lady Jehangir Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 205.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374320622,
+        536784018,
+        6572316206,
+        8867315741,
+        8867315732,
+        8867304746,
+        8867304747,
+        6262416885
+      ],
+      "coordinates_3d": [
+        [
+          2364.82,
+          10709.14,
+          0.05
+        ],
+        [
+          2417.93,
+          10668.62,
+          0.05
+        ],
+        [
+          2472.69,
+          10629.6,
+          0.05
+        ],
+        [
+          2480.38,
+          10624.31,
+          0.05
+        ],
+        [
+          2503.58,
+          10607.97,
+          0.05
+        ],
+        [
+          2518.39,
+          10596.86,
+          0.05
+        ],
+        [
+          2525.63,
+          10591.89,
+          0.05
+        ],
+        [
+          2531.2,
+          10587.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_220308832",
+      "osm_id": 220308832,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 300.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        276775161,
+        245660964,
+        536798303,
+        6262416571,
+        1333240933,
+        6431094365,
+        245660948
+      ],
+      "coordinates_3d": [
+        [
+          2585.69,
+          10665.07,
+          0.05
+        ],
+        [
+          2646.46,
+          10642.81,
+          0.05
+        ],
+        [
+          2693.48,
+          10607.14,
+          0.05
+        ],
+        [
+          2704.13,
+          10600.83,
+          0.05
+        ],
+        [
+          2715.39,
+          10597.33,
+          0.05
+        ],
+        [
+          2733.72,
+          10595.94,
+          0.05
+        ],
+        [
+          2867.37,
+          10585.87,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_537933498",
+      "osm_id": 537933498,
+      "name": "D S Baretto Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 87.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660897,
+        6262416570,
+        1650753799,
+        8867304756,
+        6262416893
+      ],
+      "coordinates_3d": [
+        [
+          2610.35,
+          10518.51,
+          0.05
+        ],
+        [
+          2600.71,
+          10527.4,
+          0.05
+        ],
+        [
+          2582.16,
+          10542.0,
+          0.05
+        ],
+        [
+          2554.19,
+          10562.51,
+          0.05
+        ],
+        [
+          2541.13,
+          10572.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730721",
+      "osm_id": 668730721,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 78.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416909,
+        6262416908
+      ],
+      "coordinates_3d": [
+        [
+          2946.1,
+          10568.12,
+          0.05
+        ],
+        [
+          2867.95,
+          10576.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730722",
+      "osm_id": 668730722,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 307.53,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6262416910,
+        6262416909
+      ],
+      "coordinates_3d": [
+        [
+          3252.34,
+          10539.95,
+          5.55
+        ],
+        [
+          2946.1,
+          10568.12,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730724",
+      "osm_id": 668730724,
+      "name": "Nathalal Parekh Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 83.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416573,
+        6262416899,
+        6262416898,
+        6262416889
+      ],
+      "coordinates_3d": [
+        [
+          2582.22,
+          10657.31,
+          0.05
+        ],
+        [
+          2576.17,
+          10646.47,
+          0.05
+        ],
+        [
+          2570.67,
+          10635.31,
+          0.05
+        ],
+        [
+          2542.38,
+          10584.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730725",
+      "osm_id": 668730725,
+      "name": "Nathalal Parekh Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 89.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416886,
+        13667198501,
+        7377729180
+      ],
+      "coordinates_3d": [
+        [
+          2535.82,
+          10588.39,
+          0.05
+        ],
+        [
+          2575.02,
+          10659.96,
+          0.05
+        ],
+        [
+          2578.18,
+          10667.55,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730726",
+      "osm_id": 668730726,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 11.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416578,
+        6262416579,
+        6262416580,
+        6262416581,
+        6262416583
+      ],
+      "coordinates_3d": [
+        [
+          2528.43,
+          10572.12,
+          0.05
+        ],
+        [
+          2526.67,
+          10574.11,
+          0.05
+        ],
+        [
+          2525.55,
+          10576.51,
+          0.05
+        ],
+        [
+          2525.16,
+          10579.13,
+          0.05
+        ],
+        [
+          2525.67,
+          10583.1,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730727",
+      "osm_id": 668730727,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 304.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416908,
+        6262416907,
+        6262416906,
+        6431094364,
+        6262416905,
+        6262416904,
+        6262416903,
+        6262416902,
+        6262416901,
+        6262416573
+      ],
+      "coordinates_3d": [
+        [
+          2867.95,
+          10576.09,
+          0.05
+        ],
+        [
+          2775.08,
+          10584.48,
+          0.05
+        ],
+        [
+          2741.54,
+          10587.18,
+          0.05
+        ],
+        [
+          2733.63,
+          10588.05,
+          0.05
+        ],
+        [
+          2712.77,
+          10590.34,
+          0.05
+        ],
+        [
+          2700.65,
+          10593.01,
+          0.05
+        ],
+        [
+          2690.84,
+          10598.75,
+          0.05
+        ],
+        [
+          2641.01,
+          10636.14,
+          0.05
+        ],
+        [
+          2616.27,
+          10645.71,
+          0.05
+        ],
+        [
+          2582.22,
+          10657.31,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788767154",
+      "osm_id": 788767154,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 362.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416891,
+        12320187643,
+        7375972035,
+        7374320618,
+        7374320617,
+        12721918106,
+        7374320616
+      ],
+      "coordinates_3d": [
+        [
+          2543.89,
+          10579.21,
+          0.05
+        ],
+        [
+          2619.52,
+          10525.58,
+          0.05
+        ],
+        [
+          2694.2,
+          10472.63,
+          0.05
+        ],
+        [
+          2715.95,
+          10457.21,
+          0.05
+        ],
+        [
+          2780.0,
+          10411.57,
+          0.05
+        ],
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ],
+        [
+          2840.1,
+          10369.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788767155",
+      "osm_id": 788767155,
+      "name": "Lady Jehangir Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 202.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416583,
+        7374320619,
+        245661117
+      ],
+      "coordinates_3d": [
+        [
+          2525.67,
+          10583.1,
+          0.05
+        ],
+        [
+          2414.61,
+          10661.57,
+          0.05
+        ],
+        [
+          2361.14,
+          10700.76,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788781169",
+      "osm_id": 788781169,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 284.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386240,
+        7374459536,
+        7374459535,
+        7374459534,
+        7374459533,
+        7374507921
+      ],
+      "coordinates_3d": [
+        [
+          3022.87,
+          10586.55,
+          0.05
+        ],
+        [
+          3017.08,
+          10575.39,
+          0.05
+        ],
+        [
+          2987.24,
+          10513.71,
+          0.05
+        ],
+        [
+          2944.07,
+          10448.25,
+          0.05
+        ],
+        [
+          2899.14,
+          10393.38,
+          0.05
+        ],
+        [
+          2862.25,
+          10353.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123850361",
+      "osm_id": 1123850361,
+      "name": "Katrak Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 318.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277719242,
+        10277719241,
+        10277719240,
+        10277719239,
+        10277719238,
+        10277719237,
+        10277719236,
+        6262416578
+      ],
+      "coordinates_3d": [
+        [
+          2261.29,
+          10399.68,
+          0.05
+        ],
+        [
+          2293.52,
+          10425.89,
+          0.05
+        ],
+        [
+          2320.03,
+          10441.64,
+          0.05
+        ],
+        [
+          2406.14,
+          10491.56,
+          0.05
+        ],
+        [
+          2458.21,
+          10521.56,
+          0.05
+        ],
+        [
+          2500.93,
+          10550.77,
+          0.05
+        ],
+        [
+          2516.03,
+          10560.16,
+          0.05
+        ],
+        [
+          2528.43,
+          10572.12,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162899",
+      "osm_id": 1139162899,
+      "name": "D S Baretto Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 270.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245660696,
+        12721918107,
+        245660734,
+        7374384437,
+        6262417043,
+        7374384440,
+        7374384438,
+        245660897
+      ],
+      "coordinates_3d": [
+        [
+          2828.58,
+          10358.97,
+          0.05
+        ],
+        [
+          2824.13,
+          10361.94,
+          0.05
+        ],
+        [
+          2767.49,
+          10399.67,
+          0.05
+        ],
+        [
+          2744.56,
+          10415.88,
+          0.05
+        ],
+        [
+          2687.46,
+          10455.86,
+          0.05
+        ],
+        [
+          2673.54,
+          10467.23,
+          0.05
+        ],
+        [
+          2656.8,
+          10480.82,
+          0.05
+        ],
+        [
+          2610.35,
+          10518.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162902",
+      "osm_id": 1139162902,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 282.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12721918106,
+        7374459523,
+        7374459524,
+        6572386235
+      ],
+      "coordinates_3d": [
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ],
+        [
+          2908.75,
+          10447.28,
+          0.05
+        ],
+        [
+          2963.69,
+          10528.32,
+          0.05
+        ],
+        [
+          2997.83,
+          10600.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178280070",
+      "osm_id": 1178280070,
+      "name": "Katrak Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 593.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416896,
+        10277719247,
+        1650753810,
+        8867304750,
+        8853925262,
+        245660909,
+        1289850396,
+        1289850382,
+        536771060,
+        13658722667,
+        13658722669,
+        13658722663,
+        13661562613,
+        10277719235,
+        13661562611,
+        13661562609,
+        13661562607,
+        10277719234,
+        13661562605,
+        13658722781,
+        10282040383
+      ],
+      "coordinates_3d": [
+        [
+          2535.91,
+          10569.96,
+          0.05
+        ],
+        [
+          2523.52,
+          10555.01,
+          0.05
+        ],
+        [
+          2513.9,
+          10546.57,
+          0.05
+        ],
+        [
+          2507.11,
+          10541.03,
+          0.05
+        ],
+        [
+          2481.91,
+          10520.46,
+          0.05
+        ],
+        [
+          2471.5,
+          10511.97,
+          0.05
+        ],
+        [
+          2432.83,
+          10491.28,
+          0.05
+        ],
+        [
+          2376.24,
+          10460.63,
+          0.05
+        ],
+        [
+          2316.5,
+          10426.29,
+          0.05
+        ],
+        [
+          2262.54,
+          10386.93,
+          0.05
+        ],
+        [
+          2253.52,
+          10380.1,
+          0.05
+        ],
+        [
+          2250.09,
+          10377.23,
+          0.05
+        ],
+        [
+          2223.89,
+          10357.29,
+          0.05
+        ],
+        [
+          2204.26,
+          10342.34,
+          0.05
+        ],
+        [
+          2194.73,
+          10333.77,
+          0.05
+        ],
+        [
+          2153.26,
+          10296.43,
+          0.05
+        ],
+        [
+          2143.59,
+          10288.14,
+          0.05
+        ],
+        [
+          2124.65,
+          10270.53,
+          0.05
+        ],
+        [
+          2092.79,
+          10238.14,
+          0.05
+        ],
+        [
+          2072.08,
+          10216.73,
+          0.05
+        ],
+        [
+          2067.51,
+          10212.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235478369",
+      "osm_id": 1235478369,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416583,
+        6262416584,
+        6262416885
+      ],
+      "coordinates_3d": [
+        [
+          2525.67,
+          10583.1,
+          0.05
+        ],
+        [
+          2528.37,
+          10586.18,
+          0.05
+        ],
+        [
+          2531.2,
+          10587.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235478377",
+      "osm_id": 1235478377,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 4.71,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416885,
+        6262416897,
+        6262416886
+      ],
+      "coordinates_3d": [
+        [
+          2531.2,
+          10587.78,
+          0.05
+        ],
+        [
+          2533.16,
+          10588.38,
+          0.05
+        ],
+        [
+          2535.82,
+          10588.39,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569522",
+      "osm_id": 1235569522,
+      "name": "Nathalal Parekh Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 367.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661562,
+        7377729184,
+        245661372,
+        245661217
+      ],
+      "coordinates_3d": [
+        [
+          2680.95,
+          11224.34,
+          0.05
+        ],
+        [
+          2681.52,
+          11131.77,
+          0.05
+        ],
+        [
+          2672.28,
+          11037.59,
+          0.05
+        ],
+        [
+          2633.52,
+          10861.33,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771386",
+      "osm_id": 1235771386,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416891,
+        6262416892,
+        6262416893
+      ],
+      "coordinates_3d": [
+        [
+          2543.89,
+          10579.21,
+          0.05
+        ],
+        [
+          2543.53,
+          10576.59,
+          0.05
+        ],
+        [
+          2541.13,
+          10572.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771387",
+      "osm_id": 1235771387,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 5.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416889,
+        6262416890,
+        6262416891
+      ],
+      "coordinates_3d": [
+        [
+          2542.38,
+          10584.25,
+          0.05
+        ],
+        [
+          2543.5,
+          10581.84,
+          0.05
+        ],
+        [
+          2543.89,
+          10579.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122772",
+      "osm_id": 1239122772,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 5.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416893,
+        6262416895,
+        6262416896
+      ],
+      "coordinates_3d": [
+        [
+          2541.13,
+          10572.09,
+          0.05
+        ],
+        [
+          2538.46,
+          10570.72,
+          0.05
+        ],
+        [
+          2535.91,
+          10569.96,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122773",
+      "osm_id": 1239122773,
+      "name": "Nathalal Parekh Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 564.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7377729180,
+        7377729179,
+        13686862700,
+        7377729178,
+        13667186299,
+        7377729177,
+        13671559559,
+        13671559557,
+        7377729176,
+        13671559517,
+        7377729175,
+        7377729174
+      ],
+      "coordinates_3d": [
+        [
+          2578.18,
+          10667.55,
+          0.05
+        ],
+        [
+          2586.58,
+          10694.06,
+          0.05
+        ],
+        [
+          2602.0,
+          10767.35,
+          0.05
+        ],
+        [
+          2608.31,
+          10797.35,
+          0.05
+        ],
+        [
+          2624.18,
+          10857.61,
+          0.05
+        ],
+        [
+          2625.66,
+          10863.23,
+          0.05
+        ],
+        [
+          2635.86,
+          10909.15,
+          0.05
+        ],
+        [
+          2653.3,
+          10987.7,
+          0.05
+        ],
+        [
+          2664.12,
+          11036.41,
+          0.05
+        ],
+        [
+          2666.18,
+          11057.46,
+          0.05
+        ],
+        [
+          2673.35,
+          11130.59,
+          0.05
+        ],
+        [
+          2671.73,
+          11221.89,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122775",
+      "osm_id": 1239122775,
+      "name": "Nathalal Parekh Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7377729180,
+        276775161
+      ],
+      "coordinates_3d": [
+        [
+          2578.18,
+          10667.55,
+          0.05
+        ],
+        [
+          2585.69,
+          10665.07,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1248814263",
+      "osm_id": 1248814263,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416896,
+        6262416576,
+        6262416577,
+        6262416578
+      ],
+      "coordinates_3d": [
+        [
+          2535.91,
+          10569.96,
+          0.05
+        ],
+        [
+          2533.25,
+          10569.95,
+          0.05
+        ],
+        [
+          2530.69,
+          10570.69,
+          0.05
+        ],
+        [
+          2528.43,
+          10572.12,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1249080321",
+      "osm_id": 1249080321,
+      "name": "Nathalal Parekh Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 202.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661217,
+        13667186300,
+        1333240964,
+        13686865201,
+        13667187401,
+        13667187404,
+        1333240948,
+        13667187409,
+        276775161
+      ],
+      "coordinates_3d": [
+        [
+          2633.52,
+          10861.33,
+          0.05
+        ],
+        [
+          2632.07,
+          10855.99,
+          0.05
+        ],
+        [
+          2616.47,
+          10798.54,
+          0.05
+        ],
+        [
+          2609.46,
+          10765.57,
+          0.05
+        ],
+        [
+          2598.64,
+          10714.77,
+          0.05
+        ],
+        [
+          2595.23,
+          10700.19,
+          0.05
+        ],
+        [
+          2594.24,
+          10695.5,
+          0.05
+        ],
+        [
+          2592.87,
+          10688.8,
+          0.05
+        ],
+        [
+          2585.69,
+          10665.07,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1249080324",
+      "osm_id": 1249080324,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 197.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386235,
+        6572386236,
+        6572386237,
+        6572386238
+      ],
+      "coordinates_3d": [
+        [
+          2997.83,
+          10600.93,
+          0.05
+        ],
+        [
+          3000.51,
+          10605.65,
+          0.05
+        ],
+        [
+          3029.26,
+          10694.02,
+          0.05
+        ],
+        [
+          3043.62,
+          10792.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

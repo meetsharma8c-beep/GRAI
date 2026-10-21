@@ -1,0 +1,1159 @@
+{
+  "tile_id": "TILE_E-004_N+010",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": 5000.0,
+    "max_y": 5500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.967933,
+    "max_lat": 18.972505,
+    "min_lon": 72.813432,
+    "max_lon": 72.818119
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 25,
+    "road_length_m": 2645.31,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22853473",
+      "osm_id": 22853473,
+      "name": "Pandit Madan Mohan Malviya Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 325.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        618740440,
+        245657482,
+        245657447,
+        245657397,
+        11038673980,
+        245657316,
+        10576068401,
+        4307040479,
+        245657288
+      ],
+      "coordinates_3d": [
+        [
+          -1848.0,
+          5530.19,
+          6.99
+        ],
+        [
+          -1836.8,
+          5485.28,
+          9.25
+        ],
+        [
+          -1830.92,
+          5428.4,
+          11.54
+        ],
+        [
+          -1822.32,
+          5360.72,
+          8.68
+        ],
+        [
+          -1823.41,
+          5325.22,
+          8.3
+        ],
+        [
+          -1824.54,
+          5278.75,
+          9.52
+        ],
+        [
+          -1823.69,
+          5250.92,
+          9.72
+        ],
+        [
+          -1820.67,
+          5221.48,
+          8.04
+        ],
+        [
+          -1817.83,
+          5207.56,
+          7.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853667",
+      "osm_id": 22853667,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 74.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657288,
+        4307040477,
+        13999352720,
+        4307040474,
+        4307040466
+      ],
+      "coordinates_3d": [
+        [
+          -1817.83,
+          5207.56,
+          7.14
+        ],
+        [
+          -1806.47,
+          5187.65,
+          5.41
+        ],
+        [
+          -1795.96,
+          5173.89,
+          4.8
+        ],
+        [
+          -1781.45,
+          5158.77,
+          4.29
+        ],
+        [
+          -1772.61,
+          5149.3,
+          4.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494575",
+      "osm_id": 431494575,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 34.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040457,
+        10277817426,
+        4307040451
+      ],
+      "coordinates_3d": [
+        [
+          -1752.54,
+          5128.45,
+          4.81
+        ],
+        [
+          -1761.62,
+          5121.04,
+          4.5
+        ],
+        [
+          -1779.13,
+          5105.92,
+          4.32
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494594",
+      "osm_id": 431494594,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 55.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040453,
+        4307040461,
+        10877664336,
+        10877664337,
+        245657245,
+        4307040466
+      ],
+      "coordinates_3d": [
+        [
+          -1816.75,
+          5117.82,
+          6.62
+        ],
+        [
+          -1810.06,
+          5126.52,
+          5.98
+        ],
+        [
+          -1799.68,
+          5134.87,
+          4.91
+        ],
+        [
+          -1791.38,
+          5139.71,
+          4.63
+        ],
+        [
+          -1782.42,
+          5145.26,
+          4.32
+        ],
+        [
+          -1772.61,
+          5149.3,
+          4.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1100565547",
+      "osm_id": 1100565547,
+      "name": "Pandit Madan Mohan Malviya Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 663.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10877664314,
+        10877664323,
+        10877664322,
+        10877664321,
+        13907751320,
+        13908596822,
+        13907751319,
+        10877664320,
+        10877664319,
+        13907751314,
+        10877664318,
+        10877664317,
+        10877664315,
+        13907188821,
+        10877664316,
+        2439477083,
+        2439477086,
+        13907730588,
+        10038625603,
+        618740462,
+        618740463,
+        618740464,
+        10770127751,
+        2439477090,
+        13907730586,
+        2439477092,
+        2439477095
+      ],
+      "coordinates_3d": [
+        [
+          -1825.02,
+          5205.82,
+          7.71
+        ],
+        [
+          -1826.92,
+          5216.78,
+          8.31
+        ],
+        [
+          -1831.0,
+          5249.29,
+          9.77
+        ],
+        [
+          -1834.5,
+          5268.48,
+          9.93
+        ],
+        [
+          -1834.54,
+          5279.61,
+          9.51
+        ],
+        [
+          -1834.18,
+          5288.43,
+          9.15
+        ],
+        [
+          -1830.93,
+          5325.51,
+          8.06
+        ],
+        [
+          -1829.75,
+          5360.32,
+          8.41
+        ],
+        [
+          -1837.42,
+          5426.84,
+          11.15
+        ],
+        [
+          -1843.72,
+          5457.64,
+          11.05
+        ],
+        [
+          -1850.76,
+          5482.98,
+          10.5
+        ],
+        [
+          -1849.56,
+          5491.22,
+          9.76
+        ],
+        [
+          -1857.83,
+          5528.52,
+          6.65
+        ],
+        [
+          -1862.58,
+          5540.74,
+          6.24
+        ],
+        [
+          -1866.45,
+          5547.64,
+          6.47
+        ],
+        [
+          -1892.72,
+          5580.47,
+          8.46
+        ],
+        [
+          -1898.5,
+          5587.57,
+          9.13
+        ],
+        [
+          -1900.63,
+          5590.7,
+          9.35
+        ],
+        [
+          -1919.28,
+          5615.73,
+          10.63
+        ],
+        [
+          -1930.17,
+          5627.78,
+          10.53
+        ],
+        [
+          -1951.4,
+          5657.42,
+          10.48
+        ],
+        [
+          -1979.31,
+          5687.65,
+          11.81
+        ],
+        [
+          -1993.55,
+          5707.22,
+          12.2
+        ],
+        [
+          -2012.3,
+          5734.02,
+          11.34
+        ],
+        [
+          -2019.48,
+          5743.93,
+          9.98
+        ],
+        [
+          -2037.3,
+          5770.93,
+          8.89
+        ],
+        [
+          -2055.65,
+          5799.6,
+          9.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137536164",
+      "osm_id": 1137536164,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 121.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10877569489,
+        13944495866,
+        245657220,
+        10704111731
+      ],
+      "coordinates_3d": [
+        [
+          -1569.99,
+          5126.93,
+          3.19
+        ],
+        [
+          -1630.87,
+          5135.49,
+          5.34
+        ],
+        [
+          -1635.69,
+          5136.17,
+          5.69
+        ],
+        [
+          -1689.06,
+          5148.38,
+          8.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137536165",
+      "osm_id": 1137536165,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 15.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040473,
+        4307040469
+      ],
+      "coordinates_3d": [
+        [
+          -1700.37,
+          5148.53,
+          7.82
+        ],
+        [
+          -1714.96,
+          5143.87,
+          7.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137536166",
+      "osm_id": 1137536166,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 66.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10877664326,
+        245657245,
+        4307040472,
+        4307040476,
+        4307040478
+      ],
+      "coordinates_3d": [
+        [
+          -1772.2,
+          5136.45,
+          4.14
+        ],
+        [
+          -1782.42,
+          5145.26,
+          4.32
+        ],
+        [
+          -1787.38,
+          5149.28,
+          4.49
+        ],
+        [
+          -1808.39,
+          5173.46,
+          5.69
+        ],
+        [
+          -1818.33,
+          5184.69,
+          6.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137536167",
+      "osm_id": 1137536167,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 18.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657246,
+        8941240299
+      ],
+      "coordinates_3d": [
+        [
+          -1715.44,
+          5151.6,
+          7.66
+        ],
+        [
+          -1697.19,
+          5154.57,
+          7.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1150674397",
+      "osm_id": 1150674397,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 10.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8941240299,
+        10704111733
+      ],
+      "coordinates_3d": [
+        [
+          -1697.19,
+          5154.57,
+          7.94
+        ],
+        [
+          -1686.82,
+          5154.71,
+          8.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1150674398",
+      "osm_id": 1150674398,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 11.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10704111731,
+        4307040473
+      ],
+      "coordinates_3d": [
+        [
+          -1689.06,
+          5148.38,
+          8.01
+        ],
+        [
+          -1700.37,
+          5148.53,
+          7.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1169866052",
+      "osm_id": 1169866052,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 234.28,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        10877569491,
+        10877569489
+      ],
+      "coordinates_3d": [
+        [
+          -1337.46,
+          5098.35,
+          14.48
+        ],
+        [
+          -1569.99,
+          5126.93,
+          8.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122768",
+      "osm_id": 1239122768,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 25.81,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040469,
+        10277817430,
+        4307040465
+      ],
+      "coordinates_3d": [
+        [
+          -1714.96,
+          5143.87,
+          7.42
+        ],
+        [
+          -1726.58,
+          5138.55,
+          6.5
+        ],
+        [
+          -1739.21,
+          5135.34,
+          5.53
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122785",
+      "osm_id": 1239122785,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 67.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040453,
+        245657244,
+        4307040475,
+        4307040478
+      ],
+      "coordinates_3d": [
+        [
+          -1816.75,
+          5117.82,
+          6.62
+        ],
+        [
+          -1812.78,
+          5149.18,
+          6.29
+        ],
+        [
+          -1813.87,
+          5162.35,
+          6.46
+        ],
+        [
+          -1818.33,
+          5184.69,
+          6.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239638921",
+      "osm_id": 1239638921,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040465,
+        4307040457
+      ],
+      "coordinates_3d": [
+        [
+          -1739.21,
+          5135.34,
+          5.53
+        ],
+        [
+          -1752.54,
+          5128.45,
+          4.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239638925",
+      "osm_id": 1239638925,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 22.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040478,
+        10877664314
+      ],
+      "coordinates_3d": [
+        [
+          -1818.33,
+          5184.69,
+          6.78
+        ],
+        [
+          -1825.02,
+          5205.82,
+          7.71
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1245766634",
+      "osm_id": 1245766634,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 33.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040465,
+        4307040463,
+        13999352721,
+        10877664326
+      ],
+      "coordinates_3d": [
+        [
+          -1739.21,
+          5135.34,
+          5.53
+        ],
+        [
+          -1758.44,
+          5134.58,
+          4.62
+        ],
+        [
+          -1762.43,
+          5134.6,
+          4.48
+        ],
+        [
+          -1772.2,
+          5136.45,
+          4.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1371019942",
+      "osm_id": 1371019942,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 233.59,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        13944495865,
+        13944495862,
+        13944495863,
+        13944495864
+      ],
+      "coordinates_3d": [
+        [
+          -1569.37,
+          5134.78,
+          8.79
+        ],
+        [
+          -1488.35,
+          5123.84,
+          13.13
+        ],
+        [
+          -1360.83,
+          5108.44,
+          14.39
+        ],
+        [
+          -1337.63,
+          5105.51,
+          13.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1529979957",
+      "osm_id": 1529979957,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 119.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10704111733,
+        12522566486,
+        13944495867,
+        13944495865
+      ],
+      "coordinates_3d": [
+        [
+          -1686.82,
+          5154.71,
+          8.05
+        ],
+        [
+          -1646.44,
+          5145.19,
+          6.72
+        ],
+        [
+          -1636.27,
+          5143.81,
+          5.98
+        ],
+        [
+          -1569.37,
+          5134.78,
+          3.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1536497444",
+      "osm_id": 1536497444,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 212.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4513730348,
+        618685393,
+        4513730347,
+        4513730334,
+        4513730346,
+        245657073,
+        13904906004,
+        4513730343,
+        4513730345
+      ],
+      "coordinates_3d": [
+        [
+          -1967.44,
+          4870.62,
+          6.21
+        ],
+        [
+          -1960.0,
+          4894.81,
+          5.7
+        ],
+        [
+          -1950.01,
+          4920.73,
+          5.25
+        ],
+        [
+          -1946.2,
+          4930.09,
+          6.04
+        ],
+        [
+          -1933.76,
+          4952.1,
+          7.73
+        ],
+        [
+          -1924.27,
+          4964.24,
+          8.45
+        ],
+        [
+          -1905.8,
+          4987.75,
+          7.81
+        ],
+        [
+          -1886.8,
+          5011.55,
+          7.27
+        ],
+        [
+          -1855.93,
+          5048.53,
+          8.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1536497445",
+      "osm_id": 1536497445,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 96.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040451,
+        4361515193,
+        4307040449,
+        4513730344,
+        4513730345
+      ],
+      "coordinates_3d": [
+        [
+          -1779.13,
+          5105.92,
+          4.32
+        ],
+        [
+          -1803.15,
+          5085.79,
+          6.56
+        ],
+        [
+          -1815.12,
+          5075.75,
+          7.31
+        ],
+        [
+          -1846.79,
+          5052.41,
+          8.05
+        ],
+        [
+          -1855.93,
+          5048.53,
+          8.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1536497446",
+      "osm_id": 1536497446,
+      "name": "Javji Dadaji Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 79.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4513730345,
+        13997362863,
+        2442519134,
+        4307040453
+      ],
+      "coordinates_3d": [
+        [
+          -1855.93,
+          5048.53,
+          8.05
+        ],
+        [
+          -1852.66,
+          5057.32,
+          8.05
+        ],
+        [
+          -1839.84,
+          5074.07,
+          8.03
+        ],
+        [
+          -1816.75,
+          5117.82,
+          6.62
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1548529505",
+      "osm_id": 1548529505,
+      "name": "Pandit Madan Mohan Malviya Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 68.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        618740440,
+        245657482,
+        13907751314
+      ],
+      "coordinates_3d": [
+        [
+          -1854.07,
+          5528.04,
+          6.85
+        ],
+        [
+          -1844.2,
+          5484.52,
+          9.86
+        ],
+        [
+          -1838.69,
+          5461.24,
+          10.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1548529506",
+      "osm_id": 1548529506,
+      "name": "Pandit Madan Mohan Malviya Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 33.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13907751314,
+        245657447
+      ],
+      "coordinates_3d": [
+        [
+          -1838.69,
+          5461.24,
+          10.68
+        ],
+        [
+          -1830.92,
+          5428.4,
+          11.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240182705",
+      "osm_id": 1240182705,
+      "name": "Vasantrao Naik Chowk Tardeo Bus Station Road",
+      "highway": "residential",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 7.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10877664314,
+        245657288
+      ],
+      "coordinates_3d": [
+        [
+          -1825.02,
+          5205.82,
+          7.71
+        ],
+        [
+          -1817.83,
+          5207.56,
+          7.14
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

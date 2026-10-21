@@ -1,0 +1,492 @@
+{
+  "tile_id": "TILE_E-004_N-004",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": -2000.0,
+    "max_y": -1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.904715,
+    "max_lat": 18.909286,
+    "min_lon": 72.814255,
+    "max_lon": 72.818941
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 8,
+    "road_length_m": 2145.1,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_38751080",
+      "osm_id": 38751080,
+      "name": "Dr Homi Bhaba Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 348.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040282,
+        459482334,
+        1934089145,
+        2241842235,
+        459482557,
+        1934089147
+      ],
+      "coordinates_3d": [
+        [
+          -1954.8,
+          -1780.22,
+          9.28
+        ],
+        [
+          -1978.32,
+          -1771.41,
+          10.05
+        ],
+        [
+          -2039.79,
+          -1763.47,
+          9.65
+        ],
+        [
+          -2166.88,
+          -1750.53,
+          10.52
+        ],
+        [
+          -2267.09,
+          -1739.46,
+          8.39
+        ],
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_38756487",
+      "osm_id": 38756487,
+      "name": "Nanabhai Moos Marg (Upper Colaba Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 754.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653028,
+        459529385,
+        245653033,
+        2241842244,
+        2241842260,
+        13616999212,
+        11030085782,
+        1278569797,
+        2241842349,
+        4361337141,
+        245653078
+      ],
+      "coordinates_3d": [
+        [
+          -1772.36,
+          -1859.96,
+          13.1
+        ],
+        [
+          -1753.24,
+          -1844.04,
+          13.49
+        ],
+        [
+          -1736.77,
+          -1757.39,
+          11.24
+        ],
+        [
+          -1713.18,
+          -1730.13,
+          18.95
+        ],
+        [
+          -1627.94,
+          -1639.06,
+          9.05
+        ],
+        [
+          -1583.16,
+          -1592.35,
+          11.46
+        ],
+        [
+          -1524.96,
+          -1531.63,
+          9.84
+        ],
+        [
+          -1371.7,
+          -1379.51,
+          14.13
+        ],
+        [
+          -1327.81,
+          -1333.21,
+          12.05
+        ],
+        [
+          -1311.21,
+          -1313.34,
+          11.24
+        ],
+        [
+          -1294.79,
+          -1293.25,
+          10.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_39492674",
+      "osm_id": 39492674,
+      "name": "Bakery Lane",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 159.81,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040267,
+        4307040265,
+        459482415,
+        459482498,
+        459482497,
+        245653028
+      ],
+      "coordinates_3d": [
+        [
+          -1913.27,
+          -1819.98,
+          8.94
+        ],
+        [
+          -1891.86,
+          -1848.05,
+          9.08
+        ],
+        [
+          -1880.47,
+          -1857.2,
+          9.83
+        ],
+        [
+          -1869.39,
+          -1860.94,
+          10.02
+        ],
+        [
+          -1794.49,
+          -1866.57,
+          12.05
+        ],
+        [
+          -1772.36,
+          -1859.96,
+          13.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494581",
+      "osm_id": 431494581,
+      "name": "Bakery Lane",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 21.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040282,
+        9833434859,
+        4307040287,
+        9833434858,
+        4307040286,
+        9833434857,
+        4307040281,
+        4307040279
+      ],
+      "coordinates_3d": [
+        [
+          -1954.8,
+          -1780.22,
+          9.28
+        ],
+        [
+          -1952.77,
+          -1778.04,
+          9.21
+        ],
+        [
+          -1950.06,
+          -1776.8,
+          9.12
+        ],
+        [
+          -1947.04,
+          -1776.7,
+          9.05
+        ],
+        [
+          -1944.21,
+          -1777.77,
+          9.05
+        ],
+        [
+          -1942.03,
+          -1779.84,
+          9.05
+        ],
+        [
+          -1940.82,
+          -1782.61,
+          9.05
+        ],
+        [
+          -1940.78,
+          -1785.6,
+          9.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494582",
+      "osm_id": 431494582,
+      "name": "Bakery Lane",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 46.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040267,
+        4307040270,
+        4307040271
+      ],
+      "coordinates_3d": [
+        [
+          -1913.27,
+          -1819.98,
+          8.94
+        ],
+        [
+          -1941.96,
+          -1796.3,
+          9.05
+        ],
+        [
+          -1949.69,
+          -1791.66,
+          9.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494583",
+      "osm_id": 431494583,
+      "name": "Bakery Lane",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 44.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040279,
+        4307040275,
+        4307040267
+      ],
+      "coordinates_3d": [
+        [
+          -1940.78,
+          -1785.6,
+          9.05
+        ],
+        [
+          -1937.8,
+          -1790.59,
+          9.05
+        ],
+        [
+          -1913.27,
+          -1819.98,
+          8.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466426",
+      "osm_id": 1235466426,
+      "name": "Bakery Lane",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040271,
+        4307040273,
+        9833434855,
+        4307040278,
+        9833434854,
+        4307040282
+      ],
+      "coordinates_3d": [
+        [
+          -1949.69,
+          -1791.66,
+          9.09
+        ],
+        [
+          -1952.42,
+          -1790.59,
+          9.17
+        ],
+        [
+          -1954.55,
+          -1788.57,
+          9.24
+        ],
+        [
+          -1955.75,
+          -1785.89,
+          9.3
+        ],
+        [
+          -1955.84,
+          -1782.96,
+          9.32
+        ],
+        [
+          -1954.8,
+          -1780.22,
+          9.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1165552351",
+      "osm_id": 1165552351,
+      "name": "Nanabhai Moos Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 756.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653028,
+        459482418,
+        669252926,
+        459482423,
+        2241842169,
+        459482411,
+        2241842117,
+        4233118278,
+        13597583292,
+        2241842073,
+        459482449
+      ],
+      "coordinates_3d": [
+        [
+          -1772.36,
+          -1859.96,
+          13.1
+        ],
+        [
+          -1791.36,
+          -1909.04,
+          13.84
+        ],
+        [
+          -1829.01,
+          -1978.36,
+          12.1
+        ],
+        [
+          -1834.82,
+          -1989.05,
+          11.43
+        ],
+        [
+          -1857.39,
+          -2088.81,
+          11.44
+        ],
+        [
+          -1878.3,
+          -2153.96,
+          12.57
+        ],
+        [
+          -1923.44,
+          -2257.59,
+          11.42
+        ],
+        [
+          -1930.4,
+          -2275.49,
+          12.18
+        ],
+        [
+          -2006.75,
+          -2462.2,
+          12.05
+        ],
+        [
+          -2010.59,
+          -2470.82,
+          12.05
+        ],
+        [
+          -2065.0,
+          -2552.73,
+          13.08
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

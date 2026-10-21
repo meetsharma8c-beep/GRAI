@@ -1,0 +1,773 @@
+{
+  "tile_id": "TILE_E+002_N+028",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 14000.0,
+    "max_y": 14500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.049548,
+    "max_lat": 19.054119,
+    "min_lon": 72.84086,
+    "max_lon": 72.845551
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 15,
+    "road_length_m": 2985.25,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_39478525",
+      "osm_id": 39478525,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 114.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        593054822,
+        13648481784,
+        245664576
+      ],
+      "coordinates_3d": [
+        [
+          1087.36,
+          14176.91,
+          0.05
+        ],
+        [
+          1006.29,
+          14143.33,
+          0.05
+        ],
+        [
+          982.0,
+          14133.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_46417986",
+      "osm_id": 46417986,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 78.11,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245664638,
+        593054822
+      ],
+      "coordinates_3d": [
+        [
+          1159.77,
+          14206.21,
+          5.55
+        ],
+        [
+          1087.36,
+          14176.91,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_46417988",
+      "osm_id": 46417988,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 79.71,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        593054821,
+        593054828
+      ],
+      "coordinates_3d": [
+        [
+          1074.24,
+          14201.06,
+          5.55
+        ],
+        [
+          1148.57,
+          14229.86,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_46417990",
+      "osm_id": 46417990,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 264.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        593054828,
+        7749797422,
+        12011568507,
+        2250795745
+      ],
+      "coordinates_3d": [
+        [
+          1148.57,
+          14229.86,
+          0.05
+        ],
+        [
+          1209.45,
+          14256.87,
+          0.05
+        ],
+        [
+          1281.09,
+          14278.64,
+          0.05
+        ],
+        [
+          1394.79,
+          14325.32,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_99821554",
+      "osm_id": 99821554,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 205.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2250795748,
+        1154025452,
+        2250795758,
+        1154025451,
+        2250795776,
+        1154025450,
+        1647344945
+      ],
+      "coordinates_3d": [
+        [
+          1437.84,
+          14356.18,
+          0.05
+        ],
+        [
+          1467.36,
+          14377.58,
+          0.05
+        ],
+        [
+          1489.21,
+          14400.39,
+          0.05
+        ],
+        [
+          1508.22,
+          14425.43,
+          0.05
+        ],
+        [
+          1531.47,
+          14459.52,
+          0.05
+        ],
+        [
+          1551.28,
+          14496.25,
+          0.05
+        ],
+        [
+          1560.73,
+          14517.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_237000881",
+      "osm_id": 237000881,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 163.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1647344919,
+        2250795760,
+        1154014753,
+        4328161629,
+        2250795746
+      ],
+      "coordinates_3d": [
+        [
+          1566.22,
+          14446.9,
+          0.05
+        ],
+        [
+          1546.91,
+          14413.34,
+          0.05
+        ],
+        [
+          1517.08,
+          14372.0,
+          0.05
+        ],
+        [
+          1492.44,
+          14346.73,
+          0.05
+        ],
+        [
+          1461.24,
+          14324.06,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_830251244",
+      "osm_id": 830251244,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 262.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245664695,
+        8882200680,
+        245664638
+      ],
+      "coordinates_3d": [
+        [
+          1402.85,
+          14305.94,
+          0.05
+        ],
+        [
+          1361.91,
+          14289.15,
+          0.05
+        ],
+        [
+          1159.77,
+          14206.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382858",
+      "osm_id": 909382858,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 61.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2250795746,
+        245664695
+      ],
+      "coordinates_3d": [
+        [
+          1461.24,
+          14324.06,
+          0.05
+        ],
+        [
+          1402.85,
+          14305.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442618",
+      "osm_id": 1235442618,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 111.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        593054810,
+        593054821
+      ],
+      "coordinates_3d": [
+        [
+          973.98,
+          14152.57,
+          0.05
+        ],
+        [
+          1074.24,
+          14201.06,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1343989790",
+      "osm_id": 1343989790,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 20.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12435185075,
+        12435185078,
+        12435185077,
+        12435185076,
+        2250795748
+      ],
+      "coordinates_3d": [
+        [
+          1427.38,
+          14338.81,
+          0.05
+        ],
+        [
+          1430.88,
+          14347.41,
+          0.05
+        ],
+        [
+          1432.22,
+          14349.7,
+          0.05
+        ],
+        [
+          1434.4,
+          14352.65,
+          0.05
+        ],
+        [
+          1437.84,
+          14356.18,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859862",
+      "osm_id": 22859862,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 58.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2250795747,
+        245664695
+      ],
+      "coordinates_3d": [
+        [
+          1453.93,
+          14334.11,
+          0.05
+        ],
+        [
+          1402.85,
+          14305.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_830251243",
+      "osm_id": 830251243,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 54.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2250795745,
+        12435185075,
+        2250795749
+      ],
+      "coordinates_3d": [
+        [
+          1394.79,
+          14325.32,
+          0.05
+        ],
+        [
+          1427.38,
+          14338.81,
+          0.05
+        ],
+        [
+          1445.15,
+          14346.15,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382859",
+      "osm_id": 909382859,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 596.07,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 2,
+      "node_ids": [
+        2250795826,
+        588597503,
+        593054839,
+        2250795813,
+        2250795809,
+        593054838,
+        2250795802,
+        245665048,
+        2250795794,
+        2250795779,
+        245664901,
+        2250795761,
+        2250795754,
+        482183394,
+        2250795747
+      ],
+      "coordinates_3d": [
+        [
+          1612.18,
+          14881.05,
+          11.05
+        ],
+        [
+          1609.91,
+          14694.98,
+          11.05
+        ],
+        [
+          1609.43,
+          14655.57,
+          11.05
+        ],
+        [
+          1608.11,
+          14623.47,
+          11.05
+        ],
+        [
+          1606.69,
+          14602.56,
+          11.05
+        ],
+        [
+          1604.51,
+          14587.75,
+          11.05
+        ],
+        [
+          1600.0,
+          14567.04,
+          11.05
+        ],
+        [
+          1593.59,
+          14542.68,
+          11.05
+        ],
+        [
+          1587.49,
+          14523.23,
+          11.05
+        ],
+        [
+          1567.11,
+          14473.66,
+          11.05
+        ],
+        [
+          1549.66,
+          14441.28,
+          11.05
+        ],
+        [
+          1536.64,
+          14417.97,
+          11.05
+        ],
+        [
+          1508.36,
+          14380.87,
+          11.05
+        ],
+        [
+          1484.59,
+          14356.37,
+          11.05
+        ],
+        [
+          1453.93,
+          14334.11,
+          11.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382860",
+      "osm_id": 909382860,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 583.46,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 2,
+      "node_ids": [
+        2250795749,
+        619227677,
+        2250795757,
+        2250795763,
+        593054834,
+        2250795782,
+        593054836,
+        2250795797,
+        593054837,
+        2250795805,
+        473692779,
+        2250795810,
+        2250795812,
+        2250795818,
+        473692780,
+        245665631
+      ],
+      "coordinates_3d": [
+        [
+          1445.15,
+          14346.15,
+          11.05
+        ],
+        [
+          1475.19,
+          14367.94,
+          11.05
+        ],
+        [
+          1497.92,
+          14391.51,
+          11.05
+        ],
+        [
+          1524.83,
+          14425.25,
+          11.05
+        ],
+        [
+          1539.71,
+          14448.55,
+          11.05
+        ],
+        [
+          1555.35,
+          14477.2,
+          11.05
+        ],
+        [
+          1563.72,
+          14496.11,
+          11.05
+        ],
+        [
+          1576.55,
+          14528.44,
+          11.05
+        ],
+        [
+          1582.66,
+          14548.25,
+          11.05
+        ],
+        [
+          1588.23,
+          14570.11,
+          11.05
+        ],
+        [
+          1592.18,
+          14589.74,
+          11.05
+        ],
+        [
+          1594.3,
+          14604.56,
+          11.05
+        ],
+        [
+          1595.8,
+          14622.59,
+          11.05
+        ],
+        [
+          1596.94,
+          14655.86,
+          11.05
+        ],
+        [
+          1597.42,
+          14693.98,
+          11.05
+        ],
+        [
+          1600.33,
+          14880.87,
+          11.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_434887986",
+      "osm_id": 434887986,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 331.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4328027895,
+        4328027902,
+        4328027916,
+        4328027919,
+        4328027920,
+        4328027923,
+        4328027932,
+        12411468200,
+        4328027938,
+        12411468197
+      ],
+      "coordinates_3d": [
+        [
+          759.05,
+          14105.01,
+          0.05
+        ],
+        [
+          770.88,
+          14115.13,
+          0.05
+        ],
+        [
+          893.23,
+          14165.83,
+          0.05
+        ],
+        [
+          916.84,
+          14180.42,
+          0.05
+        ],
+        [
+          967.56,
+          14199.34,
+          0.05
+        ],
+        [
+          982.19,
+          14203.87,
+          0.05
+        ],
+        [
+          1006.77,
+          14206.61,
+          0.05
+        ],
+        [
+          1017.52,
+          14212.72,
+          0.05
+        ],
+        [
+          1041.78,
+          14235.34,
+          0.05
+        ],
+        [
+          1057.5,
+          14232.23,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

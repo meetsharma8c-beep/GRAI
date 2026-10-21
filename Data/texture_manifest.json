@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "project": "GRAI \u2014 Grand Roads of India",
+    "registry_version": "1.0.0",
+    "created_at": "2026-10-14T13:42:40Z",
+    "target": "Mumbai Digital Twin Materials",
+    "updated_at": "2026-10-14T13:51:48Z"
+  },
+  "textures": {
+    "tex_mumbai_basalt_diffuse": {
+      "texture_id": "tex_mumbai_basalt_diffuse",
+      "name": "Kharodi Yellow Basalt Diffuse",
+      "filepath": "Textures/Basalt/T_Basalt_D.png",
+      "category": "Facade_Basalt",
+      "resolution_px": [
+        2048,
+        2048
+      ],
+      "color_space": "sRGB",
+      "physical_scale_meters": 3.0,
+      "texel_density_px_per_m": 682.7,
+      "source": "Surveyed Material Capture",
+      "license": "GRAI Proprietary",
+      "status": "VALIDATED"
+    },
+    "tex_mumbai_basalt_normal": {
+      "texture_id": "tex_mumbai_basalt_normal",
+      "name": "Kharodi Yellow Basalt Normal",
+      "filepath": "Textures/Basalt/T_Basalt_N.png",
+      "category": "Facade_Basalt",
+      "resolution_px": [
+        2048,
+        2048
+      ],
+      "color_space": "Linear",
+      "physical_scale_meters": 3.0,
+      "texel_density_px_per_m": 682.7,
+      "source": "Surveyed Material Capture",
+      "license": "GRAI Proprietary",
+      "status": "VALIDATED"
+    },
+    "tex_mumbai_asphalt_diffuse": {
+      "texture_id": "tex_mumbai_asphalt_diffuse",
+      "name": "Mumbai Coastal Weathered Asphalt Diffuse",
+      "filepath": "Textures/Road/T_Asphalt_D.png",
+      "category": "Road_Surface",
+      "resolution_px": [
+        2048,
+        2048
+      ],
+      "color_space": "sRGB",
+      "physical_scale_meters": 4.0,
+      "texel_density_px_per_m": 512.0,
+      "source": "Surveyed Road Material",
+      "license": "GRAI Proprietary",
+      "status": "VALIDATED"
+    },
+    "tex_mumbai_asphalt_roughness": {
+      "texture_id": "tex_mumbai_asphalt_roughness",
+      "name": "Mumbai Coastal Weathered Asphalt Roughness",
+      "filepath": "Textures/Road/T_Asphalt_R.png",
+      "category": "Road_Surface",
+      "resolution_px": [
+        2048,
+        2048
+      ],
+      "color_space": "Linear",
+      "physical_scale_meters": 4.0,
+      "texel_density_px_per_m": 512.0,
+      "source": "Surveyed Road Material",
+      "license": "GRAI Proprietary",
+      "status": "VALIDATED"
+    },
+    "tex_mumbai_concrete_curb": {
+      "texture_id": "tex_mumbai_concrete_curb",
+      "name": "BMC Yellow-Black Painted Curb",
+      "filepath": "Textures/Road/T_Curb_D.png",
+      "category": "Road_Curb",
+      "resolution_px": [
+        1024,
+        1024
+      ],
+      "color_space": "sRGB",
+      "physical_scale_meters": 1.0,
+      "texel_density_px_per_m": 1024.0,
+      "source": "Surveyed BMC Infrastructure",
+      "license": "GRAI Proprietary",
+      "status": "VALIDATED"
+    }
+  }
+}

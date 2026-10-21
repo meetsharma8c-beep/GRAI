@@ -1,0 +1,144 @@
+{
+  "tile_id": "TILE_E-005_N-003",
+  "bounds": {
+    "min_x": -2500.0,
+    "max_x": -2000.0,
+    "min_y": -1500.0,
+    "max_y": -1000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.909175,
+    "max_lat": 18.913746,
+    "min_lon": 72.809452,
+    "max_lon": 72.814138
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 2,
+    "road_length_m": 1088.75,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_423753820",
+      "osm_id": 423753820,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 385.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1278343362,
+        459482368,
+        8609876358,
+        1934089148,
+        1934089147
+      ],
+      "coordinates_3d": [
+        [
+          -2075.95,
+          -1424.01,
+          3.53
+        ],
+        [
+          -2105.82,
+          -1466.85,
+          4.45
+        ],
+        [
+          -2180.66,
+          -1591.16,
+          11.1
+        ],
+        [
+          -2210.4,
+          -1634.11,
+          11.62
+        ],
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1050345072",
+      "osm_id": 1050345072,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 703.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1278343539,
+        11061221653,
+        9652365715,
+        9652365716,
+        10970210932,
+        2241842330,
+        9198832962,
+        1278343362
+      ],
+      "coordinates_3d": [
+        [
+          -2607.95,
+          -963.68,
+          4.05
+        ],
+        [
+          -2575.8,
+          -988.53,
+          4.93
+        ],
+        [
+          -2562.77,
+          -998.61,
+          6.73
+        ],
+        [
+          -2372.86,
+          -1161.39,
+          17.19
+        ],
+        [
+          -2307.24,
+          -1221.79,
+          9.14
+        ],
+        [
+          -2142.42,
+          -1364.47,
+          6.79
+        ],
+        [
+          -2088.05,
+          -1413.74,
+          3.11
+        ],
+        [
+          -2075.95,
+          -1424.01,
+          3.53
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "tile_id": "TILE_E+006_N+021",
+  "bounds": {
+    "min_x": 3000.0,
+    "max_x": 3500.0,
+    "min_y": 10500.0,
+    "max_y": 11000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.01816,
+    "max_lat": 19.02273,
+    "min_lon": 72.86026,
+    "max_lon": 72.86495
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 17,
+    "road_length_m": 4074.79,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22847564",
+      "osm_id": 22847564,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 79.62,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245660881,
+        6262416913
+      ],
+      "coordinates_3d": [
+        [
+          3251.99,
+          10550.31,
+          5.55
+        ],
+        [
+          3330.9,
+          10539.7,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22847929",
+      "osm_id": 22847929,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 306.28,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245660949,
+        5907931794,
+        245660881
+      ],
+      "coordinates_3d": [
+        [
+          2946.84,
+          10576.52,
+          5.55
+        ],
+        [
+          3063.02,
+          10565.5,
+          5.55
+        ],
+        [
+          3251.99,
+          10550.31,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_49680154",
+      "osm_id": 49680154,
+      "name": "Sheikh Misari Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 575.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631482441,
+        631483012,
+        631483013,
+        2663263715,
+        10576068399,
+        631483014,
+        631483015,
+        631483016,
+        631483017,
+        1650716617
+      ],
+      "coordinates_3d": [
+        [
+          3367.03,
+          10950.33,
+          0.05
+        ],
+        [
+          3386.72,
+          11105.17,
+          0.05
+        ],
+        [
+          3394.86,
+          11230.36,
+          0.05
+        ],
+        [
+          3402.31,
+          11268.69,
+          0.05
+        ],
+        [
+          3412.53,
+          11292.04,
+          0.05
+        ],
+        [
+          3429.2,
+          11310.89,
+          0.05
+        ],
+        [
+          3495.65,
+          11342.56,
+          0.05
+        ],
+        [
+          3538.69,
+          11351.02,
+          0.05
+        ],
+        [
+          3589.44,
+          11354.57,
+          0.05
+        ],
+        [
+          3624.45,
+          11363.59,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152246139",
+      "osm_id": 152246139,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 198.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631480564,
+        7378287249,
+        631480565,
+        7378287248,
+        3732552480,
+        631480566,
+        631480519
+      ],
+      "coordinates_3d": [
+        [
+          3366.73,
+          10521.68,
+          0.05
+        ],
+        [
+          3376.14,
+          10508.98,
+          0.05
+        ],
+        [
+          3418.86,
+          10412.56,
+          0.05
+        ],
+        [
+          3423.73,
+          10404.65,
+          0.05
+        ],
+        [
+          3433.97,
+          10398.78,
+          0.05
+        ],
+        [
+          3474.29,
+          10394.17,
+          0.05
+        ],
+        [
+          3490.33,
+          10394.38,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730722",
+      "osm_id": 668730722,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 307.53,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6262416910,
+        6262416909
+      ],
+      "coordinates_3d": [
+        [
+          3252.34,
+          10539.95,
+          5.55
+        ],
+        [
+          2946.1,
+          10568.12,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_668730723",
+      "osm_id": 668730723,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 77.24,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6262416911,
+        6262416910
+      ],
+      "coordinates_3d": [
+        [
+          3328.94,
+          10530.04,
+          5.55
+        ],
+        [
+          3252.34,
+          10539.95,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788781169",
+      "osm_id": 788781169,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 284.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386240,
+        7374459536,
+        7374459535,
+        7374459534,
+        7374459533,
+        7374507921
+      ],
+      "coordinates_3d": [
+        [
+          3022.87,
+          10586.55,
+          0.05
+        ],
+        [
+          3017.08,
+          10575.39,
+          0.05
+        ],
+        [
+          2987.24,
+          10513.71,
+          0.05
+        ],
+        [
+          2944.07,
+          10448.25,
+          0.05
+        ],
+        [
+          2899.14,
+          10393.38,
+          0.05
+        ],
+        [
+          2862.25,
+          10353.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1105211166",
+      "osm_id": 1105211166,
+      "name": "Sheikh Misari Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 524.71,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7375884906,
+        631483005,
+        7375884895,
+        13669545735,
+        631483006,
+        13669545736,
+        13669545737,
+        11064325761,
+        11064325754,
+        631483007,
+        7374853001,
+        631483008,
+        631483009,
+        631483010,
+        7374853000,
+        631483011,
+        631482441
+      ],
+      "coordinates_3d": [
+        [
+          3361.35,
+          10527.86,
+          0.05
+        ],
+        [
+          3384.44,
+          10556.23,
+          0.05
+        ],
+        [
+          3410.21,
+          10589.18,
+          0.05
+        ],
+        [
+          3431.65,
+          10617.43,
+          0.05
+        ],
+        [
+          3435.04,
+          10622.96,
+          0.05
+        ],
+        [
+          3441.11,
+          10637.72,
+          0.05
+        ],
+        [
+          3442.95,
+          10644.7,
+          0.05
+        ],
+        [
+          3445.33,
+          10661.53,
+          0.05
+        ],
+        [
+          3448.51,
+          10691.78,
+          0.05
+        ],
+        [
+          3456.93,
+          10771.69,
+          0.05
+        ],
+        [
+          3456.43,
+          10781.76,
+          0.05
+        ],
+        [
+          3451.27,
+          10789.9,
+          0.05
+        ],
+        [
+          3406.68,
+          10807.93,
+          0.05
+        ],
+        [
+          3357.18,
+          10825.94,
+          0.05
+        ],
+        [
+          3346.21,
+          10835.04,
+          0.05
+        ],
+        [
+          3342.72,
+          10844.65,
+          0.05
+        ],
+        [
+          3367.03,
+          10950.33,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139162902",
+      "osm_id": 1139162902,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 282.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12721918106,
+        7374459523,
+        7374459524,
+        6572386235
+      ],
+      "coordinates_3d": [
+        [
+          2836.12,
+          10372.92,
+          0.05
+        ],
+        [
+          2908.75,
+          10447.28,
+          0.05
+        ],
+        [
+          2963.69,
+          10528.32,
+          0.05
+        ],
+        [
+          2997.83,
+          10600.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569520",
+      "osm_id": 1235569520,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 687.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386246,
+        6572386267,
+        6572386266,
+        6572386265,
+        6572386264,
+        6572386263,
+        6572386245,
+        6572386244,
+        6572386243,
+        6572386242,
+        6572386241,
+        6572386240
+      ],
+      "coordinates_3d": [
+        [
+          3037.03,
+          11266.21,
+          0.05
+        ],
+        [
+          3042.13,
+          11217.36,
+          0.05
+        ],
+        [
+          3049.86,
+          11121.53,
+          0.05
+        ],
+        [
+          3059.1,
+          11057.12,
+          0.05
+        ],
+        [
+          3067.91,
+          10968.01,
+          0.05
+        ],
+        [
+          3069.41,
+          10928.81,
+          0.05
+        ],
+        [
+          3072.65,
+          10847.63,
+          0.05
+        ],
+        [
+          3069.4,
+          10788.71,
+          0.05
+        ],
+        [
+          3060.05,
+          10717.23,
+          0.05
+        ],
+        [
+          3055.51,
+          10692.02,
+          0.05
+        ],
+        [
+          3028.78,
+          10607.83,
+          0.05
+        ],
+        [
+          3022.87,
+          10586.55,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569536",
+      "osm_id": 1235569536,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 472.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386238,
+        6572386239,
+        6572386248,
+        6572386247,
+        6572386249,
+        6572386250,
+        6572386251
+      ],
+      "coordinates_3d": [
+        [
+          3043.62,
+          10792.25,
+          0.05
+        ],
+        [
+          3046.64,
+          10912.03,
+          0.05
+        ],
+        [
+          3044.63,
+          10935.86,
+          0.05
+        ],
+        [
+          3032.67,
+          11053.86,
+          0.05
+        ],
+        [
+          3031.29,
+          11069.1,
+          0.05
+        ],
+        [
+          3021.52,
+          11171.14,
+          0.05
+        ],
+        [
+          3013.21,
+          11263.2,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771385",
+      "osm_id": 1235771385,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7375884906,
+        631480564
+      ],
+      "coordinates_3d": [
+        [
+          3361.35,
+          10527.86,
+          0.05
+        ],
+        [
+          3366.73,
+          10521.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1249080324",
+      "osm_id": 1249080324,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 197.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6572386235,
+        6572386236,
+        6572386237,
+        6572386238
+      ],
+      "coordinates_3d": [
+        [
+          2997.83,
+          10600.93,
+          0.05
+        ],
+        [
+          3000.51,
+          10605.65,
+          0.05
+        ],
+        [
+          3029.26,
+          10694.02,
+          0.05
+        ],
+        [
+          3043.62,
+          10792.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309797410",
+      "osm_id": 1309797410,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 13.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1650716582,
+        3732551721,
+        7375884906
+      ],
+      "coordinates_3d": [
+        [
+          3350.44,
+          10536.06,
+          0.05
+        ],
+        [
+          3357.26,
+          10531.85,
+          0.05
+        ],
+        [
+          3361.35,
+          10527.86,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309797412",
+      "osm_id": 1309797412,
+      "name": "Road No 16",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 21.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631480564,
+        7375884907,
+        6262416912,
+        7377641133
+      ],
+      "coordinates_3d": [
+        [
+          3366.73,
+          10521.68,
+          0.05
+        ],
+        [
+          3358.21,
+          10523.24,
+          0.05
+        ],
+        [
+          3356.05,
+          10523.54,
+          0.05
+        ],
+        [
+          3345.68,
+          10526.03,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309797413",
+      "osm_id": 1309797413,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 17.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7377641133,
+        6262416911
+      ],
+      "coordinates_3d": [
+        [
+          3345.68,
+          10526.03,
+          0.05
+        ],
+        [
+          3328.94,
+          10530.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309797414",
+      "osm_id": 1309797414,
+      "name": "Nana Phadnavis Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 19.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6262416913,
+        1650716582
+      ],
+      "coordinates_3d": [
+        [
+          3330.9,
+          10539.7,
+          0.05
+        ],
+        [
+          3350.44,
+          10536.06,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

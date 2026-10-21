@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "project": "GRAI \u2014 Grand Roads of India",
+    "registry_version": "1.0.0",
+    "created_at": "2026-10-14T13:34:43Z",
+    "target": "Mumbai Digital Twin",
+    "updated_at": "2026-10-14T13:51:26Z"
+  },
+  "sources": {
+    "srtm_n18e072": {
+      "source_id": "srtm_n18e072",
+      "name": "NASA/USGS SRTM 1-Arc-Second Global (N18E072)",
+      "provider": "NASA JPL / USGS",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/terrain/N18E072.hgt.gz",
+      "file_size_bytes": 1281702,
+      "sha256": "46430d44c0f3402e8fc395e2b005923f157212fcf377bb4e09c0857f45e7dc98",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2000-02 (Reprocessed 2014)",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84 Horizontal), EGM96 Geoid (Vertical MSL)",
+      "spatial_resolution": "1 arc-second (~30 meters)",
+      "geographic_coverage": {
+        "min_lat": 18.0,
+        "max_lat": 19.0,
+        "min_lon": 72.0,
+        "max_lon": 73.0
+      },
+      "license": "Public Domain (NASA Open Data Policy)",
+      "attribution": "NASA SRTM mission courtesy USGS / JPL",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "Coarse 30m resolution; does not capture micro-topography, seawalls, or elevated bridges; upper latitude edge at 19.00.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    },
+    "osm_mumbai_official_colaba": {
+      "source_id": "osm_mumbai_official_colaba",
+      "name": "OpenStreetMap Apollo Bunder & Colaba Heritage Precinct",
+      "provider": "OpenStreetMap Contributors",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/osm/mumbai_official_colaba.osm",
+      "file_size_bytes": 2059857,
+      "sha256": "92f731e74a5ddad2728904d60b72eca0cdb40900a145f5f09f34209f8af73061",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2026-07-08",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84)",
+      "spatial_resolution": "Vector survey-level geometry",
+      "geographic_coverage": {
+        "min_lat": 18.918,
+        "max_lat": 18.928,
+        "min_lon": 72.828,
+        "max_lon": 72.838
+      },
+      "license": "ODbL (Open Database License)",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "278 verified building footprints and 251 highway segments; building heights are largely missing and require explicit inference.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    },
+    "osm_mumbai_colaba_peninsula": {
+      "source_id": "osm_mumbai_colaba_peninsula",
+      "name": "OpenStreetMap Mumbai Peninsula Network",
+      "provider": "OpenStreetMap Contributors",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/osm/mumbai_colaba.osm",
+      "file_size_bytes": 59862600,
+      "sha256": "94833ff0ab5c28190597a39035863841ce335b487049085e652c652bdc9032c1",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2026-07-15",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84)",
+      "spatial_resolution": "Vector geometry (1855 highways, 141 landmark buildings)",
+      "geographic_coverage": {
+        "min_lat": 18.895,
+        "max_lat": 19.055,
+        "min_lon": 72.8,
+        "max_lon": 72.875
+      },
+      "license": "ODbL (Open Database License)",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "Extensive highway graph; selective building coverage; non-building areas require secondary datasets.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    },
+    "osm_mumbai_dharavi": {
+      "source_id": "osm_mumbai_dharavi",
+      "name": "OpenStreetMap Dharavi Mapped Settlement Structure",
+      "provider": "OpenStreetMap Contributors",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/osm/mumbai_dharavi_sample.osm",
+      "file_size_bytes": 15330688,
+      "sha256": "8012f571cd564156c87a374ff55f812388624ac3127da33b1dda3b7ba5b1a665",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2026-10-14",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84)",
+      "spatial_resolution": "High-density vector footprints and alleyway network (1392 buildings, 3068 highways)",
+      "geographic_coverage": {
+        "min_lat": 19.038,
+        "max_lat": 19.048,
+        "min_lon": 72.848,
+        "max_lon": 72.858
+      },
+      "license": "ODbL (Open Database License)",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "Dense mapped informal settlement fabric; ground verified footprints; narrow passageways.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    },
+    "osm_mumbai_worli_dadar": {
+      "source_id": "osm_mumbai_worli_dadar",
+      "name": "OpenStreetMap Worli & Dadar Urban Sector",
+      "provider": "OpenStreetMap Contributors",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/osm/mumbai_worli_dadar.osm",
+      "file_size_bytes": 57654233,
+      "sha256": "ddbdc3e458b67e6dc18499af6afb2cd36c8e36af4c2b173f46e6b82e0b7a8a84",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2026-10-14",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84)",
+      "spatial_resolution": "Vector geometry (5741 buildings, 8378 highways)",
+      "geographic_coverage": {
+        "min_lat": 18.99,
+        "max_lat": 19.025,
+        "min_lon": 72.81,
+        "max_lon": 72.84
+      },
+      "license": "ODbL (Open Database License)",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "High density urban blocks, mill lands redevelopment, flyovers, and sea-facing high-rises.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    },
+    "osm_mumbai_bandra_sealink": {
+      "source_id": "osm_mumbai_bandra_sealink",
+      "name": "OpenStreetMap Bandra & Bandra-Worli Sea Link Coastal Sector",
+      "provider": "OpenStreetMap Contributors",
+      "path_or_endpoint": "/Users/ms/Downloads/GRAI/Data/raw/osm/mumbai_bandra_sealink.osm",
+      "file_size_bytes": 44964109,
+      "sha256": "b003cbf25ad054b1310f8ad8b39aba2a79c26ef7cec344bdaac6ccc882ab1e5f",
+      "acquisition_timestamp": "2026-10-14T13:51:26Z",
+      "dataset_date": "2026-10-14",
+      "coordinate_reference_system": "EPSG:4326 (WGS 84)",
+      "spatial_resolution": "Vector geometry (2820 buildings, 6756 highways)",
+      "geographic_coverage": {
+        "min_lat": 19.035,
+        "max_lat": 19.065,
+        "min_lon": 72.815,
+        "max_lon": 72.84
+      },
+      "license": "ODbL (Open Database License)",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "redistribution_permitted": true,
+      "data_quality_limitations": "BWSL expressway geometry, toll plaza, Bandra West heritage villages and coastal promontory.",
+      "processing_history": [
+        {
+          "action": "registered",
+          "timestamp": "2026-10-14T13:51:26Z"
+        }
+      ]
+    }
+  }
+}

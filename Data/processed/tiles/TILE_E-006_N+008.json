@@ -1,0 +1,285 @@
+{
+  "tile_id": "TILE_E-006_N+008",
+  "bounds": {
+    "min_x": -3000.0,
+    "max_x": -2500.0,
+    "min_y": 4000.0,
+    "max_y": 4500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.95879,
+    "max_lat": 18.963361,
+    "min_lon": 72.804058,
+    "max_lon": 72.808745
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 5,
+    "road_length_m": 945.82,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22853663",
+      "osm_id": 22853663,
+      "name": "NS Patkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 279.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        456241820,
+        2453954667,
+        459459696,
+        2453954665,
+        12122017640,
+        2453954658,
+        473130735,
+        2453954647,
+        618676046
+      ],
+      "coordinates_3d": [
+        [
+          -2612.6,
+          4593.12,
+          28.33
+        ],
+        [
+          -2611.48,
+          4582.71,
+          26.92
+        ],
+        [
+          -2607.68,
+          4562.11,
+          24.52
+        ],
+        [
+          -2599.86,
+          4518.9,
+          24.07
+        ],
+        [
+          -2594.81,
+          4500.92,
+          25.38
+        ],
+        [
+          -2582.27,
+          4456.37,
+          25.13
+        ],
+        [
+          -2571.43,
+          4431.95,
+          25.5
+        ],
+        [
+          -2534.82,
+          4345.24,
+          22.64
+        ],
+        [
+          -2533.31,
+          4326.93,
+          23.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_596409179",
+      "osm_id": 596409179,
+      "name": "Hughes Road (N Saptkar Marg)",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 376.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        618682506,
+        618680835,
+        245656402,
+        245656495,
+        12122017639,
+        245656546,
+        245656675,
+        2453954659,
+        6618301525
+      ],
+      "coordinates_3d": [
+        [
+          -2452.82,
+          4149.54,
+          13.77
+        ],
+        [
+          -2469.86,
+          4185.38,
+          13.76
+        ],
+        [
+          -2495.51,
+          4231.31,
+          22.43
+        ],
+        [
+          -2515.51,
+          4267.7,
+          26.9
+        ],
+        [
+          -2523.96,
+          4285.13,
+          27.81
+        ],
+        [
+          -2540.82,
+          4319.96,
+          25.06
+        ],
+        [
+          -2576.03,
+          4401.06,
+          29.89
+        ],
+        [
+          -2596.39,
+          4459.79,
+          26.08
+        ],
+        [
+          -2606.5,
+          4492.81,
+          26.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_704738389",
+      "osm_id": 704738389,
+      "name": "Unnamed Road",
+      "highway": "secondary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:secondary_link",
+      "length_m": 14.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6618301525,
+        4362345197
+      ],
+      "coordinates_3d": [
+        [
+          -2606.5,
+          4492.81,
+          26.03
+        ],
+        [
+          -2618.95,
+          4500.32,
+          25.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1158173508",
+      "osm_id": 1158173508,
+      "name": "B G Kher Marg (Gibbs Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 80.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4362345197,
+        459459210,
+        10277829372
+      ],
+      "coordinates_3d": [
+        [
+          -2618.95,
+          4500.32,
+          25.28
+        ],
+        [
+          -2629.27,
+          4556.4,
+          24.67
+        ],
+        [
+          -2632.79,
+          4579.97,
+          27.7
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236029501",
+      "osm_id": 1236029501,
+      "name": "Hughes Road (N Spatkar Marg)",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 193.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        618676046,
+        618680831,
+        618680832,
+        618680833,
+        245656236
+      ],
+      "coordinates_3d": [
+        [
+          -2533.31,
+          4326.93,
+          23.69
+        ],
+        [
+          -2510.99,
+          4278.43,
+          26.45
+        ],
+        [
+          -2488.94,
+          4235.09,
+          22.12
+        ],
+        [
+          -2462.46,
+          4188.75,
+          13.26
+        ],
+        [
+          -2443.39,
+          4155.25,
+          13.73
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

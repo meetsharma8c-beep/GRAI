@@ -1,0 +1,627 @@
+{
+  "tile_id": "TILE_E+007_N+026",
+  "bounds": {
+    "min_x": 3500.0,
+    "max_x": 4000.0,
+    "min_y": 13000.0,
+    "max_y": 13500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.040793,
+    "max_lat": 19.045364,
+    "min_lon": 72.864719,
+    "max_lon": 72.86941
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 11,
+    "road_length_m": 2645.28,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22847715",
+      "osm_id": 22847715,
+      "name": "Road No 8",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 190.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7372175019,
+        11025102567,
+        245663299,
+        6431019488,
+        6559448272,
+        10733085808
+      ],
+      "coordinates_3d": [
+        [
+          3461.82,
+          13141.87,
+          0.05
+        ],
+        [
+          3474.78,
+          13130.69,
+          0.05
+        ],
+        [
+          3492.39,
+          13111.58,
+          0.05
+        ],
+        [
+          3521.05,
+          13085.57,
+          0.05
+        ],
+        [
+          3549.22,
+          13060.01,
+          0.05
+        ],
+        [
+          3601.92,
+          13012.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102167954",
+      "osm_id": 102167954,
+      "name": "Sion Bandra Link Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 25.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5346805348,
+        245663666
+      ],
+      "coordinates_3d": [
+        [
+          3492.43,
+          13380.62,
+          0.05
+        ],
+        [
+          3475.66,
+          13399.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_611839305",
+      "osm_id": 611839305,
+      "name": "Road Number 29",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 450.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10733085808,
+        11190316056,
+        14283168548,
+        10733085807,
+        13982482479,
+        12071058819,
+        13982361832,
+        13982361838,
+        13982361839,
+        13800569641,
+        10733085806,
+        5792425830
+      ],
+      "coordinates_3d": [
+        [
+          3601.92,
+          13012.7,
+          0.05
+        ],
+        [
+          3598.64,
+          13003.62,
+          0.05
+        ],
+        [
+          3545.5,
+          12938.98,
+          0.05
+        ],
+        [
+          3507.05,
+          12892.2,
+          0.05
+        ],
+        [
+          3475.16,
+          12857.31,
+          0.05
+        ],
+        [
+          3423.9,
+          12801.21,
+          0.05
+        ],
+        [
+          3388.6,
+          12761.39,
+          0.05
+        ],
+        [
+          3378.0,
+          12749.43,
+          0.05
+        ],
+        [
+          3374.15,
+          12745.1,
+          0.05
+        ],
+        [
+          3351.66,
+          12719.72,
+          0.05
+        ],
+        [
+          3317.95,
+          12682.15,
+          0.05
+        ],
+        [
+          3310.8,
+          12670.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788555968",
+      "osm_id": 788555968,
+      "name": "Road No 29",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 487.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965954,
+        631497215,
+        5792425829,
+        631497219,
+        12071058818,
+        2247988763,
+        13982482467,
+        13982482476,
+        14283466223,
+        14283168540,
+        14283168545,
+        11190316055,
+        10733085808
+      ],
+      "coordinates_3d": [
+        [
+          3282.32,
+          12645.64,
+          0.05
+        ],
+        [
+          3285.29,
+          12653.45,
+          0.05
+        ],
+        [
+          3311.75,
+          12687.62,
+          0.05
+        ],
+        [
+          3345.28,
+          12724.37,
+          0.05
+        ],
+        [
+          3378.19,
+          12759.08,
+          0.05
+        ],
+        [
+          3418.39,
+          12805.43,
+          0.05
+        ],
+        [
+          3468.08,
+          12862.88,
+          0.05
+        ],
+        [
+          3483.41,
+          12880.6,
+          0.05
+        ],
+        [
+          3485.3,
+          12882.78,
+          0.05
+        ],
+        [
+          3538.45,
+          12944.24,
+          0.05
+        ],
+        [
+          3552.19,
+          12960.11,
+          0.05
+        ],
+        [
+          3593.38,
+          13007.73,
+          0.05
+        ],
+        [
+          3601.92,
+          13012.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1057124974",
+      "osm_id": 1057124974,
+      "name": "Sion Panvel Highway",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 196.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4366129978,
+        5792168769,
+        5346805346,
+        5346805341,
+        10656668354
+      ],
+      "coordinates_3d": [
+        [
+          3586.54,
+          13564.3,
+          0.05
+        ],
+        [
+          3562.35,
+          13529.75,
+          0.05
+        ],
+        [
+          3544.12,
+          13500.37,
+          0.05
+        ],
+        [
+          3512.66,
+          13432.63,
+          0.05
+        ],
+        [
+          3496.33,
+          13390.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1140776076",
+      "osm_id": 1140776076,
+      "name": "Sion Bandra Link Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 29.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5346805349,
+        10656668354
+      ],
+      "coordinates_3d": [
+        [
+          3477.86,
+          13413.57,
+          0.05
+        ],
+        [
+          3496.33,
+          13390.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1140776078",
+      "osm_id": 1140776078,
+      "name": "Sion Panvel Highway",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 168.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5346805348,
+        10926155950,
+        10926155937,
+        7374755431,
+        631494037,
+        5792168774,
+        631494036
+      ],
+      "coordinates_3d": [
+        [
+          3492.43,
+          13380.62,
+          0.05
+        ],
+        [
+          3476.72,
+          13338.66,
+          0.05
+        ],
+        [
+          3465.94,
+          13309.32,
+          0.05
+        ],
+        [
+          3447.47,
+          13259.03,
+          0.05
+        ],
+        [
+          3445.33,
+          13252.88,
+          0.05
+        ],
+        [
+          3444.34,
+          13237.07,
+          0.05
+        ],
+        [
+          3448.46,
+          13221.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235473848",
+      "osm_id": 1235473848,
+      "name": "Sion Panvel Highway",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 92.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5969352392,
+        5346805345
+      ],
+      "coordinates_3d": [
+        [
+          3480.82,
+          13419.7,
+          0.05
+        ],
+        [
+          3520.86,
+          13502.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235502177",
+      "osm_id": 1235502177,
+      "name": "Sion Panvel Highway",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 10.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10656668354,
+        5346805348
+      ],
+      "coordinates_3d": [
+        [
+          3496.33,
+          13390.56,
+          0.05
+        ],
+        [
+          3492.43,
+          13380.62,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1449947908",
+      "osm_id": 1449947908,
+      "name": "Sion Panvel Highway",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 93.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5346805345,
+        1179191728,
+        5836311789
+      ],
+      "coordinates_3d": [
+        [
+          3520.86,
+          13502.67,
+          0.05
+        ],
+        [
+          3546.1,
+          13541.06,
+          0.05
+        ],
+        [
+          3574.12,
+          13579.33,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22847770",
+      "osm_id": 22847770,
+      "name": "Sion Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 900.15,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        529589674,
+        1176701799,
+        245663995,
+        1176703271,
+        245663930,
+        2258304594,
+        245663831,
+        1176703273,
+        1643134478,
+        1643134471,
+        10228066169,
+        10228066170,
+        10228066171,
+        10228066172
+      ],
+      "coordinates_3d": [
+        [
+          3698.89,
+          13699.04,
+          5.55
+        ],
+        [
+          3638.9,
+          13635.59,
+          5.55
+        ],
+        [
+          3601.34,
+          13596.88,
+          5.55
+        ],
+        [
+          3585.62,
+          13579.04,
+          5.55
+        ],
+        [
+          3554.8,
+          13535.65,
+          5.55
+        ],
+        [
+          3531.37,
+          13501.85,
+          5.55
+        ],
+        [
+          3499.82,
+          13436.52,
+          5.55
+        ],
+        [
+          3484.07,
+          13398.41,
+          5.55
+        ],
+        [
+          3429.41,
+          13243.36,
+          5.55
+        ],
+        [
+          3405.71,
+          13191.22,
+          5.55
+        ],
+        [
+          3378.52,
+          13144.83,
+          5.55
+        ],
+        [
+          3339.18,
+          13085.36,
+          5.55
+        ],
+        [
+          3277.29,
+          12997.25,
+          5.55
+        ],
+        [
+          3239.28,
+          12935.45,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

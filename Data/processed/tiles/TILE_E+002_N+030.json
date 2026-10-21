@@ -1,0 +1,114 @@
+{
+  "tile_id": "TILE_E+002_N+030",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 15000.0,
+    "max_y": 15500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.058579,
+    "max_lat": 19.06315,
+    "min_lon": 72.840743,
+    "max_lon": 72.845434
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 2,
+    "road_length_m": 386.8,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_107303402",
+      "osm_id": 107303402,
+      "name": "Unnamed Road",
+      "highway": "footway",
+      "width_m": 6.0,
+      "width_source": "osm_explicit_width",
+      "length_m": 291.23,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1233573086,
+        12522749407,
+        9156165125,
+        9156165126,
+        9156165127
+      ],
+      "coordinates_3d": [
+        [
+          1071.09,
+          15273.96,
+          5.55
+        ],
+        [
+          1005.39,
+          15273.77,
+          5.55
+        ],
+        [
+          964.91,
+          15275.06,
+          5.55
+        ],
+        [
+          966.47,
+          15357.79,
+          5.55
+        ],
+        [
+          864.23,
+          15360.84,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_435597341",
+      "osm_id": 435597341,
+      "name": "Unnamed Road",
+      "highway": "living_street",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:living_street",
+      "length_m": 95.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4335012890,
+        4335012891,
+        4335012892
+      ],
+      "coordinates_3d": [
+        [
+          913.09,
+          15037.55,
+          0.05
+        ],
+        [
+          930.85,
+          15037.55,
+          0.05
+        ],
+        [
+          1007.21,
+          15052.49,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "tile_id": "TILE_E+001_N+024",
+  "bounds": {
+    "min_x": 500.0,
+    "max_x": 1000.0,
+    "min_y": 12000.0,
+    "max_y": 12500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.03143,
+    "max_lat": 19.036001,
+    "min_lon": 72.836346,
+    "max_lon": 72.841036
+  },
+  "statistics": {
+    "total_buildings": 15,
+    "level_a_verified": 0,
+    "level_b_inferred": 5,
+    "level_c_unavailable": 10,
+    "total_roads": 19,
+    "road_length_m": 3634.1,
+    "confidence_score": 0.433
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_357360267",
+      "source_id": "osm_way_357360267",
+      "osm_id": 357360267,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments",
+        "building:levels": "10"
+      },
+      "area_sqm": 289.04,
+      "perimeter_m": 70.72,
+      "local_centroid": [
+        840.84,
+        12389.43
+      ],
+      "geo_centroid": [
+        19.034999,
+        72.839517
+      ],
+      "local_polygon_vertices": [
+        [
+          830.39,
+          12397.1
+        ],
+        [
+          852.78,
+          12394.5
+        ],
+        [
+          851.28,
+          12381.76
+        ],
+        [
+          828.89,
+          12384.36
+        ],
+        [
+          830.39,
+          12397.1
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0350532,
+          72.8394369
+        ],
+        [
+          19.0350322,
+          72.8396498
+        ],
+        [
+          19.034917,
+          72.8396371
+        ],
+        [
+          19.034938,
+          72.8394242
+        ],
+        [
+          19.0350532,
+          72.8394369
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 32.0,
+      "levels": 10.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:10"
+    },
+    {
+      "asset_id": "BLDG_357360287",
+      "source_id": "osm_way_357360287",
+      "osm_id": 357360287,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 324.63,
+      "perimeter_m": 79.58,
+      "local_centroid": [
+        737.89,
+        12460.58
+      ],
+      "geo_centroid": [
+        19.035631,
+        72.838527
+      ],
+      "local_polygon_vertices": [
+        [
+          725.24,
+          12469.12
+        ],
+        [
+          752.95,
+          12463.24
+        ],
+        [
+          750.54,
+          12452.03
+        ],
+        [
+          722.83,
+          12457.92
+        ],
+        [
+          725.24,
+          12469.12
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0356919,
+          72.8384299
+        ],
+        [
+          19.0356419,
+          72.8386938
+        ],
+        [
+          19.0355404,
+          72.8386722
+        ],
+        [
+          19.0355905,
+          72.8384084
+        ],
+        [
+          19.0356919,
+          72.8384299
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360326",
+      "source_id": "osm_way_357360326",
+      "osm_id": 357360326,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments",
+        "building:levels": "10"
+      },
+      "area_sqm": 203.62,
+      "perimeter_m": 57.08,
+      "local_centroid": [
+        744.45,
+        12487.95
+      ],
+      "geo_centroid": [
+        19.035878,
+        72.838598
+      ],
+      "local_polygon_vertices": [
+        [
+          738.33,
+          12495.96
+        ],
+        [
+          752.49,
+          12494.06
+        ],
+        [
+          750.57,
+          12479.94
+        ],
+        [
+          736.41,
+          12481.84
+        ],
+        [
+          738.33,
+          12495.96
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0359358,
+          72.8385511
+        ],
+        [
+          19.0359202,
+          72.8386858
+        ],
+        [
+          19.0357925,
+          72.8386692
+        ],
+        [
+          19.035808,
+          72.8385345
+        ],
+        [
+          19.0359358,
+          72.8385511
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 32.0,
+      "levels": 10.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:10"
+    },
+    {
+      "asset_id": "BLDG_357360353",
+      "source_id": "osm_way_357360353",
+      "osm_id": 357360353,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 333.26,
+      "perimeter_m": 74.19,
+      "local_centroid": [
+        751.84,
+        12396.0
+      ],
+      "geo_centroid": [
+        19.035052,
+        72.838673
+      ],
+      "local_polygon_vertices": [
+        [
+          742.65,
+          12405.62
+        ],
+        [
+          764.06,
+          12401.34
+        ],
+        [
+          761.03,
+          12386.37
+        ],
+        [
+          739.62,
+          12390.67
+        ],
+        [
+          742.65,
+          12405.62
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0351204,
+          72.8386027
+        ],
+        [
+          19.0350841,
+          72.8388065
+        ],
+        [
+          19.0349486,
+          72.8387795
+        ],
+        [
+          19.034985,
+          72.8385757
+        ],
+        [
+          19.0351204,
+          72.8386027
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360474",
+      "source_id": "osm_way_357360474",
+      "osm_id": 357360474,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 173.51,
+      "perimeter_m": 61.86,
+      "local_centroid": [
+        805.72,
+        12464.54
+      ],
+      "geo_centroid": [
+        19.035681,
+        72.83919
+      ],
+      "local_polygon_vertices": [
+        [
+          803.14,
+          12476.61
+        ],
+        [
+          810.47,
+          12475.94
+        ],
+        [
+          808.3,
+          12452.47
+        ],
+        [
+          800.97,
+          12453.14
+        ],
+        [
+          803.14,
+          12476.61
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0357682,
+          72.8391688
+        ],
+        [
+          19.035763,
+          72.8392385
+        ],
+        [
+          19.0355508,
+          72.8392207
+        ],
+        [
+          19.035556,
+          72.839151
+        ],
+        [
+          19.0357682,
+          72.8391688
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360531",
+      "source_id": "osm_way_357360531",
+      "osm_id": 357360531,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 321.28,
+      "perimeter_m": 73.03,
+      "local_centroid": [
+        804.1,
+        12412.16
+      ],
+      "geo_centroid": [
+        19.035177,
+        72.839163
+      ],
+      "local_polygon_vertices": [
+        [
+          792.02,
+          12406.94
+        ],
+        [
+          794.83,
+          12421.46
+        ],
+        [
+          816.17,
+          12417.38
+        ],
+        [
+          813.36,
+          12402.86
+        ],
+        [
+          792.02,
+          12406.94
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0351378,
+          72.8390714
+        ],
+        [
+          19.0352692,
+          72.8390964
+        ],
+        [
+          19.0352348,
+          72.8392995
+        ],
+        [
+          19.0351033,
+          72.8392745
+        ],
+        [
+          19.0351378,
+          72.8390714
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360542",
+      "source_id": "osm_way_357360542",
+      "osm_id": 357360542,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 292.71,
+      "perimeter_m": 81.72,
+      "local_centroid": [
+        767.49,
+        12452.19
+      ],
+      "geo_centroid": [
+        19.035572,
+        72.838825
+      ],
+      "local_polygon_vertices": [
+        [
+          763.46,
+          12468.15
+        ],
+        [
+          772.72,
+          12467.8
+        ],
+        [
+          771.52,
+          12436.23
+        ],
+        [
+          762.27,
+          12436.57
+        ],
+        [
+          763.46,
+          12468.15
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0356874,
+          72.838793
+        ],
+        [
+          19.0356853,
+          72.838881
+        ],
+        [
+          19.0354,
+          72.8388733
+        ],
+        [
+          19.0354021,
+          72.8387854
+        ],
+        [
+          19.0356874,
+          72.838793
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360584",
+      "source_id": "osm_way_357360584",
+      "osm_id": 357360584,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 137.38,
+      "perimeter_m": 47.17,
+      "local_centroid": [
+        799.61,
+        12434.38
+      ],
+      "geo_centroid": [
+        19.035379,
+        72.839126
+      ],
+      "local_polygon_vertices": [
+        [
+          792.2,
+          12430.45
+        ],
+        [
+          794.19,
+          12440.76
+        ],
+        [
+          807.03,
+          12438.3
+        ],
+        [
+          805.04,
+          12428.0
+        ],
+        [
+          792.2,
+          12430.45
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0353501,
+          72.8390703
+        ],
+        [
+          19.0354435,
+          72.839088
+        ],
+        [
+          19.0354227,
+          72.8392103
+        ],
+        [
+          19.0353294,
+          72.8391926
+        ],
+        [
+          19.0353501,
+          72.8390703
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360608",
+      "source_id": "osm_way_357360608",
+      "osm_id": 357360608,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments",
+        "building:levels": "10"
+      },
+      "area_sqm": 285.93,
+      "perimeter_m": 72.36,
+      "local_centroid": [
+        811.51,
+        12389.61
+      ],
+      "geo_centroid": [
+        19.034996,
+        72.839236
+      ],
+      "local_polygon_vertices": [
+        [
+          799.95,
+          12396.71
+        ],
+        [
+          824.33,
+          12394.1
+        ],
+        [
+          823.07,
+          12382.5
+        ],
+        [
+          798.69,
+          12385.12
+        ],
+        [
+          799.95,
+          12396.71
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0350463,
+          72.8391479
+        ],
+        [
+          19.0350254,
+          72.8393797
+        ],
+        [
+          19.0349205,
+          72.8393691
+        ],
+        [
+          19.0349415,
+          72.8391373
+        ],
+        [
+          19.0350463,
+          72.8391479
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 32.0,
+      "levels": 10.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:10"
+    },
+    {
+      "asset_id": "BLDG_357360643",
+      "source_id": "osm_way_357360643",
+      "osm_id": 357360643,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments",
+        "building:levels": "10"
+      },
+      "area_sqm": 313.79,
+      "perimeter_m": 74.2,
+      "local_centroid": [
+        884.06,
+        12449.04
+      ],
+      "geo_centroid": [
+        19.035544,
+        72.839921
+      ],
+      "local_polygon_vertices": [
+        [
+          873.86,
+          12458.14
+        ],
+        [
+          897.28,
+          12452.63
+        ],
+        [
+          894.26,
+          12439.94
+        ],
+        [
+          870.84,
+          12445.45
+        ],
+        [
+          873.86,
+          12458.14
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0356093,
+          72.8398426
+        ],
+        [
+          19.0355621,
+          72.8400656
+        ],
+        [
+          19.0354472,
+          72.8400384
+        ],
+        [
+          19.0354943,
+          72.8398154
+        ],
+        [
+          19.0356093,
+          72.8398426
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 32.0,
+      "levels": 10.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:10"
+    },
+    {
+      "asset_id": "BLDG_357360656",
+      "source_id": "osm_way_357360656",
+      "osm_id": 357360656,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 128.07,
+      "perimeter_m": 45.31,
+      "local_centroid": [
+        831.89,
+        12426.44
+      ],
+      "geo_centroid": [
+        19.03533,
+        72.839439
+      ],
+      "local_polygon_vertices": [
+        [
+          827.37,
+          12433.06
+        ],
+        [
+          838.09,
+          12431.53
+        ],
+        [
+          836.41,
+          12419.83
+        ],
+        [
+          825.69,
+          12421.35
+        ],
+        [
+          827.37,
+          12433.06
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0353776,
+          72.839404
+        ],
+        [
+          19.035365,
+          72.839506
+        ],
+        [
+          19.0352591,
+          72.8394914
+        ],
+        [
+          19.0352717,
+          72.8393894
+        ],
+        [
+          19.0353776,
+          72.839404
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360658",
+      "source_id": "osm_way_357360658",
+      "osm_id": 357360658,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 314.9,
+      "perimeter_m": 71.16,
+      "local_centroid": [
+        729.62,
+        12424.46
+      ],
+      "geo_centroid": [
+        19.035308,
+        72.838464
+      ],
+      "local_polygon_vertices": [
+        [
+          722.77,
+          12435.04
+        ],
+        [
+          739.13,
+          12432.76
+        ],
+        [
+          736.47,
+          12413.88
+        ],
+        [
+          720.11,
+          12416.16
+        ],
+        [
+          722.77,
+          12435.04
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.0353839,
+          72.8384105
+        ],
+        [
+          19.0353651,
+          72.8385661
+        ],
+        [
+          19.0351943,
+          72.838543
+        ],
+        [
+          19.0352131,
+          72.8383874
+        ],
+        [
+          19.0353839,
+          72.8384105
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360673",
+      "source_id": "osm_way_357360673",
+      "osm_id": 357360673,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 366.05,
+      "perimeter_m": 84.85,
+      "local_centroid": [
+        739.28,
+        12444.7
+      ],
+      "geo_centroid": [
+        19.035467,
+        72.838536
+      ],
+      "local_polygon_vertices": [
+        [
+          723.25,
+          12441.47
+        ],
+        [
+          725.42,
+          12453.33
+        ],
+        [
+          755.31,
+          12447.93
+        ],
+        [
+          753.14,
+          12436.08
+        ],
+        [
+          723.25,
+          12441.47
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.035442,
+          72.8384143
+        ],
+        [
+          19.0355493,
+          72.8384335
+        ],
+        [
+          19.0355039,
+          72.838718
+        ],
+        [
+          19.0353966,
+          72.8386988
+        ],
+        [
+          19.035442,
+          72.8384143
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_357360706",
+      "source_id": "osm_way_357360706",
+      "osm_id": 357360706,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments",
+        "building:levels": "8"
+      },
+      "area_sqm": 525.82,
+      "perimeter_m": 100.54,
+      "local_centroid": [
+        714.91,
+        12405.26
+      ],
+      "geo_centroid": [
+        19.035154,
+        72.838328
+      ],
+      "local_polygon_vertices": [
+        [
+          702.95,
+          12418.8
+        ],
+        [
+          715.34,
+          12416.33
+        ],
+        [
+          714.51,
+          12412.19
+        ],
+        [
+          732.15,
+          12408.67
+        ],
+        [
+          729.11,
+          12393.55
+        ],
+        [
+          699.07,
+          12399.53
+        ],
+        [
+          702.95,
+          12418.8
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.035235,
+          72.8382242
+        ],
+        [
+          19.0352141,
+          72.8383421
+        ],
+        [
+          19.0351766,
+          72.8383347
+        ],
+        [
+          19.0351468,
+          72.8385026
+        ],
+        [
+          19.0350099,
+          72.8384755
+        ],
+        [
+          19.0350605,
+          72.8381896
+        ],
+        [
+          19.035235,
+          72.8382242
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 25.6,
+      "levels": 8.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:8"
+    },
+    {
+      "asset_id": "BLDG_360288534",
+      "source_id": "osm_way_360288534",
+      "osm_id": 360288534,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "building": "apartments"
+      },
+      "area_sqm": 189.7,
+      "perimeter_m": 59.67,
+      "local_centroid": [
+        823.12,
+        12501.18
+      ],
+      "geo_centroid": [
+        19.035976,
+        72.839343
+      ],
+      "local_polygon_vertices": [
+        [
+          816.18,
+          12492.26
+        ],
+        [
+          821.15,
+          12512.29
+        ],
+        [
+          830.07,
+          12510.1
+        ],
+        [
+          825.1,
+          12490.07
+        ],
+        [
+          816.18,
+          12492.26
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          19.035911,
+          72.8392908
+        ],
+        [
+          19.0360925,
+          72.8393357
+        ],
+        [
+          19.0360737,
+          72.8394207
+        ],
+        [
+          19.0358922,
+          72.8393758
+        ],
+        [
+          19.035911,
+          72.8392908
+        ]
+      ],
+      "elevation_msl": 0.0,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_22849355",
+      "osm_id": 22849355,
+      "name": "Lt Dilip Gupte Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 684.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662012,
+        13447665129,
+        7370958943,
+        245662084,
+        9598016737,
+        9598020547,
+        12069206112,
+        12069212612,
+        9598016738,
+        245662250,
+        245662324,
+        13551194628,
+        7370958958,
+        13551194630,
+        4364457169,
+        13551194620,
+        245662460,
+        13546813959,
+        13546813963,
+        13546813961,
+        13546813953,
+        245662513,
+        10956925558,
+        472972661
+      ],
+      "coordinates_3d": [
+        [
+          867.5,
+          11775.22,
+          0.05
+        ],
+        [
+          868.46,
+          11782.1,
+          0.05
+        ],
+        [
+          876.97,
+          11842.89,
+          0.05
+        ],
+        [
+          878.44,
+          11853.39,
+          0.05
+        ],
+        [
+          882.98,
+          11887.57,
+          0.05
+        ],
+        [
+          885.45,
+          11917.47,
+          0.05
+        ],
+        [
+          885.46,
+          11920.83,
+          0.05
+        ],
+        [
+          885.51,
+          11934.7,
+          0.05
+        ],
+        [
+          885.65,
+          11973.43,
+          0.05
+        ],
+        [
+          886.04,
+          11978.41,
+          0.05
+        ],
+        [
+          896.32,
+          12053.88,
+          0.05
+        ],
+        [
+          898.9,
+          12070.96,
+          0.05
+        ],
+        [
+          901.39,
+          12087.56,
+          0.05
+        ],
+        [
+          902.1,
+          12092.26,
+          0.05
+        ],
+        [
+          905.28,
+          12113.41,
+          0.05
+        ],
+        [
+          913.31,
+          12170.36,
+          0.05
+        ],
+        [
+          918.46,
+          12203.36,
+          0.05
+        ],
+        [
+          924.57,
+          12291.84,
+          0.05
+        ],
+        [
+          925.1,
+          12299.33,
+          0.05
+        ],
+        [
+          925.42,
+          12303.91,
+          0.05
+        ],
+        [
+          925.88,
+          12310.67,
+          0.05
+        ],
+        [
+          926.62,
+          12321.39,
+          0.05
+        ],
+        [
+          933.81,
+          12386.57,
+          0.05
+        ],
+        [
+          941.34,
+          12454.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_741809418",
+      "osm_id": 741809418,
+      "name": "Takandas H. Kataria Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 327.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662295,
+        6428553778,
+        13551140428,
+        7459352399,
+        245662306,
+        245662324,
+        9909512441
+      ],
+      "coordinates_3d": [
+        [
+          1095.69,
+          12004.05,
+          0.05
+        ],
+        [
+          1028.25,
+          12021.36,
+          0.05
+        ],
+        [
+          993.49,
+          12029.64,
+          0.05
+        ],
+        [
+          989.89,
+          12030.5,
+          0.05
+        ],
+        [
+          986.23,
+          12031.4,
+          0.05
+        ],
+        [
+          896.32,
+          12053.88,
+          0.05
+        ],
+        [
+          778.55,
+          12086.95,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1081153246",
+      "osm_id": 1081153246,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 36.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9909512441,
+        9909512442,
+        9909512443,
+        9909512444,
+        9909512445
+      ],
+      "coordinates_3d": [
+        [
+          778.55,
+          12086.95,
+          0.05
+        ],
+        [
+          764.4,
+          12082.09,
+          0.05
+        ],
+        [
+          757.68,
+          12077.8,
+          0.05
+        ],
+        [
+          752.51,
+          12072.36,
+          0.05
+        ],
+        [
+          750.31,
+          12067.24,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1140705337",
+      "osm_id": 1140705337,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 205.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9909512445,
+        7394086383,
+        7394086384,
+        7394094885,
+        13546223288,
+        13546223289,
+        7394094887,
+        10628449281,
+        13447665107,
+        7394094888
+      ],
+      "coordinates_3d": [
+        [
+          750.31,
+          12067.24,
+          0.05
+        ],
+        [
+          750.34,
+          12064.76,
+          0.05
+        ],
+        [
+          751.04,
+          12042.82,
+          0.05
+        ],
+        [
+          749.82,
+          11993.22,
+          0.05
+        ],
+        [
+          748.6,
+          11982.03,
+          0.05
+        ],
+        [
+          746.66,
+          11964.29,
+          0.05
+        ],
+        [
+          742.97,
+          11930.44,
+          0.05
+        ],
+        [
+          730.81,
+          11879.3,
+          0.05
+        ],
+        [
+          726.45,
+          11867.83,
+          0.05
+        ],
+        [
+          725.05,
+          11864.16,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1251090673",
+      "osm_id": 1251090673,
+      "name": "Sitaladevi Temple Road (West)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 193.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        472972661,
+        2247988637,
+        2247988629,
+        245662646
+      ],
+      "coordinates_3d": [
+        [
+          941.34,
+          12454.78,
+          0.05
+        ],
+        [
+          992.19,
+          12448.33,
+          0.05
+        ],
+        [
+          1029.7,
+          12444.3,
+          0.05
+        ],
+        [
+          1133.75,
+          12431.82,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22849541",
+      "osm_id": 22849541,
+      "name": "Sitaladevi Temple Road (West)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 156.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662645,
+        11023548662,
+        245662637,
+        6604375993,
+        245662638,
+        472972661
+      ],
+      "coordinates_3d": [
+        [
+          788.75,
+          12488.73,
+          0.05
+        ],
+        [
+          797.53,
+          12489.31,
+          0.05
+        ],
+        [
+          853.91,
+          12474.35,
+          0.05
+        ],
+        [
+          866.26,
+          12471.59,
+          0.05
+        ],
+        [
+          918.39,
+          12459.92,
+          0.05
+        ],
+        [
+          941.34,
+          12454.78,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1140707689",
+      "osm_id": 1140707689,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 168.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7370819220,
+        13523409439,
+        245662337,
+        13523409430,
+        13523409419,
+        245662349,
+        13523409427,
+        13551215432,
+        1289162855,
+        13366326578
+      ],
+      "coordinates_3d": [
+        [
+          740.4,
+          12065.24,
+          0.05
+        ],
+        [
+          739.47,
+          12077.41,
+          0.05
+        ],
+        [
+          738.53,
+          12094.21,
+          0.05
+        ],
+        [
+          737.37,
+          12105.51,
+          0.05
+        ],
+        [
+          736.88,
+          12110.32,
+          0.05
+        ],
+        [
+          735.98,
+          12118.32,
+          0.05
+        ],
+        [
+          737.03,
+          12140.18,
+          0.05
+        ],
+        [
+          737.6,
+          12152.05,
+          0.05
+        ],
+        [
+          738.9,
+          12179.0,
+          0.05
+        ],
+        [
+          749.67,
+          12231.99,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186979523",
+      "osm_id": 1186979523,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 242.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7394094911,
+        7466305122,
+        12079538430,
+        7466305123,
+        12079538427,
+        6604375990,
+        10956925561,
+        11068367570,
+        7459352395,
+        245662645
+      ],
+      "coordinates_3d": [
+        [
+          756.47,
+          12248.57,
+          0.05
+        ],
+        [
+          773.8,
+          12356.87,
+          0.05
+        ],
+        [
+          775.07,
+          12365.25,
+          0.05
+        ],
+        [
+          776.07,
+          12371.78,
+          0.05
+        ],
+        [
+          777.06,
+          12380.72,
+          0.05
+        ],
+        [
+          777.52,
+          12384.89,
+          0.05
+        ],
+        [
+          779.14,
+          12402.55,
+          0.05
+        ],
+        [
+          780.05,
+          12412.55,
+          0.05
+        ],
+        [
+          785.34,
+          12470.35,
+          0.05
+        ],
+        [
+          788.75,
+          12488.73,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424725518",
+      "osm_id": 1424725518,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 319.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662024,
+        245662066,
+        10628449277,
+        13447665110,
+        245662168,
+        13447665108,
+        10628449280,
+        296358548,
+        13546206289,
+        7370819212,
+        245662294,
+        7370819213,
+        7370819220
+      ],
+      "coordinates_3d": [
+        [
+          658.84,
+          11763.46,
+          0.05
+        ],
+        [
+          689.47,
+          11819.23,
+          0.05
+        ],
+        [
+          710.09,
+          11858.13,
+          0.05
+        ],
+        [
+          714.48,
+          11867.19,
+          0.05
+        ],
+        [
+          715.99,
+          11870.31,
+          0.05
+        ],
+        [
+          717.59,
+          11873.85,
+          0.05
+        ],
+        [
+          722.2,
+          11884.1,
+          0.05
+        ],
+        [
+          735.74,
+          11933.85,
+          0.05
+        ],
+        [
+          738.06,
+          11965.4,
+          0.05
+        ],
+        [
+          739.88,
+          11983.18,
+          0.05
+        ],
+        [
+          741.18,
+          11993.98,
+          0.05
+        ],
+        [
+          741.09,
+          12043.41,
+          0.05
+        ],
+        [
+          740.4,
+          12065.24,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457400402",
+      "osm_id": 1457400402,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 10.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13366326578,
+        10628496509,
+        7394086374
+      ],
+      "coordinates_3d": [
+        [
+          749.67,
+          12231.99,
+          0.05
+        ],
+        [
+          750.4,
+          12235.58,
+          0.05
+        ],
+        [
+          750.96,
+          12241.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457400405",
+      "osm_id": 1457400405,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 8.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7394086374,
+        7394094911
+      ],
+      "coordinates_3d": [
+        [
+          750.96,
+          12241.98,
+          0.05
+        ],
+        [
+          756.47,
+          12248.57,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22849407",
+      "osm_id": 22849407,
+      "name": "R. Raikar Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 141.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662681,
+        12836762637,
+        7362549184,
+        7362549183,
+        2294332800,
+        7459352439,
+        245662756
+      ],
+      "coordinates_3d": [
+        [
+          904.46,
+          12495.98,
+          0.05
+        ],
+        [
+          904.58,
+          12497.34,
+          0.05
+        ],
+        [
+          910.51,
+          12574.75,
+          0.05
+        ],
+        [
+          910.55,
+          12585.05,
+          0.05
+        ],
+        [
+          909.51,
+          12598.01,
+          0.05
+        ],
+        [
+          904.83,
+          12613.02,
+          0.05
+        ],
+        [
+          883.15,
+          12621.21,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22849408",
+      "osm_id": 22849408,
+      "name": "R. Raikar Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 54.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662637,
+        11023548661,
+        245662681
+      ],
+      "coordinates_3d": [
+        [
+          853.91,
+          12474.35,
+          0.05
+        ],
+        [
+          871.44,
+          12482.22,
+          0.05
+        ],
+        [
+          904.46,
+          12495.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_703262818",
+      "osm_id": 703262818,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 112.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10956925561,
+        10956925563,
+        10956925560,
+        6604375992,
+        10956925562,
+        6604375990
+      ],
+      "coordinates_3d": [
+        [
+          779.14,
+          12402.55,
+          0.05
+        ],
+        [
+          794.44,
+          12400.64,
+          0.05
+        ],
+        [
+          826.11,
+          12396.72,
+          0.05
+        ],
+        [
+          824.7,
+          12378.84,
+          0.05
+        ],
+        [
+          792.56,
+          12382.96,
+          0.05
+        ],
+        [
+          777.52,
+          12384.89,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_790941069",
+      "osm_id": 790941069,
+      "name": "Swatantrya Veer Savarkar Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 761.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662645,
+        7459352393,
+        296360795,
+        11463301300,
+        296360798,
+        245662773,
+        7459352391,
+        245662829,
+        245662907,
+        296360801,
+        6604355261,
+        11042096642,
+        245662998,
+        245663073,
+        12841326465,
+        245663172,
+        13519111680,
+        13519111654,
+        12841326464,
+        13519111664,
+        245663293,
+        296360810,
+        10629412734
+      ],
+      "coordinates_3d": [
+        [
+          788.75,
+          12488.73,
+          0.05
+        ],
+        [
+          786.46,
+          12499.57,
+          0.05
+        ],
+        [
+          785.52,
+          12515.6,
+          0.05
+        ],
+        [
+          786.53,
+          12529.66,
+          0.05
+        ],
+        [
+          786.14,
+          12576.67,
+          0.05
+        ],
+        [
+          789.21,
+          12623.43,
+          0.05
+        ],
+        [
+          805.22,
+          12700.94,
+          0.05
+        ],
+        [
+          807.16,
+          12710.37,
+          0.05
+        ],
+        [
+          814.62,
+          12732.82,
+          0.05
+        ],
+        [
+          822.06,
+          12766.72,
+          0.05
+        ],
+        [
+          825.95,
+          12783.47,
+          0.05
+        ],
+        [
+          837.21,
+          12832.33,
+          0.05
+        ],
+        [
+          841.04,
+          12891.91,
+          0.05
+        ],
+        [
+          843.31,
+          12941.99,
+          0.05
+        ],
+        [
+          847.98,
+          12981.3,
+          0.05
+        ],
+        [
+          858.55,
+          13045.17,
+          0.05
+        ],
+        [
+          867.31,
+          13076.45,
+          0.05
+        ],
+        [
+          868.33,
+          13080.11,
+          0.05
+        ],
+        [
+          870.95,
+          13089.47,
+          0.05
+        ],
+        [
+          873.45,
+          13096.69,
+          0.05
+        ],
+        [
+          891.93,
+          13163.54,
+          0.05
+        ],
+        [
+          904.65,
+          13216.57,
+          0.05
+        ],
+        [
+          905.23,
+          13236.37,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_797565007",
+      "osm_id": 797565007,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 45.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7459352393,
+        10956848760,
+        7459352394
+      ],
+      "coordinates_3d": [
+        [
+          786.46,
+          12499.57,
+          0.05
+        ],
+        [
+          777.18,
+          12500.64,
+          0.05
+        ],
+        [
+          740.78,
+          12504.86,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_797565008",
+      "osm_id": 797565008,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 50.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7459352395,
+        7459352396
+      ],
+      "coordinates_3d": [
+        [
+          785.34,
+          12470.35,
+          0.05
+        ],
+        [
+          735.02,
+          12473.77,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1179690948",
+      "osm_id": 1179690948,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 80.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6604375993,
+        9598016740
+      ],
+      "coordinates_3d": [
+        [
+          866.26,
+          12471.59,
+          0.05
+        ],
+        [
+          862.28,
+          12391.38,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1192265542",
+      "osm_id": 1192265542,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 34.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11068367570,
+        11068367573,
+        11068367571,
+        11068367572
+      ],
+      "coordinates_3d": [
+        [
+          780.05,
+          12412.55,
+          0.05
+        ],
+        [
+          774.11,
+          12412.94,
+          0.05
+        ],
+        [
+          768.17,
+          12413.35,
+          0.05
+        ],
+        [
+          746.09,
+          12414.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "tile_id": "TILE_E-008_N+007",
+  "bounds": {
+    "min_x": -4000.0,
+    "max_x": -3500.0,
+    "min_y": 3500.0,
+    "max_y": 4000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.954161,
+    "max_lat": 18.958733,
+    "min_lon": 72.794625,
+    "max_lon": 72.799312
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 8,
+    "road_length_m": 878.05,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_39170214",
+      "osm_id": 39170214,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 318.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655093,
+        13906044047,
+        245655213,
+        467813305,
+        459533115,
+        459656929,
+        458872466,
+        467813307,
+        467813309,
+        13903910016,
+        245655274,
+        457464000
+      ],
+      "coordinates_3d": [
+        [
+          -3756.55,
+          3278.27,
+          33.36
+        ],
+        [
+          -3754.87,
+          3281.03,
+          33.04
+        ],
+        [
+          -3739.89,
+          3313.8,
+          26.19
+        ],
+        [
+          -3734.11,
+          3328.91,
+          25.09
+        ],
+        [
+          -3726.48,
+          3345.95,
+          24.06
+        ],
+        [
+          -3695.91,
+          3403.27,
+          22.7
+        ],
+        [
+          -3692.05,
+          3411.25,
+          23.1
+        ],
+        [
+          -3683.93,
+          3427.71,
+          24.18
+        ],
+        [
+          -3679.61,
+          3436.56,
+          24.68
+        ],
+        [
+          -3677.1,
+          3441.37,
+          24.72
+        ],
+        [
+          -3664.73,
+          3465.13,
+          23.48
+        ],
+        [
+          -3605.03,
+          3557.87,
+          19.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_798252124",
+      "osm_id": 798252124,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 249.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10613384293,
+        245655556,
+        12558663179,
+        245655661
+      ],
+      "coordinates_3d": [
+        [
+          -3581.71,
+          3600.54,
+          24.72
+        ],
+        [
+          -3553.01,
+          3668.31,
+          22.11
+        ],
+        [
+          -3522.68,
+          3713.51,
+          18.72
+        ],
+        [
+          -3455.02,
+          3814.36,
+          15.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1118609444",
+      "osm_id": 1118609444,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 248.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10603805380,
+        12558663180,
+        10230657437,
+        10281746136,
+        10230657436
+      ],
+      "coordinates_3d": [
+        [
+          -3448.19,
+          3810.52,
+          15.35
+        ],
+        [
+          -3514.16,
+          3708.86,
+          20.72
+        ],
+        [
+          -3544.22,
+          3662.54,
+          23.87
+        ],
+        [
+          -3564.76,
+          3619.24,
+          26.52
+        ],
+        [
+          -3574.78,
+          3597.74,
+          25.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1118609446",
+      "osm_id": 1118609446,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 13.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10613384295,
+        245655329
+      ],
+      "coordinates_3d": [
+        [
+          -3595.66,
+          3572.48,
+          21.32
+        ],
+        [
+          -3587.53,
+          3582.82,
+          22.93
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138575464",
+      "osm_id": 1138575464,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 11.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        459600709,
+        10603905426,
+        10613384293
+      ],
+      "coordinates_3d": [
+        [
+          -3583.77,
+          3589.41,
+          23.8
+        ],
+        [
+          -3583.99,
+          3593.94,
+          23.9
+        ],
+        [
+          -3581.71,
+          3600.54,
+          24.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138575466",
+      "osm_id": 1138575466,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 12.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10230657436,
+        459600709
+      ],
+      "coordinates_3d": [
+        [
+          -3574.78,
+          3597.74,
+          25.89
+        ],
+        [
+          -3583.77,
+          3589.41,
+          23.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138575468",
+      "osm_id": 1138575468,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 7.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655329,
+        459600709
+      ],
+      "coordinates_3d": [
+        [
+          -3587.53,
+          3582.82,
+          22.93
+        ],
+        [
+          -3583.77,
+          3589.41,
+          23.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138575470",
+      "osm_id": 1138575470,
+      "name": "Laxmibai Jagmohandas Marg",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 17.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        457464000,
+        10613384295
+      ],
+      "coordinates_3d": [
+        [
+          -3605.03,
+          3557.87,
+          19.87
+        ],
+        [
+          -3595.66,
+          3572.48,
+          21.32
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

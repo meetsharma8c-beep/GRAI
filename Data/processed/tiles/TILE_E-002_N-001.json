@@ -1,0 +1,2990 @@
+{
+  "tile_id": "TILE_E-002_N-001",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": -500.0,
+    "max_y": 0.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.918373,
+    "max_lat": 18.922945,
+    "min_lon": 72.823568,
+    "max_lon": 72.828255
+  },
+  "statistics": {
+    "total_buildings": 19,
+    "level_a_verified": 0,
+    "level_b_inferred": 2,
+    "level_c_unavailable": 17,
+    "total_roads": 26,
+    "road_length_m": 6224.58,
+    "confidence_score": 0.342
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_207419309",
+      "source_id": "osm_way_207419309",
+      "osm_id": 207419309,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400001",
+        "addr:street": "Shahid Bhagat Singh Rd, Cuffe Parade",
+        "building": "yes",
+        "name": "Sir Wadia Trust R"
+      },
+      "area_sqm": 765.25,
+      "perimeter_m": 137.72,
+      "local_centroid": [
+        -530.49,
+        -304.18
+      ],
+      "geo_centroid": [
+        18.920234,
+        72.827968
+      ],
+      "local_polygon_vertices": [
+        [
+          -547.73,
+          -281.74
+        ],
+        [
+          -556.41,
+          -292.62
+        ],
+        [
+          -513.27,
+          -326.62
+        ],
+        [
+          -504.58,
+          -315.72
+        ],
+        [
+          -547.73,
+          -281.74
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9203948,
+          72.8278349
+        ],
+        [
+          18.9202955,
+          72.8277538
+        ],
+        [
+          18.9199933,
+          72.8281672
+        ],
+        [
+          18.9200927,
+          72.8282484
+        ],
+        [
+          18.9203948,
+          72.8278349
+        ]
+      ],
+      "elevation_msl": 10.68,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_207419313",
+      "source_id": "osm_way_207419313",
+      "osm_id": 207419313,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400001",
+        "addr:street": "Shahid Bhagat Singh Rd, Cuffe Parade",
+        "building": "yes",
+        "name": "Sir Wadia Trust K"
+      },
+      "area_sqm": 687.31,
+      "perimeter_m": 118.16,
+      "local_centroid": [
+        -490.57,
+        -337.54
+      ],
+      "geo_centroid": [
+        18.919932,
+        72.828361
+      ],
+      "local_polygon_vertices": [
+        [
+          -502.55,
+          -317.96
+        ],
+        [
+          -512.48,
+          -330.41
+        ],
+        [
+          -478.6,
+          -357.13
+        ],
+        [
+          -468.66,
+          -344.68
+        ],
+        [
+          -502.55,
+          -317.96
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9200727,
+          72.8282679
+        ],
+        [
+          18.9199591,
+          72.8281751
+        ],
+        [
+          18.9197216,
+          72.8284998
+        ],
+        [
+          18.9198351,
+          72.8285926
+        ],
+        [
+          18.9200727,
+          72.8282679
+        ]
+      ],
+      "elevation_msl": 13.8,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_207419315",
+      "source_id": "osm_way_207419315",
+      "osm_id": 207419315,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400001",
+        "addr:street": "Shahid Bhagat Singh Rd, Cuffe Parade",
+        "building": "yes",
+        "name": "Sir Wadia Trust M"
+      },
+      "area_sqm": 2948.88,
+      "perimeter_m": 233.84,
+      "local_centroid": [
+        -521.93,
+        -263.19
+      ],
+      "geo_centroid": [
+        18.920547,
+        72.828159
+      ],
+      "local_polygon_vertices": [
+        [
+          -479.07,
+          -273.9
+        ],
+        [
+          -502.22,
+          -302.51
+        ],
+        [
+          -564.79,
+          -252.48
+        ],
+        [
+          -541.64,
+          -223.87
+        ],
+        [
+          -479.07,
+          -273.9
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9204732,
+          72.8284856
+        ],
+        [
+          18.9202122,
+          72.8282692
+        ],
+        [
+          18.9206571,
+          72.8276696
+        ],
+        [
+          18.9209181,
+          72.827886
+        ],
+        [
+          18.9204732,
+          72.8284856
+        ]
+      ],
+      "elevation_msl": 10.04,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_207419318",
+      "source_id": "osm_way_207419318",
+      "osm_id": 207419318,
+      "sub_index": 0,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "apartments",
+        "check_date": "2026-03-12",
+        "name": "Karani Agairy",
+        "religion": "parsi"
+      },
+      "area_sqm": 679.41,
+      "perimeter_m": 103.02,
+      "local_centroid": [
+        -500.9,
+        -217.79
+      ],
+      "geo_centroid": [
+        18.921003,
+        72.828246
+      ],
+      "local_polygon_vertices": [
+        [
+          -503.62,
+          -201.25
+        ],
+        [
+          -519.42,
+          -214.7
+        ],
+        [
+          -516.43,
+          -220.98
+        ],
+        [
+          -496.17,
+          -235.73
+        ],
+        [
+          -482.2,
+          -215.73
+        ],
+        [
+          -503.62,
+          -201.25
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9211266,
+          72.8282441
+        ],
+        [
+          18.9210034,
+          72.8280958
+        ],
+        [
+          18.920947,
+          72.8281249
+        ],
+        [
+          18.920816,
+          72.8283189
+        ],
+        [
+          18.9209982,
+          72.8284491
+        ],
+        [
+          18.9211266,
+          72.8282441
+        ]
+      ],
+      "elevation_msl": 8.12,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_207419320",
+      "source_id": "osm_way_207419320",
+      "osm_id": 207419320,
+      "sub_index": 0,
+      "tags": {
+        "building": "apartments"
+      },
+      "area_sqm": 1809.94,
+      "perimeter_m": 244.91,
+      "local_centroid": [
+        -537.83,
+        -201.15
+      ],
+      "geo_centroid": [
+        18.921092,
+        72.827925
+      ],
+      "local_polygon_vertices": [
+        [
+          -576.69,
+          -236.58
+        ],
+        [
+          -546.47,
+          -213.13
+        ],
+        [
+          -502.41,
+          -191.1
+        ],
+        [
+          -490.24,
+          -191.66
+        ],
+        [
+          -488.8,
+          -175.27
+        ],
+        [
+          -508.2,
+          -174.41
+        ],
+        [
+          -559.53,
+          -200.87
+        ],
+        [
+          -586.43,
+          -222.71
+        ],
+        [
+          -576.69,
+          -236.58
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9207994,
+          72.8275548
+        ],
+        [
+          18.9210145,
+          72.8278389
+        ],
+        [
+          18.9212184,
+          72.8282544
+        ],
+        [
+          18.9212147,
+          72.82837
+        ],
+        [
+          18.9213629,
+          72.8283817
+        ],
+        [
+          18.9213685,
+          72.8281975
+        ],
+        [
+          18.9211238,
+          72.8277135
+        ],
+        [
+          18.9209236,
+          72.8274608
+        ],
+        [
+          18.9207994,
+          72.8275548
+        ]
+      ],
+      "elevation_msl": 8.54,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_apartments"
+    },
+    {
+      "asset_id": "BLDG_353758565",
+      "source_id": "osm_way_353758565",
+      "osm_id": 353758565,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400005",
+        "addr:street": "1st Pasta Ln, Bhandus Court, Railway Colony, Apollo Bandar, Colaba",
+        "building": "yes",
+        "name": "Souvenir"
+      },
+      "area_sqm": 377.66,
+      "perimeter_m": 77.73,
+      "local_centroid": [
+        -511.17,
+        -441.66
+      ],
+      "geo_centroid": [
+        18.918927,
+        72.828187
+      ],
+      "local_polygon_vertices": [
+        [
+          -510.26,
+          -455.33
+        ],
+        [
+          -520.87,
+          -446.13
+        ],
+        [
+          -524.92,
+          -442.61
+        ],
+        [
+          -512.09,
+          -427.99
+        ],
+        [
+          -497.42,
+          -440.69
+        ],
+        [
+          -510.26,
+          -455.33
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9188312,
+          72.8282108
+        ],
+        [
+          18.9189131,
+          72.828109
+        ],
+        [
+          18.9189444,
+          72.8280702
+        ],
+        [
+          18.9190779,
+          72.8281902
+        ],
+        [
+          18.9189648,
+          72.8283309
+        ],
+        [
+          18.9188312,
+          72.8282108
+        ]
+      ],
+      "elevation_msl": 13.34,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353758575",
+      "source_id": "osm_way_353758575",
+      "osm_id": 353758575,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400005",
+        "addr:street": "1st Pasta Ln, Bhandus Court, Railway Colony, Apollo Bandar, Colaba",
+        "building": "yes",
+        "name": "Nina House"
+      },
+      "area_sqm": 398.4,
+      "perimeter_m": 80.02,
+      "local_centroid": [
+        -491.32,
+        -456.71
+      ],
+      "geo_centroid": [
+        18.918846,
+        72.82839
+      ],
+      "local_polygon_vertices": [
+        [
+          -491.26,
+          -442.57
+        ],
+        [
+          -477.22,
+          -454.86
+        ],
+        [
+          -491.36,
+          -470.84
+        ],
+        [
+          -505.42,
+          -458.56
+        ],
+        [
+          -491.26,
+          -442.57
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9189485,
+          72.8283896
+        ],
+        [
+          18.9188391,
+          72.8285243
+        ],
+        [
+          18.9186932,
+          72.8283919
+        ],
+        [
+          18.9188026,
+          72.8282571
+        ],
+        [
+          18.9189485,
+          72.8283896
+        ]
+      ],
+      "elevation_msl": 13.88,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353758588",
+      "source_id": "osm_way_353758588",
+      "osm_id": 353758588,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai",
+        "addr:postcode": "400005",
+        "addr:street": "1st Pasta Ln, Bhandus Court, Railway Colony, Apollo Bandar, Colaba",
+        "building": "yes",
+        "name": "Bhandus Court"
+      },
+      "area_sqm": 385.98,
+      "perimeter_m": 78.59,
+      "local_centroid": [
+        -529.61,
+        -425.12
+      ],
+      "geo_centroid": [
+        18.9191,
+        72.827997
+      ],
+      "local_polygon_vertices": [
+        [
+          -543.5,
+          -426.14
+        ],
+        [
+          -530.66,
+          -411.31
+        ],
+        [
+          -515.71,
+          -424.09
+        ],
+        [
+          -528.54,
+          -438.93
+        ],
+        [
+          -543.5,
+          -426.14
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9190911,
+          72.8278919
+        ],
+        [
+          18.9192265,
+          72.828012
+        ],
+        [
+          18.9191127,
+          72.8281554
+        ],
+        [
+          18.9189773,
+          72.8280354
+        ],
+        [
+          18.9190911,
+          72.8278919
+        ]
+      ],
+      "elevation_msl": 11.87,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353758591",
+      "source_id": "osm_way_353758591",
+      "osm_id": 353758591,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 338.02,
+      "perimeter_m": 74.98,
+      "local_centroid": [
+        -517.99,
+        -351.68
+      ],
+      "geo_centroid": [
+        18.919743,
+        72.828133
+      ],
+      "local_polygon_vertices": [
+        [
+          -513.95,
+          -364.53
+        ],
+        [
+          -531.49,
+          -350.6
+        ],
+        [
+          -522.03,
+          -338.83
+        ],
+        [
+          -504.5,
+          -352.78
+        ],
+        [
+          -513.95,
+          -364.53
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9196508,
+          72.8281652
+        ],
+        [
+          18.9197747,
+          72.8279971
+        ],
+        [
+          18.919882,
+          72.8280855
+        ],
+        [
+          18.919758,
+          72.8282535
+        ],
+        [
+          18.9196508,
+          72.8281652
+        ]
+      ],
+      "elevation_msl": 13.95,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353758595",
+      "source_id": "osm_way_353758595",
+      "osm_id": 353758595,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 397.24,
+      "perimeter_m": 81.03,
+      "local_centroid": [
+        -539.04,
+        -332.57
+      ],
+      "geo_centroid": [
+        18.919911,
+        72.827931
+      ],
+      "local_polygon_vertices": [
+        [
+          -535.19,
+          -346.57
+        ],
+        [
+          -553.58,
+          -331.33
+        ],
+        [
+          -542.9,
+          -318.58
+        ],
+        [
+          -524.51,
+          -333.82
+        ],
+        [
+          -535.19,
+          -346.57
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9198107,
+          72.8279615
+        ],
+        [
+          18.9199463,
+          72.8277852
+        ],
+        [
+          18.9200626,
+          72.8278851
+        ],
+        [
+          18.919927,
+          72.8280614
+        ],
+        [
+          18.9198107,
+          72.8279615
+        ]
+      ],
+      "elevation_msl": 12.57,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358489277",
+      "source_id": "osm_way_358489277",
+      "osm_id": 358489277,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Mumbai City",
+        "addr:housenumber": "165",
+        "addr:postcode": "400001",
+        "addr:street": "Maharshi Karve Rd, Dr Ambedkar Statue Chowk Area, Colaba",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Indian Navy Sailors Institute"
+      },
+      "area_sqm": 2045.72,
+      "perimeter_m": 226.84,
+      "local_centroid": [
+        -495.5,
+        -24.6
+      ],
+      "geo_centroid": [
+        18.922824,
+        72.828382
+      ],
+      "local_polygon_vertices": [
+        [
+          -518.58,
+          -6.09
+        ],
+        [
+          -506.75,
+          -6.44
+        ],
+        [
+          -484.36,
+          -7.09
+        ],
+        [
+          -484.2,
+          -1.79
+        ],
+        [
+          -453.78,
+          -2.68
+        ],
+        [
+          -454.07,
+          -12.22
+        ],
+        [
+          -463.59,
+          -11.93
+        ],
+        [
+          -463.7,
+          -15.63
+        ],
+        [
+          -520.32,
+          -65.03
+        ],
+        [
+          -518.58,
+          -6.09
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9228875,
+          72.8280794
+        ],
+        [
+          18.9228856,
+          72.8281917
+        ],
+        [
+          18.9228822,
+          72.8284043
+        ],
+        [
+          18.9229301,
+          72.8284052
+        ],
+        [
+          18.9229255,
+          72.8286939
+        ],
+        [
+          18.9228393,
+          72.8286923
+        ],
+        [
+          18.9228408,
+          72.8286019
+        ],
+        [
+          18.9228074,
+          72.8286013
+        ],
+        [
+          18.922355,
+          72.8280698
+        ],
+        [
+          18.9228875,
+          72.8280794
+        ]
+      ],
+      "elevation_msl": 14.85,
+      "height_m": 6.4,
+      "levels": 2.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:2"
+    },
+    {
+      "asset_id": "BLDG_1318936995",
+      "source_id": "osm_way_1318936995",
+      "osm_id": 1318936995,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 588.63,
+      "perimeter_m": 86.58,
+      "local_centroid": [
+        -513.79,
+        -151.97
+      ],
+      "geo_centroid": [
+        18.921575,
+        72.82813
+      ],
+      "local_polygon_vertices": [
+        [
+          -521.23,
+          -140.24
+        ],
+        [
+          -523.75,
+          -142.43
+        ],
+        [
+          -526.29,
+          -146.1
+        ],
+        [
+          -527.51,
+          -151.43
+        ],
+        [
+          -526.9,
+          -156.12
+        ],
+        [
+          -525.16,
+          -160.04
+        ],
+        [
+          -521.79,
+          -163.2
+        ],
+        [
+          -516.93,
+          -165.42
+        ],
+        [
+          -511.84,
+          -165.66
+        ],
+        [
+          -506.75,
+          -163.97
+        ],
+        [
+          -503.23,
+          -160.93
+        ],
+        [
+          -500.62,
+          -156.92
+        ],
+        [
+          -499.98,
+          -152.12
+        ],
+        [
+          -501.53,
+          -145.48
+        ],
+        [
+          -506.19,
+          -140.28
+        ],
+        [
+          -512.56,
+          -138.18
+        ],
+        [
+          -517.04,
+          -138.32
+        ],
+        [
+          -521.23,
+          -140.24
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9216756,
+          72.8280699
+        ],
+        [
+          18.9216556,
+          72.8280462
+        ],
+        [
+          18.9216221,
+          72.8280226
+        ],
+        [
+          18.9215739,
+          72.8280116
+        ],
+        [
+          18.9215316,
+          72.8280179
+        ],
+        [
+          18.9214964,
+          72.8280349
+        ],
+        [
+          18.9214682,
+          72.8280673
+        ],
+        [
+          18.9214487,
+          72.8281136
+        ],
+        [
+          18.9214471,
+          72.828162
+        ],
+        [
+          18.9214629,
+          72.8282101
+        ],
+        [
+          18.9214908,
+          72.8282431
+        ],
+        [
+          18.9215273,
+          72.8282674
+        ],
+        [
+          18.9215707,
+          72.8282729
+        ],
+        [
+          18.9216305,
+          72.8282575
+        ],
+        [
+          18.9216769,
+          72.8282126
+        ],
+        [
+          18.9216952,
+          72.8281519
+        ],
+        [
+          18.9216934,
+          72.8281094
+        ],
+        [
+          18.9216756,
+          72.8280699
+        ]
+      ],
+      "elevation_msl": 8.0,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478894",
+      "source_id": "osm_way_1344478894",
+      "osm_id": 1344478894,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Kalpana Building"
+      },
+      "area_sqm": 217.86,
+      "perimeter_m": 61.53,
+      "local_centroid": [
+        -534.97,
+        -509.7
+      ],
+      "geo_centroid": [
+        18.918358,
+        72.827986
+      ],
+      "local_polygon_vertices": [
+        [
+          -532.78,
+          -498.55
+        ],
+        [
+          -524.45,
+          -505.77
+        ],
+        [
+          -537.24,
+          -520.96
+        ],
+        [
+          -545.42,
+          -513.45
+        ],
+        [
+          -532.78,
+          -498.55
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9184384,
+          72.8280021
+        ],
+        [
+          18.9183741,
+          72.828082
+        ],
+        [
+          18.9182355,
+          72.8279624
+        ],
+        [
+          18.9183024,
+          72.8278839
+        ],
+        [
+          18.9184384,
+          72.8280021
+        ]
+      ],
+      "elevation_msl": 12.98,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478895",
+      "source_id": "osm_way_1344478895",
+      "osm_id": 1344478895,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Lily Court"
+      },
+      "area_sqm": 244.0,
+      "perimeter_m": 67.43,
+      "local_centroid": [
+        -535.42,
+        -469.01
+      ],
+      "geo_centroid": [
+        18.918726,
+        72.827977
+      ],
+      "local_polygon_vertices": [
+        [
+          -533.03,
+          -456.83
+        ],
+        [
+          -523.95,
+          -463.07
+        ],
+        [
+          -538.58,
+          -481.36
+        ],
+        [
+          -546.62,
+          -475.31
+        ],
+        [
+          -533.03,
+          -456.83
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9188151,
+          72.8279949
+        ],
+        [
+          18.9187598,
+          72.8280818
+        ],
+        [
+          18.918593,
+          72.8279451
+        ],
+        [
+          18.9186467,
+          72.8278681
+        ],
+        [
+          18.9188151,
+          72.8279949
+        ]
+      ],
+      "elevation_msl": 12.72,
+      "height_m": 12.8,
+      "levels": 4.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:4"
+    },
+    {
+      "asset_id": "BLDG_1344478896",
+      "source_id": "osm_way_1344478896",
+      "osm_id": 1344478896,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Gulbanu House"
+      },
+      "area_sqm": 164.54,
+      "perimeter_m": 58.84,
+      "local_centroid": [
+        -529.53,
+        -477.9
+      ],
+      "geo_centroid": [
+        18.918645,
+        72.828039
+      ],
+      "local_polygon_vertices": [
+        [
+          -525.24,
+          -467.23
+        ],
+        [
+          -519.47,
+          -471.9
+        ],
+        [
+          -533.72,
+          -488.59
+        ],
+        [
+          -539.57,
+          -483.75
+        ],
+        [
+          -525.24,
+          -467.23
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9187221,
+          72.82807
+        ],
+        [
+          18.9186805,
+          72.8281253
+        ],
+        [
+          18.9185282,
+          72.827992
+        ],
+        [
+          18.9185713,
+          72.8279359
+        ],
+        [
+          18.9187221,
+          72.82807
+        ]
+      ],
+      "elevation_msl": 12.94,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478897",
+      "source_id": "osm_way_1344478897",
+      "osm_id": 1344478897,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 142.01,
+      "perimeter_m": 54.93,
+      "local_centroid": [
+        -522.93,
+        -483.14
+      ],
+      "geo_centroid": [
+        18.918596,
+        72.828101
+      ],
+      "local_polygon_vertices": [
+        [
+          -518.94,
+          -473.27
+        ],
+        [
+          -513.45,
+          -477.56
+        ],
+        [
+          -526.98,
+          -493.0
+        ],
+        [
+          -532.42,
+          -488.78
+        ],
+        [
+          -518.94,
+          -473.27
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9186682,
+          72.8281305
+        ],
+        [
+          18.9186301,
+          72.8281831
+        ],
+        [
+          18.9184891,
+          72.8280565
+        ],
+        [
+          18.9185266,
+          72.8280044
+        ],
+        [
+          18.9186682,
+          72.8281305
+        ]
+      ],
+      "elevation_msl": 12.97,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478899",
+      "source_id": "osm_way_1344478899",
+      "osm_id": 1344478899,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Narayan Niwas"
+      },
+      "area_sqm": 261.22,
+      "perimeter_m": 90.08,
+      "local_centroid": [
+        -499.55,
+        -496.77
+      ],
+      "geo_centroid": [
+        18.91846,
+        72.828283
+      ],
+      "local_polygon_vertices": [
+        [
+          -508.82,
+          -488.34
+        ],
+        [
+          -498.09,
+          -497.77
+        ],
+        [
+          -508.63,
+          -509.58
+        ],
+        [
+          -505.27,
+          -513.78
+        ],
+        [
+          -487.95,
+          -496.04
+        ],
+        [
+          -504.22,
+          -481.67
+        ],
+        [
+          -508.82,
+          -488.34
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9185332,
+          72.8282283
+        ],
+        [
+          18.9184493,
+          72.8283312
+        ],
+        [
+          18.9183414,
+          72.8282326
+        ],
+        [
+          18.9183039,
+          72.8282649
+        ],
+        [
+          18.918466,
+          72.8284272
+        ],
+        [
+          18.918594,
+          72.8282712
+        ],
+        [
+          18.9185332,
+          72.8282283
+        ]
+      ],
+      "elevation_msl": 11.66,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478900",
+      "source_id": "osm_way_1344478900",
+      "osm_id": 1344478900,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 102.09,
+      "perimeter_m": 41.09,
+      "local_centroid": [
+        -518.63,
+        -496.55
+      ],
+      "geo_centroid": [
+        18.918471,
+        72.828137
+      ],
+      "local_polygon_vertices": [
+        [
+          -518.17,
+          -488.96
+        ],
+        [
+          -525.61,
+          -498.88
+        ],
+        [
+          -519.25,
+          -503.85
+        ],
+        [
+          -511.61,
+          -494.9
+        ],
+        [
+          -518.17,
+          -488.96
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9185266,
+          72.8281396
+        ],
+        [
+          18.9184362,
+          72.8280702
+        ],
+        [
+          18.918392,
+          72.8281311
+        ],
+        [
+          18.9184737,
+          72.8282026
+        ],
+        [
+          18.9185266,
+          72.8281396
+        ]
+      ],
+      "elevation_msl": 12.56,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1344478901",
+      "source_id": "osm_way_1344478901",
+      "osm_id": 1344478901,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 95.23,
+      "perimeter_m": 41.7,
+      "local_centroid": [
+        -507.76,
+        -501.89
+      ],
+      "geo_centroid": [
+        18.918424,
+        72.828242
+      ],
+      "local_polygon_vertices": [
+        [
+          -506.2,
+          -494.38
+        ],
+        [
+          -514.63,
+          -505.06
+        ],
+        [
+          -510.33,
+          -509.61
+        ],
+        [
+          -500.48,
+          -499.0
+        ],
+        [
+          -506.2,
+          -494.38
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.918479,
+          72.8282539
+        ],
+        [
+          18.9183816,
+          72.8281751
+        ],
+        [
+          18.918341,
+          72.8282164
+        ],
+        [
+          18.9184379,
+          72.8283087
+        ],
+        [
+          18.918479,
+          72.8282539
+        ]
+      ],
+      "elevation_msl": 11.64,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_22846121",
+      "osm_id": 22846121,
+      "name": "Jagannath Bhosle Road",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 593.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11052629982,
+        245653814,
+        2242540265,
+        12586989040,
+        2242540258,
+        2241842815,
+        12586989044,
+        12586989045,
+        2241842757,
+        12299724446,
+        317145665,
+        6618316498,
+        245653613
+      ],
+      "coordinates_3d": [
+        [
+          -625.83,
+          378.43,
+          12.75
+        ],
+        [
+          -619.26,
+          366.43,
+          14.84
+        ],
+        [
+          -620.94,
+          339.05,
+          16.72
+        ],
+        [
+          -623.37,
+          306.95,
+          17.74
+        ],
+        [
+          -625.87,
+          276.36,
+          17.61
+        ],
+        [
+          -628.8,
+          237.5,
+          15.43
+        ],
+        [
+          -630.45,
+          198.57,
+          13.59
+        ],
+        [
+          -633.27,
+          149.97,
+          17.1
+        ],
+        [
+          -638.24,
+          97.61,
+          18.61
+        ],
+        [
+          -652.94,
+          0.52,
+          12.56
+        ],
+        [
+          -676.65,
+          -126.85,
+          8.39
+        ],
+        [
+          -689.54,
+          -176.09,
+          6.37
+        ],
+        [
+          -699.77,
+          -206.42,
+          6.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_425101257",
+      "osm_id": 425101257,
+      "name": "General Jagannath Bhosale Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 595.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4244274466,
+        11047849376,
+        9663266522,
+        9663266527,
+        4244274463,
+        12484130381,
+        12484130388,
+        12586989043,
+        12586989042,
+        11052629983,
+        11052629982
+      ],
+      "coordinates_3d": [
+        [
+          -713.6,
+          -207.07,
+          5.28
+        ],
+        [
+          -702.98,
+          -170.32,
+          5.9
+        ],
+        [
+          -698.91,
+          -150.02,
+          7.96
+        ],
+        [
+          -679.1,
+          -73.14,
+          9.83
+        ],
+        [
+          -665.77,
+          1.97,
+          13.01
+        ],
+        [
+          -645.71,
+          150.89,
+          15.51
+        ],
+        [
+          -643.24,
+          198.81,
+          13.32
+        ],
+        [
+          -637.9,
+          276.81,
+          17.76
+        ],
+        [
+          -635.81,
+          307.45,
+          17.3
+        ],
+        [
+          -634.75,
+          366.15,
+          12.74
+        ],
+        [
+          -625.83,
+          378.43,
+          12.75
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494584",
+      "osm_id": 431494584,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 623.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13736696764,
+        4307040333,
+        4307040331,
+        9909333263,
+        245653329,
+        486125025,
+        245653244,
+        245653232
+      ],
+      "coordinates_3d": [
+        [
+          -801.37,
+          -466.95,
+          6.7
+        ],
+        [
+          -822.83,
+          -488.12,
+          5.42
+        ],
+        [
+          -857.81,
+          -528.43,
+          8.36
+        ],
+        [
+          -975.36,
+          -681.19,
+          8.86
+        ],
+        [
+          -996.57,
+          -708.74,
+          10.91
+        ],
+        [
+          -1061.9,
+          -786.58,
+          10.47
+        ],
+        [
+          -1132.57,
+          -875.44,
+          8.06
+        ],
+        [
+          -1198.56,
+          -947.6,
+          12.41
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494585",
+      "osm_id": 431494585,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 623.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486059698,
+        4244274469,
+        4244274468,
+        4244274467,
+        4307040332,
+        4307040334,
+        4307040336
+      ],
+      "coordinates_3d": [
+        [
+          -1206.92,
+          -938.74,
+          12.43
+        ],
+        [
+          -1144.6,
+          -864.34,
+          7.62
+        ],
+        [
+          -1072.45,
+          -776.56,
+          9.45
+        ],
+        [
+          -1007.77,
+          -696.9,
+          9.5
+        ],
+        [
+          -864.5,
+          -521.04,
+          8.03
+        ],
+        [
+          -833.25,
+          -485.47,
+          5.78
+        ],
+        [
+          -808.07,
+          -459.93,
+          5.7
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1500140958",
+      "osm_id": 1500140958,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 19.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040336,
+        4244274459
+      ],
+      "coordinates_3d": [
+        [
+          -808.07,
+          -459.93,
+          5.7
+        ],
+        [
+          -796.57,
+          -443.59,
+          5.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1500140959",
+      "osm_id": 1500140959,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 266.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653613,
+        7461994658,
+        8620970561,
+        13997601973,
+        4307040338,
+        245653413
+      ],
+      "coordinates_3d": [
+        [
+          -699.77,
+          -206.42,
+          6.2
+        ],
+        [
+          -707.43,
+          -231.89,
+          6.54
+        ],
+        [
+          -722.99,
+          -278.01,
+          8.09
+        ],
+        [
+          -757.74,
+          -390.89,
+          6.14
+        ],
+        [
+          -778.9,
+          -438.86,
+          6.65
+        ],
+        [
+          -790.21,
+          -455.94,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1500140960",
+      "osm_id": 1500140960,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 250.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4244274459,
+        11047883244,
+        4244274460,
+        4244274461,
+        4244274462,
+        4244274466
+      ],
+      "coordinates_3d": [
+        [
+          -796.57,
+          -443.59,
+          5.72
+        ],
+        [
+          -781.12,
+          -407.94,
+          4.46
+        ],
+        [
+          -770.11,
+          -382.52,
+          5.15
+        ],
+        [
+          -736.2,
+          -279.46,
+          7.94
+        ],
+        [
+          -721.07,
+          -232.57,
+          5.66
+        ],
+        [
+          -713.6,
+          -207.07,
+          5.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1500140961",
+      "osm_id": 1500140961,
+      "name": "Captain Prakash Pethe Marg",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 15.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653413,
+        13736696764
+      ],
+      "coordinates_3d": [
+        [
+          -790.21,
+          -455.94,
+          7.06
+        ],
+        [
+          -801.37,
+          -466.95,
+          6.7
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22845950",
+      "osm_id": 22845950,
+      "name": "Maharshi Karve Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 513.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653649,
+        317146515,
+        13333672653,
+        2242540256,
+        10886054706,
+        13602136347,
+        10886054722,
+        245653820
+      ],
+      "coordinates_3d": [
+        [
+          -541.88,
+          -131.53,
+          9.67
+        ],
+        [
+          -539.64,
+          -99.16,
+          10.02
+        ],
+        [
+          -534.78,
+          4.19,
+          20.07
+        ],
+        [
+          -522.19,
+          271.63,
+          14.85
+        ],
+        [
+          -522.1,
+          278.84,
+          14.3
+        ],
+        [
+          -519.47,
+          337.33,
+          10.33
+        ],
+        [
+          -519.28,
+          341.43,
+          10.06
+        ],
+        [
+          -518.56,
+          381.79,
+          8.53
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22846480",
+      "osm_id": 22846480,
+      "name": "First Pasta Lane",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 147.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653495,
+        11029787962,
+        11068751433,
+        245653455
+      ],
+      "coordinates_3d": [
+        [
+          -587.97,
+          -402.47,
+          8.81
+        ],
+        [
+          -506.11,
+          -471.36,
+          13.24
+        ],
+        [
+          -495.95,
+          -480.45,
+          13.05
+        ],
+        [
+          -475.32,
+          -497.91,
+          12.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22846481",
+      "osm_id": 22846481,
+      "name": "S Bharucha Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 174.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653464,
+        1461446619,
+        11068751434,
+        2176765799,
+        8602068502
+      ],
+      "coordinates_3d": [
+        [
+          -419.37,
+          -448.57,
+          11.97
+        ],
+        [
+          -434.37,
+          -438.44,
+          11.62
+        ],
+        [
+          -449.12,
+          -426.79,
+          12.03
+        ],
+        [
+          -552.79,
+          -344.97,
+          12.4
+        ],
+        [
+          -558.31,
+          -345.17,
+          12.0
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22846533",
+      "osm_id": 22846533,
+      "name": "Second Pasta Lane",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 138.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653490,
+        11029789341,
+        245653449
+      ],
+      "coordinates_3d": [
+        [
+          -627.33,
+          -451.27,
+          10.28
+        ],
+        [
+          -551.2,
+          -517.81,
+          13.05
+        ],
+        [
+          -522.87,
+          -542.54,
+          12.48
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22846539",
+      "osm_id": 22846539,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 211.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653537,
+        4364271234,
+        2176756864,
+        245653554
+      ],
+      "coordinates_3d": [
+        [
+          -381.53,
+          -352.66,
+          10.87
+        ],
+        [
+          -468.7,
+          -276.2,
+          10.78
+        ],
+        [
+          -500.31,
+          -250.59,
+          9.23
+        ],
+        [
+          -542.62,
+          -216.3,
+          9.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22846540",
+      "osm_id": 22846540,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 238.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653554,
+        10097646285,
+        471989572,
+        471989573,
+        245653555,
+        13664298940,
+        2176723347
+      ],
+      "coordinates_3d": [
+        [
+          -542.62,
+          -216.3,
+          9.15
+        ],
+        [
+          -519.99,
+          -203.93,
+          8.08
+        ],
+        [
+          -504.46,
+          -195.43,
+          8.05
+        ],
+        [
+          -495.15,
+          -193.48,
+          8.05
+        ],
+        [
+          -469.91,
+          -210.0,
+          7.22
+        ],
+        [
+          -438.41,
+          -233.14,
+          7.93
+        ],
+        [
+          -344.88,
+          -301.87,
+          8.38
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207415964",
+      "osm_id": 207415964,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 222.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653523,
+        4364271235,
+        245653548
+      ],
+      "coordinates_3d": [
+        [
+          -408.93,
+          -384.64,
+          10.19
+        ],
+        [
+          -498.55,
+          -312.62,
+          13.08
+        ],
+        [
+          -582.41,
+          -245.26,
+          11.23
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_207419322",
+      "osm_id": 207419322,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 50.71,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176756864,
+        245653555
+      ],
+      "coordinates_3d": [
+        [
+          -500.31,
+          -250.59,
+          9.23
+        ],
+        [
+          -469.91,
+          -210.0,
+          7.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_438745905",
+      "osm_id": 438745905,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 47.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4364271235,
+        4364271234
+      ],
+      "coordinates_3d": [
+        [
+          -498.55,
+          -312.62,
+          13.08
+        ],
+        [
+          -468.7,
+          -276.2,
+          10.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1187809406",
+      "osm_id": 1187809406,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 21.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11029787962,
+        11029787963
+      ],
+      "coordinates_3d": [
+        [
+          -506.11,
+          -471.36,
+          13.24
+        ],
+        [
+          -519.73,
+          -487.37,
+          12.86
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1192343818",
+      "osm_id": 1192343818,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 71.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11068751433,
+        11068751434
+      ],
+      "coordinates_3d": [
+        [
+          -495.95,
+          -480.45,
+          13.05
+        ],
+        [
+          -449.12,
+          -426.79,
+          12.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235473835",
+      "osm_id": 1235473835,
+      "name": "Maharshi Karve Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 505.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10886054720,
+        10886054721,
+        13629231489,
+        10886054724,
+        13602122574,
+        10886054725
+      ],
+      "coordinates_3d": [
+        [
+          -509.39,
+          380.15,
+          8.07
+        ],
+        [
+          -509.77,
+          349.26,
+          8.68
+        ],
+        [
+          -511.54,
+          317.7,
+          11.02
+        ],
+        [
+          -513.75,
+          278.3,
+          13.76
+        ],
+        [
+          -523.79,
+          56.31,
+          8.35
+        ],
+        [
+          -531.96,
+          -124.42,
+          9.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1318109173",
+      "osm_id": 1318109173,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 185.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12199027443,
+        12206394274,
+        12199027444,
+        12206421073,
+        12206393015,
+        12206393014,
+        12206421072,
+        12206421071,
+        12199027446,
+        12199027451,
+        12206421070,
+        12199027447,
+        12199027448,
+        12199027449,
+        12199027450,
+        12206421074,
+        12199027444
+      ],
+      "coordinates_3d": [
+        [
+          -491.14,
+          -95.25,
+          8.53
+        ],
+        [
+          -486.69,
+          -101.87,
+          8.19
+        ],
+        [
+          -480.17,
+          -116.72,
+          7.52
+        ],
+        [
+          -489.01,
+          -124.24,
+          7.84
+        ],
+        [
+          -493.01,
+          -132.65,
+          8.03
+        ],
+        [
+          -492.06,
+          -139.15,
+          7.96
+        ],
+        [
+          -489.58,
+          -144.41,
+          7.79
+        ],
+        [
+          -487.37,
+          -147.69,
+          7.67
+        ],
+        [
+          -481.17,
+          -151.63,
+          7.34
+        ],
+        [
+          -468.93,
+          -151.21,
+          6.62
+        ],
+        [
+          -443.49,
+          -132.15,
+          6.38
+        ],
+        [
+          -436.95,
+          -125.78,
+          6.59
+        ],
+        [
+          -437.14,
+          -112.29,
+          7.02
+        ],
+        [
+          -451.23,
+          -102.32,
+          7.64
+        ],
+        [
+          -462.45,
+          -104.65,
+          7.48
+        ],
+        [
+          -469.79,
+          -111.8,
+          7.24
+        ],
+        [
+          -480.17,
+          -116.72,
+          7.52
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1318936523",
+      "osm_id": 1318936523,
+      "name": "Unnamed Road",
+      "highway": "path",
+      "width_m": 1.8,
+      "width_source": "default_highway_type:path",
+      "length_m": 90.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12206389518,
+        12206389519,
+        12206389520,
+        12206389521,
+        12206389522,
+        12206389523,
+        12206389524,
+        12206389525,
+        12206389526,
+        12206389527,
+        12206389528,
+        12206389529,
+        12206389530,
+        12206389531,
+        12206389532,
+        12206389533,
+        12206389534,
+        12206389518
+      ],
+      "coordinates_3d": [
+        [
+          -501.9,
+          -143.25,
+          8.05
+        ],
+        [
+          -505.27,
+          -140.12,
+          8.07
+        ],
+        [
+          -512.04,
+          -137.6,
+          8.13
+        ],
+        [
+          -517.0,
+          -137.8,
+          8.14
+        ],
+        [
+          -521.68,
+          -139.85,
+          8.09
+        ],
+        [
+          -524.18,
+          -142.08,
+          8.15
+        ],
+        [
+          -526.74,
+          -145.81,
+          8.32
+        ],
+        [
+          -528.18,
+          -151.47,
+          8.41
+        ],
+        [
+          -527.5,
+          -156.38,
+          8.36
+        ],
+        [
+          -525.74,
+          -160.33,
+          8.24
+        ],
+        [
+          -522.04,
+          -163.76,
+          8.05
+        ],
+        [
+          -516.91,
+          -166.05,
+          8.05
+        ],
+        [
+          -511.82,
+          -166.21,
+          8.05
+        ],
+        [
+          -506.48,
+          -164.45,
+          8.05
+        ],
+        [
+          -502.89,
+          -161.17,
+          8.05
+        ],
+        [
+          -500.13,
+          -157.08,
+          8.05
+        ],
+        [
+          -499.44,
+          -152.19,
+          8.05
+        ],
+        [
+          -501.9,
+          -143.25,
+          8.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1318940407",
+      "osm_id": 1318940407,
+      "name": "Unnamed Road",
+      "highway": "path",
+      "width_m": 1.8,
+      "width_source": "default_highway_type:path",
+      "length_m": 26.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12206421073,
+        12206389520
+      ],
+      "coordinates_3d": [
+        [
+          -489.01,
+          -124.24,
+          7.84
+        ],
+        [
+          -512.04,
+          -137.6,
+          8.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1318940408",
+      "osm_id": 1318940408,
+      "name": "Unnamed Road",
+      "highway": "path",
+      "width_m": 1.8,
+      "width_source": "default_highway_type:path",
+      "length_m": 19.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12206389533,
+        12199027446
+      ],
+      "coordinates_3d": [
+        [
+          -500.13,
+          -157.08,
+          8.05
+        ],
+        [
+          -481.17,
+          -151.63,
+          7.34
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495384684",
+      "osm_id": 1495384684,
+      "name": "Nathalal M. Parikh Road",
+      "highway": "tertiary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 330.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040343,
+        245653649,
+        10886054725,
+        12199027443,
+        245653671
+      ],
+      "coordinates_3d": [
+        [
+          -645.81,
+          -205.77,
+          9.14
+        ],
+        [
+          -541.88,
+          -131.53,
+          9.67
+        ],
+        [
+          -531.96,
+          -124.42,
+          9.24
+        ],
+        [
+          -491.14,
+          -95.25,
+          8.53
+        ],
+        [
+          -377.13,
+          -13.58,
+          13.08
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240185725",
+      "osm_id": 1240185725,
+      "name": "Free Press Journal Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 240.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653788,
+        9949164579,
+        245653778,
+        2176684334,
+        2176684336
+      ],
+      "coordinates_3d": [
+        [
+          -859.6,
+          162.5,
+          21.64
+        ],
+        [
+          -922.05,
+          91.9,
+          24.1
+        ],
+        [
+          -1008.97,
+          -13.16,
+          9.86
+        ],
+        [
+          -1013.41,
+          -10.35,
+          10.22
+        ],
+        [
+          -1016.71,
+          -7.58,
+          10.39
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

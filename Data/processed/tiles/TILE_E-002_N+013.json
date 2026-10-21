@@ -1,0 +1,1100 @@
+{
+  "tile_id": "TILE_E-002_N+013",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 6500.0,
+    "max_y": 7000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.981592,
+    "max_lat": 18.986163,
+    "min_lon": 72.822748,
+    "max_lon": 72.827436
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 18,
+    "road_length_m": 4597.73,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22852434",
+      "osm_id": 22852434,
+      "name": "Mahalakshmi Station Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 274.57,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658261,
+        1654406823,
+        11050497435,
+        245658316,
+        4390218585,
+        1654406831
+      ],
+      "coordinates_3d": [
+        [
+          -630.23,
+          6464.07,
+          12.58
+        ],
+        [
+          -687.69,
+          6488.6,
+          13.05
+        ],
+        [
+          -724.72,
+          6506.12,
+          12.76
+        ],
+        [
+          -787.68,
+          6532.01,
+          9.98
+        ],
+        [
+          -821.8,
+          6551.81,
+          9.51
+        ],
+        [
+          -873.99,
+          6588.16,
+          8.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152636529",
+      "osm_id": 152636529,
+      "name": "Mahalakshmi Station Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 273.99,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1654406833,
+        4390218586,
+        1654406827,
+        1654406825,
+        1654406821
+      ],
+      "coordinates_3d": [
+        [
+          -867.85,
+          6594.92,
+          9.01
+        ],
+        [
+          -815.85,
+          6559.14,
+          9.31
+        ],
+        [
+          -784.42,
+          6540.16,
+          9.31
+        ],
+        [
+          -683.52,
+          6495.32,
+          12.96
+        ],
+        [
+          -624.62,
+          6470.97,
+          12.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152636531",
+      "osm_id": 152636531,
+      "name": "Mahalakshmi Station Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.25,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1654406831,
+        245658338
+      ],
+      "coordinates_3d": [
+        [
+          -873.99,
+          6588.16,
+          8.8
+        ],
+        [
+          -888.15,
+          6598.01,
+          9.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_988421625",
+      "osm_id": 988421625,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 222.47,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658414,
+        12159350789,
+        12159350788,
+        12159350787,
+        456176922,
+        456176919,
+        459159235,
+        768595239
+      ],
+      "coordinates_3d": [
+        [
+          -780.12,
+          6800.45,
+          9.96
+        ],
+        [
+          -781.81,
+          6792.56,
+          10.22
+        ],
+        [
+          -784.97,
+          6783.1,
+          10.53
+        ],
+        [
+          -790.17,
+          6766.91,
+          9.97
+        ],
+        [
+          -797.46,
+          6745.76,
+          8.63
+        ],
+        [
+          -810.73,
+          6712.5,
+          6.95
+        ],
+        [
+          -854.34,
+          6646.4,
+          9.09
+        ],
+        [
+          -883.01,
+          6605.37,
+          9.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_988421627",
+      "osm_id": 988421627,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.72,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        768595237,
+        12159350790
+      ],
+      "coordinates_3d": [
+        [
+          -896.96,
+          6604.45,
+          10.24
+        ],
+        [
+          -892.11,
+          6611.7,
+          10.23
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123694427",
+      "osm_id": 1123694427,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 509.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8675232544,
+        768595335,
+        13802299622,
+        13073741408
+      ],
+      "coordinates_3d": [
+        [
+          -793.61,
+          6842.77,
+          4.25
+        ],
+        [
+          -798.32,
+          6858.73,
+          4.41
+        ],
+        [
+          -970.34,
+          7206.24,
+          2.41
+        ],
+        [
+          -1018.62,
+          7300.03,
+          3.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188760875",
+      "osm_id": 1188760875,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 403.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13073741409,
+        13073741407,
+        13802299624,
+        13274639824,
+        13802299623,
+        13294486869,
+        13294486876,
+        245658547,
+        2216533512,
+        245658432
+      ],
+      "coordinates_3d": [
+        [
+          -1012.24,
+          7311.72,
+          3.17
+        ],
+        [
+          -1009.88,
+          7303.25,
+          3.21
+        ],
+        [
+          -984.71,
+          7254.93,
+          4.2
+        ],
+        [
+          -961.09,
+          7214.04,
+          2.12
+        ],
+        [
+          -959.66,
+          7211.12,
+          2.31
+        ],
+        [
+          -949.36,
+          7190.05,
+          4.01
+        ],
+        [
+          -941.59,
+          7174.17,
+          5.18
+        ],
+        [
+          -903.21,
+          7095.71,
+          4.36
+        ],
+        [
+          -876.77,
+          7041.99,
+          0.53
+        ],
+        [
+          -831.83,
+          6951.04,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239340603",
+      "osm_id": 1239340603,
+      "name": "Mahalakshmi Station Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.91,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658338,
+        768595237
+      ],
+      "coordinates_3d": [
+        [
+          -888.15,
+          6598.01,
+          9.78
+        ],
+        [
+          -896.96,
+          6604.45,
+          10.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239434251",
+      "osm_id": 1239434251,
+      "name": "Mahalakshmi Station Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.41,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        768595239,
+        1654406833
+      ],
+      "coordinates_3d": [
+        [
+          -883.01,
+          6605.37,
+          9.87
+        ],
+        [
+          -867.85,
+          6594.92,
+          9.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1313666893",
+      "osm_id": 1313666893,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 161.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658432,
+        471920006,
+        700840358,
+        245658414
+      ],
+      "coordinates_3d": [
+        [
+          -831.83,
+          6951.04,
+          5.05
+        ],
+        [
+          -788.38,
+          6862.39,
+          4.08
+        ],
+        [
+          -779.64,
+          6832.7,
+          3.69
+        ],
+        [
+          -780.12,
+          6800.45,
+          4.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1313666894",
+      "osm_id": 1313666894,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 12.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9136188647,
+        8675232544
+      ],
+      "coordinates_3d": [
+        [
+          -790.73,
+          6830.43,
+          4.14
+        ],
+        [
+          -793.61,
+          6842.77,
+          4.25
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1512038883",
+      "osm_id": 1512038883,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 245.53,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12159350790,
+        768595329,
+        768595331,
+        768595332,
+        768595333,
+        12159350786,
+        9136188647
+      ],
+      "coordinates_3d": [
+        [
+          -892.11,
+          6611.7,
+          10.23
+        ],
+        [
+          -863.3,
+          6652.26,
+          8.95
+        ],
+        [
+          -821.02,
+          6717.76,
+          6.59
+        ],
+        [
+          -809.02,
+          6746.95,
+          7.97
+        ],
+        [
+          -791.38,
+          6802.89,
+          9.92
+        ],
+        [
+          -790.24,
+          6814.28,
+          9.62
+        ],
+        [
+          -790.73,
+          6830.43,
+          9.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852103",
+      "osm_id": 22852103,
+      "name": "Junior Boricha Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 939.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658377,
+        6165302140,
+        245658386,
+        245658415,
+        13805951078,
+        13806303860,
+        13820175830,
+        12850657133,
+        13815719322,
+        245658461,
+        12850657134,
+        13805528458,
+        13806053875,
+        12985153242,
+        13805528463,
+        13806707432,
+        13806707420,
+        13806707429,
+        245658511,
+        245658541,
+        14277430935,
+        14277430942,
+        13806707419,
+        13806707417,
+        13806707418,
+        494909911,
+        13806707416,
+        13806707415,
+        494909912,
+        494909913
+      ],
+      "coordinates_3d": [
+        [
+          -276.56,
+          6769.63,
+          7.87
+        ],
+        [
+          -284.54,
+          6776.64,
+          7.28
+        ],
+        [
+          -315.19,
+          6804.72,
+          4.63
+        ],
+        [
+          -395.56,
+          6878.36,
+          4.83
+        ],
+        [
+          -419.7,
+          6901.72,
+          4.93
+        ],
+        [
+          -429.25,
+          6911.08,
+          5.35
+        ],
+        [
+          -450.51,
+          6931.28,
+          5.08
+        ],
+        [
+          -466.94,
+          6951.12,
+          5.08
+        ],
+        [
+          -476.21,
+          6965.58,
+          5.05
+        ],
+        [
+          -490.9,
+          6988.21,
+          5.05
+        ],
+        [
+          -506.57,
+          7029.42,
+          4.05
+        ],
+        [
+          -508.61,
+          7036.14,
+          4.05
+        ],
+        [
+          -510.34,
+          7042.68,
+          4.05
+        ],
+        [
+          -514.17,
+          7057.18,
+          4.04
+        ],
+        [
+          -518.81,
+          7081.97,
+          3.97
+        ],
+        [
+          -522.42,
+          7100.57,
+          4.53
+        ],
+        [
+          -526.49,
+          7121.63,
+          5.24
+        ],
+        [
+          -530.21,
+          7142.0,
+          5.37
+        ],
+        [
+          -530.93,
+          7163.54,
+          5.55
+        ],
+        [
+          -526.4,
+          7184.21,
+          5.84
+        ],
+        [
+          -520.63,
+          7197.88,
+          6.03
+        ],
+        [
+          -500.23,
+          7246.26,
+          5.9
+        ],
+        [
+          -497.32,
+          7253.14,
+          6.0
+        ],
+        [
+          -430.68,
+          7408.84,
+          4.07
+        ],
+        [
+          -427.92,
+          7413.65,
+          4.07
+        ],
+        [
+          -424.43,
+          7417.92,
+          4.08
+        ],
+        [
+          -402.39,
+          7438.78,
+          4.54
+        ],
+        [
+          -378.19,
+          7466.14,
+          6.18
+        ],
+        [
+          -349.14,
+          7510.42,
+          8.6
+        ],
+        [
+          -332.94,
+          7563.54,
+          5.99
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1121215136",
+      "osm_id": 1121215136,
+      "name": "Sane Guruji Marg (Arthur Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 763.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302145,
+        13802289410,
+        2216533501,
+        13806567310,
+        10255554043,
+        8633796859,
+        494933692,
+        494933690,
+        13806567312,
+        13806567314,
+        13806567316,
+        13806567318,
+        245658377,
+        11041705936,
+        13805631367,
+        3598132997,
+        13805995927,
+        1966835468,
+        13813829710,
+        13806617653,
+        13813829708,
+        13806617655,
+        6165302152,
+        1286566727
+      ],
+      "coordinates_3d": [
+        [
+          -44.43,
+          7036.44,
+          6.35
+        ],
+        [
+          -64.2,
+          7010.47,
+          7.95
+        ],
+        [
+          -87.45,
+          6984.45,
+          9.8
+        ],
+        [
+          -104.21,
+          6964.92,
+          8.68
+        ],
+        [
+          -117.07,
+          6949.93,
+          7.22
+        ],
+        [
+          -129.32,
+          6935.86,
+          6.15
+        ],
+        [
+          -147.91,
+          6913.99,
+          6.28
+        ],
+        [
+          -160.95,
+          6899.36,
+          7.22
+        ],
+        [
+          -163.98,
+          6895.95,
+          7.49
+        ],
+        [
+          -210.28,
+          6844.01,
+          7.44
+        ],
+        [
+          -242.2,
+          6808.18,
+          8.33
+        ],
+        [
+          -266.11,
+          6781.37,
+          8.05
+        ],
+        [
+          -276.56,
+          6769.63,
+          7.87
+        ],
+        [
+          -375.22,
+          6658.93,
+          4.87
+        ],
+        [
+          -398.26,
+          6633.09,
+          5.65
+        ],
+        [
+          -441.18,
+          6584.91,
+          5.05
+        ],
+        [
+          -475.99,
+          6545.88,
+          6.4
+        ],
+        [
+          -478.6,
+          6542.95,
+          6.68
+        ],
+        [
+          -484.69,
+          6536.11,
+          7.34
+        ],
+        [
+          -495.72,
+          6523.73,
+          8.23
+        ],
+        [
+          -502.14,
+          6516.52,
+          8.63
+        ],
+        [
+          -515.79,
+          6501.21,
+          9.03
+        ],
+        [
+          -530.0,
+          6485.25,
+          8.49
+        ],
+        [
+          -543.82,
+          6460.16,
+          7.48
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239340602",
+      "osm_id": 1239340602,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 273.02,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658338,
+        6581423127,
+        6581423128,
+        245658209
+      ],
+      "coordinates_3d": [
+        [
+          -888.15,
+          6598.01,
+          9.78
+        ],
+        [
+          -977.41,
+          6470.24,
+          11.78
+        ],
+        [
+          -1027.4,
+          6398.69,
+          12.82
+        ],
+        [
+          -1044.51,
+          6374.2,
+          11.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239340606",
+      "osm_id": 1239340606,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 274.06,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12159350797,
+        6581423129,
+        6581423126,
+        768595237
+      ],
+      "coordinates_3d": [
+        [
+          -1054.16,
+          6379.96,
+          13.51
+        ],
+        [
+          -1036.77,
+          6404.78,
+          13.97
+        ],
+        [
+          -986.71,
+          6476.2,
+          11.59
+        ],
+        [
+          -896.96,
+          6604.45,
+          10.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239434252",
+      "osm_id": 1239434252,
+      "name": "Dr E Moses Marg Flyover",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.98,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        768595239,
+        245658338
+      ],
+      "coordinates_3d": [
+        [
+          -883.01,
+          6605.37,
+          9.87
+        ],
+        [
+          -888.15,
+          6598.01,
+          9.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1264051072",
+      "osm_id": 1264051072,
+      "name": "Sane Guruji Marg (Arthur Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 178.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658276,
+        6165302151,
+        13806617654,
+        13806617652,
+        13813829715,
+        6165302136,
+        13805995924,
+        6286189611,
+        6165302137
+      ],
+      "coordinates_3d": [
+        [
+          -564.61,
+          6473.3,
+          7.66
+        ],
+        [
+          -537.84,
+          6492.43,
+          8.72
+        ],
+        [
+          -523.97,
+          6508.0,
+          9.02
+        ],
+        [
+          -503.59,
+          6530.87,
+          8.26
+        ],
+        [
+          -492.65,
+          6543.14,
+          7.16
+        ],
+        [
+          -486.79,
+          6549.71,
+          6.53
+        ],
+        [
+          -484.23,
+          6552.58,
+          6.26
+        ],
+        [
+          -463.03,
+          6576.38,
+          5.05
+        ],
+        [
+          -441.06,
+          6601.3,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

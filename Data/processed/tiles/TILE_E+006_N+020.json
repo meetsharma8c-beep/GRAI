@@ -1,0 +1,168 @@
+{
+  "tile_id": "TILE_E+006_N+020",
+  "bounds": {
+    "min_x": 3000.0,
+    "max_x": 3500.0,
+    "min_y": 10000.0,
+    "max_y": 10500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.013644,
+    "max_lat": 19.018215,
+    "min_lon": 72.860318,
+    "max_lon": 72.865008
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 2,
+    "road_length_m": 354.88,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_152246139",
+      "osm_id": 152246139,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 198.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631480564,
+        7378287249,
+        631480565,
+        7378287248,
+        3732552480,
+        631480566,
+        631480519
+      ],
+      "coordinates_3d": [
+        [
+          3366.73,
+          10521.68,
+          0.05
+        ],
+        [
+          3376.14,
+          10508.98,
+          0.05
+        ],
+        [
+          3418.86,
+          10412.56,
+          0.05
+        ],
+        [
+          3423.73,
+          10404.65,
+          0.05
+        ],
+        [
+          3433.97,
+          10398.78,
+          0.05
+        ],
+        [
+          3474.29,
+          10394.17,
+          0.05
+        ],
+        [
+          3490.33,
+          10394.38,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238346019",
+      "osm_id": 1238346019,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 155.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631480519,
+        631480567,
+        631480568,
+        3732551715,
+        3732551722,
+        13999346308,
+        13999346309,
+        13999346306,
+        13999346310,
+        3732551719
+      ],
+      "coordinates_3d": [
+        [
+          3490.33,
+          10394.38,
+          0.05
+        ],
+        [
+          3506.61,
+          10404.89,
+          0.05
+        ],
+        [
+          3529.36,
+          10448.46,
+          0.05
+        ],
+        [
+          3547.55,
+          10503.62,
+          0.05
+        ],
+        [
+          3549.27,
+          10507.87,
+          0.05
+        ],
+        [
+          3552.0,
+          10513.57,
+          0.05
+        ],
+        [
+          3555.39,
+          10517.56,
+          0.05
+        ],
+        [
+          3556.69,
+          10518.23,
+          0.05
+        ],
+        [
+          3559.6,
+          10519.71,
+          0.05
+        ],
+        [
+          3568.01,
+          10519.22,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

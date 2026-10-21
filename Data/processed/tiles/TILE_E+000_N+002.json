@@ -1,0 +1,867 @@
+{
+  "tile_id": "TILE_E+000_N+002",
+  "bounds": {
+    "min_x": 0.0,
+    "max_x": 500.0,
+    "min_y": 1000.0,
+    "max_y": 1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.932031,
+    "max_lat": 18.936602,
+    "min_lon": 72.832884,
+    "max_lon": 72.837571
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 17,
+    "road_length_m": 2524.59,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_42376646",
+      "osm_id": 42376646,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 313.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654172,
+        1704906175,
+        317162432,
+        245654150,
+        4362509338,
+        1704905993,
+        12400112795,
+        529002922,
+        245654113,
+        12400147208,
+        662446662,
+        10598322644,
+        10598322638
+      ],
+      "coordinates_3d": [
+        [
+          447.35,
+          1267.38,
+          10.33
+        ],
+        [
+          446.65,
+          1241.37,
+          10.76
+        ],
+        [
+          439.02,
+          1185.41,
+          14.35
+        ],
+        [
+          430.75,
+          1156.04,
+          14.53
+        ],
+        [
+          425.03,
+          1145.32,
+          14.61
+        ],
+        [
+          417.21,
+          1134.52,
+          14.81
+        ],
+        [
+          385.97,
+          1104.74,
+          14.33
+        ],
+        [
+          357.35,
+          1077.46,
+          14.7
+        ],
+        [
+          314.84,
+          1041.37,
+          17.26
+        ],
+        [
+          311.05,
+          1034.16,
+          17.03
+        ],
+        [
+          309.11,
+          1030.44,
+          16.83
+        ],
+        [
+          308.32,
+          1026.73,
+          16.72
+        ],
+        [
+          304.14,
+          1007.22,
+          14.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_158253011",
+      "osm_id": 158253011,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 197.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1704905262,
+        1704905288,
+        12400112791,
+        10598322635,
+        10598322639
+      ],
+      "coordinates_3d": [
+        [
+          265.64,
+          825.64,
+          14.43
+        ],
+        [
+          274.11,
+          848.7,
+          17.06
+        ],
+        [
+          286.26,
+          932.12,
+          14.33
+        ],
+        [
+          288.22,
+          945.57,
+          12.01
+        ],
+        [
+          300.92,
+          1019.9,
+          15.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_158253014",
+      "osm_id": 158253014,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 286.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10598322643,
+        12400147209,
+        1704905817,
+        1704905869,
+        10277881697,
+        12400112796,
+        1704905956,
+        1704906020,
+        1704906033,
+        11357936049,
+        1704906174,
+        2163539006,
+        2163539007
+      ],
+      "coordinates_3d": [
+        [
+          302.82,
+          1027.27,
+          16.09
+        ],
+        [
+          305.18,
+          1036.42,
+          16.48
+        ],
+        [
+          307.37,
+          1044.95,
+          16.75
+        ],
+        [
+          324.41,
+          1063.39,
+          16.54
+        ],
+        [
+          334.05,
+          1069.84,
+          15.67
+        ],
+        [
+          379.34,
+          1112.47,
+          13.48
+        ],
+        [
+          395.05,
+          1127.23,
+          15.67
+        ],
+        [
+          410.22,
+          1147.92,
+          15.86
+        ],
+        [
+          420.93,
+          1166.28,
+          15.82
+        ],
+        [
+          429.76,
+          1193.68,
+          15.88
+        ],
+        [
+          434.89,
+          1222.86,
+          13.23
+        ],
+        [
+          436.39,
+          1247.15,
+          11.55
+        ],
+        [
+          436.55,
+          1265.07,
+          10.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466407",
+      "osm_id": 1235466407,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 98.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163544983,
+        2163544979,
+        245654194,
+        245654172
+      ],
+      "coordinates_3d": [
+        [
+          460.99,
+          1364.38,
+          9.06
+        ],
+        [
+          460.92,
+          1348.44,
+          8.88
+        ],
+        [
+          456.64,
+          1323.18,
+          8.05
+        ],
+        [
+          447.35,
+          1267.38,
+          10.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466425",
+      "osm_id": 1235466425,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 110.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539007,
+        2163559531,
+        245654193,
+        2163539009,
+        2163544983
+      ],
+      "coordinates_3d": [
+        [
+          436.55,
+          1265.07,
+          10.69
+        ],
+        [
+          434.34,
+          1292.96,
+          9.14
+        ],
+        [
+          435.17,
+          1327.68,
+          8.19
+        ],
+        [
+          442.32,
+          1351.0,
+          8.95
+        ],
+        [
+          460.99,
+          1364.38,
+          9.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1340536981",
+      "osm_id": 1340536981,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10598322639,
+        10598322643
+      ],
+      "coordinates_3d": [
+        [
+          300.92,
+          1019.9,
+          15.72
+        ],
+        [
+          302.82,
+          1027.27,
+          16.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1446483250",
+      "osm_id": 1446483250,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 77.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10598322638,
+        11034003549,
+        10598322636,
+        662446652
+      ],
+      "coordinates_3d": [
+        [
+          304.14,
+          1007.22,
+          14.8
+        ],
+        [
+          303.11,
+          998.84,
+          13.58
+        ],
+        [
+          297.67,
+          954.48,
+          10.8
+        ],
+        [
+          295.1,
+          930.39,
+          13.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400710",
+      "osm_id": 1495400710,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 150.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13700651182,
+        13700651179,
+        2163539015,
+        2163539014,
+        2163544984,
+        2163544983
+      ],
+      "coordinates_3d": [
+        [
+          437.51,
+          1511.07,
+          11.04
+        ],
+        [
+          440.29,
+          1502.33,
+          11.05
+        ],
+        [
+          444.82,
+          1422.44,
+          10.74
+        ],
+        [
+          446.31,
+          1413.11,
+          10.56
+        ],
+        [
+          450.86,
+          1379.44,
+          9.67
+        ],
+        [
+          460.99,
+          1364.38,
+          9.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400711",
+      "osm_id": 1495400711,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 161.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539009,
+        245654232,
+        2177642337,
+        666042478,
+        13700651180,
+        13700651182
+      ],
+      "coordinates_3d": [
+        [
+          442.32,
+          1351.0,
+          8.95
+        ],
+        [
+          440.39,
+          1358.55,
+          9.26
+        ],
+        [
+          437.96,
+          1378.71,
+          10.35
+        ],
+        [
+          437.13,
+          1407.88,
+          10.87
+        ],
+        [
+          433.83,
+          1503.68,
+          11.07
+        ],
+        [
+          437.51,
+          1511.07,
+          11.04
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22845617",
+      "osm_id": 22845617,
+      "name": "Shoorji Vallabhdas Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 320.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        662994491,
+        662994493,
+        245654151,
+        245654161,
+        662188952,
+        2242540278,
+        245654172
+      ],
+      "coordinates_3d": [
+        [
+          760.23,
+          1201.91,
+          11.14
+        ],
+        [
+          740.52,
+          1202.25,
+          11.64
+        ],
+        [
+          728.39,
+          1203.8,
+          12.07
+        ],
+        [
+          640.17,
+          1223.26,
+          13.99
+        ],
+        [
+          630.09,
+          1225.55,
+          13.66
+        ],
+        [
+          500.41,
+          1255.25,
+          14.69
+        ],
+        [
+          447.35,
+          1267.38,
+          10.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133449",
+      "osm_id": 647133449,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 189.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105879,
+        7816847135,
+        1643105867,
+        7816847136,
+        1643105866
+      ],
+      "coordinates_3d": [
+        [
+          170.41,
+          1663.18,
+          18.28
+        ],
+        [
+          153.19,
+          1612.41,
+          20.44
+        ],
+        [
+          141.85,
+          1579.02,
+          19.25
+        ],
+        [
+          131.22,
+          1548.34,
+          20.22
+        ],
+        [
+          110.14,
+          1483.34,
+          20.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1166038294",
+      "osm_id": 1166038294,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 214.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13395063368,
+        245654247,
+        245654265,
+        245654277
+      ],
+      "coordinates_3d": [
+        [
+          -12.37,
+          1286.33,
+          15.57
+        ],
+        [
+          54.63,
+          1380.65,
+          18.11
+        ],
+        [
+          78.85,
+          1424.8,
+          19.67
+        ],
+        [
+          96.17,
+          1469.64,
+          19.52
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466424",
+      "osm_id": 1235466424,
+      "name": "Sir Pherozeshah Mehta Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 11.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539007,
+        245654172
+      ],
+      "coordinates_3d": [
+        [
+          436.55,
+          1265.07,
+          10.69
+        ],
+        [
+          447.35,
+          1267.38,
+          10.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1324981115",
+      "osm_id": 1324981115,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 10.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12260982414,
+        245654277
+      ],
+      "coordinates_3d": [
+        [
+          106.37,
+          1467.08,
+          19.87
+        ],
+        [
+          96.17,
+          1469.64,
+          19.52
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206347085",
+      "osm_id": 206347085,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 167.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539013,
+        13700651178,
+        2163539016,
+        13700728419,
+        2163539017
+      ],
+      "coordinates_3d": [
+        [
+          476.47,
+          1404.59,
+          9.88
+        ],
+        [
+          472.41,
+          1417.57,
+          10.13
+        ],
+        [
+          492.28,
+          1502.31,
+          11.21
+        ],
+        [
+          501.36,
+          1538.71,
+          11.04
+        ],
+        [
+          508.64,
+          1567.58,
+          11.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261150",
+      "osm_id": 647261150,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 165.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654338,
+        245654291,
+        245654261,
+        6079346474,
+        2163539013
+      ],
+      "coordinates_3d": [
+        [
+          518.11,
+          1564.17,
+          11.65
+        ],
+        [
+          501.95,
+          1499.72,
+          11.46
+        ],
+        [
+          488.75,
+          1437.62,
+          10.79
+        ],
+        [
+          483.44,
+          1415.82,
+          10.07
+        ],
+        [
+          476.47,
+          1404.59,
+          9.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400709",
+      "osm_id": 1495400709,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 43.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539013,
+        245654252,
+        2163544983
+      ],
+      "coordinates_3d": [
+        [
+          476.47,
+          1404.59,
+          9.88
+        ],
+        [
+          468.71,
+          1383.67,
+          9.28
+        ],
+        [
+          460.99,
+          1364.38,
+          9.06
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

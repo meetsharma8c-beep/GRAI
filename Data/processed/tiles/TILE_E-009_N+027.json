@@ -1,0 +1,31 @@
+{
+  "tile_id": "TILE_E-009_N+027",
+  "bounds": {
+    "min_x": -4500.0,
+    "max_x": -4000.0,
+    "min_y": 13500.0,
+    "max_y": 14000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.044414,
+    "max_lat": 19.048986,
+    "min_lon": 72.788686,
+    "max_lon": 72.793375
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 0,
+    "road_length_m": 0.0,
+    "confidence_score": 0.0
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": []
+}

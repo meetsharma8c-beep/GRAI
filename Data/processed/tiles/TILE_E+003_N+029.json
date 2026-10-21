@@ -1,0 +1,1560 @@
+{
+  "tile_id": "TILE_E+003_N+029",
+  "bounds": {
+    "min_x": 1500.0,
+    "max_x": 2000.0,
+    "min_y": 14500.0,
+    "max_y": 15000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.054119,
+    "max_lat": 19.05869,
+    "min_lon": 72.845551,
+    "max_lon": 72.850241
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 32,
+    "road_length_m": 5155.15,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22859100",
+      "osm_id": 22859100,
+      "name": "Nanasaheb Dharmadhikari Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 66.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10682240349,
+        10153828917,
+        13734514470,
+        245665218
+      ],
+      "coordinates_3d": [
+        [
+          1753.64,
+          14622.76,
+          0.05
+        ],
+        [
+          1723.25,
+          14660.18,
+          0.05
+        ],
+        [
+          1720.74,
+          14668.46,
+          0.05
+        ],
+        [
+          1717.9,
+          14677.86,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859259",
+      "osm_id": 22859259,
+      "name": "Road No 2",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 534.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665218,
+        5545308505,
+        5545308492,
+        14006259830,
+        5545308489,
+        245665351,
+        5545308501,
+        5545308498,
+        11069702462,
+        5545308507,
+        245665633,
+        11066788215,
+        245665788,
+        11066788210,
+        245665949
+      ],
+      "coordinates_3d": [
+        [
+          1717.9,
+          14677.86,
+          0.05
+        ],
+        [
+          1717.39,
+          14698.5,
+          0.05
+        ],
+        [
+          1719.54,
+          14745.83,
+          0.05
+        ],
+        [
+          1720.2,
+          14758.81,
+          0.05
+        ],
+        [
+          1721.35,
+          14781.12,
+          0.05
+        ],
+        [
+          1721.74,
+          14788.75,
+          0.05
+        ],
+        [
+          1723.35,
+          14833.68,
+          0.05
+        ],
+        [
+          1725.58,
+          14878.6,
+          0.05
+        ],
+        [
+          1725.76,
+          14880.69,
+          0.05
+        ],
+        [
+          1730.11,
+          14970.01,
+          0.05
+        ],
+        [
+          1731.46,
+          15010.7,
+          0.05
+        ],
+        [
+          1732.91,
+          15062.4,
+          0.05
+        ],
+        [
+          1733.88,
+          15105.59,
+          0.05
+        ],
+        [
+          1734.77,
+          15128.88,
+          0.05
+        ],
+        [
+          1737.92,
+          15212.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_27055938",
+      "osm_id": 27055938,
+      "name": "Bandra Kurla Complex Road",
+      "highway": "primary",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 461.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1398117085,
+        13617732057,
+        8928692503,
+        296857842,
+        7749797415,
+        1398117068,
+        11064287546,
+        296857844,
+        7749797418,
+        7749797419,
+        296857845,
+        7749797421,
+        13629299805,
+        2443139105
+      ],
+      "coordinates_3d": [
+        [
+          2064.57,
+          14663.78,
+          0.05
+        ],
+        [
+          2054.18,
+          14656.83,
+          0.05
+        ],
+        [
+          2011.52,
+          14628.29,
+          0.05
+        ],
+        [
+          1983.85,
+          14590.96,
+          0.05
+        ],
+        [
+          1940.56,
+          14545.99,
+          0.05
+        ],
+        [
+          1903.82,
+          14506.16,
+          0.05
+        ],
+        [
+          1871.31,
+          14464.75,
+          0.05
+        ],
+        [
+          1865.94,
+          14457.91,
+          0.05
+        ],
+        [
+          1857.13,
+          14449.6,
+          0.05
+        ],
+        [
+          1850.97,
+          14444.22,
+          0.05
+        ],
+        [
+          1840.2,
+          14435.64,
+          0.05
+        ],
+        [
+          1825.77,
+          14422.98,
+          0.05
+        ],
+        [
+          1811.67,
+          14411.08,
+          0.05
+        ],
+        [
+          1725.4,
+          14358.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_99821554",
+      "osm_id": 99821554,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 205.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2250795748,
+        1154025452,
+        2250795758,
+        1154025451,
+        2250795776,
+        1154025450,
+        1647344945
+      ],
+      "coordinates_3d": [
+        [
+          1437.84,
+          14356.18,
+          0.05
+        ],
+        [
+          1467.36,
+          14377.58,
+          0.05
+        ],
+        [
+          1489.21,
+          14400.39,
+          0.05
+        ],
+        [
+          1508.22,
+          14425.43,
+          0.05
+        ],
+        [
+          1531.47,
+          14459.52,
+          0.05
+        ],
+        [
+          1551.28,
+          14496.25,
+          0.05
+        ],
+        [
+          1560.73,
+          14517.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_235500040",
+      "osm_id": 235500040,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 53.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1154003522,
+        13999564004,
+        6243685414
+      ],
+      "coordinates_3d": [
+        [
+          1599.22,
+          14925.66,
+          0.05
+        ],
+        [
+          1600.24,
+          14961.21,
+          0.05
+        ],
+        [
+          1600.75,
+          14979.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841873",
+      "osm_id": 666841873,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 49.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685411,
+        6243685415
+      ],
+      "coordinates_3d": [
+        [
+          1616.9,
+          15028.6,
+          0.05
+        ],
+        [
+          1615.4,
+          14979.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_842669289",
+      "osm_id": 842669289,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 122.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6133891680,
+        2250795803,
+        1154025454,
+        1154003519,
+        1154003531,
+        10595428376
+      ],
+      "coordinates_3d": [
+        [
+          1566.34,
+          14534.67,
+          0.05
+        ],
+        [
+          1574.12,
+          14568.51,
+          0.05
+        ],
+        [
+          1578.85,
+          14593.5,
+          0.05
+        ],
+        [
+          1580.66,
+          14617.56,
+          0.05
+        ],
+        [
+          1583.35,
+          14653.08,
+          0.05
+        ],
+        [
+          1583.43,
+          14655.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_842669290",
+      "osm_id": 842669290,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 137.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1154003530,
+        10595428375,
+        2250795814,
+        1154003528,
+        2250795806,
+        2250795800,
+        2250795799,
+        2250795798,
+        1207149076
+      ],
+      "coordinates_3d": [
+        [
+          1619.05,
+          14662.71,
+          0.05
+        ],
+        [
+          1618.93,
+          14654.93,
+          0.05
+        ],
+        [
+          1618.07,
+          14618.0,
+          0.05
+        ],
+        [
+          1615.8,
+          14599.18,
+          0.05
+        ],
+        [
+          1612.86,
+          14574.0,
+          0.05
+        ],
+        [
+          1609.6,
+          14555.66,
+          0.05
+        ],
+        [
+          1607.29,
+          14545.63,
+          0.05
+        ],
+        [
+          1605.36,
+          14537.31,
+          0.05
+        ],
+        [
+          1602.41,
+          14526.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1022262563",
+      "osm_id": 1022262563,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 30.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1207149076,
+        1647344940
+      ],
+      "coordinates_3d": [
+        [
+          1602.41,
+          14526.93,
+          0.05
+        ],
+        [
+          1592.05,
+          14498.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1107646361",
+      "osm_id": 1107646361,
+      "name": "Madhusudan Kalekar Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 85.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1398117066,
+        13640372663,
+        2250795781,
+        10134766417,
+        245664830
+      ],
+      "coordinates_3d": [
+        [
+          1691.26,
+          14504.32,
+          0.05
+        ],
+        [
+          1683.35,
+          14495.04,
+          0.05
+        ],
+        [
+          1649.61,
+          14468.97,
+          0.05
+        ],
+        [
+          1631.87,
+          14460.39,
+          0.05
+        ],
+        [
+          1621.8,
+          14455.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1107646362",
+      "osm_id": 1107646362,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 87.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10134735416,
+        10134735414,
+        13640372664,
+        1398117066
+      ],
+      "coordinates_3d": [
+        [
+          1611.58,
+          14470.15,
+          0.05
+        ],
+        [
+          1650.76,
+          14481.71,
+          0.05
+        ],
+        [
+          1679.86,
+          14500.06,
+          0.05
+        ],
+        [
+          1691.26,
+          14504.32,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145116657",
+      "osm_id": 1145116657,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 288.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685417,
+        6243685416,
+        6243685415
+      ],
+      "coordinates_3d": [
+        [
+          1634.28,
+          15265.55,
+          0.05
+        ],
+        [
+          1629.54,
+          15028.31,
+          0.05
+        ],
+        [
+          1615.4,
+          14979.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1148113598",
+      "osm_id": 1148113598,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 38.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10682240349,
+        10682240351,
+        10682240352
+      ],
+      "coordinates_3d": [
+        [
+          1753.64,
+          14622.76,
+          0.05
+        ],
+        [
+          1762.34,
+          14619.93,
+          0.05
+        ],
+        [
+          1781.35,
+          14597.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1148113599",
+      "osm_id": 1148113599,
+      "name": "Nanasaheb Dharmadhikari Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 38.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665035,
+        10682240350,
+        10682240349
+      ],
+      "coordinates_3d": [
+        [
+          1775.65,
+          14592.17,
+          0.05
+        ],
+        [
+          1756.01,
+          14615.31,
+          0.05
+        ],
+        [
+          1753.64,
+          14622.76,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442604",
+      "osm_id": 1235442604,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 53.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685415,
+        13999564003,
+        1154003520
+      ],
+      "coordinates_3d": [
+        [
+          1615.4,
+          14979.08,
+          0.05
+        ],
+        [
+          1614.82,
+          14960.17,
+          0.05
+        ],
+        [
+          1613.77,
+          14925.74,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442617",
+      "osm_id": 1235442617,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 49.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685414,
+        6243685410
+      ],
+      "coordinates_3d": [
+        [
+          1600.75,
+          14979.25,
+          0.05
+        ],
+        [
+          1602.19,
+          15028.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767981",
+      "osm_id": 1235767981,
+      "name": "Sion Bandra Link Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 71.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6133891680,
+        1647344940,
+        1647344934
+      ],
+      "coordinates_3d": [
+        [
+          1566.34,
+          14534.67,
+          0.05
+        ],
+        [
+          1592.05,
+          14498.04,
+          0.05
+        ],
+        [
+          1607.39,
+          14476.17,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767992",
+      "osm_id": 1235767992,
+      "name": "Madhusudan Kalekar Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 7.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665035,
+        10682240352
+      ],
+      "coordinates_3d": [
+        [
+          1775.65,
+          14592.17,
+          0.05
+        ],
+        [
+          1781.35,
+          14597.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767993",
+      "osm_id": 1235767993,
+      "name": "Madhusudan Kalekar Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 121.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1398117066,
+        13734514465,
+        13734514467,
+        245665035
+      ],
+      "coordinates_3d": [
+        [
+          1691.26,
+          14504.32,
+          0.05
+        ],
+        [
+          1714.43,
+          14528.44,
+          0.05
+        ],
+        [
+          1757.38,
+          14573.15,
+          0.05
+        ],
+        [
+          1775.65,
+          14592.17,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238603168",
+      "osm_id": 1238603168,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 271.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10595428376,
+        1154003529,
+        6243685409,
+        1154003522
+      ],
+      "coordinates_3d": [
+        [
+          1583.43,
+          14655.67,
+          0.05
+        ],
+        [
+          1583.67,
+          14663.38,
+          0.05
+        ],
+        [
+          1589.33,
+          14879.71,
+          0.05
+        ],
+        [
+          1599.22,
+          14925.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238603177",
+      "osm_id": 1238603177,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 264.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1154003520,
+        2289452696,
+        1154003530
+      ],
+      "coordinates_3d": [
+        [
+          1613.77,
+          14925.74,
+          0.05
+        ],
+        [
+          1623.55,
+          14879.15,
+          0.05
+        ],
+        [
+          1619.05,
+          14662.71,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238856888",
+      "osm_id": 1238856888,
+      "name": "Sion Bandra Link Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 18.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1647344945,
+        6133891679,
+        10281883195,
+        6133891680
+      ],
+      "coordinates_3d": [
+        [
+          1560.73,
+          14517.56,
+          0.05
+        ],
+        [
+          1563.15,
+          14525.48,
+          0.05
+        ],
+        [
+          1563.92,
+          14527.7,
+          0.05
+        ],
+        [
+          1566.34,
+          14534.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239917932",
+      "osm_id": 1239917932,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 16.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1647344940,
+        1647344937
+      ],
+      "coordinates_3d": [
+        [
+          1592.05,
+          14498.04,
+          0.05
+        ],
+        [
+          1585.3,
+          14483.06,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239917933",
+      "osm_id": 1239917933,
+      "name": "Sion Bandra Link Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 42.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1647344937,
+        1647344945
+      ],
+      "coordinates_3d": [
+        [
+          1585.3,
+          14483.06,
+          0.05
+        ],
+        [
+          1560.73,
+          14517.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1256579427",
+      "osm_id": 1256579427,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 286.45,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685414,
+        6243685413,
+        12279680442,
+        9931191124
+      ],
+      "coordinates_3d": [
+        [
+          1600.75,
+          14979.25,
+          0.05
+        ],
+        [
+          1591.72,
+          15029.19,
+          0.05
+        ],
+        [
+          1595.99,
+          15243.79,
+          0.05
+        ],
+        [
+          1596.41,
+          15264.84,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457397074",
+      "osm_id": 1457397074,
+      "name": "Bandra Kurla Complex Road",
+      "highway": "primary",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 454.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1647747278,
+        2250795768,
+        2250795771,
+        7749797420,
+        296853737,
+        7749797417,
+        5291748974,
+        7749797416,
+        7749797414,
+        5291745351,
+        8928692504,
+        1398117087
+      ],
+      "coordinates_3d": [
+        [
+          1712.88,
+          14380.6,
+          0.05
+        ],
+        [
+          1789.14,
+          14430.93,
+          0.05
+        ],
+        [
+          1811.32,
+          14445.58,
+          0.05
+        ],
+        [
+          1824.6,
+          14455.69,
+          0.05
+        ],
+        [
+          1834.65,
+          14463.7,
+          0.05
+        ],
+        [
+          1839.33,
+          14467.74,
+          0.05
+        ],
+        [
+          1846.8,
+          14474.66,
+          0.05
+        ],
+        [
+          1884.67,
+          14522.9,
+          0.05
+        ],
+        [
+          1922.27,
+          14563.66,
+          0.05
+        ],
+        [
+          1968.88,
+          14611.77,
+          0.05
+        ],
+        [
+          2007.99,
+          14637.34,
+          0.05
+        ],
+        [
+          2056.19,
+          14672.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1545064652",
+      "osm_id": 1545064652,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 14.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13640372664,
+        1398117066
+      ],
+      "coordinates_3d": [
+        [
+          1677.01,
+          14501.39,
+          0.05
+        ],
+        [
+          1691.26,
+          14504.32,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1545064653",
+      "osm_id": 1545064653,
+      "name": "Madhusudan Kalekar Marg",
+      "highway": "tertiary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 14.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1398117066,
+        13640372663
+      ],
+      "coordinates_3d": [
+        [
+          1691.26,
+          14504.32,
+          0.05
+        ],
+        [
+          1683.83,
+          14491.94,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_46167260",
+      "osm_id": 46167260,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 44.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665631,
+        1154003522
+      ],
+      "coordinates_3d": [
+        [
+          1600.33,
+          14880.87,
+          0.05
+        ],
+        [
+          1599.22,
+          14925.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841872",
+      "osm_id": 666841872,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 44.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1154003520,
+        2250795826
+      ],
+      "coordinates_3d": [
+        [
+          1613.77,
+          14925.74,
+          0.05
+        ],
+        [
+          1612.18,
+          14881.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382859",
+      "osm_id": 909382859,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 596.07,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 2,
+      "node_ids": [
+        2250795826,
+        588597503,
+        593054839,
+        2250795813,
+        2250795809,
+        593054838,
+        2250795802,
+        245665048,
+        2250795794,
+        2250795779,
+        245664901,
+        2250795761,
+        2250795754,
+        482183394,
+        2250795747
+      ],
+      "coordinates_3d": [
+        [
+          1612.18,
+          14881.05,
+          11.05
+        ],
+        [
+          1609.91,
+          14694.98,
+          11.05
+        ],
+        [
+          1609.43,
+          14655.57,
+          11.05
+        ],
+        [
+          1608.11,
+          14623.47,
+          11.05
+        ],
+        [
+          1606.69,
+          14602.56,
+          11.05
+        ],
+        [
+          1604.51,
+          14587.75,
+          11.05
+        ],
+        [
+          1600.0,
+          14567.04,
+          11.05
+        ],
+        [
+          1593.59,
+          14542.68,
+          11.05
+        ],
+        [
+          1587.49,
+          14523.23,
+          11.05
+        ],
+        [
+          1567.11,
+          14473.66,
+          11.05
+        ],
+        [
+          1549.66,
+          14441.28,
+          11.05
+        ],
+        [
+          1536.64,
+          14417.97,
+          11.05
+        ],
+        [
+          1508.36,
+          14380.87,
+          11.05
+        ],
+        [
+          1484.59,
+          14356.37,
+          11.05
+        ],
+        [
+          1453.93,
+          14334.11,
+          11.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382860",
+      "osm_id": 909382860,
+      "name": "Western Express Highway",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 583.46,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 2,
+      "node_ids": [
+        2250795749,
+        619227677,
+        2250795757,
+        2250795763,
+        593054834,
+        2250795782,
+        593054836,
+        2250795797,
+        593054837,
+        2250795805,
+        473692779,
+        2250795810,
+        2250795812,
+        2250795818,
+        473692780,
+        245665631
+      ],
+      "coordinates_3d": [
+        [
+          1445.15,
+          14346.15,
+          11.05
+        ],
+        [
+          1475.19,
+          14367.94,
+          11.05
+        ],
+        [
+          1497.92,
+          14391.51,
+          11.05
+        ],
+        [
+          1524.83,
+          14425.25,
+          11.05
+        ],
+        [
+          1539.71,
+          14448.55,
+          11.05
+        ],
+        [
+          1555.35,
+          14477.2,
+          11.05
+        ],
+        [
+          1563.72,
+          14496.11,
+          11.05
+        ],
+        [
+          1576.55,
+          14528.44,
+          11.05
+        ],
+        [
+          1582.66,
+          14548.25,
+          11.05
+        ],
+        [
+          1588.23,
+          14570.11,
+          11.05
+        ],
+        [
+          1592.18,
+          14589.74,
+          11.05
+        ],
+        [
+          1594.3,
+          14604.56,
+          11.05
+        ],
+        [
+          1595.8,
+          14622.59,
+          11.05
+        ],
+        [
+          1596.94,
+          14655.86,
+          11.05
+        ],
+        [
+          1597.42,
+          14693.98,
+          11.05
+        ],
+        [
+          1600.33,
+          14880.87,
+          11.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

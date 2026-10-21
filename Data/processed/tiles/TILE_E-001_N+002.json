@@ -1,0 +1,1862 @@
+{
+  "tile_id": "TILE_E-001_N+002",
+  "bounds": {
+    "min_x": -500.0,
+    "max_x": 0.0,
+    "min_y": 1000.0,
+    "max_y": 1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.931976,
+    "max_lat": 18.936547,
+    "min_lon": 72.828138,
+    "max_lon": 72.832825
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 42,
+    "road_length_m": 6051.16,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22845977",
+      "osm_id": 22845977,
+      "name": "Karmaveer Bhaurao Patil Road",
+      "highway": "secondary",
+      "width_m": 21.0,
+      "width_source": "osm_lanes_inferred:6",
+      "length_m": 210.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4046420989,
+        10595920218,
+        1643105845,
+        245654260,
+        2168470110,
+        2163559554,
+        2168470133,
+        2163559566,
+        9911678739,
+        2163559569
+      ],
+      "coordinates_3d": [
+        [
+          -266.93,
+          1275.99,
+          15.28
+        ],
+        [
+          -266.84,
+          1276.74,
+          15.18
+        ],
+        [
+          -265.98,
+          1283.7,
+          14.18
+        ],
+        [
+          -264.67,
+          1294.41,
+          12.6
+        ],
+        [
+          -258.14,
+          1340.11,
+          9.36
+        ],
+        [
+          -255.81,
+          1356.32,
+          8.76
+        ],
+        [
+          -251.06,
+          1388.06,
+          9.17
+        ],
+        [
+          -247.66,
+          1410.73,
+          8.41
+        ],
+        [
+          -245.7,
+          1434.82,
+          7.59
+        ],
+        [
+          -241.61,
+          1485.22,
+          7.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_130533407",
+      "osm_id": 130533407,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 79.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528743523,
+        528743525,
+        528743527
+      ],
+      "coordinates_3d": [
+        [
+          -366.18,
+          1083.64,
+          9.94
+        ],
+        [
+          -382.48,
+          1086.51,
+          10.02
+        ],
+        [
+          -444.53,
+          1095.18,
+          10.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151496523",
+      "osm_id": 151496523,
+      "name": "Hazarimal Somani Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 44.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105862,
+        2163559556,
+        245654283
+      ],
+      "coordinates_3d": [
+        [
+          -235.97,
+          1340.17,
+          8.34
+        ],
+        [
+          -222.3,
+          1362.1,
+          7.42
+        ],
+        [
+          -207.79,
+          1373.92,
+          7.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236608605",
+      "osm_id": 236608605,
+      "name": "Mahatma Gandhi Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 66.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1640191301,
+        6601918284,
+        1643134365,
+        245654041
+      ],
+      "coordinates_3d": [
+        [
+          -171.92,
+          1058.1,
+          14.64
+        ],
+        [
+          -171.15,
+          1041.65,
+          14.53
+        ],
+        [
+          -169.29,
+          1020.42,
+          14.39
+        ],
+        [
+          -165.68,
+          991.91,
+          13.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494600",
+      "osm_id": 431494600,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 112.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1640191301,
+        2168470071,
+        13536129924
+      ],
+      "coordinates_3d": [
+        [
+          -171.92,
+          1058.1,
+          14.64
+        ],
+        [
+          -190.91,
+          1058.22,
+          15.85
+        ],
+        [
+          -283.71,
+          1069.75,
+          15.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_703029393",
+      "osm_id": 703029393,
+      "name": "Unnamed Road",
+      "highway": "secondary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:secondary_link",
+      "length_m": 122.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6602221633,
+        6602221629,
+        11952315862,
+        6602221631,
+        6602221630,
+        528743523
+      ],
+      "coordinates_3d": [
+        [
+          -314.75,
+          974.79,
+          12.0
+        ],
+        [
+          -324.08,
+          1008.63,
+          10.1
+        ],
+        [
+          -325.19,
+          1010.46,
+          9.99
+        ],
+        [
+          -331.54,
+          1034.69,
+          9.19
+        ],
+        [
+          -340.65,
+          1052.22,
+          9.05
+        ],
+        [
+          -366.18,
+          1083.64,
+          9.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_703779299",
+      "osm_id": 703779299,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 45.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6608759219,
+        6608759218,
+        6608759216,
+        6608759215
+      ],
+      "coordinates_3d": [
+        [
+          -503.75,
+          1042.86,
+          9.88
+        ],
+        [
+          -524.25,
+          1049.29,
+          10.17
+        ],
+        [
+          -530.11,
+          1056.4,
+          9.77
+        ],
+        [
+          -535.85,
+          1069.83,
+          9.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1081408491",
+      "osm_id": 1081408491,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654283,
+        10281938570
+      ],
+      "coordinates_3d": [
+        [
+          -207.79,
+          1373.92,
+          7.9
+        ],
+        [
+          -203.09,
+          1346.52,
+          7.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136663098",
+      "osm_id": 1136663098,
+      "name": "Roychand Avenue",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 12.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528743522,
+        1643105814
+      ],
+      "coordinates_3d": [
+        [
+          -298.87,
+          1072.44,
+          12.81
+        ],
+        [
+          -296.7,
+          1084.56,
+          13.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136669840",
+      "osm_id": 1136669840,
+      "name": "Oxford Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 71.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4046420989,
+        1643105862
+      ],
+      "coordinates_3d": [
+        [
+          -266.93,
+          1275.99,
+          15.28
+        ],
+        [
+          -235.97,
+          1340.17,
+          8.34
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136669848",
+      "osm_id": 1136669848,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 167.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10281938570,
+        10281938569,
+        9911678742,
+        10281938567
+      ],
+      "coordinates_3d": [
+        [
+          -203.09,
+          1346.52,
+          7.29
+        ],
+        [
+          -201.37,
+          1336.5,
+          7.47
+        ],
+        [
+          -187.12,
+          1253.45,
+          21.21
+        ],
+        [
+          -173.67,
+          1181.46,
+          19.62
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136669849",
+      "osm_id": 1136669849,
+      "name": "Oxford Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 655.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654283,
+        9911678745,
+        245654290,
+        245654319,
+        245654360,
+        245654395,
+        7350550541,
+        2175054044,
+        4063477436,
+        10282056990,
+        12447084174
+      ],
+      "coordinates_3d": [
+        [
+          -207.79,
+          1373.92,
+          7.9
+        ],
+        [
+          -192.79,
+          1408.47,
+          9.69
+        ],
+        [
+          -165.51,
+          1471.35,
+          11.01
+        ],
+        [
+          -127.42,
+          1559.1,
+          10.38
+        ],
+        [
+          -68.02,
+          1687.98,
+          12.17
+        ],
+        [
+          -60.02,
+          1695.68,
+          13.14
+        ],
+        [
+          100.55,
+          1794.41,
+          12.68
+        ],
+        [
+          155.02,
+          1828.19,
+          13.42
+        ],
+        [
+          172.15,
+          1838.44,
+          12.5
+        ],
+        [
+          191.53,
+          1849.94,
+          10.92
+        ],
+        [
+          195.87,
+          1853.44,
+          10.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136678224",
+      "osm_id": 1136678224,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 18.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105813,
+        10845362178
+      ],
+      "coordinates_3d": [
+        [
+          -160.7,
+          1112.03,
+          16.35
+        ],
+        [
+          -158.28,
+          1093.92,
+          14.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136678226",
+      "osm_id": 1136678226,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 30.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10845362178,
+        2168470076
+      ],
+      "coordinates_3d": [
+        [
+          -158.28,
+          1093.92,
+          14.22
+        ],
+        [
+          -164.95,
+          1064.39,
+          14.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136697420",
+      "osm_id": 1136697420,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 359.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        485963350,
+        9911678744,
+        2168470136,
+        245654283
+      ],
+      "coordinates_3d": [
+        [
+          -261.26,
+          1728.9,
+          9.09
+        ],
+        [
+          -214.66,
+          1419.36,
+          8.96
+        ],
+        [
+          -212.92,
+          1404.47,
+          9.07
+        ],
+        [
+          -207.79,
+          1373.92,
+          7.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136697422",
+      "osm_id": 1136697422,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 243.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163559569,
+        2163559573,
+        2163559576,
+        2163559577
+      ],
+      "coordinates_3d": [
+        [
+          -241.61,
+          1485.22,
+          7.89
+        ],
+        [
+          -242.06,
+          1501.98,
+          8.33
+        ],
+        [
+          -246.07,
+          1539.96,
+          7.91
+        ],
+        [
+          -279.64,
+          1725.76,
+          9.36
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136698220",
+      "osm_id": 1136698220,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 94.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654041,
+        7350602915,
+        13701955559,
+        13701955567,
+        7350602914
+      ],
+      "coordinates_3d": [
+        [
+          -165.68,
+          991.91,
+          13.84
+        ],
+        [
+          -164.62,
+          965.15,
+          17.16
+        ],
+        [
+          -163.97,
+          948.65,
+          17.06
+        ],
+        [
+          -162.31,
+          905.94,
+          17.39
+        ],
+        [
+          -161.95,
+          897.01,
+          17.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136893145",
+      "osm_id": 1136893145,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 70.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10281938567,
+        1643105813
+      ],
+      "coordinates_3d": [
+        [
+          -173.67,
+          1181.46,
+          19.62
+        ],
+        [
+          -160.7,
+          1112.03,
+          16.35
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136893146",
+      "osm_id": 1136893146,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 85.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105813,
+        245654110,
+        2163559523,
+        528741070
+      ],
+      "coordinates_3d": [
+        [
+          -160.7,
+          1112.03,
+          16.35
+        ],
+        [
+          -136.31,
+          1125.4,
+          15.27
+        ],
+        [
+          -118.62,
+          1137.0,
+          15.72
+        ],
+        [
+          -98.51,
+          1167.37,
+          16.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872989",
+      "osm_id": 1157872989,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486024085,
+        245654108
+      ],
+      "coordinates_3d": [
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ],
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1166038294",
+      "osm_id": 1166038294,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 214.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13395063368,
+        245654247,
+        245654265,
+        245654277
+      ],
+      "coordinates_3d": [
+        [
+          -12.37,
+          1286.33,
+          15.57
+        ],
+        [
+          54.63,
+          1380.65,
+          18.11
+        ],
+        [
+          78.85,
+          1424.8,
+          19.67
+        ],
+        [
+          96.17,
+          1469.64,
+          19.52
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171523536",
+      "osm_id": 1171523536,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176685184,
+        10886054709,
+        6608759219
+      ],
+      "coordinates_3d": [
+        [
+          -494.21,
+          1030.45,
+          10.77
+        ],
+        [
+          -499.65,
+          1039.62,
+          10.09
+        ],
+        [
+          -503.75,
+          1042.86,
+          9.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021042",
+      "osm_id": 1178021042,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 523.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2242540274,
+        11133432359,
+        11133432358,
+        11133432352,
+        245653923,
+        245653961,
+        2241843006,
+        10886054713,
+        10886054711,
+        10886054712,
+        2176685184
+      ],
+      "coordinates_3d": [
+        [
+          -511.69,
+          507.69,
+          13.55
+        ],
+        [
+          -510.07,
+          543.37,
+          12.43
+        ],
+        [
+          -509.87,
+          547.97,
+          12.72
+        ],
+        [
+          -508.51,
+          577.92,
+          14.35
+        ],
+        [
+          -506.81,
+          615.42,
+          12.63
+        ],
+        [
+          -501.09,
+          740.52,
+          14.92
+        ],
+        [
+          -490.5,
+          978.6,
+          14.32
+        ],
+        [
+          -490.88,
+          991.23,
+          13.55
+        ],
+        [
+          -490.88,
+          1011.63,
+          12.05
+        ],
+        [
+          -492.9,
+          1020.71,
+          11.51
+        ],
+        [
+          -494.21,
+          1030.45,
+          10.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023296",
+      "osm_id": 1178023296,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 311.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762240678,
+        245654273,
+        3380678802,
+        245654223,
+        3770133464,
+        4307040367,
+        3770133471,
+        245654163,
+        4307040365,
+        4307040360,
+        13470129545
+      ],
+      "coordinates_3d": [
+        [
+          -564.56,
+          1441.9,
+          17.45
+        ],
+        [
+          -560.23,
+          1400.37,
+          17.16
+        ],
+        [
+          -552.2,
+          1354.94,
+          13.44
+        ],
+        [
+          -541.14,
+          1299.27,
+          11.94
+        ],
+        [
+          -537.66,
+          1280.22,
+          11.83
+        ],
+        [
+          -535.36,
+          1271.68,
+          12.02
+        ],
+        [
+          -529.68,
+          1246.43,
+          13.48
+        ],
+        [
+          -529.17,
+          1233.28,
+          14.66
+        ],
+        [
+          -522.66,
+          1200.41,
+          16.61
+        ],
+        [
+          -510.25,
+          1137.65,
+          14.11
+        ],
+        [
+          -509.79,
+          1135.39,
+          13.98
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023728",
+      "osm_id": 1178023728,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 72.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528743527,
+        1643105817,
+        2175535141,
+        245654108
+      ],
+      "coordinates_3d": [
+        [
+          -444.53,
+          1095.18,
+          10.21
+        ],
+        [
+          -488.91,
+          1093.61,
+          9.29
+        ],
+        [
+          -494.53,
+          1089.09,
+          8.54
+        ],
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235213734",
+      "osm_id": 1235213734,
+      "name": "Roychand Avenue",
+      "highway": "primary",
+      "width_m": 21.0,
+      "width_source": "osm_lanes_inferred:6",
+      "length_m": 186.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13536129923,
+        245654243,
+        4046420989
+      ],
+      "coordinates_3d": [
+        [
+          -296.8,
+          1092.28,
+          12.67
+        ],
+        [
+          -270.98,
+          1243.07,
+          16.21
+        ],
+        [
+          -266.93,
+          1275.99,
+          15.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235236197",
+      "osm_id": 1235236197,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 9.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2168470076,
+        1640191301
+      ],
+      "coordinates_3d": [
+        [
+          -164.95,
+          1064.39,
+          14.28
+        ],
+        [
+          -171.92,
+          1058.1,
+          14.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240760843",
+      "osm_id": 1240760843,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 68.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528743522,
+        13464335938,
+        528743523
+      ],
+      "coordinates_3d": [
+        [
+          -298.87,
+          1072.44,
+          12.81
+        ],
+        [
+          -306.02,
+          1074.51,
+          11.8
+        ],
+        [
+          -366.18,
+          1083.64,
+          9.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240760844",
+      "osm_id": 1240760844,
+      "name": "Roychand Avenue",
+      "highway": "primary",
+      "width_m": 21.0,
+      "width_source": "osm_lanes_inferred:6",
+      "length_m": 84.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6602221633,
+        7462923339,
+        7462923340,
+        12722134889
+      ],
+      "coordinates_3d": [
+        [
+          -314.75,
+          974.79,
+          12.0
+        ],
+        [
+          -312.87,
+          1005.12,
+          11.36
+        ],
+        [
+          -307.62,
+          1034.31,
+          12.21
+        ],
+        [
+          -303.49,
+          1058.02,
+          12.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1374034525",
+      "osm_id": 1374034525,
+      "name": "Roychand Avenue",
+      "highway": "primary",
+      "width_m": 21.0,
+      "width_source": "osm_lanes_inferred:6",
+      "length_m": 15.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12722134889,
+        528743522
+      ],
+      "coordinates_3d": [
+        [
+          -303.49,
+          1058.02,
+          12.01
+        ],
+        [
+          -298.87,
+          1072.44,
+          12.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1460494742",
+      "osm_id": 1460494742,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 139.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528741070,
+        245654186
+      ],
+      "coordinates_3d": [
+        [
+          -98.51,
+          1167.37,
+          16.13
+        ],
+        [
+          -16.59,
+          1280.39,
+          15.34
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1460494743",
+      "osm_id": 1460494743,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654186,
+        13395063368
+      ],
+      "coordinates_3d": [
+        [
+          -16.59,
+          1280.39,
+          15.34
+        ],
+        [
+          -12.37,
+          1286.33,
+          15.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491443",
+      "osm_id": 1475491443,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13470129545,
+        13515420601,
+        486024085
+      ],
+      "coordinates_3d": [
+        [
+          -509.79,
+          1135.39,
+          13.98
+        ],
+        [
+          -509.19,
+          1115.63,
+          12.35
+        ],
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475492143",
+      "osm_id": 1475492143,
+      "name": "Roychand Avenue",
+      "highway": "primary",
+      "width_m": 21.0,
+      "width_source": "osm_lanes_inferred:6",
+      "length_m": 7.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105814,
+        12722134887,
+        13536129923
+      ],
+      "coordinates_3d": [
+        [
+          -296.7,
+          1084.56,
+          13.1
+        ],
+        [
+          -297.43,
+          1088.0,
+          12.85
+        ],
+        [
+          -296.8,
+          1092.28,
+          12.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475492144",
+      "osm_id": 1475492144,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13536129924,
+        528743522
+      ],
+      "coordinates_3d": [
+        [
+          -283.71,
+          1069.75,
+          15.69
+        ],
+        [
+          -298.87,
+          1072.44,
+          12.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1420114898",
+      "osm_id": 1420114898,
+      "name": "Unnamed Road",
+      "highway": "footway",
+      "width_m": 2.5,
+      "width_source": "default_highway_type:footway",
+      "length_m": 1466.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13049446291,
+        13049446292,
+        13049446293,
+        13049446294,
+        13049446295,
+        13049446296,
+        13049446297,
+        13049446298,
+        13049446299,
+        13049446300,
+        13049496301,
+        13049496302,
+        13049496303,
+        13049496304,
+        13049496305,
+        13049496306,
+        13049496307,
+        13049496308,
+        13049496309,
+        13049496310,
+        13049496311,
+        13049496312,
+        13049496313,
+        13049496314,
+        13049496315,
+        13049496316,
+        13049496317,
+        13049496318,
+        13049496319,
+        13049496320,
+        13049446291
+      ],
+      "coordinates_3d": [
+        [
+          -362.28,
+          735.41,
+          10.39
+        ],
+        [
+          -362.34,
+          715.84,
+          9.35
+        ],
+        [
+          -362.86,
+          673.4,
+          7.92
+        ],
+        [
+          -363.47,
+          516.12,
+          15.0
+        ],
+        [
+          -362.76,
+          466.76,
+          14.32
+        ],
+        [
+          -366.01,
+          443.44,
+          12.28
+        ],
+        [
+          -371.24,
+          425.84,
+          12.37
+        ],
+        [
+          -382.33,
+          413.7,
+          12.0
+        ],
+        [
+          -396.36,
+          404.49,
+          11.21
+        ],
+        [
+          -414.06,
+          396.96,
+          9.47
+        ],
+        [
+          -436.63,
+          395.15,
+          8.37
+        ],
+        [
+          -463.64,
+          402.26,
+          8.99
+        ],
+        [
+          -480.79,
+          415.22,
+          9.24
+        ],
+        [
+          -491.57,
+          434.98,
+          11.07
+        ],
+        [
+          -495.0,
+          448.16,
+          12.12
+        ],
+        [
+          -494.14,
+          476.96,
+          12.79
+        ],
+        [
+          -483.74,
+          739.75,
+          14.75
+        ],
+        [
+          -478.29,
+          941.66,
+          14.63
+        ],
+        [
+          -475.26,
+          1000.52,
+          11.36
+        ],
+        [
+          -467.87,
+          1017.13,
+          9.79
+        ],
+        [
+          -455.16,
+          1029.34,
+          8.38
+        ],
+        [
+          -436.98,
+          1037.53,
+          8.21
+        ],
+        [
+          -422.71,
+          1040.41,
+          8.47
+        ],
+        [
+          -397.81,
+          1042.27,
+          8.94
+        ],
+        [
+          -380.23,
+          1041.93,
+          9.05
+        ],
+        [
+          -359.4,
+          1036.58,
+          9.05
+        ],
+        [
+          -345.95,
+          1024.81,
+          9.06
+        ],
+        [
+          -341.35,
+          1002.95,
+          9.26
+        ],
+        [
+          -346.91,
+          936.35,
+          10.65
+        ],
+        [
+          -360.23,
+          770.93,
+          11.22
+        ],
+        [
+          -362.28,
+          735.41,
+          10.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236178314",
+      "osm_id": 236178314,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 138.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105819,
+        13471619928,
+        13464335939,
+        1643105814
+      ],
+      "coordinates_3d": [
+        [
+          -433.68,
+          1104.06,
+          10.03
+        ],
+        [
+          -397.2,
+          1098.57,
+          9.97
+        ],
+        [
+          -304.33,
+          1084.36,
+          11.94
+        ],
+        [
+          -296.7,
+          1084.56,
+          13.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_431494601",
+      "osm_id": 431494601,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 112.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13536129922,
+        2446246178,
+        1640191301
+      ],
+      "coordinates_3d": [
+        [
+          -281.97,
+          1081.46,
+          15.72
+        ],
+        [
+          -188.43,
+          1065.15,
+          16.07
+        ],
+        [
+          -171.92,
+          1058.1,
+          14.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872988",
+      "osm_id": 1157872988,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105824,
+        486024085
+      ],
+      "coordinates_3d": [
+        [
+          -520.34,
+          1110.64,
+          11.51
+        ],
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023729",
+      "osm_id": 1178023729,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 63.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762234397,
+        1643105820,
+        4307040358,
+        1643105819
+      ],
+      "coordinates_3d": [
+        [
+          -496.45,
+          1112.96,
+          11.77
+        ],
+        [
+          -487.53,
+          1109.47,
+          11.19
+        ],
+        [
+          -468.83,
+          1106.87,
+          10.79
+        ],
+        [
+          -433.68,
+          1104.06,
+          10.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1374045455",
+      "osm_id": 1374045455,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486024085,
+        3762234397
+      ],
+      "coordinates_3d": [
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ],
+        [
+          -496.45,
+          1112.96,
+          11.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475492142",
+      "osm_id": 1475492142,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105814,
+        13536129922
+      ],
+      "coordinates_3d": [
+        [
+          -296.7,
+          1084.56,
+          13.1
+        ],
+        [
+          -281.97,
+          1081.46,
+          15.72
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

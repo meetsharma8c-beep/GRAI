@@ -1,0 +1,132 @@
+{
+  "tile_id": "TILE_E+002_N+016",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 8000.0,
+    "max_y": 8500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.995361,
+    "max_lat": 18.999932,
+    "min_lon": 72.84156,
+    "max_lon": 72.846249
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 2,
+    "road_length_m": 494.8,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_1356850823",
+      "osm_id": 1356850823,
+      "name": "Dr S S Rao Marg (Govt Gate Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 245.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12558343922,
+        245659301,
+        2216353008,
+        2216352903,
+        245659182
+      ],
+      "coordinates_3d": [
+        [
+          1108.47,
+          8501.28,
+          11.76
+        ],
+        [
+          1063.96,
+          8477.48,
+          12.52
+        ],
+        [
+          1049.64,
+          8457.5,
+          13.14
+        ],
+        [
+          1012.15,
+          8405.18,
+          12.98
+        ],
+        [
+          951.23,
+          8318.42,
+          16.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1356850824",
+      "osm_id": 1356850824,
+      "name": "Dr S S Rao Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 249.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10583826075,
+        10583826076,
+        10583826077,
+        10583826078,
+        10583826079,
+        12558343926
+      ],
+      "coordinates_3d": [
+        [
+          941.95,
+          8325.24,
+          16.2
+        ],
+        [
+          1004.24,
+          8411.66,
+          12.77
+        ],
+        [
+          1039.92,
+          8462.68,
+          13.61
+        ],
+        [
+          1054.36,
+          8481.95,
+          13.94
+        ],
+        [
+          1092.02,
+          8501.35,
+          12.26
+        ],
+        [
+          1104.3,
+          8508.36,
+          11.97
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

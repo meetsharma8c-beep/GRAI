@@ -1,0 +1,280 @@
+{
+  "tile_id": "TILE_E-003_N+008",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 4000.0,
+    "max_y": 4500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.958958,
+    "max_lat": 18.963529,
+    "min_lon": 72.818296,
+    "max_lon": 72.822983
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 4,
+    "road_length_m": 947.59,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22853107",
+      "osm_id": 22853107,
+      "name": "Balram Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 278.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656408,
+        13904788477,
+        245656520,
+        245656576,
+        11025371439,
+        245656651,
+        11025371435,
+        13904788480,
+        561165513
+      ],
+      "coordinates_3d": [
+        [
+          -1321.39,
+          4327.84,
+          12.28
+        ],
+        [
+          -1321.99,
+          4392.77,
+          11.03
+        ],
+        [
+          -1322.66,
+          4434.59,
+          10.34
+        ],
+        [
+          -1320.44,
+          4466.84,
+          8.95
+        ],
+        [
+          -1317.68,
+          4491.7,
+          7.81
+        ],
+        [
+          -1313.25,
+          4531.62,
+          7.66
+        ],
+        [
+          -1305.15,
+          4567.56,
+          8.05
+        ],
+        [
+          -1299.58,
+          4585.29,
+          7.48
+        ],
+        [
+          -1293.75,
+          4603.56,
+          7.07
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171487717",
+      "osm_id": 1171487717,
+      "name": "Maulana Shaukat Ali Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 251.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885774562,
+        10885774561,
+        10885774560,
+        9201447745
+      ],
+      "coordinates_3d": [
+        [
+          -1321.39,
+          4320.92,
+          12.91
+        ],
+        [
+          -1458.38,
+          4325.36,
+          8.07
+        ],
+        [
+          -1473.23,
+          4325.31,
+          7.69
+        ],
+        [
+          -1572.81,
+          4324.06,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1192628764",
+      "osm_id": 1192628764,
+      "name": "Raja Ram Mohan Roy Road (Charni Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 410.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655878,
+        13904524525,
+        13904524516,
+        13904524508,
+        245656066,
+        13904788474,
+        245656171,
+        13904788475,
+        13904788476,
+        245656283,
+        4848426289,
+        12432350143,
+        12432350150,
+        245656352,
+        10885774562
+      ],
+      "coordinates_3d": [
+        [
+          -1340.08,
+          3920.47,
+          14.77
+        ],
+        [
+          -1345.51,
+          3960.86,
+          12.17
+        ],
+        [
+          -1349.96,
+          3984.04,
+          11.26
+        ],
+        [
+          -1355.61,
+          4015.82,
+          10.23
+        ],
+        [
+          -1356.89,
+          4022.38,
+          10.06
+        ],
+        [
+          -1365.63,
+          4073.53,
+          11.72
+        ],
+        [
+          -1364.72,
+          4091.52,
+          12.03
+        ],
+        [
+          -1362.09,
+          4102.23,
+          11.65
+        ],
+        [
+          -1357.89,
+          4116.37,
+          11.01
+        ],
+        [
+          -1326.6,
+          4196.32,
+          10.75
+        ],
+        [
+          -1320.05,
+          4221.93,
+          12.92
+        ],
+        [
+          -1320.05,
+          4226.53,
+          13.23
+        ],
+        [
+          -1320.07,
+          4244.0,
+          13.94
+        ],
+        [
+          -1319.86,
+          4254.98,
+          14.04
+        ],
+        [
+          -1321.39,
+          4320.92,
+          12.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239092987",
+      "osm_id": 1239092987,
+      "name": "Raja Ram Mohan Roy Road (Charni Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885774562,
+        245656408
+      ],
+      "coordinates_3d": [
+        [
+          -1321.39,
+          4320.92,
+          12.91
+        ],
+        [
+          -1321.39,
+          4327.84,
+          12.28
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

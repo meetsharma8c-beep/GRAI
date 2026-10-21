@@ -1,0 +1,1696 @@
+{
+  "tile_id": "TILE_E-002_N+002",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 1000.0,
+    "max_y": 1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.93192,
+    "max_lat": 18.936491,
+    "min_lon": 72.823393,
+    "max_lon": 72.82808
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 40,
+    "road_length_m": 4074.52,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_132953250",
+      "osm_id": 132953250,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 335.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105824,
+        12587158363,
+        2175541220,
+        2175541226,
+        3770133472,
+        3770133465,
+        2175541262,
+        3770133463,
+        2175541305,
+        3762240677
+      ],
+      "coordinates_3d": [
+        [
+          -520.34,
+          1110.64,
+          11.51
+        ],
+        [
+          -522.76,
+          1141.83,
+          13.94
+        ],
+        [
+          -533.44,
+          1209.98,
+          16.98
+        ],
+        [
+          -537.01,
+          1230.35,
+          14.62
+        ],
+        [
+          -538.47,
+          1244.81,
+          12.63
+        ],
+        [
+          -544.56,
+          1278.87,
+          10.84
+        ],
+        [
+          -547.52,
+          1296.82,
+          10.99
+        ],
+        [
+          -558.43,
+          1353.57,
+          12.76
+        ],
+        [
+          -565.68,
+          1398.44,
+          17.08
+        ],
+        [
+          -572.05,
+          1441.55,
+          17.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151497956",
+      "osm_id": 151497956,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 8.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11290129780,
+        6601867496
+      ],
+      "coordinates_3d": [
+        [
+          -914.57,
+          1179.82,
+          13.64
+        ],
+        [
+          -905.92,
+          1178.44,
+          13.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_703779299",
+      "osm_id": 703779299,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 45.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6608759219,
+        6608759218,
+        6608759216,
+        6608759215
+      ],
+      "coordinates_3d": [
+        [
+          -503.75,
+          1042.86,
+          9.88
+        ],
+        [
+          -524.25,
+          1049.29,
+          10.17
+        ],
+        [
+          -530.11,
+          1056.4,
+          9.77
+        ],
+        [
+          -535.85,
+          1069.83,
+          9.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136636681",
+      "osm_id": 1136636681,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10595675492,
+        486400969
+      ],
+      "coordinates_3d": [
+        [
+          -976.97,
+          1195.31,
+          6.81
+        ],
+        [
+          -961.04,
+          1187.09,
+          8.45
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136639104",
+      "osm_id": 1136639104,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 12.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10595675493,
+        10595675492
+      ],
+      "coordinates_3d": [
+        [
+          -979.84,
+          1183.36,
+          6.43
+        ],
+        [
+          -976.97,
+          1195.31,
+          6.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872989",
+      "osm_id": 1157872989,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486024085,
+        245654108
+      ],
+      "coordinates_3d": [
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ],
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872991",
+      "osm_id": 1157872991,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 43.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762240677,
+        2175541312
+      ],
+      "coordinates_3d": [
+        [
+          -572.05,
+          1441.55,
+          17.06
+        ],
+        [
+          -574.18,
+          1484.64,
+          12.98
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872993",
+      "osm_id": 1157872993,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 43.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654309,
+        3762240678
+      ],
+      "coordinates_3d": [
+        [
+          -567.87,
+          1485.33,
+          13.65
+        ],
+        [
+          -564.56,
+          1441.9,
+          17.45
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171519862",
+      "osm_id": 1171519862,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 280.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6608759216,
+        10885994193,
+        2176685183,
+        13702074458,
+        10885994194,
+        2241842985,
+        10885994195
+      ],
+      "coordinates_3d": [
+        [
+          -530.11,
+          1056.4,
+          9.77
+        ],
+        [
+          -572.23,
+          1001.27,
+          14.18
+        ],
+        [
+          -578.0,
+          994.0,
+          14.12
+        ],
+        [
+          -627.87,
+          934.25,
+          13.16
+        ],
+        [
+          -642.52,
+          916.68,
+          13.82
+        ],
+        [
+          -680.16,
+          870.6,
+          17.28
+        ],
+        [
+          -707.03,
+          838.72,
+          16.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171523536",
+      "osm_id": 1171523536,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176685184,
+        10886054709,
+        6608759219
+      ],
+      "coordinates_3d": [
+        [
+          -494.21,
+          1030.45,
+          10.77
+        ],
+        [
+          -499.65,
+          1039.62,
+          10.09
+        ],
+        [
+          -503.75,
+          1042.86,
+          9.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021042",
+      "osm_id": 1178021042,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 523.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2242540274,
+        11133432359,
+        11133432358,
+        11133432352,
+        245653923,
+        245653961,
+        2241843006,
+        10886054713,
+        10886054711,
+        10886054712,
+        2176685184
+      ],
+      "coordinates_3d": [
+        [
+          -511.69,
+          507.69,
+          13.55
+        ],
+        [
+          -510.07,
+          543.37,
+          12.43
+        ],
+        [
+          -509.87,
+          547.97,
+          12.72
+        ],
+        [
+          -508.51,
+          577.92,
+          14.35
+        ],
+        [
+          -506.81,
+          615.42,
+          12.63
+        ],
+        [
+          -501.09,
+          740.52,
+          14.92
+        ],
+        [
+          -490.5,
+          978.6,
+          14.32
+        ],
+        [
+          -490.88,
+          991.23,
+          13.55
+        ],
+        [
+          -490.88,
+          1011.63,
+          12.05
+        ],
+        [
+          -492.9,
+          1020.71,
+          11.51
+        ],
+        [
+          -494.21,
+          1030.45,
+          10.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023295",
+      "osm_id": 1178023295,
+      "name": "Jamshedji Tata Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6608759215,
+        3762234395
+      ],
+      "coordinates_3d": [
+        [
+          -535.85,
+          1069.83,
+          9.96
+        ],
+        [
+          -533.04,
+          1076.0,
+          9.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023296",
+      "osm_id": 1178023296,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 311.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762240678,
+        245654273,
+        3380678802,
+        245654223,
+        3770133464,
+        4307040367,
+        3770133471,
+        245654163,
+        4307040365,
+        4307040360,
+        13470129545
+      ],
+      "coordinates_3d": [
+        [
+          -564.56,
+          1441.9,
+          17.45
+        ],
+        [
+          -560.23,
+          1400.37,
+          17.16
+        ],
+        [
+          -552.2,
+          1354.94,
+          13.44
+        ],
+        [
+          -541.14,
+          1299.27,
+          11.94
+        ],
+        [
+          -537.66,
+          1280.22,
+          11.83
+        ],
+        [
+          -535.36,
+          1271.68,
+          12.02
+        ],
+        [
+          -529.68,
+          1246.43,
+          13.48
+        ],
+        [
+          -529.17,
+          1233.28,
+          14.66
+        ],
+        [
+          -522.66,
+          1200.41,
+          16.61
+        ],
+        [
+          -510.25,
+          1137.65,
+          14.11
+        ],
+        [
+          -509.79,
+          1135.39,
+          13.98
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023726",
+      "osm_id": 1178023726,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 96.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2241843020,
+        1643105838,
+        13514161108,
+        3762234394,
+        1643105824
+      ],
+      "coordinates_3d": [
+        [
+          -613.94,
+          1131.7,
+          16.49
+        ],
+        [
+          -605.29,
+          1130.31,
+          16.58
+        ],
+        [
+          -570.79,
+          1120.77,
+          12.78
+        ],
+        [
+          -541.15,
+          1115.09,
+          11.8
+        ],
+        [
+          -520.34,
+          1110.64,
+          11.51
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023728",
+      "osm_id": 1178023728,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 72.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        528743527,
+        1643105817,
+        2175535141,
+        245654108
+      ],
+      "coordinates_3d": [
+        [
+          -444.53,
+          1095.18,
+          10.21
+        ],
+        [
+          -488.91,
+          1093.61,
+          9.29
+        ],
+        [
+          -494.53,
+          1089.09,
+          8.54
+        ],
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241028624",
+      "osm_id": 1241028624,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 91.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654359,
+        2242540299,
+        6601747697,
+        245654309
+      ],
+      "coordinates_3d": [
+        [
+          -571.35,
+          1576.73,
+          9.9
+        ],
+        [
+          -568.84,
+          1538.89,
+          9.92
+        ],
+        [
+          -568.38,
+          1500.15,
+          11.84
+        ],
+        [
+          -567.87,
+          1485.33,
+          13.65
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241028625",
+      "osm_id": 1241028625,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 92.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2175541312,
+        6601747696,
+        6133809574
+      ],
+      "coordinates_3d": [
+        [
+          -574.18,
+          1484.64,
+          12.98
+        ],
+        [
+          -574.66,
+          1500.37,
+          11.12
+        ],
+        [
+          -578.22,
+          1576.74,
+          9.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1359809946",
+      "osm_id": 1359809946,
+      "name": "Jamshedji Tata Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654108,
+        13997602899
+      ],
+      "coordinates_3d": [
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ],
+        [
+          -518.11,
+          1085.25,
+          8.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1359809947",
+      "osm_id": 1359809947,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12587158362,
+        1643105824
+      ],
+      "coordinates_3d": [
+        [
+          -525.17,
+          1098.49,
+          10.23
+        ],
+        [
+          -520.34,
+          1110.64,
+          11.51
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1422597186",
+      "osm_id": 1422597186,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 162.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13758136214,
+        12948753736,
+        13236079138,
+        13257254188
+      ],
+      "coordinates_3d": [
+        [
+          -1046.79,
+          991.95,
+          6.18
+        ],
+        [
+          -1030.96,
+          1027.31,
+          6.06
+        ],
+        [
+          -1008.2,
+          1089.14,
+          6.71
+        ],
+        [
+          -991.57,
+          1144.13,
+          5.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444852910",
+      "osm_id": 1444852910,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 40.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13257254188,
+        13073684407,
+        10595675493
+      ],
+      "coordinates_3d": [
+        [
+          -991.57,
+          1144.13,
+          5.37
+        ],
+        [
+          -982.42,
+          1174.39,
+          6.22
+        ],
+        [
+          -979.84,
+          1183.36,
+          6.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491148",
+      "osm_id": 1475491148,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 47.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400969,
+        2241843049,
+        11290129780
+      ],
+      "coordinates_3d": [
+        [
+          -961.04,
+          1187.09,
+          8.45
+        ],
+        [
+          -916.22,
+          1180.08,
+          13.65
+        ],
+        [
+          -914.57,
+          1179.82,
+          13.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491150",
+      "osm_id": 1475491150,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 295.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6601867496,
+        6276348087,
+        11290129782,
+        2241843044,
+        11290129062,
+        2241843042,
+        11290129064,
+        2241843040,
+        12679477736,
+        2241843033,
+        11290127647,
+        2241843028,
+        2241843023,
+        13701041412,
+        2241843020
+      ],
+      "coordinates_3d": [
+        [
+          -905.92,
+          1178.44,
+          13.55
+        ],
+        [
+          -881.64,
+          1174.55,
+          12.9
+        ],
+        [
+          -873.41,
+          1173.23,
+          12.22
+        ],
+        [
+          -835.31,
+          1167.12,
+          14.45
+        ],
+        [
+          -834.33,
+          1166.97,
+          14.6
+        ],
+        [
+          -796.47,
+          1160.91,
+          18.17
+        ],
+        [
+          -794.16,
+          1160.54,
+          18.27
+        ],
+        [
+          -755.65,
+          1154.52,
+          19.58
+        ],
+        [
+          -748.93,
+          1153.34,
+          19.78
+        ],
+        [
+          -718.28,
+          1148.4,
+          18.86
+        ],
+        [
+          -715.7,
+          1147.98,
+          18.72
+        ],
+        [
+          -674.39,
+          1140.98,
+          12.98
+        ],
+        [
+          -647.07,
+          1136.89,
+          13.69
+        ],
+        [
+          -643.22,
+          1136.28,
+          14.12
+        ],
+        [
+          -613.94,
+          1131.7,
+          16.49
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491443",
+      "osm_id": 1475491443,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13470129545,
+        13515420601,
+        486024085
+      ],
+      "coordinates_3d": [
+        [
+          -509.79,
+          1135.39,
+          13.98
+        ],
+        [
+          -509.19,
+          1115.63,
+          12.35
+        ],
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491445",
+      "osm_id": 1475491445,
+      "name": "Jamshedji Tata Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 23.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762234395,
+        12887958403,
+        12587158362
+      ],
+      "coordinates_3d": [
+        [
+          -533.04,
+          1076.0,
+          9.78
+        ],
+        [
+          -527.01,
+          1093.59,
+          9.81
+        ],
+        [
+          -525.17,
+          1098.49,
+          10.23
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236178313",
+      "osm_id": 236178313,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 389.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12587158362,
+        245654116,
+        2241843015,
+        10840935356,
+        2241843018,
+        6601867497
+      ],
+      "coordinates_3d": [
+        [
+          -525.17,
+          1098.49,
+          10.23
+        ],
+        [
+          -602.52,
+          1116.99,
+          16.55
+        ],
+        [
+          -649.68,
+          1124.08,
+          14.27
+        ],
+        [
+          -675.95,
+          1128.65,
+          13.18
+        ],
+        [
+          -689.05,
+          1130.76,
+          13.89
+        ],
+        [
+          -908.35,
+          1166.0,
+          12.74
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1081145870",
+      "osm_id": 1081145870,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 160.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400953,
+        2241843110,
+        486400963,
+        9909482287,
+        13257265786
+      ],
+      "coordinates_3d": [
+        [
+          -922.64,
+          1370.36,
+          5.43
+        ],
+        [
+          -930.14,
+          1327.53,
+          3.44
+        ],
+        [
+          -941.1,
+          1282.27,
+          6.62
+        ],
+        [
+          -949.99,
+          1240.77,
+          10.63
+        ],
+        [
+          -956.0,
+          1213.14,
+          8.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136622916",
+      "osm_id": 1136622916,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 53.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400907,
+        13167809418,
+        2241843189
+      ],
+      "coordinates_3d": [
+        [
+          -898.7,
+          1562.24,
+          9.76
+        ],
+        [
+          -899.42,
+          1554.02,
+          10.62
+        ],
+        [
+          -904.5,
+          1509.33,
+          14.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136636683",
+      "osm_id": 1136636683,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400792,
+        10595675493
+      ],
+      "coordinates_3d": [
+        [
+          -964.5,
+          1175.24,
+          8.49
+        ],
+        [
+          -979.84,
+          1183.36,
+          6.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136639105",
+      "osm_id": 1136639105,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 324.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10595675492,
+        13167783546,
+        13236079125,
+        1236410262,
+        13257254189
+      ],
+      "coordinates_3d": [
+        [
+          -976.97,
+          1195.31,
+          6.81
+        ],
+        [
+          -974.63,
+          1203.36,
+          7.04
+        ],
+        [
+          -953.9,
+          1285.74,
+          4.59
+        ],
+        [
+          -936.17,
+          1370.44,
+          4.5
+        ],
+        [
+          -918.22,
+          1513.95,
+          12.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136639106",
+      "osm_id": 1136639106,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 12.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400969,
+        486400792
+      ],
+      "coordinates_3d": [
+        [
+          -961.04,
+          1187.09,
+          8.45
+        ],
+        [
+          -964.5,
+          1175.24,
+          8.49
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136639107",
+      "osm_id": 1136639107,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 163.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486400792,
+        13167790227,
+        13991877309,
+        13991877311,
+        1504771681,
+        1504771685,
+        13257265785
+      ],
+      "coordinates_3d": [
+        [
+          -964.5,
+          1175.24,
+          8.49
+        ],
+        [
+          -967.37,
+          1170.56,
+          8.35
+        ],
+        [
+          -981.23,
+          1126.2,
+          7.45
+        ],
+        [
+          -983.31,
+          1119.96,
+          7.62
+        ],
+        [
+          -997.19,
+          1078.23,
+          8.43
+        ],
+        [
+          -1003.07,
+          1060.64,
+          8.42
+        ],
+        [
+          -1019.23,
+          1021.88,
+          8.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1157872988",
+      "osm_id": 1157872988,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105824,
+        486024085
+      ],
+      "coordinates_3d": [
+        [
+          -520.34,
+          1110.64,
+          11.51
+        ],
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023727",
+      "osm_id": 1178023727,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654108,
+        12587158362
+      ],
+      "coordinates_3d": [
+        [
+          -514.61,
+          1096.33,
+          9.55
+        ],
+        [
+          -525.17,
+          1098.49,
+          10.23
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178023729",
+      "osm_id": 1178023729,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 63.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        3762234397,
+        1643105820,
+        4307040358,
+        1643105819
+      ],
+      "coordinates_3d": [
+        [
+          -496.45,
+          1112.96,
+          11.77
+        ],
+        [
+          -487.53,
+          1109.47,
+          11.19
+        ],
+        [
+          -468.83,
+          1106.87,
+          10.79
+        ],
+        [
+          -433.68,
+          1104.06,
+          10.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1308550070",
+      "osm_id": 1308550070,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 140.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2241843189,
+        486400933,
+        11069001000,
+        13700869311,
+        486400953
+      ],
+      "coordinates_3d": [
+        [
+          -904.5,
+          1509.33,
+          14.22
+        ],
+        [
+          -910.5,
+          1456.51,
+          11.62
+        ],
+        [
+          -915.38,
+          1419.96,
+          8.44
+        ],
+        [
+          -915.8,
+          1417.06,
+          8.3
+        ],
+        [
+          -922.64,
+          1370.36,
+          5.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1374045455",
+      "osm_id": 1374045455,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        486024085,
+        3762234397
+      ],
+      "coordinates_3d": [
+        [
+          -509.2,
+          1109.94,
+          11.46
+        ],
+        [
+          -496.45,
+          1112.96,
+          11.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1444853966",
+      "osm_id": 1444853966,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 26.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13257265786,
+        13073684408,
+        486400969
+      ],
+      "coordinates_3d": [
+        [
+          -956.0,
+          1213.14,
+          8.94
+        ],
+        [
+          -958.91,
+          1200.76,
+          8.65
+        ],
+        [
+          -961.04,
+          1187.09,
+          8.45
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491149",
+      "osm_id": 1475491149,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 46.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12722259748,
+        13073684409,
+        486400792
+      ],
+      "coordinates_3d": [
+        [
+          -918.49,
+          1167.79,
+          12.7
+        ],
+        [
+          -962.65,
+          1174.93,
+          8.69
+        ],
+        [
+          -964.5,
+          1175.24,
+          8.49
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1475491151",
+      "osm_id": 1475491151,
+      "name": "Veer Nariman Road",
+      "highway": "secondary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 10.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6601867497,
+        12722259748
+      ],
+      "coordinates_3d": [
+        [
+          -908.35,
+          1166.0,
+          12.74
+        ],
+        [
+          -918.49,
+          1167.79,
+          12.7
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

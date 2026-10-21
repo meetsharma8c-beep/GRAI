@@ -1,0 +1,1199 @@
+{
+  "tile_id": "TILE_E+003_N+030",
+  "bounds": {
+    "min_x": 1500.0,
+    "max_x": 2000.0,
+    "min_y": 15000.0,
+    "max_y": 15500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.058635,
+    "max_lat": 19.063206,
+    "min_lon": 72.845492,
+    "max_lon": 72.850183
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 27,
+    "road_length_m": 4294.07,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22859259",
+      "osm_id": 22859259,
+      "name": "Road No 2",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 534.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665218,
+        5545308505,
+        5545308492,
+        14006259830,
+        5545308489,
+        245665351,
+        5545308501,
+        5545308498,
+        11069702462,
+        5545308507,
+        245665633,
+        11066788215,
+        245665788,
+        11066788210,
+        245665949
+      ],
+      "coordinates_3d": [
+        [
+          1717.9,
+          14677.86,
+          0.05
+        ],
+        [
+          1717.39,
+          14698.5,
+          0.05
+        ],
+        [
+          1719.54,
+          14745.83,
+          0.05
+        ],
+        [
+          1720.2,
+          14758.81,
+          0.05
+        ],
+        [
+          1721.35,
+          14781.12,
+          0.05
+        ],
+        [
+          1721.74,
+          14788.75,
+          0.05
+        ],
+        [
+          1723.35,
+          14833.68,
+          0.05
+        ],
+        [
+          1725.58,
+          14878.6,
+          0.05
+        ],
+        [
+          1725.76,
+          14880.69,
+          0.05
+        ],
+        [
+          1730.11,
+          14970.01,
+          0.05
+        ],
+        [
+          1731.46,
+          15010.7,
+          0.05
+        ],
+        [
+          1732.91,
+          15062.4,
+          0.05
+        ],
+        [
+          1733.88,
+          15105.59,
+          0.05
+        ],
+        [
+          1734.77,
+          15128.88,
+          0.05
+        ],
+        [
+          1737.92,
+          15212.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859288",
+      "osm_id": 22859288,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 187.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        476506233,
+        245666222,
+        476506234,
+        245666223
+      ],
+      "coordinates_3d": [
+        [
+          1736.67,
+          15397.91,
+          0.05
+        ],
+        [
+          1787.73,
+          15397.28,
+          0.05
+        ],
+        [
+          1855.91,
+          15395.13,
+          0.05
+        ],
+        [
+          1923.58,
+          15398.89,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859299",
+      "osm_id": 22859299,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 170.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665925,
+        6428811272,
+        6428811258,
+        6428811259,
+        13621901232,
+        12350446596,
+        11054585756,
+        13621901230,
+        6428811269,
+        6428811268
+      ],
+      "coordinates_3d": [
+        [
+          1950.27,
+          15215.0,
+          0.05
+        ],
+        [
+          1966.72,
+          15208.47,
+          0.05
+        ],
+        [
+          1970.64,
+          15207.73,
+          0.05
+        ],
+        [
+          1974.5,
+          15207.51,
+          0.05
+        ],
+        [
+          1978.99,
+          15207.53,
+          0.05
+        ],
+        [
+          2030.46,
+          15207.78,
+          0.05
+        ],
+        [
+          2055.14,
+          15207.89,
+          0.05
+        ],
+        [
+          2084.75,
+          15208.03,
+          0.05
+        ],
+        [
+          2105.41,
+          15208.13,
+          0.05
+        ],
+        [
+          2119.18,
+          15204.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859310",
+      "osm_id": 22859310,
+      "name": "Ambedkar Chowk",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 106.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665964,
+        245666001,
+        245666016,
+        5994875338,
+        5994875339,
+        245666002,
+        245665987,
+        245665965,
+        2947868392,
+        5994875340,
+        245665925
+      ],
+      "coordinates_3d": [
+        [
+          1870.92,
+          15218.38,
+          0.05
+        ],
+        [
+          1876.46,
+          15229.19,
+          0.05
+        ],
+        [
+          1884.95,
+          15237.91,
+          0.05
+        ],
+        [
+          1895.63,
+          15243.79,
+          0.05
+        ],
+        [
+          1907.56,
+          15246.32,
+          0.05
+        ],
+        [
+          1919.72,
+          15245.28,
+          0.05
+        ],
+        [
+          1928.31,
+          15242.2,
+          0.05
+        ],
+        [
+          1936.01,
+          15237.34,
+          0.05
+        ],
+        [
+          1942.46,
+          15230.91,
+          0.05
+        ],
+        [
+          1947.32,
+          15223.25,
+          0.05
+        ],
+        [
+          1950.27,
+          15215.0,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_39537375",
+      "osm_id": 39537375,
+      "name": "M D Abasaheb Shinde Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 195.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666223,
+        10696453284,
+        473698889,
+        473698890,
+        473698891,
+        10653501374
+      ],
+      "coordinates_3d": [
+        [
+          1923.58,
+          15398.89,
+          0.05
+        ],
+        [
+          1969.1,
+          15393.94,
+          0.05
+        ],
+        [
+          1998.37,
+          15385.91,
+          0.05
+        ],
+        [
+          2039.64,
+          15357.8,
+          0.05
+        ],
+        [
+          2080.41,
+          15319.91,
+          0.05
+        ],
+        [
+          2093.36,
+          15315.2,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_280340474",
+      "osm_id": 280340474,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 51.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666364,
+        6243685412
+      ],
+      "coordinates_3d": [
+        [
+          1614.47,
+          15504.47,
+          0.05
+        ],
+        [
+          1616.01,
+          15556.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_553811166",
+      "osm_id": 553811166,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 65.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10171361141,
+        245665948,
+        13651169817,
+        10171361140
+      ],
+      "coordinates_3d": [
+        [
+          1681.65,
+          15255.76,
+          0.05
+        ],
+        [
+          1693.65,
+          15250.89,
+          0.05
+        ],
+        [
+          1729.52,
+          15227.11,
+          0.05
+        ],
+        [
+          1737.88,
+          15223.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841871",
+      "osm_id": 666841871,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 475.65,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6243685410,
+        12279680441,
+        245666364
+      ],
+      "coordinates_3d": [
+        [
+          1602.19,
+          15028.98,
+          5.55
+        ],
+        [
+          1603.13,
+          15065.32,
+          5.55
+        ],
+        [
+          1614.47,
+          15504.47,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841873",
+      "osm_id": 666841873,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 49.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685411,
+        6243685415
+      ],
+      "coordinates_3d": [
+        [
+          1616.9,
+          15028.6,
+          0.05
+        ],
+        [
+          1615.4,
+          14979.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841874",
+      "osm_id": 666841874,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 128.41,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        6243685421,
+        14213578575
+      ],
+      "coordinates_3d": [
+        [
+          1629.17,
+          15504.09,
+          5.55
+        ],
+        [
+          1625.86,
+          15375.72,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841875",
+      "osm_id": 666841875,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 293.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9931191124,
+        11069733971,
+        6243685422,
+        6243685412
+      ],
+      "coordinates_3d": [
+        [
+          1596.41,
+          15264.84,
+          0.05
+        ],
+        [
+          1596.94,
+          15288.59,
+          0.05
+        ],
+        [
+          1601.86,
+          15504.75,
+          0.05
+        ],
+        [
+          1616.01,
+          15556.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_666841876",
+      "osm_id": 666841876,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 285.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685418,
+        6243685420,
+        11069733972,
+        10738567709
+      ],
+      "coordinates_3d": [
+        [
+          1630.69,
+          15557.04,
+          0.05
+        ],
+        [
+          1641.46,
+          15503.76,
+          0.05
+        ],
+        [
+          1634.83,
+          15288.27,
+          0.05
+        ],
+        [
+          1634.53,
+          15272.66,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1111770910",
+      "osm_id": 1111770910,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 72.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665949,
+        10171361143,
+        10171361142,
+        10171361141
+      ],
+      "coordinates_3d": [
+        [
+          1737.92,
+          15212.08,
+          0.05
+        ],
+        [
+          1722.68,
+          15221.11,
+          0.05
+        ],
+        [
+          1690.4,
+          15242.09,
+          0.05
+        ],
+        [
+          1681.65,
+          15255.76,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145116655",
+      "osm_id": 1145116655,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 13.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685417,
+        2248781882
+      ],
+      "coordinates_3d": [
+        [
+          1634.28,
+          15265.55,
+          0.05
+        ],
+        [
+          1648.12,
+          15264.57,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145116656",
+      "osm_id": 1145116656,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 29.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13363476834,
+        652613457,
+        6926138479,
+        10171361141
+      ],
+      "coordinates_3d": [
+        [
+          1653.67,
+          15263.67,
+          0.05
+        ],
+        [
+          1662.34,
+          15262.25,
+          0.05
+        ],
+        [
+          1673.77,
+          15259.18,
+          0.05
+        ],
+        [
+          1681.65,
+          15255.76,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145116657",
+      "osm_id": 1145116657,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 288.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685417,
+        6243685416,
+        6243685415
+      ],
+      "coordinates_3d": [
+        [
+          1634.28,
+          15265.55,
+          0.05
+        ],
+        [
+          1629.54,
+          15028.31,
+          0.05
+        ],
+        [
+          1615.4,
+          14979.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145116658",
+      "osm_id": 1145116658,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 137.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10171361140,
+        10171361144,
+        13947605656,
+        10171361145,
+        245665964
+      ],
+      "coordinates_3d": [
+        [
+          1733.8,
+          15224.28,
+          0.05
+        ],
+        [
+          1768.7,
+          15221.92,
+          0.05
+        ],
+        [
+          1796.53,
+          15220.68,
+          0.05
+        ],
+        [
+          1863.18,
+          15217.72,
+          0.05
+        ],
+        [
+          1870.92,
+          15218.38,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442605",
+      "osm_id": 1235442605,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 52.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685418,
+        6243685421
+      ],
+      "coordinates_3d": [
+        [
+          1630.69,
+          15557.04,
+          0.05
+        ],
+        [
+          1629.17,
+          15504.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235442617",
+      "osm_id": 1235442617,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 49.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685414,
+        6243685410
+      ],
+      "coordinates_3d": [
+        [
+          1600.75,
+          14979.25,
+          0.05
+        ],
+        [
+          1602.19,
+          15028.98,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767983",
+      "osm_id": 1235767983,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 173.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        476506233,
+        2244797156,
+        245666101,
+        13640360817,
+        6926138474,
+        13651169816,
+        6926138475,
+        13651169817,
+        10171361140
+      ],
+      "coordinates_3d": [
+        [
+          1736.67,
+          15397.91,
+          0.05
+        ],
+        [
+          1735.16,
+          15352.23,
+          0.05
+        ],
+        [
+          1734.57,
+          15321.07,
+          0.05
+        ],
+        [
+          1732.36,
+          15298.76,
+          0.05
+        ],
+        [
+          1731.95,
+          15275.87,
+          0.05
+        ],
+        [
+          1731.46,
+          15267.34,
+          0.05
+        ],
+        [
+          1731.21,
+          15257.87,
+          0.05
+        ],
+        [
+          1732.23,
+          15236.21,
+          0.05
+        ],
+        [
+          1733.8,
+          15224.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767991",
+      "osm_id": 1235767991,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 12.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10171361140,
+        245665949
+      ],
+      "coordinates_3d": [
+        [
+          1733.8,
+          15224.28,
+          0.05
+        ],
+        [
+          1737.92,
+          15212.08,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1256579426",
+      "osm_id": 1256579426,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 37.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9931191124,
+        6243685417
+      ],
+      "coordinates_3d": [
+        [
+          1596.41,
+          15264.84,
+          0.05
+        ],
+        [
+          1634.28,
+          15265.55,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1256579427",
+      "osm_id": 1256579427,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 286.45,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6243685414,
+        6243685413,
+        12279680442,
+        9931191124
+      ],
+      "coordinates_3d": [
+        [
+          1600.75,
+          14979.25,
+          0.05
+        ],
+        [
+          1591.72,
+          15029.19,
+          0.05
+        ],
+        [
+          1595.99,
+          15243.79,
+          0.05
+        ],
+        [
+          1596.41,
+          15264.84,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457119340",
+      "osm_id": 1457119340,
+      "name": "Unnamed Road",
+      "highway": "motorway_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:motorway_link",
+      "length_m": 7.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10738567709,
+        6243685417
+      ],
+      "coordinates_3d": [
+        [
+          1634.53,
+          15272.66,
+          0.05
+        ],
+        [
+          1634.28,
+          15265.55,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457119341",
+      "osm_id": 1457119341,
+      "name": "S D Mandir Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 5.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2248781882,
+        13363476834
+      ],
+      "coordinates_3d": [
+        [
+          1648.12,
+          15264.57,
+          0.05
+        ],
+        [
+          1653.67,
+          15263.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1562122424",
+      "osm_id": 1562122424,
+      "name": "Kalanagar Flyover",
+      "highway": "motorway",
+      "width_m": 24.0,
+      "width_source": "default_highway_type:motorway",
+      "length_m": 347.24,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        14213578575,
+        6243685411
+      ],
+      "coordinates_3d": [
+        [
+          1625.86,
+          15375.72,
+          5.55
+        ],
+        [
+          1616.9,
+          15028.6,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22859283",
+      "osm_id": 22859283,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 235.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666578,
+        245666591,
+        245666445,
+        245666365,
+        245666245,
+        476506233
+      ],
+      "coordinates_3d": [
+        [
+          1742.1,
+          15633.3,
+          0.05
+        ],
+        [
+          1740.25,
+          15532.61,
+          0.05
+        ],
+        [
+          1740.69,
+          15515.96,
+          0.05
+        ],
+        [
+          1740.57,
+          15479.73,
+          0.05
+        ],
+        [
+          1740.35,
+          15454.75,
+          0.05
+        ],
+        [
+          1736.67,
+          15397.91,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

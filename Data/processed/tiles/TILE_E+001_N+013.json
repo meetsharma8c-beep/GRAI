@@ -1,0 +1,386 @@
+{
+  "tile_id": "TILE_E+001_N+013",
+  "bounds": {
+    "min_x": 500.0,
+    "max_x": 1000.0,
+    "min_y": 6500.0,
+    "max_y": 7000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.981759,
+    "max_lat": 18.98633,
+    "min_lon": 72.836988,
+    "max_lon": 72.841677
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 6,
+    "road_length_m": 1460.46,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22851703",
+      "osm_id": 22851703,
+      "name": "Tanaji Malusare Road (Albert Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 373.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658430,
+        11042645736,
+        245658448
+      ],
+      "coordinates_3d": [
+        [
+          965.52,
+          6894.38,
+          10.42
+        ],
+        [
+          783.93,
+          6911.91,
+          13.2
+        ],
+        [
+          593.8,
+          6931.41,
+          9.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22851781",
+      "osm_id": 22851781,
+      "name": "Ghodapdeo Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 186.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658494,
+        7379493845,
+        7379493844,
+        7379493846,
+        7379493847,
+        700851671,
+        245658430
+      ],
+      "coordinates_3d": [
+        [
+          999.89,
+          7070.71,
+          10.13
+        ],
+        [
+          993.24,
+          7069.63,
+          10.75
+        ],
+        [
+          990.32,
+          7068.05,
+          11.02
+        ],
+        [
+          987.96,
+          7065.34,
+          11.2
+        ],
+        [
+          987.21,
+          7061.7,
+          11.21
+        ],
+        [
+          982.76,
+          6987.41,
+          8.9
+        ],
+        [
+          965.52,
+          6894.38,
+          10.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22851782",
+      "osm_id": 22851782,
+      "name": "T B Kadam Marg (Chinchpokli Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 324.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658378,
+        3777263525,
+        7379857235,
+        14014063952,
+        245658407,
+        6583684544,
+        5099860320,
+        12447029133,
+        245658448
+      ],
+      "coordinates_3d": [
+        [
+          334.32,
+          6748.25,
+          10.16
+        ],
+        [
+          349.77,
+          6746.64,
+          11.92
+        ],
+        [
+          356.04,
+          6747.2,
+          12.48
+        ],
+        [
+          363.26,
+          6751.71,
+          13.3
+        ],
+        [
+          449.23,
+          6802.48,
+          10.62
+        ],
+        [
+          506.26,
+          6845.1,
+          6.17
+        ],
+        [
+          554.7,
+          6899.47,
+          8.52
+        ],
+        [
+          571.29,
+          6913.5,
+          9.17
+        ],
+        [
+          593.8,
+          6931.41,
+          9.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22851787",
+      "osm_id": 22851787,
+      "name": "Ghodapdeo Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 121.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658402,
+        7379857232,
+        7379857233,
+        7379857234,
+        245658430
+      ],
+      "coordinates_3d": [
+        [
+          922.56,
+          6780.7,
+          9.11
+        ],
+        [
+          924.4,
+          6789.57,
+          8.71
+        ],
+        [
+          925.77,
+          6797.98,
+          8.63
+        ],
+        [
+          928.13,
+          6805.96,
+          8.71
+        ],
+        [
+          965.52,
+          6894.38,
+          10.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852017",
+      "osm_id": 22852017,
+      "name": "Rambhau Bhogle Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 375.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658221,
+        245658262,
+        245658293,
+        11340713216,
+        11066407227,
+        14008577219,
+        9673201641,
+        10310290912,
+        245658335,
+        10310290911,
+        245658354,
+        6573830996,
+        245658382,
+        7430392515,
+        245658402
+      ],
+      "coordinates_3d": [
+        [
+          925.73,
+          6408.15,
+          10.43
+        ],
+        [
+          926.7,
+          6431.71,
+          10.82
+        ],
+        [
+          927.3,
+          6455.5,
+          10.75
+        ],
+        [
+          927.7,
+          6468.74,
+          10.07
+        ],
+        [
+          925.87,
+          6478.1,
+          9.63
+        ],
+        [
+          919.39,
+          6512.62,
+          9.1
+        ],
+        [
+          914.3,
+          6534.53,
+          9.48
+        ],
+        [
+          913.59,
+          6542.93,
+          9.7
+        ],
+        [
+          907.74,
+          6611.86,
+          11.09
+        ],
+        [
+          908.74,
+          6617.71,
+          11.22
+        ],
+        [
+          915.42,
+          6656.57,
+          11.64
+        ],
+        [
+          918.61,
+          6688.22,
+          11.05
+        ],
+        [
+          922.61,
+          6716.76,
+          10.81
+        ],
+        [
+          921.83,
+          6752.57,
+          10.4
+        ],
+        [
+          922.56,
+          6780.7,
+          9.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1193448081",
+      "osm_id": 1193448081,
+      "name": "Tanaji Malsure Road (Albert Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 78.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658427,
+        245658426,
+        245658430
+      ],
+      "coordinates_3d": [
+        [
+          1043.81,
+          6887.94,
+          6.31
+        ],
+        [
+          1009.59,
+          6889.88,
+          6.19
+        ],
+        [
+          965.52,
+          6894.38,
+          10.42
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

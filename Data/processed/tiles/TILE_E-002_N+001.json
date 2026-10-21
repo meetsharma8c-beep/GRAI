@@ -1,0 +1,968 @@
+{
+  "tile_id": "TILE_E-002_N+001",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 500.0,
+    "max_y": 1000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.927405,
+    "max_lat": 18.931976,
+    "min_lon": 72.823452,
+    "max_lon": 72.828138
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 18,
+    "road_length_m": 2640.54,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22845692",
+      "osm_id": 22845692,
+      "name": "Dinshaw Wachha Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 277.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13015390786,
+        2241842980,
+        11290169684,
+        10801585707,
+        11042165480,
+        11042218314,
+        11042165477,
+        11290171071,
+        11042218310,
+        11042165479,
+        11290171074,
+        2241843000
+      ],
+      "coordinates_3d": [
+        [
+          -735.5,
+          837.07,
+          15.47
+        ],
+        [
+          -789.51,
+          856.38,
+          13.24
+        ],
+        [
+          -820.88,
+          869.93,
+          11.59
+        ],
+        [
+          -851.17,
+          882.21,
+          11.92
+        ],
+        [
+          -858.78,
+          885.29,
+          12.15
+        ],
+        [
+          -873.47,
+          891.22,
+          13.02
+        ],
+        [
+          -925.09,
+          912.14,
+          13.57
+        ],
+        [
+          -930.28,
+          914.13,
+          13.25
+        ],
+        [
+          -934.36,
+          915.52,
+          13.07
+        ],
+        [
+          -961.48,
+          926.76,
+          12.94
+        ],
+        [
+          -964.55,
+          928.02,
+          13.01
+        ],
+        [
+          -993.7,
+          939.87,
+          12.59
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22845929",
+      "osm_id": 22845929,
+      "name": "Jeevan Bima Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 195.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        473084113,
+        245653929,
+        10885994196,
+        245653931,
+        10885994197,
+        245653932,
+        317152100,
+        11029952872,
+        245653933,
+        5907166289
+      ],
+      "coordinates_3d": [
+        [
+          -1035.99,
+          667.57,
+          13.23
+        ],
+        [
+          -1017.84,
+          687.51,
+          15.86
+        ],
+        [
+          -1004.81,
+          697.33,
+          16.73
+        ],
+        [
+          -989.96,
+          705.15,
+          16.51
+        ],
+        [
+          -973.34,
+          711.64,
+          16.3
+        ],
+        [
+          -956.56,
+          715.94,
+          15.46
+        ],
+        [
+          -932.05,
+          714.71,
+          18.43
+        ],
+        [
+          -899.47,
+          705.34,
+          18.72
+        ],
+        [
+          -897.24,
+          704.7,
+          18.56
+        ],
+        [
+          -860.0,
+          690.3,
+          15.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_130533409",
+      "osm_id": 130533409,
+      "name": "Jamshedji Tata Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 94.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13015390769,
+        1651447370,
+        1643007858
+      ],
+      "coordinates_3d": [
+        [
+          -857.4,
+          669.81,
+          13.83
+        ],
+        [
+          -893.18,
+          624.48,
+          7.56
+        ],
+        [
+          -911.8,
+          592.65,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236608606",
+      "osm_id": 236608606,
+      "name": "Madame Cama Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 145.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        473084113,
+        1643007858
+      ],
+      "coordinates_3d": [
+        [
+          -1035.99,
+          667.57,
+          13.23
+        ],
+        [
+          -911.8,
+          592.65,
+          7.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_625655200",
+      "osm_id": 625655200,
+      "name": "Jamshedji Tata Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 95.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13015390777,
+        13015390778,
+        13015390779,
+        13015390784,
+        13015390780,
+        13015390781,
+        5907166295,
+        5907166300,
+        13015390775,
+        5907166301,
+        5907166302,
+        5907166303,
+        5907166304,
+        13015390776,
+        5907166305,
+        13015390769,
+        13015390770,
+        13015390771,
+        13015390772,
+        13015390773,
+        5907166289,
+        13015390774,
+        13015390777
+      ],
+      "coordinates_3d": [
+        [
+          -855.09,
+          694.76,
+          16.36
+        ],
+        [
+          -850.16,
+          696.38,
+          17.08
+        ],
+        [
+          -844.96,
+          696.26,
+          17.66
+        ],
+        [
+          -842.88,
+          695.46,
+          17.9
+        ],
+        [
+          -840.12,
+          694.41,
+          18.25
+        ],
+        [
+          -836.18,
+          691.05,
+          18.68
+        ],
+        [
+          -833.6,
+          686.57,
+          18.76
+        ],
+        [
+          -832.69,
+          681.49,
+          18.56
+        ],
+        [
+          -833.39,
+          676.87,
+          18.17
+        ],
+        [
+          -835.42,
+          672.0,
+          17.57
+        ],
+        [
+          -838.75,
+          669.34,
+          16.85
+        ],
+        [
+          -842.9,
+          667.14,
+          16.01
+        ],
+        [
+          -847.52,
+          666.3,
+          15.18
+        ],
+        [
+          -852.18,
+          666.9,
+          14.45
+        ],
+        [
+          -856.43,
+          668.88,
+          13.91
+        ],
+        [
+          -857.4,
+          669.81,
+          13.83
+        ],
+        [
+          -860.17,
+          672.46,
+          13.62
+        ],
+        [
+          -862.49,
+          677.07,
+          13.68
+        ],
+        [
+          -863.11,
+          682.19,
+          14.07
+        ],
+        [
+          -861.97,
+          687.23,
+          14.71
+        ],
+        [
+          -860.0,
+          690.3,
+          15.28
+        ],
+        [
+          -859.18,
+          691.59,
+          15.51
+        ],
+        [
+          -855.09,
+          694.76,
+          16.36
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_704449416",
+      "osm_id": 704449416,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 125.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10886054716,
+        13471766113,
+        10886054717
+      ],
+      "coordinates_3d": [
+        [
+          -491.39,
+          740.17,
+          14.81
+        ],
+        [
+          -491.33,
+          728.32,
+          15.36
+        ],
+        [
+          -500.05,
+          615.0,
+          11.65
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171519862",
+      "osm_id": 1171519862,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 280.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6608759216,
+        10885994193,
+        2176685183,
+        13702074458,
+        10885994194,
+        2241842985,
+        10885994195
+      ],
+      "coordinates_3d": [
+        [
+          -530.11,
+          1056.4,
+          9.77
+        ],
+        [
+          -572.23,
+          1001.27,
+          14.18
+        ],
+        [
+          -578.0,
+          994.0,
+          14.12
+        ],
+        [
+          -627.87,
+          934.25,
+          13.16
+        ],
+        [
+          -642.52,
+          916.68,
+          13.82
+        ],
+        [
+          -680.16,
+          870.6,
+          17.28
+        ],
+        [
+          -707.03,
+          838.72,
+          16.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171523538",
+      "osm_id": 1171523538,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 89.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12722358655,
+        13997454549,
+        2242540274
+      ],
+      "coordinates_3d": [
+        [
+          -516.51,
+          418.27,
+          12.53
+        ],
+        [
+          -515.21,
+          442.26,
+          13.96
+        ],
+        [
+          -511.69,
+          507.69,
+          13.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021042",
+      "osm_id": 1178021042,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 523.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2242540274,
+        11133432359,
+        11133432358,
+        11133432352,
+        245653923,
+        245653961,
+        2241843006,
+        10886054713,
+        10886054711,
+        10886054712,
+        2176685184
+      ],
+      "coordinates_3d": [
+        [
+          -511.69,
+          507.69,
+          13.55
+        ],
+        [
+          -510.07,
+          543.37,
+          12.43
+        ],
+        [
+          -509.87,
+          547.97,
+          12.72
+        ],
+        [
+          -508.51,
+          577.92,
+          14.35
+        ],
+        [
+          -506.81,
+          615.42,
+          12.63
+        ],
+        [
+          -501.09,
+          740.52,
+          14.92
+        ],
+        [
+          -490.5,
+          978.6,
+          14.32
+        ],
+        [
+          -490.88,
+          991.23,
+          13.55
+        ],
+        [
+          -490.88,
+          1011.63,
+          12.05
+        ],
+        [
+          -492.9,
+          1020.71,
+          11.51
+        ],
+        [
+          -494.21,
+          1030.45,
+          10.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021044",
+      "osm_id": 1178021044,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 109.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10886054718,
+        7238373733,
+        10886054719
+      ],
+      "coordinates_3d": [
+        [
+          -505.79,
+          507.24,
+          13.01
+        ],
+        [
+          -507.45,
+          445.17,
+          13.29
+        ],
+        [
+          -508.54,
+          397.31,
+          9.71
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178036276",
+      "osm_id": 1178036276,
+      "name": "Maharshi Karve Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 107.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10886054717,
+        10886054718
+      ],
+      "coordinates_3d": [
+        [
+          -500.05,
+          615.0,
+          11.65
+        ],
+        [
+          -505.79,
+          507.24,
+          13.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178042448",
+      "osm_id": 1178042448,
+      "name": "Madame Cama Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 178.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653870,
+        10943659047,
+        1651447343,
+        2168581069,
+        528644374
+      ],
+      "coordinates_3d": [
+        [
+          -782.69,
+          509.99,
+          8.03
+        ],
+        [
+          -712.44,
+          469.23,
+          8.86
+        ],
+        [
+          -661.96,
+          439.94,
+          13.89
+        ],
+        [
+          -645.04,
+          427.02,
+          15.46
+        ],
+        [
+          -630.32,
+          418.25,
+          14.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235473861",
+      "osm_id": 1235473861,
+      "name": "Madame Cama Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 153.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643007858,
+        245653870
+      ],
+      "coordinates_3d": [
+        [
+          -911.8,
+          592.65,
+          7.06
+        ],
+        [
+          -782.69,
+          509.99,
+          8.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1516915553",
+      "osm_id": 1516915553,
+      "name": "Dinshaw Wachha Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 25.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2241843000,
+        13073684405,
+        10277881704
+      ],
+      "coordinates_3d": [
+        [
+          -993.7,
+          939.87,
+          12.59
+        ],
+        [
+          -1015.52,
+          948.83,
+          10.98
+        ],
+        [
+          -1017.42,
+          949.61,
+          10.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_214780272",
+      "osm_id": 214780272,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 5.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10886054718,
+        2242540274
+      ],
+      "coordinates_3d": [
+        [
+          -505.79,
+          507.24,
+          13.01
+        ],
+        [
+          -511.69,
+          507.69,
+          13.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021041",
+      "osm_id": 1178021041,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 41.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2242540274,
+        11031794033,
+        10961268698,
+        11133432349
+      ],
+      "coordinates_3d": [
+        [
+          -511.69,
+          507.69,
+          13.55
+        ],
+        [
+          -521.1,
+          508.23,
+          15.04
+        ],
+        [
+          -530.53,
+          508.75,
+          16.82
+        ],
+        [
+          -553.61,
+          509.54,
+          19.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178021043",
+      "osm_id": 1178021043,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 113.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11133432358,
+        11133432360,
+        11133432356,
+        11133432351,
+        11133432355,
+        11133432352
+      ],
+      "coordinates_3d": [
+        [
+          -509.87,
+          547.97,
+          12.72
+        ],
+        [
+          -515.17,
+          548.12,
+          13.01
+        ],
+        [
+          -550.4,
+          549.08,
+          18.28
+        ],
+        [
+          -550.14,
+          579.97,
+          21.34
+        ],
+        [
+          -515.24,
+          578.25,
+          15.09
+        ],
+        [
+          -508.51,
+          577.92,
+          14.35
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1200752246",
+      "osm_id": 1200752246,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 76.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11133432349,
+        11133432357,
+        11133432361,
+        11133432359
+      ],
+      "coordinates_3d": [
+        [
+          -553.61,
+          509.54,
+          19.84
+        ],
+        [
+          -551.38,
+          545.04,
+          17.8
+        ],
+        [
+          -514.98,
+          543.57,
+          12.67
+        ],
+        [
+          -510.07,
+          543.37,
+          12.43
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

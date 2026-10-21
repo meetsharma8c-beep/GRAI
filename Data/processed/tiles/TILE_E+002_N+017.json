@@ -1,0 +1,1658 @@
+{
+  "tile_id": "TILE_E+002_N+017",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 8500.0,
+    "max_y": 9000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.999876,
+    "max_lat": 19.004447,
+    "min_lon": 72.841502,
+    "max_lon": 72.846191
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 30,
+    "road_length_m": 5389.98,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22848799",
+      "osm_id": 22848799,
+      "name": "Gokhale Society Lane",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 289.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659701,
+        13664081021,
+        245659695,
+        245659679,
+        14016729093,
+        1287742892,
+        14016729094,
+        7466305127
+      ],
+      "coordinates_3d": [
+        [
+          786.91,
+          9059.89,
+          0.05
+        ],
+        [
+          810.19,
+          9039.48,
+          0.05
+        ],
+        [
+          812.93,
+          9037.08,
+          0.05
+        ],
+        [
+          838.34,
+          9014.79,
+          0.05
+        ],
+        [
+          898.97,
+          8962.18,
+          0.05
+        ],
+        [
+          901.01,
+          8960.4,
+          0.05
+        ],
+        [
+          954.01,
+          8917.18,
+          0.05
+        ],
+        [
+          1007.2,
+          8872.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_122141805",
+      "osm_id": 122141805,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 318.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659759,
+        5848596597,
+        11927565925,
+        5921458140,
+        245659668,
+        11025730488,
+        11025730492,
+        11025736625,
+        5848596602
+      ],
+      "coordinates_3d": [
+        [
+          809.03,
+          9121.02,
+          0.05
+        ],
+        [
+          829.68,
+          9105.9,
+          0.05
+        ],
+        [
+          838.55,
+          9099.44,
+          0.05
+        ],
+        [
+          937.23,
+          9027.58,
+          0.05
+        ],
+        [
+          951.36,
+          9017.63,
+          0.05
+        ],
+        [
+          955.52,
+          9013.49,
+          0.05
+        ],
+        [
+          999.74,
+          8969.63,
+          0.05
+        ],
+        [
+          1005.24,
+          8964.17,
+          0.05
+        ],
+        [
+          1052.59,
+          8917.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618791587",
+      "osm_id": 618791587,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 318.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596599,
+        5848596598,
+        5921458141,
+        9684698238,
+        9684698236
+      ],
+      "coordinates_3d": [
+        [
+          1045.0,
+          8910.28,
+          0.05
+        ],
+        [
+          945.67,
+          9011.12,
+          0.05
+        ],
+        [
+          931.75,
+          9021.08,
+          0.05
+        ],
+        [
+          821.99,
+          9098.0,
+          0.05
+        ],
+        [
+          801.02,
+          9113.36,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618791588",
+      "osm_id": 618791588,
+      "name": "Dr Ernest Borges Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 301.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596601,
+        3736882563,
+        13686823155,
+        13754265348,
+        3736882564,
+        13754265357,
+        4906196445,
+        10613389619,
+        3736882567
+      ],
+      "coordinates_3d": [
+        [
+          1055.47,
+          8916.93,
+          0.05
+        ],
+        [
+          1149.65,
+          8987.96,
+          0.05
+        ],
+        [
+          1168.6,
+          9001.25,
+          0.05
+        ],
+        [
+          1197.46,
+          9021.49,
+          0.05
+        ],
+        [
+          1220.62,
+          9037.72,
+          0.05
+        ],
+        [
+          1228.2,
+          9043.24,
+          0.05
+        ],
+        [
+          1274.42,
+          9078.31,
+          0.05
+        ],
+        [
+          1282.04,
+          9084.02,
+          0.05
+        ],
+        [
+          1297.82,
+          9096.37,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618791590",
+      "osm_id": 618791590,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596615,
+        5848596600,
+        5848596616,
+        5848596617
+      ],
+      "coordinates_3d": [
+        [
+          1049.75,
+          8901.23,
+          0.05
+        ],
+        [
+          1047.5,
+          8902.74,
+          0.05
+        ],
+        [
+          1045.85,
+          8904.89,
+          0.05
+        ],
+        [
+          1044.98,
+          8907.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618791591",
+      "osm_id": 618791591,
+      "name": "Acharya Donde Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 326.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5921458166,
+        5921458164,
+        13664043812,
+        5921458162,
+        5921458144,
+        5921458160,
+        5921458159,
+        5921458158,
+        5921458146,
+        5921458157,
+        5921458148,
+        5921458156,
+        5921458155,
+        6926204908,
+        13664066126,
+        13673973149,
+        10277717599,
+        13670806940
+      ],
+      "coordinates_3d": [
+        [
+          1235.76,
+          8733.04,
+          0.05
+        ],
+        [
+          1283.28,
+          8696.61,
+          0.05
+        ],
+        [
+          1298.59,
+          8685.25,
+          0.05
+        ],
+        [
+          1321.2,
+          8668.47,
+          0.05
+        ],
+        [
+          1323.24,
+          8666.99,
+          0.05
+        ],
+        [
+          1339.06,
+          8654.93,
+          0.05
+        ],
+        [
+          1379.47,
+          8628.58,
+          0.05
+        ],
+        [
+          1401.67,
+          8618.91,
+          0.05
+        ],
+        [
+          1428.83,
+          8608.14,
+          0.05
+        ],
+        [
+          1432.73,
+          8606.59,
+          0.05
+        ],
+        [
+          1440.27,
+          8604.42,
+          0.05
+        ],
+        [
+          1459.6,
+          8596.51,
+          0.05
+        ],
+        [
+          1485.42,
+          8583.34,
+          0.05
+        ],
+        [
+          1493.84,
+          8578.07,
+          0.05
+        ],
+        [
+          1498.21,
+          8574.09,
+          0.05
+        ],
+        [
+          1501.05,
+          8571.49,
+          0.05
+        ],
+        [
+          1502.02,
+          8570.61,
+          0.05
+        ],
+        [
+          1509.72,
+          8560.56,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618791592",
+      "osm_id": 618791592,
+      "name": "Acharya Donde Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 328.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277717600,
+        13670806941,
+        13673973150,
+        13664066127,
+        10277717598,
+        5921458150,
+        5921458151,
+        5921458152,
+        5921458153,
+        5921458147,
+        5921458145,
+        5921458169,
+        5921458170,
+        5921458171,
+        5986915342,
+        5921458143,
+        5921458142,
+        5986915335
+      ],
+      "coordinates_3d": [
+        [
+          1505.57,
+          8551.24,
+          0.05
+        ],
+        [
+          1497.01,
+          8561.19,
+          0.05
+        ],
+        [
+          1492.9,
+          8566.33,
+          0.05
+        ],
+        [
+          1490.64,
+          8569.17,
+          0.05
+        ],
+        [
+          1487.83,
+          8571.56,
+          0.05
+        ],
+        [
+          1482.59,
+          8576.7,
+          0.05
+        ],
+        [
+          1463.83,
+          8585.29,
+          0.05
+        ],
+        [
+          1450.41,
+          8590.36,
+          0.05
+        ],
+        [
+          1439.16,
+          8594.45,
+          0.05
+        ],
+        [
+          1436.45,
+          8595.43,
+          0.05
+        ],
+        [
+          1424.72,
+          8599.64,
+          0.05
+        ],
+        [
+          1399.56,
+          8608.68,
+          0.05
+        ],
+        [
+          1370.65,
+          8622.94,
+          0.05
+        ],
+        [
+          1350.88,
+          8635.53,
+          0.05
+        ],
+        [
+          1333.77,
+          8648.06,
+          0.05
+        ],
+        [
+          1318.34,
+          8660.12,
+          0.05
+        ],
+        [
+          1278.26,
+          8690.05,
+          0.05
+        ],
+        [
+          1231.63,
+          8725.12,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1120060028",
+      "osm_id": 1120060028,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 237.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596607,
+        5848596622,
+        11025628658,
+        5848596623,
+        5921458178,
+        11025628662,
+        5848596624,
+        5921458167,
+        11511143554
+      ],
+      "coordinates_3d": [
+        [
+          1061.69,
+          8908.28,
+          0.05
+        ],
+        [
+          1086.71,
+          8871.63,
+          0.05
+        ],
+        [
+          1091.84,
+          8866.97,
+          0.05
+        ],
+        [
+          1130.3,
+          8832.07,
+          0.05
+        ],
+        [
+          1143.4,
+          8819.22,
+          0.05
+        ],
+        [
+          1164.75,
+          8798.29,
+          0.05
+        ],
+        [
+          1200.01,
+          8763.71,
+          0.05
+        ],
+        [
+          1217.36,
+          8748.09,
+          0.05
+        ],
+        [
+          1227.71,
+          8739.63,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1120060029",
+      "osm_id": 1120060029,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 239.08,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10583826082,
+        5921458176,
+        5848596621,
+        5921458177,
+        5848596619,
+        11133951305,
+        5848596620,
+        5848596603
+      ],
+      "coordinates_3d": [
+        [
+          1223.57,
+          8731.88,
+          0.05
+        ],
+        [
+          1206.47,
+          8746.25,
+          0.05
+        ],
+        [
+          1194.68,
+          8757.66,
+          0.05
+        ],
+        [
+          1137.6,
+          8814.14,
+          0.05
+        ],
+        [
+          1125.25,
+          8826.36,
+          0.05
+        ],
+        [
+          1093.23,
+          8855.2,
+          0.05
+        ],
+        [
+          1080.92,
+          8866.28,
+          0.05
+        ],
+        [
+          1055.06,
+          8900.65,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171215977",
+      "osm_id": 1171215977,
+      "name": "Dr Ernest Borges Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 370.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10883588501,
+        10883588502,
+        245659393,
+        245659450,
+        9653308282,
+        245659487,
+        6574614908,
+        6430654216,
+        7466305127,
+        5848596617
+      ],
+      "coordinates_3d": [
+        [
+          881.59,
+          8582.02,
+          0.05
+        ],
+        [
+          879.58,
+          8595.29,
+          0.05
+        ],
+        [
+          898.94,
+          8647.07,
+          0.05
+        ],
+        [
+          927.49,
+          8712.49,
+          0.05
+        ],
+        [
+          950.45,
+          8756.65,
+          0.05
+        ],
+        [
+          971.15,
+          8799.54,
+          0.05
+        ],
+        [
+          976.8,
+          8811.22,
+          0.05
+        ],
+        [
+          997.05,
+          8852.55,
+          0.05
+        ],
+        [
+          1007.2,
+          8872.28,
+          0.05
+        ],
+        [
+          1044.98,
+          8907.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1178071797",
+      "osm_id": 1178071797,
+      "name": "Dr Ernest Borges Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 364.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596615,
+        10883640308,
+        10883640309,
+        10883640307,
+        10883640306,
+        10883640305,
+        10883588504,
+        10883588503,
+        10883588501
+      ],
+      "coordinates_3d": [
+        [
+          1049.75,
+          8901.23,
+          0.05
+        ],
+        [
+          1017.24,
+          8866.85,
+          0.05
+        ],
+        [
+          1006.03,
+          8849.26,
+          0.05
+        ],
+        [
+          986.95,
+          8806.24,
+          0.05
+        ],
+        [
+          961.36,
+          8751.91,
+          0.05
+        ],
+        [
+          940.65,
+          8707.35,
+          0.05
+        ],
+        [
+          914.09,
+          8642.3,
+          0.05
+        ],
+        [
+          890.98,
+          8588.89,
+          0.05
+        ],
+        [
+          881.59,
+          8582.02,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188576726",
+      "osm_id": 1188576726,
+      "name": "Dr Ernest Borges Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 276.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11133938684,
+        10883614938,
+        13664026624,
+        10883614939,
+        13686823154,
+        10883614940,
+        10883614928
+      ],
+      "coordinates_3d": [
+        [
+          1284.99,
+          9074.2,
+          0.05
+        ],
+        [
+          1277.6,
+          9068.86,
+          0.05
+        ],
+        [
+          1262.08,
+          9056.43,
+          0.05
+        ],
+        [
+          1217.09,
+          9023.46,
+          0.05
+        ],
+        [
+          1174.44,
+          8993.38,
+          0.05
+        ],
+        [
+          1135.75,
+          8966.07,
+          0.05
+        ],
+        [
+          1061.39,
+          8911.13,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188913024",
+      "osm_id": 1188913024,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 235.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10583826080,
+        10583826081,
+        10583826082
+      ],
+      "coordinates_3d": [
+        [
+          1118.86,
+          8520.82,
+          0.05
+        ],
+        [
+          1127.73,
+          8538.96,
+          0.05
+        ],
+        [
+          1223.57,
+          8731.88,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569538",
+      "osm_id": 1235569538,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.81,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596607,
+        5848596608,
+        5848596609,
+        5848596610,
+        5848596603
+      ],
+      "coordinates_3d": [
+        [
+          1061.69,
+          8908.28,
+          0.05
+        ],
+        [
+          1061.08,
+          8905.66,
+          0.05
+        ],
+        [
+          1059.66,
+          8903.36,
+          0.05
+        ],
+        [
+          1057.59,
+          8901.62,
+          0.05
+        ],
+        [
+          1055.06,
+          8900.65,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569539",
+      "osm_id": 1235569539,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 2.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10883614928,
+        5848596607
+      ],
+      "coordinates_3d": [
+        [
+          1061.39,
+          8911.13,
+          0.05
+        ],
+        [
+          1061.69,
+          8908.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569540",
+      "osm_id": 1235569540,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596601,
+        5848596611,
+        10883614927,
+        5848596612,
+        10883614928
+      ],
+      "coordinates_3d": [
+        [
+          1055.47,
+          8916.93,
+          0.05
+        ],
+        [
+          1058.08,
+          8915.72,
+          0.05
+        ],
+        [
+          1058.92,
+          8914.91,
+          0.05
+        ],
+        [
+          1060.14,
+          8913.72,
+          0.05
+        ],
+        [
+          1061.39,
+          8911.13,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569541",
+      "osm_id": 1235569541,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5986915335,
+        10583826082
+      ],
+      "coordinates_3d": [
+        [
+          1231.63,
+          8725.12,
+          0.05
+        ],
+        [
+          1223.57,
+          8731.88,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237295078",
+      "osm_id": 1237295078,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 2.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596602,
+        5848596601
+      ],
+      "coordinates_3d": [
+        [
+          1052.59,
+          8917.19,
+          0.05
+        ],
+        [
+          1055.47,
+          8916.93,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237295109",
+      "osm_id": 1237295109,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596599,
+        5848596618,
+        5848596604,
+        5848596605,
+        5848596602
+      ],
+      "coordinates_3d": [
+        [
+          1045.0,
+          8910.28,
+          0.05
+        ],
+        [
+          1045.8,
+          8912.69,
+          0.05
+        ],
+        [
+          1047.42,
+          8914.85,
+          0.05
+        ],
+        [
+          1049.8,
+          8916.47,
+          0.05
+        ],
+        [
+          1052.59,
+          8917.19,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238075224",
+      "osm_id": 1238075224,
+      "name": "Dr S S Rao Marg (Govt Gate Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 237.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5986915335,
+        6574614913,
+        4292873308
+      ],
+      "coordinates_3d": [
+        [
+          1231.63,
+          8725.12,
+          0.05
+        ],
+        [
+          1136.96,
+          8533.8,
+          0.05
+        ],
+        [
+          1126.66,
+          8512.49,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238075225",
+      "osm_id": 1238075225,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 5.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596603,
+        5848596614,
+        5848596615
+      ],
+      "coordinates_3d": [
+        [
+          1055.06,
+          8900.65,
+          0.05
+        ],
+        [
+          1052.35,
+          8900.5,
+          0.05
+        ],
+        [
+          1049.75,
+          8901.23,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238075226",
+      "osm_id": 1238075226,
+      "name": "Wadia Chowk",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 2.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5848596617,
+        5848596599
+      ],
+      "coordinates_3d": [
+        [
+          1044.98,
+          8907.44,
+          0.05
+        ],
+        [
+          1045.0,
+          8910.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239131946",
+      "osm_id": 1239131946,
+      "name": "Dr S S Rao Marg (Govt Gate Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5921458166,
+        5986915335
+      ],
+      "coordinates_3d": [
+        [
+          1235.76,
+          8733.04,
+          0.05
+        ],
+        [
+          1231.63,
+          8725.12,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239131947",
+      "osm_id": 1239131947,
+      "name": "Acharya Donde Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11511143554,
+        5921458166
+      ],
+      "coordinates_3d": [
+        [
+          1227.71,
+          8739.63,
+          0.05
+        ],
+        [
+          1235.76,
+          8733.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239131948",
+      "osm_id": 1239131948,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10583826082,
+        11511143554
+      ],
+      "coordinates_3d": [
+        [
+          1223.57,
+          8731.88,
+          0.05
+        ],
+        [
+          1227.71,
+          8739.63,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1251093166",
+      "osm_id": 1251093166,
+      "name": "Acharya Donde Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 473.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13986227307,
+        13664066140,
+        13664066139,
+        245659234,
+        14017235107,
+        11219262254,
+        3568776810,
+        5908533458,
+        13664066128,
+        13673973151,
+        3568776812,
+        10277717600
+      ],
+      "coordinates_3d": [
+        [
+          1925.99,
+          8333.87,
+          13.83
+        ],
+        [
+          1871.63,
+          8361.92,
+          14.84
+        ],
+        [
+          1852.19,
+          8372.57,
+          15.9
+        ],
+        [
+          1833.73,
+          8382.55,
+          16.28
+        ],
+        [
+          1778.89,
+          8410.6,
+          18.07
+        ],
+        [
+          1693.12,
+          8452.89,
+          24.64
+        ],
+        [
+          1596.02,
+          8504.98,
+          25.63
+        ],
+        [
+          1589.01,
+          8509.11,
+          0.05
+        ],
+        [
+          1546.51,
+          8531.81,
+          0.05
+        ],
+        [
+          1521.51,
+          8544.47,
+          0.05
+        ],
+        [
+          1513.7,
+          8548.43,
+          0.05
+        ],
+        [
+          1505.57,
+          8551.24,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1356850823",
+      "osm_id": 1356850823,
+      "name": "Dr S S Rao Marg (Govt Gate Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 245.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12558343922,
+        245659301,
+        2216353008,
+        2216352903,
+        245659182
+      ],
+      "coordinates_3d": [
+        [
+          1108.47,
+          8501.28,
+          11.76
+        ],
+        [
+          1063.96,
+          8477.48,
+          12.52
+        ],
+        [
+          1049.64,
+          8457.5,
+          13.14
+        ],
+        [
+          1012.15,
+          8405.18,
+          12.98
+        ],
+        [
+          951.23,
+          8318.42,
+          16.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1356850824",
+      "osm_id": 1356850824,
+      "name": "Dr S S Rao Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 249.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10583826075,
+        10583826076,
+        10583826077,
+        10583826078,
+        10583826079,
+        12558343926
+      ],
+      "coordinates_3d": [
+        [
+          941.95,
+          8325.24,
+          16.2
+        ],
+        [
+          1004.24,
+          8411.66,
+          12.77
+        ],
+        [
+          1039.92,
+          8462.68,
+          13.61
+        ],
+        [
+          1054.36,
+          8481.95,
+          13.94
+        ],
+        [
+          1092.02,
+          8501.35,
+          12.26
+        ],
+        [
+          1104.3,
+          8508.36,
+          11.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1491732633",
+      "osm_id": 1491732633,
+      "name": "Acharya Donde Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 12.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13670806940,
+        3568776812
+      ],
+      "coordinates_3d": [
+        [
+          1509.72,
+          8560.56,
+          0.05
+        ],
+        [
+          1513.7,
+          8548.43,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1490911433",
+      "osm_id": 1490911433,
+      "name": "Acharya Donde Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 473.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13670806940,
+        13670806939,
+        13664066125,
+        7735948665,
+        7735948666,
+        14017235109,
+        13664066129,
+        13664066136,
+        7735948667
+      ],
+      "coordinates_3d": [
+        [
+          1509.72,
+          8560.56,
+          0.05
+        ],
+        [
+          1524.68,
+          8553.93,
+          0.05
+        ],
+        [
+          1560.48,
+          8534.23,
+          0.05
+        ],
+        [
+          1588.71,
+          8517.39,
+          0.05
+        ],
+        [
+          1692.96,
+          8465.51,
+          23.89
+        ],
+        [
+          1783.97,
+          8418.77,
+          19.14
+        ],
+        [
+          1856.0,
+          8380.58,
+          16.07
+        ],
+        [
+          1875.61,
+          8369.6,
+          14.67
+        ],
+        [
+          1929.64,
+          8341.78,
+          14.47
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

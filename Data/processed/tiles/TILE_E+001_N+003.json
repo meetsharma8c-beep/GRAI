@@ -1,0 +1,701 @@
+{
+  "tile_id": "TILE_E+001_N+003",
+  "bounds": {
+    "min_x": 500.0,
+    "max_x": 1000.0,
+    "min_y": 1500.0,
+    "max_y": 2000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.936602,
+    "max_lat": 18.941173,
+    "min_lon": 72.837571,
+    "max_lon": 72.842258
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 15,
+    "road_length_m": 3600.2,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22850863",
+      "osm_id": 22850863,
+      "name": "P D Mello Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1083.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539025,
+        6554470116,
+        6607657702,
+        6601808735,
+        1234815624,
+        1234815651,
+        2176215896,
+        2176144722
+      ],
+      "coordinates_3d": [
+        [
+          560.59,
+          1787.09,
+          10.21
+        ],
+        [
+          584.87,
+          1890.38,
+          12.57
+        ],
+        [
+          672.69,
+          2247.92,
+          4.05
+        ],
+        [
+          703.39,
+          2372.86,
+          4.88
+        ],
+        [
+          726.09,
+          2465.25,
+          2.75
+        ],
+        [
+          727.8,
+          2472.28,
+          3.01
+        ],
+        [
+          812.63,
+          2817.58,
+          4.78
+        ],
+        [
+          817.99,
+          2839.39,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151504080",
+      "osm_id": 151504080,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 358.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13579932299,
+        2176215651,
+        7353245145,
+        662429758,
+        245654356,
+        245654349,
+        666064661,
+        245654339,
+        7353245149,
+        7353245147,
+        7353245148,
+        245654326
+      ],
+      "coordinates_3d": [
+        [
+          552.91,
+          1679.68,
+          12.44
+        ],
+        [
+          564.77,
+          1676.35,
+          12.52
+        ],
+        [
+          590.71,
+          1669.04,
+          12.92
+        ],
+        [
+          726.02,
+          1635.22,
+          12.76
+        ],
+        [
+          732.25,
+          1630.03,
+          12.96
+        ],
+        [
+          753.52,
+          1610.36,
+          10.1
+        ],
+        [
+          770.6,
+          1578.76,
+          9.84
+        ],
+        [
+          782.61,
+          1556.56,
+          11.09
+        ],
+        [
+          823.4,
+          1503.36,
+          11.12
+        ],
+        [
+          825.28,
+          1500.6,
+          11.28
+        ],
+        [
+          826.77,
+          1496.3,
+          11.68
+        ],
+        [
+          826.65,
+          1489.88,
+          12.52
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206347085",
+      "osm_id": 206347085,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 167.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539013,
+        13700651178,
+        2163539016,
+        13700728419,
+        2163539017
+      ],
+      "coordinates_3d": [
+        [
+          476.47,
+          1404.59,
+          9.88
+        ],
+        [
+          472.41,
+          1417.57,
+          10.13
+        ],
+        [
+          492.28,
+          1502.31,
+          11.21
+        ],
+        [
+          501.36,
+          1538.71,
+          11.04
+        ],
+        [
+          508.64,
+          1567.58,
+          11.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261150",
+      "osm_id": 647261150,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 165.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654338,
+        245654291,
+        245654261,
+        6079346474,
+        2163539013
+      ],
+      "coordinates_3d": [
+        [
+          518.11,
+          1564.17,
+          11.65
+        ],
+        [
+          501.95,
+          1499.72,
+          11.46
+        ],
+        [
+          488.75,
+          1437.62,
+          10.79
+        ],
+        [
+          483.44,
+          1415.82,
+          10.07
+        ],
+        [
+          476.47,
+          1404.59,
+          9.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261154",
+      "osm_id": 647261154,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 1200.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144748,
+        13068016153,
+        12902600243,
+        6079346473,
+        6601808736,
+        12298890613,
+        6615613608,
+        12298890615,
+        13700578668,
+        245654393,
+        12298890608,
+        13579932298,
+        245654369
+      ],
+      "coordinates_3d": [
+        [
+          830.48,
+          2844.23,
+          5.05
+        ],
+        [
+          828.73,
+          2836.99,
+          5.05
+        ],
+        [
+          813.1,
+          2772.61,
+          3.63
+        ],
+        [
+          737.85,
+          2465.77,
+          2.59
+        ],
+        [
+          714.22,
+          2369.41,
+          4.44
+        ],
+        [
+          604.34,
+          1922.77,
+          10.21
+        ],
+        [
+          595.95,
+          1887.21,
+          12.04
+        ],
+        [
+          590.77,
+          1863.69,
+          13.74
+        ],
+        [
+          575.95,
+          1804.92,
+          11.6
+        ],
+        [
+          569.68,
+          1780.06,
+          10.66
+        ],
+        [
+          561.78,
+          1747.86,
+          11.94
+        ],
+        [
+          546.44,
+          1684.88,
+          12.63
+        ],
+        [
+          544.72,
+          1677.81,
+          12.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137156490",
+      "osm_id": 1137156490,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 11.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539020,
+        13579932298
+      ],
+      "coordinates_3d": [
+        [
+          535.23,
+          1688.34,
+          13.27
+        ],
+        [
+          546.44,
+          1684.88,
+          12.63
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137156491",
+      "osm_id": 1137156491,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539019,
+        2163539020
+      ],
+      "coordinates_3d": [
+        [
+          533.34,
+          1680.17,
+          13.28
+        ],
+        [
+          535.23,
+          1688.34,
+          13.27
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137156492",
+      "osm_id": 1137156492,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 11.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654369,
+        2163539019
+      ],
+      "coordinates_3d": [
+        [
+          544.72,
+          1677.81,
+          12.81
+        ],
+        [
+          533.34,
+          1680.17,
+          13.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767978",
+      "osm_id": 1235767978,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 99.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539024,
+        2163539020
+      ],
+      "coordinates_3d": [
+        [
+          437.83,
+          1710.68,
+          18.91
+        ],
+        [
+          535.23,
+          1688.34,
+          13.27
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767995",
+      "osm_id": 1235767995,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 141.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539019,
+        10282056984,
+        245654381,
+        12258145308,
+        2163539023
+      ],
+      "coordinates_3d": [
+        [
+          533.34,
+          1680.17,
+          13.28
+        ],
+        [
+          460.53,
+          1696.58,
+          15.87
+        ],
+        [
+          440.39,
+          1701.94,
+          18.56
+        ],
+        [
+          428.11,
+          1704.13,
+          19.41
+        ],
+        [
+          395.14,
+          1711.67,
+          18.0
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1333655751",
+      "osm_id": 1333655751,
+      "name": "P D Mello Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 101.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539020,
+        7353245143,
+        2163539025
+      ],
+      "coordinates_3d": [
+        [
+          535.23,
+          1688.34,
+          13.27
+        ],
+        [
+          549.01,
+          1744.44,
+          12.49
+        ],
+        [
+          560.59,
+          1787.09,
+          10.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1480601889",
+      "osm_id": 1480601889,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 8.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13579932298,
+        13579932299
+      ],
+      "coordinates_3d": [
+        [
+          546.44,
+          1684.88,
+          12.63
+        ],
+        [
+          552.91,
+          1679.68,
+          12.44
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1508385967",
+      "osm_id": 1508385967,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 8.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13579932299,
+        245654369
+      ],
+      "coordinates_3d": [
+        [
+          552.91,
+          1679.68,
+          12.44
+        ],
+        [
+          544.72,
+          1677.81,
+          12.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517955245",
+      "osm_id": 1517955245,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 115.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539017,
+        2163539018,
+        2163539019
+      ],
+      "coordinates_3d": [
+        [
+          508.64,
+          1567.58,
+          11.09
+        ],
+        [
+          519.29,
+          1619.31,
+          12.91
+        ],
+        [
+          533.34,
+          1680.17,
+          13.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517955247",
+      "osm_id": 1517955247,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 116.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654369,
+        245654352,
+        245654338
+      ],
+      "coordinates_3d": [
+        [
+          544.72,
+          1677.81,
+          12.81
+        ],
+        [
+          529.99,
+          1616.71,
+          13.28
+        ],
+        [
+          518.11,
+          1564.17,
+          11.65
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

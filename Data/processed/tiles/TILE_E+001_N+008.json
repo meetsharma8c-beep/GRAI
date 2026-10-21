@@ -1,0 +1,309 @@
+{
+  "tile_id": "TILE_E+001_N+008",
+  "bounds": {
+    "min_x": 500.0,
+    "max_x": 1000.0,
+    "min_y": 4000.0,
+    "max_y": 4500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.95918,
+    "max_lat": 18.963751,
+    "min_lon": 72.83728,
+    "max_lon": 72.841968
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 5,
+    "road_length_m": 790.57,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_658691824",
+      "osm_id": 658691824,
+      "name": "Ramchandra Bhatt Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 579.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        861155618,
+        9019340779,
+        245656444,
+        245656463,
+        861239828,
+        245656471,
+        861248592,
+        493896823,
+        245656532,
+        245656521,
+        10938980061,
+        245656541,
+        2244632852,
+        493896825,
+        245656566,
+        12430623432,
+        245656567,
+        245656580,
+        6552238401,
+        245656593,
+        10277817414,
+        245656594
+      ],
+      "coordinates_3d": [
+        [
+          -46.68,
+          4307.14,
+          6.53
+        ],
+        [
+          -42.74,
+          4307.83,
+          6.88
+        ],
+        [
+          -2.88,
+          4318.71,
+          8.92
+        ],
+        [
+          59.96,
+          4326.45,
+          10.5
+        ],
+        [
+          103.66,
+          4327.29,
+          10.21
+        ],
+        [
+          111.61,
+          4327.31,
+          10.25
+        ],
+        [
+          118.73,
+          4327.61,
+          10.36
+        ],
+        [
+          169.77,
+          4330.14,
+          12.88
+        ],
+        [
+          188.32,
+          4330.93,
+          13.91
+        ],
+        [
+          199.48,
+          4331.4,
+          14.38
+        ],
+        [
+          210.04,
+          4333.7,
+          14.61
+        ],
+        [
+          229.78,
+          4341.33,
+          14.85
+        ],
+        [
+          251.3,
+          4350.52,
+          15.07
+        ],
+        [
+          283.9,
+          4371.8,
+          13.33
+        ],
+        [
+          338.25,
+          4379.23,
+          13.06
+        ],
+        [
+          347.27,
+          4378.68,
+          13.25
+        ],
+        [
+          357.22,
+          4378.09,
+          13.26
+        ],
+        [
+          397.4,
+          4370.69,
+          12.78
+        ],
+        [
+          403.64,
+          4370.36,
+          12.97
+        ],
+        [
+          471.07,
+          4369.06,
+          14.08
+        ],
+        [
+          493.63,
+          4371.05,
+          13.98
+        ],
+        [
+          519.03,
+          4374.31,
+          13.12
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_779616090",
+      "osm_id": 779616090,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 87.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656594,
+        245656623
+      ],
+      "coordinates_3d": [
+        [
+          519.03,
+          4374.31,
+          13.12
+        ],
+        [
+          556.24,
+          4454.05,
+          13.86
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591113",
+      "osm_id": 1304591113,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 73.57,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12082381183,
+        12082381185,
+        2244632856,
+        245656739
+      ],
+      "coordinates_3d": [
+        [
+          573.57,
+          4500.73,
+          20.19
+        ],
+        [
+          577.82,
+          4512.47,
+          19.81
+        ],
+        [
+          589.74,
+          4542.91,
+          17.99
+        ],
+        [
+          604.99,
+          4566.86,
+          16.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591114",
+      "osm_id": 1304591114,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 23.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12082381187,
+        12082381183
+      ],
+      "coordinates_3d": [
+        [
+          565.18,
+          4478.35,
+          14.77
+        ],
+        [
+          573.57,
+          4500.73,
+          14.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1304591116",
+      "osm_id": 1304591116,
+      "name": "Samanthbhai Nanji Marg (Jail Road East)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 25.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656623,
+        12082381187
+      ],
+      "coordinates_3d": [
+        [
+          556.24,
+          4454.05,
+          13.86
+        ],
+        [
+          565.18,
+          4478.35,
+          14.77
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

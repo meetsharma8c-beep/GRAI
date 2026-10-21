@@ -1,0 +1,1147 @@
+{
+  "tile_id": "TILE_E+002_N+026",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 13000.0,
+    "max_y": 13500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.040517,
+    "max_lat": 19.045088,
+    "min_lon": 72.840977,
+    "max_lon": 72.845667
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 19,
+    "road_length_m": 5017.16,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22849401",
+      "osm_id": 22849401,
+      "name": "Mori Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 475.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14237932828,
+        12031239941,
+        12035155648,
+        7362711650,
+        245663467,
+        13397070516,
+        245663497,
+        13999564006,
+        13851565250,
+        13851565254,
+        6490031467,
+        13851589426,
+        245663543,
+        13851600129,
+        13851600130,
+        10918118354,
+        6604411885,
+        5056119960
+      ],
+      "coordinates_3d": [
+        [
+          955.08,
+          13266.72,
+          0.05
+        ],
+        [
+          977.14,
+          13270.25,
+          0.05
+        ],
+        [
+          980.58,
+          13270.78,
+          0.05
+        ],
+        [
+          1024.22,
+          13277.47,
+          0.05
+        ],
+        [
+          1038.48,
+          13279.65,
+          0.05
+        ],
+        [
+          1154.87,
+          13300.53,
+          0.05
+        ],
+        [
+          1162.18,
+          13300.87,
+          0.05
+        ],
+        [
+          1186.45,
+          13301.09,
+          0.05
+        ],
+        [
+          1200.95,
+          13301.22,
+          0.05
+        ],
+        [
+          1202.83,
+          13301.11,
+          0.05
+        ],
+        [
+          1210.25,
+          13300.66,
+          0.05
+        ],
+        [
+          1265.38,
+          13295.44,
+          0.05
+        ],
+        [
+          1275.89,
+          13295.31,
+          0.05
+        ],
+        [
+          1300.13,
+          13295.41,
+          0.05
+        ],
+        [
+          1330.45,
+          13298.28,
+          0.05
+        ],
+        [
+          1376.41,
+          13303.97,
+          0.05
+        ],
+        [
+          1411.51,
+          13307.07,
+          0.05
+        ],
+        [
+          1426.71,
+          13307.83,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_122140424",
+      "osm_id": 122140424,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 48.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1365560255,
+        1365949182
+      ],
+      "coordinates_3d": [
+        [
+          1443.13,
+          13493.35,
+          0.05
+        ],
+        [
+          1489.19,
+          13508.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_122140427",
+      "osm_id": 122140427,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 269.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165604846,
+        6165604845,
+        6165604844,
+        13851504747,
+        245663743,
+        7416650800,
+        7416650801,
+        473041363,
+        7416650798,
+        7416650799,
+        245663732,
+        7416650797,
+        674648874,
+        7416650794,
+        473041351,
+        13366357985,
+        245663744
+      ],
+      "coordinates_3d": [
+        [
+          1164.05,
+          13575.02,
+          0.05
+        ],
+        [
+          1171.96,
+          13551.6,
+          0.05
+        ],
+        [
+          1176.51,
+          13538.81,
+          0.05
+        ],
+        [
+          1181.28,
+          13526.45,
+          0.05
+        ],
+        [
+          1188.51,
+          13507.68,
+          0.05
+        ],
+        [
+          1192.38,
+          13500.04,
+          0.05
+        ],
+        [
+          1197.38,
+          13492.69,
+          0.05
+        ],
+        [
+          1208.51,
+          13479.92,
+          0.05
+        ],
+        [
+          1217.8,
+          13472.08,
+          0.05
+        ],
+        [
+          1226.42,
+          13466.85,
+          0.05
+        ],
+        [
+          1240.94,
+          13458.53,
+          0.05
+        ],
+        [
+          1260.37,
+          13453.73,
+          0.05
+        ],
+        [
+          1276.28,
+          13450.66,
+          0.05
+        ],
+        [
+          1294.49,
+          13450.01,
+          0.05
+        ],
+        [
+          1309.36,
+          13451.04,
+          0.05
+        ],
+        [
+          1350.28,
+          13465.87,
+          0.05
+        ],
+        [
+          1361.25,
+          13469.85,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658401970",
+      "osm_id": 658401970,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 97.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10629455426,
+        245663708
+      ],
+      "coordinates_3d": [
+        [
+          1442.95,
+          13335.09,
+          0.05
+        ],
+        [
+          1399.02,
+          13422.61,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658401971",
+      "osm_id": 658401971,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 209.63,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245663708,
+        6165604836,
+        9918730791,
+        11023557371,
+        6165604840
+      ],
+      "coordinates_3d": [
+        [
+          1399.02,
+          13422.61,
+          0.05
+        ],
+        [
+          1388.4,
+          13431.79,
+          0.05
+        ],
+        [
+          1381.57,
+          13445.38,
+          0.05
+        ],
+        [
+          1313.96,
+          13603.41,
+          0.05
+        ],
+        [
+          1307.85,
+          13609.32,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658401972",
+      "osm_id": 658401972,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 206.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11023557373,
+        6165604837,
+        245663708
+      ],
+      "coordinates_3d": [
+        [
+          1321.08,
+          13613.26,
+          0.05
+        ],
+        [
+          1397.42,
+          13435.08,
+          0.05
+        ],
+        [
+          1399.02,
+          13422.61,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658401973",
+      "osm_id": 658401973,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 290.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7416650814,
+        13366357984,
+        7416650810,
+        7416650804,
+        7416650809,
+        7416650796,
+        7416650808,
+        7416650802,
+        7416650803,
+        7416650807,
+        7416650806,
+        7416650811,
+        6165604843,
+        6165604842,
+        245663814
+      ],
+      "coordinates_3d": [
+        [
+          1363.92,
+          13460.83,
+          0.05
+        ],
+        [
+          1353.55,
+          13457.17,
+          0.05
+        ],
+        [
+          1311.7,
+          13442.43,
+          0.05
+        ],
+        [
+          1289.67,
+          13442.15,
+          0.05
+        ],
+        [
+          1267.4,
+          13445.51,
+          0.05
+        ],
+        [
+          1251.91,
+          13448.92,
+          0.05
+        ],
+        [
+          1236.94,
+          13454.3,
+          0.05
+        ],
+        [
+          1225.62,
+          13458.79,
+          0.05
+        ],
+        [
+          1213.15,
+          13466.8,
+          0.05
+        ],
+        [
+          1203.38,
+          13476.05,
+          0.05
+        ],
+        [
+          1182.58,
+          13504.78,
+          0.05
+        ],
+        [
+          1168.61,
+          13536.51,
+          0.05
+        ],
+        [
+          1164.22,
+          13548.75,
+          0.05
+        ],
+        [
+          1155.85,
+          13572.71,
+          0.05
+        ],
+        [
+          1158.59,
+          13582.31,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_793163030",
+      "osm_id": 793163030,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.91,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        7416650815,
+        7416650812
+      ],
+      "coordinates_3d": [
+        [
+          1518.62,
+          13509.1,
+          5.55
+        ],
+        [
+          1492.28,
+          13499.86,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1092043279",
+      "osm_id": 1092043279,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 691.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        674869953,
+        11058973857,
+        5271602956,
+        5271602951,
+        5271602946,
+        5271602944,
+        13551155701,
+        9598016735,
+        5271602938
+      ],
+      "coordinates_3d": [
+        [
+          916.38,
+          13260.95,
+          0.05
+        ],
+        [
+          1001.46,
+          13075.61,
+          0.05
+        ],
+        [
+          1025.43,
+          13023.37,
+          0.05
+        ],
+        [
+          1059.53,
+          12947.06,
+          0.05
+        ],
+        [
+          1102.97,
+          12822.52,
+          0.05
+        ],
+        [
+          1112.68,
+          12771.15,
+          0.05
+        ],
+        [
+          1114.97,
+          12758.02,
+          0.05
+        ],
+        [
+          1128.37,
+          12681.39,
+          0.05
+        ],
+        [
+          1139.23,
+          12610.83,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1145064276",
+      "osm_id": 1145064276,
+      "name": "Lady Jamshedji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 686.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245662760,
+        13506472498,
+        10579711469,
+        245662917,
+        2128607208,
+        245662966,
+        8678998804,
+        245663074,
+        3704031690,
+        245663303,
+        245663409
+      ],
+      "coordinates_3d": [
+        [
+          1129.59,
+          12611.77,
+          0.05
+        ],
+        [
+          1121.58,
+          12678.92,
+          0.05
+        ],
+        [
+          1110.74,
+          12743.09,
+          0.05
+        ],
+        [
+          1102.76,
+          12773.78,
+          0.05
+        ],
+        [
+          1097.51,
+          12789.28,
+          0.05
+        ],
+        [
+          1091.86,
+          12819.81,
+          0.05
+        ],
+        [
+          1087.19,
+          12835.48,
+          0.05
+        ],
+        [
+          1048.76,
+          12943.03,
+          0.05
+        ],
+        [
+          1014.83,
+          13018.56,
+          0.05
+        ],
+        [
+          946.59,
+          13171.95,
+          0.05
+        ],
+        [
+          905.81,
+          13256.16,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186783937",
+      "osm_id": 1186783937,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 48.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7416650812,
+        11023557403,
+        7416650813
+      ],
+      "coordinates_3d": [
+        [
+          1492.28,
+          13499.86,
+          0.05
+        ],
+        [
+          1476.02,
+          13494.58,
+          0.05
+        ],
+        [
+          1445.55,
+          13485.2,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186783938",
+      "osm_id": 1186783938,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.9,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1365949182,
+        245663783
+      ],
+      "coordinates_3d": [
+        [
+          1489.19,
+          13508.04,
+          5.55
+        ],
+        [
+          1515.4,
+          13517.61,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186783940",
+      "osm_id": 1186783940,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 85.19,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245663744,
+        1365560255
+      ],
+      "coordinates_3d": [
+        [
+          1361.25,
+          13469.85,
+          5.55
+        ],
+        [
+          1443.13,
+          13493.35,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186783941",
+      "osm_id": 1186783941,
+      "name": "Mahim Sion Link Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 85.19,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        7416650813,
+        7416650814
+      ],
+      "coordinates_3d": [
+        [
+          1445.55,
+          13485.2,
+          5.55
+        ],
+        [
+          1363.92,
+          13460.83,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1186783945",
+      "osm_id": 1186783945,
+      "name": "Unnamed Road",
+      "highway": "footway",
+      "width_m": 2.5,
+      "width_source": "default_highway_type:footway",
+      "length_m": 440.7,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        12841369683,
+        12841369682,
+        11022259935,
+        11022259936,
+        11022259939,
+        11022259940,
+        11022259938,
+        11022259937
+      ],
+      "coordinates_3d": [
+        [
+          1440.32,
+          13277.45,
+          5.55
+        ],
+        [
+          1471.45,
+          13290.33,
+          5.55
+        ],
+        [
+          1468.43,
+          13297.33,
+          5.55
+        ],
+        [
+          1512.29,
+          13315.46,
+          5.55
+        ],
+        [
+          1511.29,
+          13320.1,
+          5.55
+        ],
+        [
+          1594.86,
+          13329.54,
+          5.55
+        ],
+        [
+          1773.23,
+          13342.3,
+          5.55
+        ],
+        [
+          1857.45,
+          13344.8,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238064848",
+      "osm_id": 1238064848,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 961.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245663569,
+        8933693737,
+        5056119963,
+        9153251678,
+        6165604824,
+        8933693739,
+        4352228609,
+        6430084705,
+        13546976661,
+        245663085,
+        13552203685,
+        245662978,
+        9153374871,
+        245662851,
+        13571656508,
+        13571656510,
+        14173022361,
+        245662763,
+        13571656512,
+        245662630
+      ],
+      "coordinates_3d": [
+        [
+          1451.51,
+          13312.41,
+          0.05
+        ],
+        [
+          1459.15,
+          13308.92,
+          0.05
+        ],
+        [
+          1473.03,
+          13274.6,
+          0.05
+        ],
+        [
+          1481.75,
+          13253.88,
+          0.05
+        ],
+        [
+          1489.63,
+          13234.17,
+          0.05
+        ],
+        [
+          1529.98,
+          13133.61,
+          0.05
+        ],
+        [
+          1570.3,
+          13030.36,
+          0.05
+        ],
+        [
+          1572.85,
+          13024.66,
+          0.05
+        ],
+        [
+          1609.75,
+          12930.75,
+          0.05
+        ],
+        [
+          1613.04,
+          12922.0,
+          0.05
+        ],
+        [
+          1629.07,
+          12869.44,
+          0.05
+        ],
+        [
+          1645.44,
+          12815.77,
+          0.05
+        ],
+        [
+          1650.5,
+          12794.65,
+          0.05
+        ],
+        [
+          1680.93,
+          12667.63,
+          0.05
+        ],
+        [
+          1688.23,
+          12622.97,
+          0.05
+        ],
+        [
+          1695.76,
+          12576.91,
+          0.05
+        ],
+        [
+          1698.34,
+          12561.16,
+          0.05
+        ],
+        [
+          1702.41,
+          12536.25,
+          0.05
+        ],
+        [
+          1710.14,
+          12450.9,
+          0.05
+        ],
+        [
+          1715.01,
+          12397.05,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1373998420",
+      "osm_id": 1373998420,
+      "name": "Mori Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5056119960,
+        245663569
+      ],
+      "coordinates_3d": [
+        [
+          1426.71,
+          13307.83,
+          0.05
+        ],
+        [
+          1451.51,
+          13312.41,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1373998421",
+      "osm_id": 1373998421,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 24.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245663569,
+        10629455426
+      ],
+      "coordinates_3d": [
+        [
+          1451.51,
+          13312.41,
+          0.05
+        ],
+        [
+          1442.95,
+          13335.09,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1442316244",
+      "osm_id": 1442316244,
+      "name": "Senapati Bapat Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 314.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6428522291,
+        6165604831,
+        11058738371,
+        6165604832,
+        5056119961,
+        8933693736,
+        245663569
+      ],
+      "coordinates_3d": [
+        [
+          1563.82,
+          13020.97,
+          0.05
+        ],
+        [
+          1560.67,
+          13029.62,
+          0.05
+        ],
+        [
+          1487.37,
+          13207.05,
+          0.05
+        ],
+        [
+          1475.41,
+          13236.02,
+          0.05
+        ],
+        [
+          1469.05,
+          13253.49,
+          0.05
+        ],
+        [
+          1449.05,
+          13298.82,
+          0.05
+        ],
+        [
+          1451.51,
+          13312.41,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

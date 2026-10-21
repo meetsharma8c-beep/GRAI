@@ -1,0 +1,1098 @@
+{
+  "tile_id": "TILE_E-003_N+014",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 7000.0,
+    "max_y": 7500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.986051,
+    "max_lat": 18.990623,
+    "min_lon": 72.817943,
+    "max_lon": 72.822631
+  },
+  "statistics": {
+    "total_buildings": 2,
+    "level_a_verified": 0,
+    "level_b_inferred": 1,
+    "level_c_unavailable": 1,
+    "total_roads": 16,
+    "road_length_m": 4217.68,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_353378297",
+      "source_id": "osm_way_353378297",
+      "osm_id": 353378297,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 1086.84,
+      "perimeter_m": 146.35,
+      "local_centroid": [
+        -1000.87,
+        7434.48
+      ],
+      "geo_centroid": [
+        18.990046,
+        72.822609
+      ],
+      "local_polygon_vertices": [
+        [
+          -1009.55,
+          7454.43
+        ],
+        [
+          -1004.96,
+          7451.93
+        ],
+        [
+          -1002.71,
+          7456.0
+        ],
+        [
+          -978.47,
+          7442.74
+        ],
+        [
+          -988.82,
+          7424.02
+        ],
+        [
+          -991.88,
+          7425.7
+        ],
+        [
+          -1001.04,
+          7409.14
+        ],
+        [
+          -1016.2,
+          7417.43
+        ],
+        [
+          -1010.3,
+          7428.11
+        ],
+        [
+          -1020.91,
+          7433.91
+        ],
+        [
+          -1009.55,
+          7454.43
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9902101,
+          72.8225456
+        ],
+        [
+          18.990188,
+          72.8225895
+        ],
+        [
+          18.990225,
+          72.8226104
+        ],
+        [
+          18.990108,
+          72.8228421
+        ],
+        [
+          18.9899378,
+          72.822746
+        ],
+        [
+          18.9899526,
+          72.8227167
+        ],
+        [
+          18.989802,
+          72.8226317
+        ],
+        [
+          18.9898752,
+          72.8224868
+        ],
+        [
+          18.9899723,
+          72.8225416
+        ],
+        [
+          18.9900235,
+          72.8224402
+        ],
+        [
+          18.9902101,
+          72.8225456
+        ]
+      ],
+      "elevation_msl": 7.23,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358473244",
+      "source_id": "osm_way_358473244",
+      "osm_id": 358473244,
+      "sub_index": 0,
+      "tags": {
+        "amenity": "planetarium",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Nehru Planetarium"
+      },
+      "area_sqm": 808.48,
+      "perimeter_m": 118.33,
+      "local_centroid": [
+        -1426.4,
+        7506.61
+      ],
+      "geo_centroid": [
+        18.990629,
+        72.818573
+      ],
+      "local_polygon_vertices": [
+        [
+          -1438.09,
+          7492.51
+        ],
+        [
+          -1439.98,
+          7498.21
+        ],
+        [
+          -1438.11,
+          7498.97
+        ],
+        [
+          -1442.81,
+          7512.55
+        ],
+        [
+          -1441.08,
+          7516.6
+        ],
+        [
+          -1426.88,
+          7521.39
+        ],
+        [
+          -1427.78,
+          7523.81
+        ],
+        [
+          -1422.68,
+          7525.67
+        ],
+        [
+          -1416.79,
+          7523.08
+        ],
+        [
+          -1414.06,
+          7516.45
+        ],
+        [
+          -1415.94,
+          7514.92
+        ],
+        [
+          -1408.97,
+          7497.32
+        ],
+        [
+          -1418.61,
+          7492.7
+        ],
+        [
+          -1419.27,
+          7494.4
+        ],
+        [
+          -1424.89,
+          7491.7
+        ],
+        [
+          -1431.3,
+          7488.71
+        ],
+        [
+          -1438.09,
+          7492.51
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9905061,
+          72.8184727
+        ],
+        [
+          18.9905573,
+          72.8184541
+        ],
+        [
+          18.9905644,
+          72.8184717
+        ],
+        [
+          18.9906865,
+          72.8184255
+        ],
+        [
+          18.9907233,
+          72.8184415
+        ],
+        [
+          18.9907681,
+          72.8185757
+        ],
+        [
+          18.9907899,
+          72.8185669
+        ],
+        [
+          18.9908073,
+          72.8186151
+        ],
+        [
+          18.9907845,
+          72.8186713
+        ],
+        [
+          18.990725,
+          72.818698
+        ],
+        [
+          18.9907109,
+          72.8186803
+        ],
+        [
+          18.9905528,
+          72.8187486
+        ],
+        [
+          18.99051,
+          72.8186576
+        ],
+        [
+          18.9905252,
+          72.8186511
+        ],
+        [
+          18.9905002,
+          72.8185981
+        ],
+        [
+          18.9904725,
+          72.8185376
+        ],
+        [
+          18.9905061,
+          72.8184727
+        ]
+      ],
+      "elevation_msl": 7.97,
+      "height_m": 16.0,
+      "levels": 5.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:5"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_1120516118",
+      "osm_id": 1120516118,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 219.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13366744847,
+        13366744844,
+        10248456397,
+        10248456398,
+        10248456399,
+        10248456400,
+        10248456401,
+        11221869243,
+        10248456402,
+        10248456403,
+        10956608483
+      ],
+      "coordinates_3d": [
+        [
+          -1097.33,
+          7429.26,
+          1.16
+        ],
+        [
+          -1101.49,
+          7425.06,
+          1.29
+        ],
+        [
+          -1112.57,
+          7422.45,
+          1.26
+        ],
+        [
+          -1122.24,
+          7425.61,
+          1.12
+        ],
+        [
+          -1132.31,
+          7437.1,
+          0.72
+        ],
+        [
+          -1163.82,
+          7487.27,
+          0.91
+        ],
+        [
+          -1180.8,
+          7520.37,
+          3.67
+        ],
+        [
+          -1191.88,
+          7562.55,
+          4.85
+        ],
+        [
+          -1193.01,
+          7566.84,
+          4.71
+        ],
+        [
+          -1189.34,
+          7582.28,
+          4.21
+        ],
+        [
+          -1178.3,
+          7594.74,
+          3.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1123694427",
+      "osm_id": 1123694427,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 509.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8675232544,
+        768595335,
+        13802299622,
+        13073741408
+      ],
+      "coordinates_3d": [
+        [
+          -793.61,
+          6842.77,
+          4.25
+        ],
+        [
+          -798.32,
+          6858.73,
+          4.41
+        ],
+        [
+          -970.34,
+          7206.24,
+          2.41
+        ],
+        [
+          -1018.62,
+          7300.03,
+          3.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188760874",
+      "osm_id": 1188760874,
+      "name": "Senapati Bapat Marg (Tulsi Pipe Road)",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 10.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        768595339,
+        13073741409
+      ],
+      "coordinates_3d": [
+        [
+          -1021.81,
+          7306.41,
+          2.92
+        ],
+        [
+          -1012.24,
+          7311.72,
+          3.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188760875",
+      "osm_id": 1188760875,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 403.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13073741409,
+        13073741407,
+        13802299624,
+        13274639824,
+        13802299623,
+        13294486869,
+        13294486876,
+        245658547,
+        2216533512,
+        245658432
+      ],
+      "coordinates_3d": [
+        [
+          -1012.24,
+          7311.72,
+          3.17
+        ],
+        [
+          -1009.88,
+          7303.25,
+          3.21
+        ],
+        [
+          -984.71,
+          7254.93,
+          4.2
+        ],
+        [
+          -961.09,
+          7214.04,
+          2.12
+        ],
+        [
+          -959.66,
+          7211.12,
+          2.31
+        ],
+        [
+          -949.36,
+          7190.05,
+          4.01
+        ],
+        [
+          -941.59,
+          7174.17,
+          5.18
+        ],
+        [
+          -903.21,
+          7095.71,
+          4.36
+        ],
+        [
+          -876.77,
+          7041.99,
+          0.53
+        ],
+        [
+          -831.83,
+          6951.04,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457455800",
+      "osm_id": 1457455800,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 11.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13366744846,
+        13366744845,
+        13366744848
+      ],
+      "coordinates_3d": [
+        [
+          -1084.02,
+          7441.58,
+          0.63
+        ],
+        [
+          -1092.07,
+          7434.58,
+          0.92
+        ],
+        [
+          -1092.65,
+          7433.99,
+          0.95
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1457455801",
+      "osm_id": 1457455801,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 6.65,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        13366744848,
+        13366744847
+      ],
+      "coordinates_3d": [
+        [
+          -1092.65,
+          7433.99,
+          6.45
+        ],
+        [
+          -1097.33,
+          7429.26,
+          6.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22850484",
+      "osm_id": 22850484,
+      "name": "Senapati Bapat Marg",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 581.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13073741409,
+        768595343,
+        13802299621,
+        245658621,
+        13802299616,
+        245658674,
+        10248861959,
+        6571935108,
+        6571935098,
+        6985992871,
+        6569236682,
+        2805271338
+      ],
+      "coordinates_3d": [
+        [
+          -1012.24,
+          7311.72,
+          3.17
+        ],
+        [
+          -996.39,
+          7329.95,
+          3.76
+        ],
+        [
+          -991.15,
+          7339.48,
+          4.09
+        ],
+        [
+          -987.37,
+          7346.36,
+          4.54
+        ],
+        [
+          -978.71,
+          7363.48,
+          5.72
+        ],
+        [
+          -936.99,
+          7445.95,
+          6.54
+        ],
+        [
+          -893.17,
+          7530.42,
+          4.75
+        ],
+        [
+          -815.65,
+          7680.14,
+          6.46
+        ],
+        [
+          -795.63,
+          7722.95,
+          5.33
+        ],
+        [
+          -786.05,
+          7740.0,
+          4.42
+        ],
+        [
+          -758.09,
+          7796.42,
+          4.88
+        ],
+        [
+          -743.04,
+          7826.5,
+          7.25
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852128",
+      "osm_id": 22852128,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 152.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658621,
+        7374923788,
+        7374923787,
+        245658637,
+        245658666,
+        7374923790,
+        245658674
+      ],
+      "coordinates_3d": [
+        [
+          -987.37,
+          7346.36,
+          4.54
+        ],
+        [
+          -998.28,
+          7368.32,
+          5.18
+        ],
+        [
+          -999.73,
+          7376.63,
+          5.56
+        ],
+        [
+          -998.78,
+          7383.86,
+          6.05
+        ],
+        [
+          -960.91,
+          7459.64,
+          6.28
+        ],
+        [
+          -947.93,
+          7453.21,
+          6.31
+        ],
+        [
+          -936.99,
+          7445.95,
+          6.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_38546496",
+      "osm_id": 38546496,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 314.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        456310629,
+        2216533707,
+        456307454
+      ],
+      "coordinates_3d": [
+        [
+          -1314.3,
+          7173.08,
+          5.12
+        ],
+        [
+          -1404.69,
+          7427.06,
+          5.28
+        ],
+        [
+          -1420.35,
+          7469.68,
+          7.02
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_211682990",
+      "osm_id": 211682990,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 227.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216533642,
+        2216533648,
+        7374385635,
+        7374385633,
+        7374385634,
+        2216533722,
+        2216533707
+      ],
+      "coordinates_3d": [
+        [
+          -1273.82,
+          7311.56,
+          0.05
+        ],
+        [
+          -1293.42,
+          7337.71,
+          0.72
+        ],
+        [
+          -1323.58,
+          7438.78,
+          3.54
+        ],
+        [
+          -1329.01,
+          7445.57,
+          3.55
+        ],
+        [
+          -1336.03,
+          7448.75,
+          3.6
+        ],
+        [
+          -1344.36,
+          7449.39,
+          3.87
+        ],
+        [
+          -1404.69,
+          7427.06,
+          5.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658365050",
+      "osm_id": 658365050,
+      "name": "Senapati Bapat Marg",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 579.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2650054221,
+        4362526714,
+        13802299617,
+        10248456418,
+        13073741407
+      ],
+      "coordinates_3d": [
+        [
+          -735.84,
+          7812.21,
+          7.65
+        ],
+        [
+          -881.11,
+          7524.0,
+          4.94
+        ],
+        [
+          -968.76,
+          7358.85,
+          5.58
+        ],
+        [
+          -988.13,
+          7325.29,
+          3.62
+        ],
+        [
+          -1009.88,
+          7303.25,
+          3.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658655942",
+      "osm_id": 658655942,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 499.94,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        456310628,
+        456310629,
+        2216533600,
+        7374872372,
+        2216533642,
+        7374923815,
+        11221869242,
+        11221869243
+      ],
+      "coordinates_3d": [
+        [
+          -1333.7,
+          7092.82,
+          5.44
+        ],
+        [
+          -1314.3,
+          7173.08,
+          5.12
+        ],
+        [
+          -1295.31,
+          7246.25,
+          4.3
+        ],
+        [
+          -1276.31,
+          7304.0,
+          0.05
+        ],
+        [
+          -1273.82,
+          7311.56,
+          0.05
+        ],
+        [
+          -1252.65,
+          7392.86,
+          0.59
+        ],
+        [
+          -1210.59,
+          7557.07,
+          5.04
+        ],
+        [
+          -1191.88,
+          7562.55,
+          4.85
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138262310",
+      "osm_id": 1138262310,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 329.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10248456406,
+        768595345,
+        13073741409
+      ],
+      "coordinates_3d": [
+        [
+          -1155.54,
+          7608.46,
+          3.27
+        ],
+        [
+          -1023.27,
+          7339.68,
+          3.54
+        ],
+        [
+          -1012.24,
+          7311.72,
+          3.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188760873",
+      "osm_id": 1188760873,
+      "name": "Dr E Moses Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 324.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        768595339,
+        13366744846,
+        10248456407
+      ],
+      "coordinates_3d": [
+        [
+          -1021.81,
+          7306.41,
+          2.92
+        ],
+        [
+          -1084.02,
+          7441.58,
+          0.63
+        ],
+        [
+          -1163.93,
+          7598.51,
+          3.74
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239425654",
+      "osm_id": 1239425654,
+      "name": "Senapati Bapat Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 9.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13073741407,
+        13073741408
+      ],
+      "coordinates_3d": [
+        [
+          -1009.88,
+          7303.25,
+          3.21
+        ],
+        [
+          -1018.62,
+          7300.03,
+          3.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1552214338",
+      "osm_id": 1552214338,
+      "name": "Unnamed Road",
+      "highway": "footway",
+      "width_m": 2.5,
+      "width_source": "default_highway_type:footway",
+      "length_m": 35.72,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        14121809125,
+        14121809124
+      ],
+      "coordinates_3d": [
+        [
+          -1506.99,
+          7476.54,
+          18.01
+        ],
+        [
+          -1492.64,
+          7509.25,
+          16.1
+        ]
+      ],
+      "has_junction": false
+    }
+  ]
+}

@@ -1,0 +1,9962 @@
+{
+  "tile_id": "TILE_E-001_N+015",
+  "bounds": {
+    "min_x": -500.0,
+    "max_x": 0.0,
+    "min_y": 7500.0,
+    "max_y": 8000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.990679,
+    "max_lat": 18.99525,
+    "min_lon": 72.827378,
+    "max_lon": 72.832066
+  },
+  "statistics": {
+    "total_buildings": 65,
+    "level_a_verified": 0,
+    "level_b_inferred": 8,
+    "level_c_unavailable": 57,
+    "total_roads": 70,
+    "road_length_m": 9405.82,
+    "confidence_score": 0.349
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_40746920",
+      "source_id": "osm_way_40746920",
+      "osm_id": 40746920,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "7",
+        "name": "Pragati Industrial Area",
+        "source": "Yahoo"
+      },
+      "area_sqm": 4327.03,
+      "perimeter_m": 339.56,
+      "local_centroid": [
+        -208.37,
+        7506.66
+      ],
+      "geo_centroid": [
+        18.990775,
+        72.829995
+      ],
+      "local_polygon_vertices": [
+        [
+          -267.84,
+          7537.43
+        ],
+        [
+          -271.64,
+          7514.94
+        ],
+        [
+          -271.29,
+          7497.54
+        ],
+        [
+          -237.95,
+          7493.51
+        ],
+        [
+          -208.81,
+          7491.7
+        ],
+        [
+          -137.09,
+          7480.92
+        ],
+        [
+          -131.81,
+          7504.39
+        ],
+        [
+          -267.84,
+          7537.43
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9910424,
+          72.8295775
+        ],
+        [
+          18.9908389,
+          72.8295441
+        ],
+        [
+          18.9906818,
+          72.8295494
+        ],
+        [
+          18.9906491,
+          72.8298664
+        ],
+        [
+          18.990636,
+          72.8301433
+        ],
+        [
+          18.9905466,
+          72.8308255
+        ],
+        [
+          18.9907592,
+          72.8308728
+        ],
+        [
+          18.9910424,
+          72.8295775
+        ]
+      ],
+      "elevation_msl": 6.25,
+      "height_m": 22.4,
+      "levels": 7.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:7"
+    },
+    {
+      "asset_id": "BLDG_353378299",
+      "source_id": "osm_way_353378299",
+      "osm_id": 353378299,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 640.59,
+      "perimeter_m": 159.4,
+      "local_centroid": [
+        -1.63,
+        7737.98
+      ],
+      "geo_centroid": [
+        18.99292,
+        72.832063
+      ],
+      "local_polygon_vertices": [
+        [
+          -14.54,
+          7755.25
+        ],
+        [
+          -5.91,
+          7755.03
+        ],
+        [
+          -6.37,
+          7737.25
+        ],
+        [
+          -4.89,
+          7737.22
+        ],
+        [
+          -4.99,
+          7732.99
+        ],
+        [
+          2.25,
+          7732.8
+        ],
+        [
+          2.81,
+          7754.82
+        ],
+        [
+          12.03,
+          7754.58
+        ],
+        [
+          11.25,
+          7723.51
+        ],
+        [
+          -15.34,
+          7724.18
+        ],
+        [
+          -14.54,
+          7755.25
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9930378,
+          72.8319568
+        ],
+        [
+          18.9930368,
+          72.8320388
+        ],
+        [
+          18.9928761,
+          72.8320365
+        ],
+        [
+          18.992876,
+          72.8320506
+        ],
+        [
+          18.9928378,
+          72.8320501
+        ],
+        [
+          18.9928369,
+          72.8321189
+        ],
+        [
+          18.9930358,
+          72.8321216
+        ],
+        [
+          18.9930347,
+          72.8322092
+        ],
+        [
+          18.992754,
+          72.8322054
+        ],
+        [
+          18.9927571,
+          72.8319529
+        ],
+        [
+          18.9930378,
+          72.8319568
+        ]
+      ],
+      "elevation_msl": 10.29,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378324",
+      "source_id": "osm_way_353378324",
+      "osm_id": 353378324,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 4"
+      },
+      "area_sqm": 457.41,
+      "perimeter_m": 96.68,
+      "local_centroid": [
+        -199.03,
+        7557.12
+      ],
+      "geo_centroid": [
+        18.991262,
+        72.830225
+      ],
+      "local_polygon_vertices": [
+        [
+          -200.49,
+          7575.9
+        ],
+        [
+          -188.04,
+          7572.46
+        ],
+        [
+          -197.58,
+          7538.34
+        ],
+        [
+          -210.01,
+          7541.77
+        ],
+        [
+          -200.49,
+          7575.9
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9913974,
+          72.8302124
+        ],
+        [
+          18.9913677,
+          72.830331
+        ],
+        [
+          18.9910585,
+          72.8302445
+        ],
+        [
+          18.9910881,
+          72.830126
+        ],
+        [
+          18.9913974,
+          72.8302124
+        ]
+      ],
+      "elevation_msl": 4.0,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378326",
+      "source_id": "osm_way_353378326",
+      "osm_id": 353378326,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 280.07,
+      "perimeter_m": 68.95,
+      "local_centroid": [
+        -44.15,
+        7781.66
+      ],
+      "geo_centroid": [
+        18.993292,
+        72.831659
+      ],
+      "local_polygon_vertices": [
+        [
+          -51.07,
+          7792.12
+        ],
+        [
+          -37.97,
+          7792.57
+        ],
+        [
+          -37.24,
+          7771.21
+        ],
+        [
+          -50.33,
+          7770.76
+        ],
+        [
+          -51.07,
+          7792.12
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9933667,
+          72.8316057
+        ],
+        [
+          18.9933722,
+          72.83173
+        ],
+        [
+          18.9931794,
+          72.8317395
+        ],
+        [
+          18.9931739,
+          72.8316152
+        ],
+        [
+          18.9933667,
+          72.8316057
+        ]
+      ],
+      "elevation_msl": 9.27,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378346",
+      "source_id": "osm_way_353378346",
+      "osm_id": 353378346,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "10",
+        "name": "Krishna Nivas"
+      },
+      "area_sqm": 346.88,
+      "perimeter_m": 89.89,
+      "local_centroid": [
+        -92.46,
+        7528.2
+      ],
+      "geo_centroid": [
+        18.990946,
+        72.831236
+      ],
+      "local_polygon_vertices": [
+        [
+          -96.69,
+          7510.49
+        ],
+        [
+          -98.11,
+          7545.51
+        ],
+        [
+          -88.21,
+          7545.9
+        ],
+        [
+          -86.81,
+          7510.88
+        ],
+        [
+          -96.69,
+          7510.49
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9908182,
+          72.8312055
+        ],
+        [
+          18.9911343,
+          72.831188
+        ],
+        [
+          18.9911389,
+          72.8312819
+        ],
+        [
+          18.9908228,
+          72.8312993
+        ],
+        [
+          18.9908182,
+          72.8312055
+        ]
+      ],
+      "elevation_msl": 6.08,
+      "height_m": 32.0,
+      "levels": 10.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:10"
+    },
+    {
+      "asset_id": "BLDG_353378371",
+      "source_id": "osm_way_353378371",
+      "osm_id": 353378371,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 358.64,
+      "perimeter_m": 76.45,
+      "local_centroid": [
+        -38.28,
+        7637.69
+      ],
+      "geo_centroid": [
+        18.991993,
+        72.831729
+      ],
+      "local_polygon_vertices": [
+        [
+          -46.55,
+          7648.53
+        ],
+        [
+          -30.0,
+          7648.52
+        ],
+        [
+          -30.01,
+          7626.84
+        ],
+        [
+          -46.55,
+          7626.85
+        ],
+        [
+          -46.55,
+          7648.53
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9920704,
+          72.8316654
+        ],
+        [
+          18.9920722,
+          72.8318225
+        ],
+        [
+          18.9918764,
+          72.831825
+        ],
+        [
+          18.9918746,
+          72.831668
+        ],
+        [
+          18.9920704,
+          72.8316654
+        ]
+      ],
+      "elevation_msl": 6.08,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378390",
+      "source_id": "osm_way_353378390",
+      "osm_id": 353378390,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "BDD Chawl No 7"
+      },
+      "area_sqm": 454.74,
+      "perimeter_m": 97.03,
+      "local_centroid": [
+        -258.82,
+        7566.64
+      ],
+      "geo_centroid": [
+        18.991341,
+        72.829655
+      ],
+      "local_polygon_vertices": [
+        [
+          -260.98,
+          7585.5
+        ],
+        [
+          -248.61,
+          7582.69
+        ],
+        [
+          -256.64,
+          7547.77
+        ],
+        [
+          -269.03,
+          7550.6
+        ],
+        [
+          -260.98,
+          7585.5
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9914773,
+          72.829637
+        ],
+        [
+          18.9914533,
+          72.8297548
+        ],
+        [
+          18.9911371,
+          72.8296826
+        ],
+        [
+          18.9911612,
+          72.8295647
+        ],
+        [
+          18.9914773,
+          72.829637
+        ]
+      ],
+      "elevation_msl": 5.41,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378400",
+      "source_id": "osm_way_353378400",
+      "osm_id": 353378400,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 9"
+      },
+      "area_sqm": 439.02,
+      "perimeter_m": 92.63,
+      "local_centroid": [
+        -304.64,
+        7584.78
+      ],
+      "geo_centroid": [
+        18.99144,
+        72.829203
+      ],
+      "local_polygon_vertices": [
+        [
+          -315.37,
+          7570.56
+        ],
+        [
+          -306.75,
+          7602.44
+        ],
+        [
+          -293.91,
+          7599.0
+        ],
+        [
+          -302.52,
+          7567.13
+        ],
+        [
+          -315.37,
+          7570.56
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9913363,
+          72.8291224
+        ],
+        [
+          18.9916252,
+          72.8292005
+        ],
+        [
+          18.9915956,
+          72.8293228
+        ],
+        [
+          18.9913068,
+          72.8292448
+        ],
+        [
+          18.9913363,
+          72.8291224
+        ]
+      ],
+      "elevation_msl": 4.6,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378411",
+      "source_id": "osm_way_353378411",
+      "osm_id": 353378411,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 293.96,
+      "perimeter_m": 78.38,
+      "local_centroid": [
+        -4.82,
+        7770.24
+      ],
+      "geo_centroid": [
+        18.993183,
+        72.83202
+      ],
+      "local_polygon_vertices": [
+        [
+          -19.28,
+          7775.52
+        ],
+        [
+          9.8,
+          7775.07
+        ],
+        [
+          9.64,
+          7764.96
+        ],
+        [
+          -19.43,
+          7765.41
+        ],
+        [
+          -19.28,
+          7775.52
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9932203,
+          72.8319095
+        ],
+        [
+          18.9932195,
+          72.8321856
+        ],
+        [
+          18.9931282,
+          72.8321853
+        ],
+        [
+          18.993129,
+          72.8319092
+        ],
+        [
+          18.9932203,
+          72.8319095
+        ]
+      ],
+      "elevation_msl": 10.27,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378413",
+      "source_id": "osm_way_353378413",
+      "osm_id": 353378413,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 6"
+      },
+      "area_sqm": 472.14,
+      "perimeter_m": 90.09,
+      "local_centroid": [
+        -237.56,
+        7567.91
+      ],
+      "geo_centroid": [
+        18.991349,
+        72.829852
+      ],
+      "local_polygon_vertices": [
+        [
+          -242.41,
+          7583.46
+        ],
+        [
+          -226.09,
+          7579.97
+        ],
+        [
+          -232.93,
+          7552.06
+        ],
+        [
+          -248.96,
+          7556.11
+        ],
+        [
+          -242.41,
+          7583.46
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.991461,
+          72.8298136
+        ],
+        [
+          18.9914313,
+          72.8299689
+        ],
+        [
+          18.9911784,
+          72.8299072
+        ],
+        [
+          18.9912132,
+          72.8297546
+        ],
+        [
+          18.991461,
+          72.8298136
+        ]
+      ],
+      "elevation_msl": 4.61,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378436",
+      "source_id": "osm_way_353378436",
+      "osm_id": 353378436,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 8"
+      },
+      "area_sqm": 484.65,
+      "perimeter_m": 100.83,
+      "local_centroid": [
+        -282.39,
+        7568.88
+      ],
+      "geo_centroid": [
+        18.991294,
+        72.829415
+      ],
+      "local_polygon_vertices": [
+        [
+          -293.68,
+          7552.44
+        ],
+        [
+          -283.59,
+          7588.61
+        ],
+        [
+          -270.99,
+          7585.06
+        ],
+        [
+          -281.36,
+          7549.1
+        ],
+        [
+          -293.68,
+          7552.44
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9911751,
+          72.8293304
+        ],
+        [
+          18.9915029,
+          72.829422
+        ],
+        [
+          18.9914722,
+          72.829542
+        ],
+        [
+          18.9911463,
+          72.8294478
+        ],
+        [
+          18.9911751,
+          72.8293304
+        ]
+      ],
+      "elevation_msl": 6.34,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378441",
+      "source_id": "osm_way_353378441",
+      "osm_id": 353378441,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 3"
+      },
+      "area_sqm": 450.45,
+      "perimeter_m": 92.54,
+      "local_centroid": [
+        -177.18,
+        7550.89
+      ],
+      "geo_centroid": [
+        18.99117,
+        72.830409
+      ],
+      "local_polygon_vertices": [
+        [
+          -180.08,
+          7568.31
+        ],
+        [
+          -166.89,
+          7564.74
+        ],
+        [
+          -173.75,
+          7533.78
+        ],
+        [
+          -186.6,
+          7536.49
+        ],
+        [
+          -185.73,
+          7540.54
+        ],
+        [
+          -187.21,
+          7540.85
+        ],
+        [
+          -180.08,
+          7568.31
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9913311,
+          72.8304071
+        ],
+        [
+          18.9913003,
+          72.8305327
+        ],
+        [
+          18.9910199,
+          72.8304712
+        ],
+        [
+          18.991043,
+          72.8303489
+        ],
+        [
+          18.9910797,
+          72.8303567
+        ],
+        [
+          18.9910823,
+          72.8303426
+        ],
+        [
+          18.9913311,
+          72.8304071
+        ]
+      ],
+      "elevation_msl": 4.57,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378442",
+      "source_id": "osm_way_353378442",
+      "osm_id": 353378442,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 5"
+      },
+      "area_sqm": 337.62,
+      "perimeter_m": 78.84,
+      "local_centroid": [
+        -214.92,
+        7563.27
+      ],
+      "geo_centroid": [
+        18.991276,
+        72.830052
+      ],
+      "local_polygon_vertices": [
+        [
+          -218.73,
+          7576.64
+        ],
+        [
+          -205.15,
+          7574.46
+        ],
+        [
+          -212.32,
+          7548.55
+        ],
+        [
+          -222.79,
+          7551.55
+        ],
+        [
+          -221.75,
+          7555.11
+        ],
+        [
+          -223.74,
+          7555.68
+        ],
+        [
+          -218.73,
+          7576.64
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.991402,
+          72.8300392
+        ],
+        [
+          18.9913838,
+          72.8301684
+        ],
+        [
+          18.991149,
+          72.8301033
+        ],
+        [
+          18.991175,
+          72.8300036
+        ],
+        [
+          18.9912072,
+          72.830013
+        ],
+        [
+          18.9912122,
+          72.8299941
+        ],
+        [
+          18.991402,
+          72.8300392
+        ]
+      ],
+      "elevation_msl": 4.0,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378443",
+      "source_id": "osm_way_353378443",
+      "osm_id": 353378443,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 532.72,
+      "perimeter_m": 105.77,
+      "local_centroid": [
+        2.58,
+        7623.7
+      ],
+      "geo_centroid": [
+        18.991877,
+        72.832059
+      ],
+      "local_polygon_vertices": [
+        [
+          -15.66,
+          7634.07
+        ],
+        [
+          22.66,
+          7627.03
+        ],
+        [
+          20.12,
+          7613.35
+        ],
+        [
+          -17.06,
+          7620.17
+        ],
+        [
+          -15.53,
+          7628.48
+        ],
+        [
+          -16.66,
+          7628.68
+        ],
+        [
+          -15.66,
+          7634.07
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9919433,
+          72.8319604
+        ],
+        [
+          18.991884,
+          72.832325
+        ],
+        [
+          18.9917601,
+          72.8323025
+        ],
+        [
+          18.9918176,
+          72.8319487
+        ],
+        [
+          18.9918928,
+          72.8319623
+        ],
+        [
+          18.9918945,
+          72.8319515
+        ],
+        [
+          18.9919433,
+          72.8319604
+        ]
+      ],
+      "elevation_msl": 5.32,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378444",
+      "source_id": "osm_way_353378444",
+      "osm_id": 353378444,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 1"
+      },
+      "area_sqm": 528.58,
+      "perimeter_m": 105.15,
+      "local_centroid": [
+        -117.75,
+        7533.31
+      ],
+      "geo_centroid": [
+        18.990964,
+        72.830967
+      ],
+      "local_polygon_vertices": [
+        [
+          -129.06,
+          7519.59
+        ],
+        [
+          -119.6,
+          7553.3
+        ],
+        [
+          -106.01,
+          7549.54
+        ],
+        [
+          -116.41,
+          7512.5
+        ],
+        [
+          -126.13,
+          7515.2
+        ],
+        [
+          -125.19,
+          7518.53
+        ],
+        [
+          -129.06,
+          7519.59
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9908968,
+          72.8308972
+        ],
+        [
+          18.9912023,
+          72.830983
+        ],
+        [
+          18.9911698,
+          72.8311125
+        ],
+        [
+          18.9908341,
+          72.8310181
+        ],
+        [
+          18.9908574,
+          72.8309255
+        ],
+        [
+          18.9908876,
+          72.830934
+        ],
+        [
+          18.9908968,
+          72.8308972
+        ]
+      ],
+      "elevation_msl": 4.73,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378445",
+      "source_id": "osm_way_353378445",
+      "osm_id": 353378445,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "5"
+      },
+      "area_sqm": 338.31,
+      "perimeter_m": 75.75,
+      "local_centroid": [
+        -40.22,
+        7893.12
+      ],
+      "geo_centroid": [
+        18.99426,
+        72.831712
+      ],
+      "local_polygon_vertices": [
+        [
+          -48.7,
+          7883.4
+        ],
+        [
+          -49.48,
+          7902.47
+        ],
+        [
+          -32.23,
+          7903.17
+        ],
+        [
+          -31.68,
+          7889.76
+        ],
+        [
+          -30.17,
+          7889.83
+        ],
+        [
+          -29.93,
+          7884.15
+        ],
+        [
+          -48.7,
+          7883.4
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9941913,
+          72.8316175
+        ],
+        [
+          18.9943635,
+          72.8316079
+        ],
+        [
+          18.9943717,
+          72.8317716
+        ],
+        [
+          18.9942507,
+          72.8317784
+        ],
+        [
+          18.9942515,
+          72.8317927
+        ],
+        [
+          18.9942002,
+          72.8317956
+        ],
+        [
+          18.9941913,
+          72.8316175
+        ]
+      ],
+      "elevation_msl": 6.89,
+      "height_m": 16.0,
+      "levels": 5.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:5"
+    },
+    {
+      "asset_id": "BLDG_353378448",
+      "source_id": "osm_way_353378448",
+      "osm_id": 353378448,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 2"
+      },
+      "area_sqm": 510.74,
+      "perimeter_m": 102.83,
+      "local_centroid": [
+        -152.6,
+        7544.95
+      ],
+      "geo_centroid": [
+        18.991112,
+        72.830644
+      ],
+      "local_polygon_vertices": [
+        [
+          -154.46,
+          7564.67
+        ],
+        [
+          -141.16,
+          7561.1
+        ],
+        [
+          -151.05,
+          7524.77
+        ],
+        [
+          -162.22,
+          7527.78
+        ],
+        [
+          -161.3,
+          7531.15
+        ],
+        [
+          -163.42,
+          7531.73
+        ],
+        [
+          -154.46,
+          7564.67
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9913011,
+          72.8306507
+        ],
+        [
+          18.9912703,
+          72.8307774
+        ],
+        [
+          18.9909411,
+          72.8306878
+        ],
+        [
+          18.990967,
+          72.8305814
+        ],
+        [
+          18.9909976,
+          72.8305897
+        ],
+        [
+          18.9910026,
+          72.8305695
+        ],
+        [
+          18.9913011,
+          72.8306507
+        ]
+      ],
+      "elevation_msl": 5.0,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378451",
+      "source_id": "osm_way_353378451",
+      "osm_id": 353378451,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 502.05,
+      "perimeter_m": 106.61,
+      "local_centroid": [
+        6.16,
+        7640.5
+      ],
+      "geo_centroid": [
+        18.992025,
+        72.832151
+      ],
+      "local_polygon_vertices": [
+        [
+          -11.1,
+          7649.75
+        ],
+        [
+          25.79,
+          7643.87
+        ],
+        [
+          25.29,
+          7640.73
+        ],
+        [
+          26.67,
+          7640.51
+        ],
+        [
+          25.16,
+          7631.19
+        ],
+        [
+          -15.01,
+          7637.6
+        ],
+        [
+          -13.59,
+          7646.46
+        ],
+        [
+          -11.69,
+          7646.15
+        ],
+        [
+          -11.1,
+          7649.75
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9920854,
+          72.8320018
+        ],
+        [
+          18.9920364,
+          72.8323528
+        ],
+        [
+          18.992008,
+          72.8323484
+        ],
+        [
+          18.9920061,
+          72.8323615
+        ],
+        [
+          18.9919218,
+          72.8323483
+        ],
+        [
+          18.9919752,
+          72.8319661
+        ],
+        [
+          18.9920554,
+          72.8319786
+        ],
+        [
+          18.9920528,
+          72.8319967
+        ],
+        [
+          18.9920854,
+          72.8320018
+        ]
+      ],
+      "elevation_msl": 5.09,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378456",
+      "source_id": "osm_way_353378456",
+      "osm_id": 353378456,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 690.6,
+      "perimeter_m": 160.64,
+      "local_centroid": [
+        -31.06,
+        7738.73
+      ],
+      "geo_centroid": [
+        18.992929,
+        72.831786
+      ],
+      "local_polygon_vertices": [
+        [
+          -44.12,
+          7755.45
+        ],
+        [
+          -34.35,
+          7755.46
+        ],
+        [
+          -34.34,
+          7732.82
+        ],
+        [
+          -28.47,
+          7732.82
+        ],
+        [
+          -28.49,
+          7755.47
+        ],
+        [
+          -18.15,
+          7755.47
+        ],
+        [
+          -18.12,
+          7723.76
+        ],
+        [
+          -44.09,
+          7723.74
+        ],
+        [
+          -44.12,
+          7755.45
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9930363,
+          72.831676
+        ],
+        [
+          18.9930375,
+          72.8317687
+        ],
+        [
+          18.992833,
+          72.8317715
+        ],
+        [
+          18.9928337,
+          72.8318272
+        ],
+        [
+          18.9930382,
+          72.8318244
+        ],
+        [
+          18.9930394,
+          72.8319225
+        ],
+        [
+          18.992753,
+          72.8319265
+        ],
+        [
+          18.9927499,
+          72.83168
+        ],
+        [
+          18.9930363,
+          72.831676
+        ]
+      ],
+      "elevation_msl": 10.54,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353378458",
+      "source_id": "osm_way_353378458",
+      "osm_id": 353378458,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "8"
+      },
+      "area_sqm": 198.13,
+      "perimeter_m": 79.85,
+      "local_centroid": [
+        4.59,
+        7967.72
+      ],
+      "geo_centroid": [
+        18.994949,
+        72.832105
+      ],
+      "local_polygon_vertices": [
+        [
+          -8.09,
+          7973.0
+        ],
+        [
+          18.51,
+          7970.32
+        ],
+        [
+          17.59,
+          7961.29
+        ],
+        [
+          10.63,
+          7961.99
+        ],
+        [
+          11.05,
+          7966.08
+        ],
+        [
+          0.25,
+          7967.17
+        ],
+        [
+          -0.16,
+          7963.09
+        ],
+        [
+          -9.01,
+          7963.97
+        ],
+        [
+          -8.09,
+          7973.0
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9950051,
+          72.8319926
+        ],
+        [
+          18.9949838,
+          72.8322455
+        ],
+        [
+          18.9949022,
+          72.8322378
+        ],
+        [
+          18.9949077,
+          72.8321716
+        ],
+        [
+          18.9949447,
+          72.8321751
+        ],
+        [
+          18.9949533,
+          72.8320725
+        ],
+        [
+          18.9949164,
+          72.832069
+        ],
+        [
+          18.9949234,
+          72.8319849
+        ],
+        [
+          18.9950051,
+          72.8319926
+        ]
+      ],
+      "elevation_msl": 4.29,
+      "height_m": 25.6,
+      "levels": 8.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:8"
+    },
+    {
+      "asset_id": "BLDG_353396514",
+      "source_id": "osm_way_353396514",
+      "osm_id": 353396514,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "7"
+      },
+      "area_sqm": 2907.68,
+      "perimeter_m": 310.54,
+      "local_centroid": [
+        -163.57,
+        7832.34
+      ],
+      "geo_centroid": [
+        18.993749,
+        72.830634
+      ],
+      "local_polygon_vertices": [
+        [
+          -223.18,
+          7811.08
+        ],
+        [
+          -223.88,
+          7831.22
+        ],
+        [
+          -159.36,
+          7833.85
+        ],
+        [
+          -159.59,
+          7840.66
+        ],
+        [
+          -151.87,
+          7849.28
+        ],
+        [
+          -145.97,
+          7849.72
+        ],
+        [
+          -146.41,
+          7872.79
+        ],
+        [
+          -127.26,
+          7872.93
+        ],
+        [
+          -126.59,
+          7853.34
+        ],
+        [
+          -124.23,
+          7853.4
+        ],
+        [
+          -123.68,
+          7826.69
+        ],
+        [
+          -127.84,
+          7826.31
+        ],
+        [
+          -128.57,
+          7822.55
+        ],
+        [
+          -132.15,
+          7818.86
+        ],
+        [
+          -137.77,
+          7819.49
+        ],
+        [
+          -137.22,
+          7813.7
+        ],
+        [
+          -223.18,
+          7811.08
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9935188,
+          72.8299695
+        ],
+        [
+          18.9937006,
+          72.8299605
+        ],
+        [
+          18.9937315,
+          72.8305727
+        ],
+        [
+          18.993793,
+          72.8305697
+        ],
+        [
+          18.9938717,
+          72.830642
+        ],
+        [
+          18.9938763,
+          72.830698
+        ],
+        [
+          18.9940846,
+          72.8306911
+        ],
+        [
+          18.994088,
+          72.8308729
+        ],
+        [
+          18.9939112,
+          72.8308816
+        ],
+        [
+          18.993912,
+          72.830904
+        ],
+        [
+          18.9936708,
+          72.8309123
+        ],
+        [
+          18.9936669,
+          72.8308729
+        ],
+        [
+          18.9936329,
+          72.8308664
+        ],
+        [
+          18.9935992,
+          72.8308328
+        ],
+        [
+          18.9936042,
+          72.8307794
+        ],
+        [
+          18.993552,
+          72.8307853
+        ],
+        [
+          18.9935188,
+          72.8299695
+        ]
+      ],
+      "elevation_msl": 8.93,
+      "height_m": 22.4,
+      "levels": 7.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:7"
+    },
+    {
+      "asset_id": "BLDG_353396547",
+      "source_id": "osm_way_353396547",
+      "osm_id": 353396547,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 59.39,
+      "perimeter_m": 36.48,
+      "local_centroid": [
+        -29.3,
+        7820.81
+      ],
+      "geo_centroid": [
+        18.993641,
+        72.831804
+      ],
+      "local_polygon_vertices": [
+        [
+          -31.81,
+          7827.68
+        ],
+        [
+          -27.57,
+          7827.92
+        ],
+        [
+          -26.8,
+          7813.94
+        ],
+        [
+          -31.03,
+          7813.71
+        ],
+        [
+          -31.81,
+          7827.68
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.99369,
+          72.8317844
+        ],
+        [
+          18.9936926,
+          72.8318246
+        ],
+        [
+          18.9935665,
+          72.8318336
+        ],
+        [
+          18.9935639,
+          72.8317934
+        ],
+        [
+          18.99369,
+          72.8317844
+        ]
+      ],
+      "elevation_msl": 6.95,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353396552",
+      "source_id": "osm_way_353396552",
+      "osm_id": 353396552,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 1306.36,
+      "perimeter_m": 165.8,
+      "local_centroid": [
+        -225.3,
+        7876.32
+      ],
+      "geo_centroid": [
+        18.994064,
+        72.8299
+      ],
+      "local_polygon_vertices": [
+        [
+          -247.35,
+          7852.21
+        ],
+        [
+          -222.69,
+          7908.8
+        ],
+        [
+          -203.25,
+          7900.44
+        ],
+        [
+          -227.91,
+          7843.84
+        ],
+        [
+          -247.35,
+          7852.21
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9938875,
+          72.8297352
+        ],
+        [
+          18.9944014,
+          72.8299627
+        ],
+        [
+          18.994328,
+          72.8301482
+        ],
+        [
+          18.9938141,
+          72.8299207
+        ],
+        [
+          18.9938875,
+          72.8297352
+        ]
+      ],
+      "elevation_msl": 5.74,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353396579",
+      "source_id": "osm_way_353396579",
+      "osm_id": 353396579,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 456.67,
+      "perimeter_m": 91.45,
+      "local_centroid": [
+        -98.6,
+        7850.48
+      ],
+      "geo_centroid": [
+        18.993855,
+        72.83115
+      ],
+      "local_polygon_vertices": [
+        [
+          -108.99,
+          7842.13
+        ],
+        [
+          -110.47,
+          7860.72
+        ],
+        [
+          -90.09,
+          7862.34
+        ],
+        [
+          -88.8,
+          7846.14
+        ],
+        [
+          -86.12,
+          7846.35
+        ],
+        [
+          -85.61,
+          7840.02
+        ],
+        [
+          -103.04,
+          7838.64
+        ],
+        [
+          -103.36,
+          7842.58
+        ],
+        [
+          -108.99,
+          7842.13
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9938119,
+          72.83105
+        ],
+        [
+          18.9939796,
+          72.8310337
+        ],
+        [
+          18.9939965,
+          72.831227
+        ],
+        [
+          18.9938504,
+          72.8312412
+        ],
+        [
+          18.9938526,
+          72.8312666
+        ],
+        [
+          18.9937955,
+          72.8312722
+        ],
+        [
+          18.9937811,
+          72.8311069
+        ],
+        [
+          18.9938166,
+          72.8311034
+        ],
+        [
+          18.9938119,
+          72.83105
+        ]
+      ],
+      "elevation_msl": 7.91,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768855",
+      "source_id": "osm_way_353768855",
+      "osm_id": 353768855,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 17"
+      },
+      "area_sqm": 512.58,
+      "perimeter_m": 100.21,
+      "local_centroid": [
+        -146.13,
+        7682.44
+      ],
+      "geo_centroid": [
+        18.992337,
+        72.830695
+      ],
+      "local_polygon_vertices": [
+        [
+          -157.45,
+          7666.82
+        ],
+        [
+          -148.72,
+          7701.52
+        ],
+        [
+          -134.82,
+          7698.07
+        ],
+        [
+          -143.55,
+          7663.36
+        ],
+        [
+          -157.45,
+          7666.82
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9922233,
+          72.8306104
+        ],
+        [
+          18.9925376,
+          72.8306892
+        ],
+        [
+          18.992508,
+          72.8308216
+        ],
+        [
+          18.9921936,
+          72.8307428
+        ],
+        [
+          18.9922233,
+          72.8306104
+        ]
+      ],
+      "elevation_msl": 6.21,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768856",
+      "source_id": "osm_way_353768856",
+      "osm_id": 353768856,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 16"
+      },
+      "area_sqm": 541.25,
+      "perimeter_m": 102.5,
+      "local_centroid": [
+        -123.42,
+        7721.41
+      ],
+      "geo_centroid": [
+        18.992692,
+        72.830905
+      ],
+      "local_polygon_vertices": [
+        [
+          -135.38,
+          7705.79
+        ],
+        [
+          -125.83,
+          7740.89
+        ],
+        [
+          -111.46,
+          7737.02
+        ],
+        [
+          -121.01,
+          7701.93
+        ],
+        [
+          -135.38,
+          7705.79
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9925777,
+          72.8308154
+        ],
+        [
+          18.9928957,
+          72.8309019
+        ],
+        [
+          18.9928624,
+          72.8310388
+        ],
+        [
+          18.9925444,
+          72.8309523
+        ],
+        [
+          18.9925777,
+          72.8308154
+        ]
+      ],
+      "elevation_msl": 7.1,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768861",
+      "source_id": "osm_way_353768861",
+      "osm_id": 353768861,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Maharashtra Kangar Mandal Office"
+      },
+      "area_sqm": 327.73,
+      "perimeter_m": 86.43,
+      "local_centroid": [
+        -245.42,
+        7647.26
+      ],
+      "geo_centroid": [
+        18.992052,
+        72.829749
+      ],
+      "local_polygon_vertices": [
+        [
+          -260.51,
+          7655.9
+        ],
+        [
+          -228.02,
+          7648.16
+        ],
+        [
+          -230.32,
+          7638.62
+        ],
+        [
+          -262.81,
+          7646.37
+        ],
+        [
+          -260.51,
+          7655.9
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9921132,
+          72.8296332
+        ],
+        [
+          18.9920469,
+          72.8299426
+        ],
+        [
+          18.9919605,
+          72.8299219
+        ],
+        [
+          18.9920268,
+          72.8296125
+        ],
+        [
+          18.9921132,
+          72.8296332
+        ]
+      ],
+      "elevation_msl": 2.9,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768862",
+      "source_id": "osm_way_353768862",
+      "osm_id": 353768862,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 26"
+      },
+      "area_sqm": 498.18,
+      "perimeter_m": 98.97,
+      "local_centroid": [
+        -269.31,
+        7773.39
+      ],
+      "geo_centroid": [
+        18.993204,
+        72.82952
+      ],
+      "local_polygon_vertices": [
+        [
+          -277.38,
+          7790.66
+        ],
+        [
+          -263.34,
+          7791.48
+        ],
+        [
+          -261.24,
+          7756.12
+        ],
+        [
+          -275.28,
+          7755.3
+        ],
+        [
+          -277.38,
+          7790.66
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9933283,
+          72.8294573
+        ],
+        [
+          18.9933373,
+          72.8295905
+        ],
+        [
+          18.9930182,
+          72.8296146
+        ],
+        [
+          18.9930092,
+          72.8294814
+        ],
+        [
+          18.9933283,
+          72.8294573
+        ]
+      ],
+      "elevation_msl": 4.0,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768866",
+      "source_id": "osm_way_353768866",
+      "osm_id": 353768866,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 18"
+      },
+      "area_sqm": 483.37,
+      "perimeter_m": 100.25,
+      "local_centroid": [
+        -179.91,
+        7684.5
+      ],
+      "geo_centroid": [
+        18.9924,
+        72.830364
+      ],
+      "local_polygon_vertices": [
+        [
+          -196.27,
+          7695.37
+        ],
+        [
+          -160.31,
+          7686.25
+        ],
+        [
+          -163.55,
+          7673.63
+        ],
+        [
+          -199.5,
+          7682.74
+        ],
+        [
+          -196.27,
+          7695.37
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9924768,
+          72.8302385
+        ],
+        [
+          18.9923984,
+          72.830581
+        ],
+        [
+          18.9922841,
+          72.8305517
+        ],
+        [
+          18.9923624,
+          72.8302093
+        ],
+        [
+          18.9924768,
+          72.8302385
+        ]
+      ],
+      "elevation_msl": 4.37,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768867",
+      "source_id": "osm_way_353768867",
+      "osm_id": 353768867,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Police Quarters"
+      },
+      "area_sqm": 112.43,
+      "perimeter_m": 45.77,
+      "local_centroid": [
+        -117.42,
+        7622.11
+      ],
+      "geo_centroid": [
+        18.991811,
+        72.830986
+      ],
+      "local_polygon_vertices": [
+        [
+          -122.71,
+          7615.26
+        ],
+        [
+          -119.08,
+          7630.59
+        ],
+        [
+          -112.13,
+          7628.96
+        ],
+        [
+          -115.75,
+          7613.64
+        ],
+        [
+          -122.71,
+          7615.26
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9917615,
+          72.8309463
+        ],
+        [
+          18.9919003,
+          72.8309789
+        ],
+        [
+          18.9918864,
+          72.8310451
+        ],
+        [
+          18.9917476,
+          72.8310125
+        ],
+        [
+          18.9917615,
+          72.8309463
+        ]
+      ],
+      "elevation_msl": 6.48,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768870",
+      "source_id": "osm_way_353768870",
+      "osm_id": 353768870,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "BDD Chawl No 24"
+      },
+      "area_sqm": 487.01,
+      "perimeter_m": 98.77,
+      "local_centroid": [
+        -219.23,
+        7776.2
+      ],
+      "geo_centroid": [
+        18.993172,
+        72.829999
+      ],
+      "local_polygon_vertices": [
+        [
+          -225.66,
+          7758.18
+        ],
+        [
+          -226.4,
+          7793.95
+        ],
+        [
+          -212.79,
+          7794.22
+        ],
+        [
+          -212.05,
+          7758.46
+        ],
+        [
+          -225.66,
+          7758.18
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9930408,
+          72.8299521
+        ],
+        [
+          18.9933637,
+          72.8299409
+        ],
+        [
+          18.9933677,
+          72.8300701
+        ],
+        [
+          18.9930448,
+          72.8300813
+        ],
+        [
+          18.9930408,
+          72.8299521
+        ]
+      ],
+      "elevation_msl": 5.58,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768871",
+      "source_id": "osm_way_353768871",
+      "osm_id": 353768871,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "BDD Chawl No 29"
+      },
+      "area_sqm": 442.38,
+      "perimeter_m": 96.95,
+      "local_centroid": [
+        -236.38,
+        7695.28
+      ],
+      "geo_centroid": [
+        18.99249,
+        72.829827
+      ],
+      "local_polygon_vertices": [
+        [
+          -252.57,
+          7705.46
+        ],
+        [
+          -217.3,
+          7696.95
+        ],
+        [
+          -220.19,
+          7685.1
+        ],
+        [
+          -255.46,
+          7693.61
+        ],
+        [
+          -252.57,
+          7705.46
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9925616,
+          72.8297028
+        ],
+        [
+          18.9924887,
+          72.8300387
+        ],
+        [
+          18.9923814,
+          72.8300126
+        ],
+        [
+          18.9924543,
+          72.8296768
+        ],
+        [
+          18.9925616,
+          72.8297028
+        ]
+      ],
+      "elevation_msl": 2.39,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768874",
+      "source_id": "osm_way_353768874",
+      "osm_id": 353768874,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 13"
+      },
+      "area_sqm": 422.88,
+      "perimeter_m": 96.58,
+      "local_centroid": [
+        -190.81,
+        7644.79
+      ],
+      "geo_centroid": [
+        18.992039,
+        72.830265
+      ],
+      "local_polygon_vertices": [
+        [
+          -207.07,
+          7655.1
+        ],
+        [
+          -171.53,
+          7645.56
+        ],
+        [
+          -174.54,
+          7634.47
+        ],
+        [
+          -210.08,
+          7644.01
+        ],
+        [
+          -207.07,
+          7655.1
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9921119,
+          72.8301407
+        ],
+        [
+          18.9920297,
+          72.8304792
+        ],
+        [
+          18.9919292,
+          72.8304519
+        ],
+        [
+          18.9920114,
+          72.8301134
+        ],
+        [
+          18.9921119,
+          72.8301407
+        ]
+      ],
+      "elevation_msl": 2.32,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768875",
+      "source_id": "osm_way_353768875",
+      "osm_id": 353768875,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 19"
+      },
+      "area_sqm": 528.62,
+      "perimeter_m": 103.62,
+      "local_centroid": [
+        -176.69,
+        7701.6
+      ],
+      "geo_centroid": [
+        18.992555,
+        72.830392
+      ],
+      "local_polygon_vertices": [
+        [
+          -193.37,
+          7712.92
+        ],
+        [
+          -156.64,
+          7703.84
+        ],
+        [
+          -160.02,
+          7690.29
+        ],
+        [
+          -196.75,
+          7699.36
+        ],
+        [
+          -193.37,
+          7712.92
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9926356,
+          72.830264
+        ],
+        [
+          18.9925577,
+          72.8306138
+        ],
+        [
+          18.9924349,
+          72.8305833
+        ],
+        [
+          18.9925128,
+          72.8302335
+        ],
+        [
+          18.9926356,
+          72.830264
+        ]
+      ],
+      "elevation_msl": 5.25,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768876",
+      "source_id": "osm_way_353768876",
+      "osm_id": 353768876,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 22"
+      },
+      "area_sqm": 426.56,
+      "perimeter_m": 96.36,
+      "local_centroid": [
+        -156.78,
+        7766.56
+      ],
+      "geo_centroid": [
+        18.993133,
+        72.83057
+      ],
+      "local_polygon_vertices": [
+        [
+          -175.17,
+          7771.96
+        ],
+        [
+          -138.69,
+          7772.85
+        ],
+        [
+          -138.39,
+          7761.16
+        ],
+        [
+          -174.88,
+          7760.27
+        ],
+        [
+          -175.17,
+          7771.96
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9931708,
+          72.8304299
+        ],
+        [
+          18.9931829,
+          72.8307761
+        ],
+        [
+          18.9930774,
+          72.8307803
+        ],
+        [
+          18.9930653,
+          72.830434
+        ],
+        [
+          18.9931708,
+          72.8304299
+        ]
+      ],
+      "elevation_msl": 9.63,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768877",
+      "source_id": "osm_way_353768877",
+      "osm_id": 353768877,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 11"
+      },
+      "area_sqm": 496.15,
+      "perimeter_m": 100.94,
+      "local_centroid": [
+        -201.92,
+        7601.37
+      ],
+      "geo_centroid": [
+        18.991647,
+        72.830165
+      ],
+      "local_polygon_vertices": [
+        [
+          -218.06,
+          7612.66
+        ],
+        [
+          -182.25,
+          7602.97
+        ],
+        [
+          -185.78,
+          7590.07
+        ],
+        [
+          -221.59,
+          7599.76
+        ],
+        [
+          -218.06,
+          7612.66
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9917274,
+          72.8300413
+        ],
+        [
+          18.9916439,
+          72.8303824
+        ],
+        [
+          18.991527,
+          72.8303504
+        ],
+        [
+          18.9916105,
+          72.8300093
+        ],
+        [
+          18.9917274,
+          72.8300413
+        ]
+      ],
+      "elevation_msl": 4.55,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768878",
+      "source_id": "osm_way_353768878",
+      "osm_id": 353768878,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 12"
+      },
+      "area_sqm": 487.1,
+      "perimeter_m": 99.45,
+      "local_centroid": [
+        -197.78,
+        7626.29
+      ],
+      "geo_centroid": [
+        18.991873,
+        72.830203
+      ],
+      "local_polygon_vertices": [
+        [
+          -213.24,
+          7637.9
+        ],
+        [
+          -178.44,
+          7627.52
+        ],
+        [
+          -182.33,
+          7614.68
+        ],
+        [
+          -217.12,
+          7625.06
+        ],
+        [
+          -213.24,
+          7637.9
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9919559,
+          72.8300841
+        ],
+        [
+          18.991866,
+          72.8304157
+        ],
+        [
+          18.9917496,
+          72.8303803
+        ],
+        [
+          18.9918395,
+          72.8300488
+        ],
+        [
+          18.9919559,
+          72.8300841
+        ]
+      ],
+      "elevation_msl": 2.7,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768879",
+      "source_id": "osm_way_353768879",
+      "osm_id": 353768879,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "BDD Chawl No 28"
+      },
+      "area_sqm": 480.17,
+      "perimeter_m": 100.06,
+      "local_centroid": [
+        -269.66,
+        7712.97
+      ],
+      "geo_centroid": [
+        18.992598,
+        72.82952
+      ],
+      "local_polygon_vertices": [
+        [
+          -280.41,
+          7696.51
+        ],
+        [
+          -271.5,
+          7732.5
+        ],
+        [
+          -258.92,
+          7729.43
+        ],
+        [
+          -267.82,
+          7693.43
+        ],
+        [
+          -280.41,
+          7696.51
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9924777,
+          72.8294396
+        ],
+        [
+          18.9928037,
+          72.8295199
+        ],
+        [
+          18.9927774,
+          72.8296397
+        ],
+        [
+          18.9924513,
+          72.8295594
+        ],
+        [
+          18.9924777,
+          72.8294396
+        ]
+      ],
+      "elevation_msl": 0.9,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768884",
+      "source_id": "osm_way_353768884",
+      "osm_id": 353768884,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 25"
+      },
+      "area_sqm": 508.98,
+      "perimeter_m": 102.68,
+      "local_centroid": [
+        -245.62,
+        7774.23
+      ],
+      "geo_centroid": [
+        18.993149,
+        72.82975
+      ],
+      "local_polygon_vertices": [
+        [
+          -251.34,
+          7754.96
+        ],
+        [
+          -253.31,
+          7792.83
+        ],
+        [
+          -239.9,
+          7793.51
+        ],
+        [
+          -237.93,
+          7755.65
+        ],
+        [
+          -251.34,
+          7754.96
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9930088,
+          72.8297087
+        ],
+        [
+          18.9933506,
+          72.8296856
+        ],
+        [
+          18.9933582,
+          72.8298128
+        ],
+        [
+          18.9930165,
+          72.8298359
+        ],
+        [
+          18.9930088,
+          72.8297087
+        ]
+      ],
+      "elevation_msl": 4.17,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768885",
+      "source_id": "osm_way_353768885",
+      "osm_id": 353768885,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 16"
+      },
+      "area_sqm": 459.58,
+      "perimeter_m": 96.26,
+      "local_centroid": [
+        -125.89,
+        7671.32
+      ],
+      "geo_centroid": [
+        18.99224,
+        72.830889
+      ],
+      "local_polygon_vertices": [
+        [
+          -136.61,
+          7655.99
+        ],
+        [
+          -127.89,
+          7689.89
+        ],
+        [
+          -115.17,
+          7686.65
+        ],
+        [
+          -123.89,
+          7652.76
+        ],
+        [
+          -136.61,
+          7655.99
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9921278,
+          72.8308095
+        ],
+        [
+          18.9924349,
+          72.8308883
+        ],
+        [
+          18.9924071,
+          72.8310095
+        ],
+        [
+          18.9921,
+          72.8309307
+        ],
+        [
+          18.9921278,
+          72.8308095
+        ]
+      ],
+      "elevation_msl": 5.86,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768886",
+      "source_id": "osm_way_353768886",
+      "osm_id": 353768886,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 20"
+      },
+      "area_sqm": 453.02,
+      "perimeter_m": 97.13,
+      "local_centroid": [
+        -172.78,
+        7723.67
+      ],
+      "geo_centroid": [
+        18.992754,
+        72.830428
+      ],
+      "local_polygon_vertices": [
+        [
+          -188.45,
+          7734.47
+        ],
+        [
+          -153.75,
+          7725.0
+        ],
+        [
+          -157.1,
+          7712.86
+        ],
+        [
+          -191.81,
+          7722.33
+        ],
+        [
+          -188.45,
+          7734.47
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9928308,
+          72.8303082
+        ],
+        [
+          18.9927491,
+          72.8306387
+        ],
+        [
+          18.9926391,
+          72.8306083
+        ],
+        [
+          18.9927208,
+          72.8302777
+        ],
+        [
+          18.9928308,
+          72.8303082
+        ]
+      ],
+      "elevation_msl": 6.84,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768889",
+      "source_id": "osm_way_353768889",
+      "osm_id": 353768889,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 30"
+      },
+      "area_sqm": 479.16,
+      "perimeter_m": 99.71,
+      "local_centroid": [
+        -244.09,
+        7660.48
+      ],
+      "geo_centroid": [
+        18.992176,
+        72.829758
+      ],
+      "local_polygon_vertices": [
+        [
+          -260.27,
+          7671.4
+        ],
+        [
+          -224.6,
+          7662.14
+        ],
+        [
+          -227.91,
+          7649.57
+        ],
+        [
+          -263.57,
+          7658.82
+        ],
+        [
+          -260.27,
+          7671.4
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9922532,
+          72.8296337
+        ],
+        [
+          18.9921735,
+          72.8299734
+        ],
+        [
+          18.9920596,
+          72.8299435
+        ],
+        [
+          18.9921392,
+          72.8296038
+        ],
+        [
+          18.9922532,
+          72.8296337
+        ]
+      ],
+      "elevation_msl": 2.87,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768891",
+      "source_id": "osm_way_353768891",
+      "osm_id": 353768891,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 23"
+      },
+      "area_sqm": 581.45,
+      "perimeter_m": 105.03,
+      "local_centroid": [
+        -193.96,
+        7774.01
+      ],
+      "geo_centroid": [
+        18.99322,
+        72.830236
+      ],
+      "local_polygon_vertices": [
+        [
+          -201.96,
+          7792.31
+        ],
+        [
+          -186.1,
+          7792.37
+        ],
+        [
+          -185.95,
+          7755.71
+        ],
+        [
+          -201.82,
+          7755.65
+        ],
+        [
+          -201.96,
+          7792.31
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9933516,
+          72.8301731
+        ],
+        [
+          18.9933539,
+          72.8303237
+        ],
+        [
+          18.9930229,
+          72.8303294
+        ],
+        [
+          18.9930206,
+          72.8301788
+        ],
+        [
+          18.9933516,
+          72.8301731
+        ]
+      ],
+      "elevation_msl": 7.96,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768896",
+      "source_id": "osm_way_353768896",
+      "osm_id": 353768896,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 14"
+      },
+      "area_sqm": 561.8,
+      "perimeter_m": 104.9,
+      "local_centroid": [
+        -160.48,
+        7626.38
+      ],
+      "geo_centroid": [
+        18.991846,
+        72.830557
+      ],
+      "local_polygon_vertices": [
+        [
+          -163.44,
+          7646.07
+        ],
+        [
+          -148.6,
+          7642.32
+        ],
+        [
+          -157.77,
+          7606.33
+        ],
+        [
+          -170.44,
+          7609.53
+        ],
+        [
+          -169.71,
+          7612.39
+        ],
+        [
+          -171.88,
+          7612.93
+        ],
+        [
+          -163.44,
+          7646.07
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9920352,
+          72.830556
+        ],
+        [
+          18.992003,
+          72.8306973
+        ],
+        [
+          18.9916769,
+          72.8306144
+        ],
+        [
+          18.9917044,
+          72.8304938
+        ],
+        [
+          18.9917303,
+          72.8305004
+        ],
+        [
+          18.991735,
+          72.8304797
+        ],
+        [
+          18.9920352,
+          72.830556
+        ]
+      ],
+      "elevation_msl": 5.36,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768900",
+      "source_id": "osm_way_353768900",
+      "osm_id": 353768900,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 15"
+      },
+      "area_sqm": 560.3,
+      "perimeter_m": 105.53,
+      "local_centroid": [
+        -139.26,
+        7620.49
+      ],
+      "geo_centroid": [
+        18.991796,
+        72.830759
+      ],
+      "local_polygon_vertices": [
+        [
+          -142.93,
+          7640.31
+        ],
+        [
+          -128.23,
+          7637.32
+        ],
+        [
+          -135.82,
+          7600.32
+        ],
+        [
+          -149.01,
+          7603.01
+        ],
+        [
+          -148.2,
+          7606.97
+        ],
+        [
+          -149.71,
+          7607.28
+        ],
+        [
+          -142.93,
+          7640.31
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9919855,
+          72.8307514
+        ],
+        [
+          18.9919601,
+          72.8308913
+        ],
+        [
+          18.9916251,
+          72.8308235
+        ],
+        [
+          18.9916479,
+          72.830698
+        ],
+        [
+          18.9916838,
+          72.8307052
+        ],
+        [
+          18.9916864,
+          72.8306909
+        ],
+        [
+          18.9919855,
+          72.8307514
+        ]
+      ],
+      "elevation_msl": 6.27,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768907",
+      "source_id": "osm_way_353768907",
+      "osm_id": 353768907,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 31"
+      },
+      "area_sqm": 642.46,
+      "perimeter_m": 110.48,
+      "local_centroid": [
+        -280.66,
+        7658.29
+      ],
+      "geo_centroid": [
+        18.992115,
+        72.829427
+      ],
+      "local_polygon_vertices": [
+        [
+          -293.56,
+          7644.53
+        ],
+        [
+          -283.69,
+          7679.01
+        ],
+        [
+          -269.35,
+          7674.96
+        ],
+        [
+          -270.68,
+          7670.28
+        ],
+        [
+          -268.28,
+          7669.6
+        ],
+        [
+          -277.35,
+          7637.9
+        ],
+        [
+          -292.14,
+          7642.09
+        ],
+        [
+          -291.6,
+          7643.97
+        ],
+        [
+          -293.56,
+          7644.53
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9920068,
+          72.8293208
+        ],
+        [
+          18.9923193,
+          72.8294105
+        ],
+        [
+          18.9922843,
+          72.8295471
+        ],
+        [
+          18.9922419,
+          72.829535
+        ],
+        [
+          18.992236,
+          72.8295579
+        ],
+        [
+          18.9919487,
+          72.8294755
+        ],
+        [
+          18.9919849,
+          72.8293346
+        ],
+        [
+          18.992002,
+          72.8293395
+        ],
+        [
+          18.9920068,
+          72.8293208
+        ]
+      ],
+      "elevation_msl": 0.75,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353768912",
+      "source_id": "osm_way_353768912",
+      "osm_id": 353768912,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "7",
+        "name": "Shivaji Nagar Building"
+      },
+      "area_sqm": 2592.09,
+      "perimeter_m": 257.31,
+      "local_centroid": [
+        -86.11,
+        7710.8
+      ],
+      "geo_centroid": [
+        18.992476,
+        72.83128
+      ],
+      "local_polygon_vertices": [
+        [
+          -100.12,
+          7761.66
+        ],
+        [
+          -74.82,
+          7762.33
+        ],
+        [
+          -72.14,
+          7661.03
+        ],
+        [
+          -77.44,
+          7660.89
+        ],
+        [
+          -77.39,
+          7658.86
+        ],
+        [
+          -89.92,
+          7658.54
+        ],
+        [
+          -89.96,
+          7660.26
+        ],
+        [
+          -97.43,
+          7660.07
+        ],
+        [
+          -100.12,
+          7761.66
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9930862,
+          72.8311436
+        ],
+        [
+          18.993095,
+          72.8313837
+        ],
+        [
+          18.9921805,
+          72.831421
+        ],
+        [
+          18.9921786,
+          72.8313707
+        ],
+        [
+          18.9921603,
+          72.8313714
+        ],
+        [
+          18.992156,
+          72.8312525
+        ],
+        [
+          18.9921715,
+          72.8312519
+        ],
+        [
+          18.992169,
+          72.831181
+        ],
+        [
+          18.9930862,
+          72.8311436
+        ]
+      ],
+      "elevation_msl": 5.97,
+      "height_m": 22.4,
+      "levels": 7.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:7"
+    },
+    {
+      "asset_id": "BLDG_353790695",
+      "source_id": "osm_way_353790695",
+      "osm_id": 353790695,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 1402.43,
+      "perimeter_m": 248.43,
+      "local_centroid": [
+        -36.8,
+        7563.27
+      ],
+      "geo_centroid": [
+        18.9912,
+        72.831762
+      ],
+      "local_polygon_vertices": [
+        [
+          -40.88,
+          7507.25
+        ],
+        [
+          -45.27,
+          7618.81
+        ],
+        [
+          -32.72,
+          7619.3
+        ],
+        [
+          -28.33,
+          7507.73
+        ],
+        [
+          -40.88,
+          7507.25
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9907951,
+          72.8317358
+        ],
+        [
+          18.9918022,
+          72.831681
+        ],
+        [
+          18.991808,
+          72.8318001
+        ],
+        [
+          18.9908009,
+          72.8318549
+        ],
+        [
+          18.9907951,
+          72.8317358
+        ]
+      ],
+      "elevation_msl": 9.34,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353790745",
+      "source_id": "osm_way_353790745",
+      "osm_id": 353790745,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Prithviranoan"
+      },
+      "area_sqm": 728.0,
+      "perimeter_m": 145.09,
+      "local_centroid": [
+        -91.65,
+        7606.01
+      ],
+      "geo_centroid": [
+        18.991736,
+        72.831229
+      ],
+      "local_polygon_vertices": [
+        [
+          -98.38,
+          7636.11
+        ],
+        [
+          -86.35,
+          7636.39
+        ],
+        [
+          -84.92,
+          7575.9
+        ],
+        [
+          -96.95,
+          7575.61
+        ],
+        [
+          -98.38,
+          7636.11
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9919525,
+          72.8311748
+        ],
+        [
+          18.9919564,
+          72.831289
+        ],
+        [
+          18.9914102,
+          72.8313096
+        ],
+        [
+          18.9914063,
+          72.8311955
+        ],
+        [
+          18.9919525,
+          72.8311748
+        ]
+      ],
+      "elevation_msl": 7.17,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353799688",
+      "source_id": "osm_way_353799688",
+      "osm_id": 353799688,
+      "sub_index": 0,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "name": "N.M. Joshi Marg Municipal Secondary School"
+      },
+      "area_sqm": 3624.57,
+      "perimeter_m": 280.57,
+      "local_centroid": [
+        5.32,
+        7555.65
+      ],
+      "geo_centroid": [
+        18.991034,
+        72.832177
+      ],
+      "local_polygon_vertices": [
+        [
+          -18.24,
+          7513.68
+        ],
+        [
+          -17.43,
+          7594.54
+        ],
+        [
+          29.75,
+          7594.07
+        ],
+        [
+          29.09,
+          7528.23
+        ],
+        [
+          23.13,
+          7528.29
+        ],
+        [
+          22.99,
+          7513.27
+        ],
+        [
+          7.52,
+          7513.43
+        ],
+        [
+          7.65,
+          7525.65
+        ],
+        [
+          -0.63,
+          7525.73
+        ],
+        [
+          -0.75,
+          7513.51
+        ],
+        [
+          -18.24,
+          7513.68
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9908557,
+          72.83195
+        ],
+        [
+          18.9915861,
+          72.8319482
+        ],
+        [
+          18.9915871,
+          72.8323962
+        ],
+        [
+          18.9909924,
+          72.8323976
+        ],
+        [
+          18.9909923,
+          72.832341
+        ],
+        [
+          18.9908566,
+          72.8323414
+        ],
+        [
+          18.9908563,
+          72.8321946
+        ],
+        [
+          18.9909667,
+          72.8321944
+        ],
+        [
+          18.9909665,
+          72.8321157
+        ],
+        [
+          18.9908561,
+          72.832116
+        ],
+        [
+          18.9908557,
+          72.83195
+        ]
+      ],
+      "elevation_msl": 6.21,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353995761",
+      "source_id": "osm_way_353995761",
+      "osm_id": 353995761,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 419.84,
+      "perimeter_m": 86.26,
+      "local_centroid": [
+        -43.4,
+        7823.84
+      ],
+      "geo_centroid": [
+        18.993628,
+        72.831662
+      ],
+      "local_polygon_vertices": [
+        [
+          -50.42,
+          7809.49
+        ],
+        [
+          -51.21,
+          7837.77
+        ],
+        [
+          -36.38,
+          7838.18
+        ],
+        [
+          -35.59,
+          7809.9
+        ],
+        [
+          -50.42,
+          7809.49
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9935237,
+          72.8316098
+        ],
+        [
+          18.993779,
+          72.831599
+        ],
+        [
+          18.9937843,
+          72.8317398
+        ],
+        [
+          18.993529,
+          72.8317506
+        ],
+        [
+          18.9935237,
+          72.8316098
+        ]
+      ],
+      "elevation_msl": 7.02,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353995763",
+      "source_id": "osm_way_353995763",
+      "osm_id": 353995763,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 27"
+      },
+      "area_sqm": 508.67,
+      "perimeter_m": 97.04,
+      "local_centroid": [
+        -296.85,
+        7717.96
+      ],
+      "geo_centroid": [
+        18.992644,
+        72.829259
+      ],
+      "local_polygon_vertices": [
+        [
+          -308.65,
+          7703.97
+        ],
+        [
+          -299.84,
+          7735.97
+        ],
+        [
+          -285.05,
+          7731.94
+        ],
+        [
+          -293.87,
+          7699.94
+        ],
+        [
+          -308.65,
+          7703.97
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9925419,
+          72.8291706
+        ],
+        [
+          18.9928319,
+          72.8292505
+        ],
+        [
+          18.9927972,
+          72.8293914
+        ],
+        [
+          18.9925072,
+          72.8293114
+        ],
+        [
+          18.9925419,
+          72.8291706
+        ]
+      ],
+      "elevation_msl": 0.86,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353995767",
+      "source_id": "osm_way_353995767",
+      "osm_id": 353995767,
+      "sub_index": 0,
+      "tags": {
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2026-03-20",
+        "education": "school",
+        "name": "PES Maharashtra High School"
+      },
+      "area_sqm": 370.76,
+      "perimeter_m": 79.49,
+      "local_centroid": [
+        -45.6,
+        7860.81
+      ],
+      "geo_centroid": [
+        18.993965,
+        72.831636
+      ],
+      "local_polygon_vertices": [
+        [
+          -52.7,
+          7848.2
+        ],
+        [
+          -53.46,
+          7872.97
+        ],
+        [
+          -38.51,
+          7873.43
+        ],
+        [
+          -37.73,
+          7848.65
+        ],
+        [
+          -52.7,
+          7848.2
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.993873,
+          72.8315837
+        ],
+        [
+          18.9940966,
+          72.8315736
+        ],
+        [
+          18.9941024,
+          72.8317154
+        ],
+        [
+          18.9938787,
+          72.8317257
+        ],
+        [
+          18.993873,
+          72.8315837
+        ]
+      ],
+      "elevation_msl": 7.22,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353995771",
+      "source_id": "osm_way_353995771",
+      "osm_id": 353995771,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Building 10"
+      },
+      "area_sqm": 533.22,
+      "perimeter_m": 105.47,
+      "local_centroid": [
+        -324.23,
+        7618.31
+      ],
+      "geo_centroid": [
+        18.991683,
+        72.829009
+      ],
+      "local_polygon_vertices": [
+        [
+          -334.56,
+          7602.83
+        ],
+        [
+          -327.47,
+          7638.11
+        ],
+        [
+          -313.53,
+          7635.33
+        ],
+        [
+          -320.43,
+          7601.04
+        ],
+        [
+          -322.7,
+          7601.48
+        ],
+        [
+          -323.41,
+          7598.02
+        ],
+        [
+          -332.7,
+          7599.87
+        ],
+        [
+          -332.2,
+          7602.35
+        ],
+        [
+          -334.56,
+          7602.83
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9916256,
+          72.8289364
+        ],
+        [
+          18.991945,
+          72.8289996
+        ],
+        [
+          18.9919215,
+          72.8291323
+        ],
+        [
+          18.991611,
+          72.8290708
+        ],
+        [
+          18.9916148,
+          72.8290492
+        ],
+        [
+          18.9915834,
+          72.8290429
+        ],
+        [
+          18.9915991,
+          72.8289544
+        ],
+        [
+          18.9916216,
+          72.8289589
+        ],
+        [
+          18.9916256,
+          72.8289364
+        ]
+      ],
+      "elevation_msl": 1.44,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_353995772",
+      "source_id": "osm_way_353995772",
+      "osm_id": 353995772,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "BDD Chawl No 32"
+      },
+      "area_sqm": 538.19,
+      "perimeter_m": 104.19,
+      "local_centroid": [
+        -312.32,
+        7667.73
+      ],
+      "geo_centroid": [
+        18.992132,
+        72.829112
+      ],
+      "local_polygon_vertices": [
+        [
+          -323.81,
+          7653.2
+        ],
+        [
+          -314.55,
+          7687.45
+        ],
+        [
+          -300.47,
+          7683.69
+        ],
+        [
+          -309.64,
+          7649.77
+        ],
+        [
+          -310.98,
+          7650.13
+        ],
+        [
+          -311.6,
+          7647.83
+        ],
+        [
+          -321.86,
+          7650.57
+        ],
+        [
+          -321.32,
+          7652.53
+        ],
+        [
+          -323.81,
+          7653.2
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9920817,
+          72.8290326
+        ],
+        [
+          18.9923921,
+          72.8291165
+        ],
+        [
+          18.9923597,
+          72.8292506
+        ],
+        [
+          18.9920523,
+          72.8291675
+        ],
+        [
+          18.9920554,
+          72.8291548
+        ],
+        [
+          18.9920346,
+          72.8291491
+        ],
+        [
+          18.9920582,
+          72.8290514
+        ],
+        [
+          18.992076,
+          72.8290563
+        ],
+        [
+          18.9920817,
+          72.8290326
+        ]
+      ],
+      "elevation_msl": 0.52,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358473236",
+      "source_id": "osm_way_358473236",
+      "osm_id": 358473236,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 327.37,
+      "perimeter_m": 104.48,
+      "local_centroid": [
+        -24.47,
+        7660.6
+      ],
+      "geo_centroid": [
+        18.992207,
+        72.831907
+      ],
+      "local_polygon_vertices": [
+        [
+          -45.38,
+          7664.7
+        ],
+        [
+          -22.06,
+          7663.84
+        ],
+        [
+          -21.97,
+          7666.22
+        ],
+        [
+          -17.19,
+          7666.04
+        ],
+        [
+          -17.28,
+          7663.67
+        ],
+        [
+          -15.51,
+          7663.6
+        ],
+        [
+          -15.44,
+          7665.59
+        ],
+        [
+          -7.72,
+          7665.31
+        ],
+        [
+          -7.8,
+          7663.32
+        ],
+        [
+          -4.98,
+          7663.21
+        ],
+        [
+          -5.25,
+          7655.78
+        ],
+        [
+          -45.66,
+          7657.27
+        ],
+        [
+          -45.38,
+          7664.7
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9922166,
+          72.8316746
+        ],
+        [
+          18.9922114,
+          72.8318961
+        ],
+        [
+          18.9922329,
+          72.8318967
+        ],
+        [
+          18.9922318,
+          72.8319421
+        ],
+        [
+          18.9922104,
+          72.8319415
+        ],
+        [
+          18.99221,
+          72.8319583
+        ],
+        [
+          18.992228,
+          72.8319588
+        ],
+        [
+          18.9922263,
+          72.8320321
+        ],
+        [
+          18.9922083,
+          72.8320316
+        ],
+        [
+          18.9922076,
+          72.8320584
+        ],
+        [
+          18.9921405,
+          72.8320567
+        ],
+        [
+          18.9921495,
+          72.8316728
+        ],
+        [
+          18.9922166,
+          72.8316746
+        ]
+      ],
+      "elevation_msl": 7.64,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358473243",
+      "source_id": "osm_way_358473243",
+      "osm_id": 358473243,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Lower Parel, Mumbai",
+        "addr:housenumber": "Mafatlal Mills Compound",
+        "addr:postcode": "400013",
+        "addr:street": "N M Joshi Marg",
+        "building": "yes",
+        "building:levels": "32",
+        "name": "Marathon Futurex"
+      },
+      "area_sqm": 8114.56,
+      "perimeter_m": 366.94,
+      "local_centroid": [
+        -151.18,
+        7948.62
+      ],
+      "geo_centroid": [
+        18.994649,
+        72.830568
+      ],
+      "local_polygon_vertices": [
+        [
+          -103.12,
+          7906.15
+        ],
+        [
+          -143.94,
+          7903.92
+        ],
+        [
+          -184.75,
+          7901.69
+        ],
+        [
+          -185.12,
+          7908.42
+        ],
+        [
+          -193.94,
+          7907.94
+        ],
+        [
+          -194.86,
+          7924.62
+        ],
+        [
+          -200.8,
+          7924.29
+        ],
+        [
+          -202.48,
+          7954.82
+        ],
+        [
+          -196.76,
+          7955.12
+        ],
+        [
+          -183.19,
+          7996.18
+        ],
+        [
+          -112.77,
+          7998.81
+        ],
+        [
+          -110.85,
+          7955.06
+        ],
+        [
+          -104.53,
+          7952.47
+        ],
+        [
+          -103.12,
+          7906.15
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9943907,
+          72.8310982
+        ],
+        [
+          18.9943661,
+          72.8307109
+        ],
+        [
+          18.9943414,
+          72.8303237
+        ],
+        [
+          18.9944021,
+          72.8303194
+        ],
+        [
+          18.9943968,
+          72.8302357
+        ],
+        [
+          18.9945473,
+          72.8302251
+        ],
+        [
+          18.9945437,
+          72.8301687
+        ],
+        [
+          18.9948192,
+          72.8301492
+        ],
+        [
+          18.9948226,
+          72.8302034
+        ],
+        [
+          18.9951949,
+          72.8303275
+        ],
+        [
+          18.9952265,
+          72.8309957
+        ],
+        [
+          18.9948316,
+          72.8310191
+        ],
+        [
+          18.9948089,
+          72.8310794
+        ],
+        [
+          18.9943907,
+          72.8310982
+        ]
+      ],
+      "elevation_msl": 7.14,
+      "height_m": 102.4,
+      "levels": 32.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:32"
+    },
+    {
+      "asset_id": "BLDG_358473249",
+      "source_id": "osm_way_358473249",
+      "osm_id": 358473249,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "name": "Panchaganga Apartments"
+      },
+      "area_sqm": 1727.65,
+      "perimeter_m": 320.6,
+      "local_centroid": [
+        -3.69,
+        7711.67
+      ],
+      "geo_centroid": [
+        18.992662,
+        72.832047
+      ],
+      "local_polygon_vertices": [
+        [
+          -51.6,
+          7722.67
+        ],
+        [
+          -39.82,
+          7722.45
+        ],
+        [
+          -39.84,
+          7721.45
+        ],
+        [
+          -28.07,
+          7721.24
+        ],
+        [
+          -28.04,
+          7722.23
+        ],
+        [
+          -22.5,
+          7722.13
+        ],
+        [
+          -22.51,
+          7721.57
+        ],
+        [
+          -7.92,
+          7721.3
+        ],
+        [
+          -7.91,
+          7721.85
+        ],
+        [
+          -2.39,
+          7721.75
+        ],
+        [
+          -2.4,
+          7720.9
+        ],
+        [
+          12.42,
+          7720.63
+        ],
+        [
+          12.44,
+          7721.48
+        ],
+        [
+          20.93,
+          7721.32
+        ],
+        [
+          20.91,
+          7720.11
+        ],
+        [
+          37.2,
+          7719.8
+        ],
+        [
+          37.23,
+          7721.02
+        ],
+        [
+          43.71,
+          7720.89
+        ],
+        [
+          43.31,
+          7699.54
+        ],
+        [
+          27.55,
+          7699.83
+        ],
+        [
+          27.74,
+          7709.98
+        ],
+        [
+          22.87,
+          7710.08
+        ],
+        [
+          22.69,
+          7700.28
+        ],
+        [
+          7.77,
+          7700.55
+        ],
+        [
+          7.96,
+          7710.72
+        ],
+        [
+          2.77,
+          7710.81
+        ],
+        [
+          2.59,
+          7700.73
+        ],
+        [
+          -11.99,
+          7701.0
+        ],
+        [
+          -11.81,
+          7710.67
+        ],
+        [
+          -16.91,
+          7710.77
+        ],
+        [
+          -17.08,
+          7701.58
+        ],
+        [
+          -32.22,
+          7701.85
+        ],
+        [
+          -32.04,
+          7711.85
+        ],
+        [
+          -38.93,
+          7711.98
+        ],
+        [
+          -39.14,
+          7701.08
+        ],
+        [
+          -52.0,
+          7701.31
+        ],
+        [
+          -51.6,
+          7722.67
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9927394,
+          72.8316088
+        ],
+        [
+          18.9927388,
+          72.8317207
+        ],
+        [
+          18.9927297,
+          72.8317206
+        ],
+        [
+          18.9927291,
+          72.8318324
+        ],
+        [
+          18.9927381,
+          72.8318325
+        ],
+        [
+          18.9927378,
+          72.8318851
+        ],
+        [
+          18.9927327,
+          72.8318851
+        ],
+        [
+          18.9927319,
+          72.8320237
+        ],
+        [
+          18.9927369,
+          72.8320237
+        ],
+        [
+          18.9927366,
+          72.8320761
+        ],
+        [
+          18.9927289,
+          72.8320761
+        ],
+        [
+          18.9927281,
+          72.8322168
+        ],
+        [
+          18.9927358,
+          72.8322169
+        ],
+        [
+          18.9927353,
+          72.8322976
+        ],
+        [
+          18.9927244,
+          72.8322975
+        ],
+        [
+          18.9927234,
+          72.8324522
+        ],
+        [
+          18.9927344,
+          72.8324523
+        ],
+        [
+          18.992734,
+          72.8325139
+        ],
+        [
+          18.9925411,
+          72.8325126
+        ],
+        [
+          18.992542,
+          72.8323629
+        ],
+        [
+          18.9926337,
+          72.8323635
+        ],
+        [
+          18.992634,
+          72.8323173
+        ],
+        [
+          18.9925455,
+          72.8323167
+        ],
+        [
+          18.9925463,
+          72.832175
+        ],
+        [
+          18.9926381,
+          72.8321757
+        ],
+        [
+          18.9926384,
+          72.8321264
+        ],
+        [
+          18.9925473,
+          72.8321258
+        ],
+        [
+          18.9925481,
+          72.8319874
+        ],
+        [
+          18.9926355,
+          72.831988
+        ],
+        [
+          18.9926358,
+          72.8319395
+        ],
+        [
+          18.9925528,
+          72.831939
+        ],
+        [
+          18.9925536,
+          72.8317952
+        ],
+        [
+          18.9926439,
+          72.8317958
+        ],
+        [
+          18.9926443,
+          72.8317303
+        ],
+        [
+          18.9925458,
+          72.8317296
+        ],
+        [
+          18.9925465,
+          72.8316075
+        ],
+        [
+          18.9927394,
+          72.8316088
+        ]
+      ],
+      "elevation_msl": 9.85,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358473273",
+      "source_id": "osm_way_358473273",
+      "osm_id": 358473273,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "building:levels": "15"
+      },
+      "area_sqm": 299.49,
+      "perimeter_m": 67.45,
+      "local_centroid": [
+        0.7,
+        7917.74
+      ],
+      "geo_centroid": [
+        18.994519,
+        72.832093
+      ],
+      "local_polygon_vertices": [
+        [
+          8.43,
+          7926.74
+        ],
+        [
+          9.78,
+          7918.34
+        ],
+        [
+          9.58,
+          7909.3
+        ],
+        [
+          -7.08,
+          7909.19
+        ],
+        [
+          -8.76,
+          7916.96
+        ],
+        [
+          -7.92,
+          7925.83
+        ],
+        [
+          8.43,
+          7926.74
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9945891,
+          72.8321549
+        ],
+        [
+          18.9945134,
+          72.8321687
+        ],
+        [
+          18.9944317,
+          72.8321678
+        ],
+        [
+          18.9944289,
+          72.8320097
+        ],
+        [
+          18.9944989,
+          72.8319928
+        ],
+        [
+          18.9945791,
+          72.8319997
+        ],
+        [
+          18.9945891,
+          72.8321549
+        ]
+      ],
+      "elevation_msl": 5.25,
+      "height_m": 48.0,
+      "levels": 15.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_B_INFERRED",
+      "confidence_score": 0.65,
+      "height_source": "osm_tag_levels:15"
+    },
+    {
+      "asset_id": "BLDG_374346197",
+      "source_id": "osm_way_374346197",
+      "osm_id": 374346197,
+      "sub_index": 0,
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "check_date": "2026-03-20",
+        "religion": "muslim"
+      },
+      "area_sqm": 472.8,
+      "perimeter_m": 89.51,
+      "local_centroid": [
+        -89.2,
+        7780.14
+      ],
+      "geo_centroid": [
+        18.993232,
+        72.831263
+      ],
+      "local_polygon_vertices": [
+        [
+          -80.25,
+          7767.08
+        ],
+        [
+          -80.88,
+          7793.97
+        ],
+        [
+          -97.52,
+          7794.17
+        ],
+        [
+          -97.87,
+          7765.87
+        ],
+        [
+          -80.25,
+          7767.08
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9931373,
+          72.8313316
+        ],
+        [
+          18.9933801,
+          72.8313225
+        ],
+        [
+          18.9933801,
+          72.8311645
+        ],
+        [
+          18.9931244,
+          72.8311645
+        ],
+        [
+          18.9931373,
+          72.8313316
+        ]
+      ],
+      "elevation_msl": 7.62,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_mosque"
+    },
+    {
+      "asset_id": "BLDG_377302327",
+      "source_id": "osm_way_377302327",
+      "osm_id": 377302327,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes",
+        "layer": "1"
+      },
+      "area_sqm": 1760.86,
+      "perimeter_m": 207.74,
+      "local_centroid": [
+        -59.73,
+        7769.57
+      ],
+      "geo_centroid": [
+        18.993092,
+        72.831496
+      ],
+      "local_polygon_vertices": [
+        [
+          -69.0,
+          7727.97
+        ],
+        [
+          -47.68,
+          7728.67
+        ],
+        [
+          -50.45,
+          7811.17
+        ],
+        [
+          -71.77,
+          7810.46
+        ],
+        [
+          -70.23,
+          7764.58
+        ],
+        [
+          -69.0,
+          7727.97
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9927854,
+          72.831443
+        ],
+        [
+          18.9927941,
+          72.8316453
+        ],
+        [
+          18.9935388,
+          72.8316094
+        ],
+        [
+          18.99353,
+          72.831407
+        ],
+        [
+          18.9931159,
+          72.831427
+        ],
+        [
+          18.9927854,
+          72.831443
+        ]
+      ],
+      "elevation_msl": 9.59,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_430179201",
+      "source_id": "osm_way_430179201",
+      "osm_id": 430179201,
+      "sub_index": 0,
+      "tags": {
+        "building": "industrial",
+        "railway": "workshop"
+      },
+      "area_sqm": 15487.86,
+      "perimeter_m": 745.68,
+      "local_centroid": [
+        -490.83,
+        7512.92
+      ],
+      "geo_centroid": [
+        18.990854,
+        72.827393
+      ],
+      "local_polygon_vertices": [
+        [
+          -586.26,
+          7446.13
+        ],
+        [
+          -583.08,
+          7444.77
+        ],
+        [
+          -576.83,
+          7442.12
+        ],
+        [
+          -570.6,
+          7439.47
+        ],
+        [
+          -564.36,
+          7436.81
+        ],
+        [
+          -544.6,
+          7428.41
+        ],
+        [
+          -539.58,
+          7426.25
+        ],
+        [
+          -534.56,
+          7424.09
+        ],
+        [
+          -529.54,
+          7421.93
+        ],
+        [
+          -524.52,
+          7419.78
+        ],
+        [
+          -519.51,
+          7417.61
+        ],
+        [
+          -516.65,
+          7416.53
+        ],
+        [
+          -516.71,
+          7416.41
+        ],
+        [
+          -514.49,
+          7415.46
+        ],
+        [
+          -502.94,
+          7410.56
+        ],
+        [
+          -495.78,
+          7407.51
+        ],
+        [
+          -421.78,
+          7579.48
+        ],
+        [
+          -427.72,
+          7582.0
+        ],
+        [
+          -409.91,
+          7623.41
+        ],
+        [
+          -417.77,
+          7626.76
+        ],
+        [
+          -401.11,
+          7665.49
+        ],
+        [
+          -404.5,
+          7666.94
+        ],
+        [
+          -407.36,
+          7668.16
+        ],
+        [
+          -429.9,
+          7615.81
+        ],
+        [
+          -433.07,
+          7617.16
+        ],
+        [
+          -438.56,
+          7619.49
+        ],
+        [
+          -444.05,
+          7621.83
+        ],
+        [
+          -449.54,
+          7624.17
+        ],
+        [
+          -455.03,
+          7626.5
+        ],
+        [
+          -460.52,
+          7628.83
+        ],
+        [
+          -462.81,
+          7629.81
+        ],
+        [
+          -465.14,
+          7624.4
+        ],
+        [
+          -519.06,
+          7499.1
+        ],
+        [
+          -523.05,
+          7489.81
+        ],
+        [
+          -538.07,
+          7496.19
+        ],
+        [
+          -544.25,
+          7498.82
+        ],
+        [
+          -550.42,
+          7501.45
+        ],
+        [
+          -556.59,
+          7504.07
+        ],
+        [
+          -560.59,
+          7505.77
+        ],
+        [
+          -586.26,
+          7446.13
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9901824,
+          72.8265652
+        ],
+        [
+          18.9901705,
+          72.8265956
+        ],
+        [
+          18.9901472,
+          72.8266552
+        ],
+        [
+          18.990124,
+          72.8267147
+        ],
+        [
+          18.9901007,
+          72.8267742
+        ],
+        [
+          18.990027,
+          72.8269628
+        ],
+        [
+          18.9900081,
+          72.8270107
+        ],
+        [
+          18.9899891,
+          72.8270586
+        ],
+        [
+          18.9899702,
+          72.8271065
+        ],
+        [
+          18.9899513,
+          72.8271544
+        ],
+        [
+          18.9899323,
+          72.8272023
+        ],
+        [
+          18.9899228,
+          72.8272295
+        ],
+        [
+          18.9899217,
+          72.827229
+        ],
+        [
+          18.9899134,
+          72.8272502
+        ],
+        [
+          18.9898704,
+          72.8273604
+        ],
+        [
+          18.9898437,
+          72.8274287
+        ],
+        [
+          18.991405,
+          72.8281111
+        ],
+        [
+          18.9914271,
+          72.8280544
+        ],
+        [
+          18.9918031,
+          72.8282187
+        ],
+        [
+          18.9918325,
+          72.8281436
+        ],
+        [
+          18.9921841,
+          72.8282973
+        ],
+        [
+          18.9921968,
+          72.8282649
+        ],
+        [
+          18.9922075,
+          72.8282376
+        ],
+        [
+          18.9917322,
+          72.8280298
+        ],
+        [
+          18.9917441,
+          72.8279995
+        ],
+        [
+          18.9917645,
+          72.8279471
+        ],
+        [
+          18.991785,
+          72.8278947
+        ],
+        [
+          18.9918055,
+          72.8278423
+        ],
+        [
+          18.991826,
+          72.8277899
+        ],
+        [
+          18.9918464,
+          72.8277375
+        ],
+        [
+          18.991855,
+          72.8277157
+        ],
+        [
+          18.9918059,
+          72.8276942
+        ],
+        [
+          18.9906683,
+          72.827197
+        ],
+        [
+          18.9905839,
+          72.8271602
+        ],
+        [
+          18.9906399,
+          72.8270168
+        ],
+        [
+          18.9906629,
+          72.8269579
+        ],
+        [
+          18.990686,
+          72.826899
+        ],
+        [
+          18.990709,
+          72.8268401
+        ],
+        [
+          18.9907239,
+          72.8268019
+        ],
+        [
+          18.9901824,
+          72.8265652
+        ]
+      ],
+      "elevation_msl": 9.54,
+      "height_m": 7.0,
+      "levels": 1.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_industrial"
+    },
+    {
+      "asset_id": "BLDG_594402137",
+      "source_id": "osm_way_594402137",
+      "osm_id": 594402137,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 186.51,
+      "perimeter_m": 63.49,
+      "local_centroid": [
+        -120.54,
+        7576.05
+      ],
+      "geo_centroid": [
+        18.99142,
+        72.830949
+      ],
+      "local_polygon_vertices": [
+        [
+          -131.58,
+          7582.98
+        ],
+        [
+          -132.94,
+          7575.7
+        ],
+        [
+          -110.0,
+          7568.82
+        ],
+        [
+          -108.48,
+          7576.94
+        ],
+        [
+          -131.58,
+          7582.98
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.991469,
+          72.8308658
+        ],
+        [
+          18.9914031,
+          72.8308538
+        ],
+        [
+          18.9913435,
+          72.8310724
+        ],
+        [
+          18.991417,
+          72.8310858
+        ],
+        [
+          18.991469,
+          72.8308658
+        ]
+      ],
+      "elevation_msl": 6.48,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_596370819",
+      "source_id": "osm_way_596370819",
+      "osm_id": 596370819,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 442.28,
+      "perimeter_m": 90.4,
+      "local_centroid": [
+        -118.52,
+        7595.17
+      ],
+      "geo_centroid": [
+        18.991636,
+        72.830981
+      ],
+      "local_polygon_vertices": [
+        [
+          -124.11,
+          7611.33
+        ],
+        [
+          -118.35,
+          7610.33
+        ],
+        [
+          -119.15,
+          7606.26
+        ],
+        [
+          -107.06,
+          7603.75
+        ],
+        [
+          -112.01,
+          7580.79
+        ],
+        [
+          -129.65,
+          7585.64
+        ],
+        [
+          -124.11,
+          7611.33
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9917258,
+          72.8309334
+        ],
+        [
+          18.9917174,
+          72.8309882
+        ],
+        [
+          18.9916806,
+          72.8309811
+        ],
+        [
+          18.9916593,
+          72.8310962
+        ],
+        [
+          18.9914514,
+          72.8310519
+        ],
+        [
+          18.9914932,
+          72.8308838
+        ],
+        [
+          18.9917258,
+          72.8309334
+        ]
+      ],
+      "elevation_msl": 6.95,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1458934397",
+      "source_id": "osm_way_1458934397",
+      "osm_id": 1458934397,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 744.62,
+      "perimeter_m": 121.87,
+      "local_centroid": [
+        -10.44,
+        7860.29
+      ],
+      "geo_centroid": [
+        18.993999,
+        72.83194
+      ],
+      "local_polygon_vertices": [
+        [
+          -33.04,
+          7867.03
+        ],
+        [
+          -31.72,
+          7850.16
+        ],
+        [
+          12.17,
+          7853.56
+        ],
+        [
+          10.85,
+          7870.42
+        ],
+        [
+          -33.04,
+          7867.03
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9940452,
+          72.8317681
+        ],
+        [
+          18.993893,
+          72.8317826
+        ],
+        [
+          18.9939286,
+          72.8321989
+        ],
+        [
+          18.9940807,
+          72.8321844
+        ],
+        [
+          18.9940452,
+          72.8317681
+        ]
+      ],
+      "elevation_msl": 6.41,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_123299201",
+      "osm_id": 123299201,
+      "name": "Currey Road Bridge",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 93.83,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245658974,
+        4294536734,
+        13801168733
+      ],
+      "coordinates_3d": [
+        [
+          47.54,
+          7982.51,
+          13.27
+        ],
+        [
+          33.79,
+          7983.26,
+          12.64
+        ],
+        [
+          -46.04,
+          7989.31,
+          12.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_661939860",
+      "osm_id": 661939860,
+      "name": "N M Joshi Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 24.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302134,
+        6197216781
+      ],
+      "coordinates_3d": [
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ],
+        [
+          -78.48,
+          8013.42,
+          7.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_661939862",
+      "osm_id": 661939862,
+      "name": "N M Joshi Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 24.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6197216782,
+        1966835463
+      ],
+      "coordinates_3d": [
+        [
+          -65.13,
+          8013.79,
+          7.37
+        ],
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771376",
+      "osm_id": 1235771376,
+      "name": "Mahadev Palav Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1966835463,
+        6165302134
+      ],
+      "coordinates_3d": [
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ],
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309809535",
+      "osm_id": 1309809535,
+      "name": "Mahadev Palav Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 4.35,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11045894710,
+        1966835463
+      ],
+      "coordinates_3d": [
+        [
+          -60.06,
+          7989.05,
+          7.16
+        ],
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1509764747",
+      "osm_id": 1509764747,
+      "name": "Currey Road Bridge",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13801168733,
+        11045894710
+      ],
+      "coordinates_3d": [
+        [
+          -46.04,
+          7989.31,
+          6.71
+        ],
+        [
+          -60.06,
+          7989.05,
+          7.16
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550759937",
+      "osm_id": 1550759937,
+      "name": "N M Joshi Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14104867299,
+        1966835463
+      ],
+      "coordinates_3d": [
+        [
+          -64.69,
+          7999.15,
+          7.13
+        ],
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550759938",
+      "osm_id": 1550759938,
+      "name": "N M Joshi Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302134,
+        14104867300
+      ],
+      "coordinates_3d": [
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ],
+        [
+          -78.04,
+          7998.74,
+          7.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852103",
+      "osm_id": 22852103,
+      "name": "Junior Boricha Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 939.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658377,
+        6165302140,
+        245658386,
+        245658415,
+        13805951078,
+        13806303860,
+        13820175830,
+        12850657133,
+        13815719322,
+        245658461,
+        12850657134,
+        13805528458,
+        13806053875,
+        12985153242,
+        13805528463,
+        13806707432,
+        13806707420,
+        13806707429,
+        245658511,
+        245658541,
+        14277430935,
+        14277430942,
+        13806707419,
+        13806707417,
+        13806707418,
+        494909911,
+        13806707416,
+        13806707415,
+        494909912,
+        494909913
+      ],
+      "coordinates_3d": [
+        [
+          -276.56,
+          6769.63,
+          7.87
+        ],
+        [
+          -284.54,
+          6776.64,
+          7.28
+        ],
+        [
+          -315.19,
+          6804.72,
+          4.63
+        ],
+        [
+          -395.56,
+          6878.36,
+          4.83
+        ],
+        [
+          -419.7,
+          6901.72,
+          4.93
+        ],
+        [
+          -429.25,
+          6911.08,
+          5.35
+        ],
+        [
+          -450.51,
+          6931.28,
+          5.08
+        ],
+        [
+          -466.94,
+          6951.12,
+          5.08
+        ],
+        [
+          -476.21,
+          6965.58,
+          5.05
+        ],
+        [
+          -490.9,
+          6988.21,
+          5.05
+        ],
+        [
+          -506.57,
+          7029.42,
+          4.05
+        ],
+        [
+          -508.61,
+          7036.14,
+          4.05
+        ],
+        [
+          -510.34,
+          7042.68,
+          4.05
+        ],
+        [
+          -514.17,
+          7057.18,
+          4.04
+        ],
+        [
+          -518.81,
+          7081.97,
+          3.97
+        ],
+        [
+          -522.42,
+          7100.57,
+          4.53
+        ],
+        [
+          -526.49,
+          7121.63,
+          5.24
+        ],
+        [
+          -530.21,
+          7142.0,
+          5.37
+        ],
+        [
+          -530.93,
+          7163.54,
+          5.55
+        ],
+        [
+          -526.4,
+          7184.21,
+          5.84
+        ],
+        [
+          -520.63,
+          7197.88,
+          6.03
+        ],
+        [
+          -500.23,
+          7246.26,
+          5.9
+        ],
+        [
+          -497.32,
+          7253.14,
+          6.0
+        ],
+        [
+          -430.68,
+          7408.84,
+          4.07
+        ],
+        [
+          -427.92,
+          7413.65,
+          4.07
+        ],
+        [
+          -424.43,
+          7417.92,
+          4.08
+        ],
+        [
+          -402.39,
+          7438.78,
+          4.54
+        ],
+        [
+          -378.19,
+          7466.14,
+          6.18
+        ],
+        [
+          -349.14,
+          7510.42,
+          8.6
+        ],
+        [
+          -332.94,
+          7563.54,
+          5.99
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852179",
+      "osm_id": 22852179,
+      "name": "Sakubai Mohite Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 403.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658814,
+        6165302132,
+        13528389661,
+        245658813,
+        2285894207,
+        13807701421,
+        245658819,
+        13807701419,
+        13807701417,
+        2285894205,
+        494909905,
+        2285894204,
+        245658786,
+        494909909,
+        13806707409,
+        1286514070,
+        13806707410,
+        13807702223,
+        13807702222
+      ],
+      "coordinates_3d": [
+        [
+          -60.95,
+          7764.31,
+          9.65
+        ],
+        [
+          -70.23,
+          7764.58,
+          9.08
+        ],
+        [
+          -98.22,
+          7763.98,
+          7.89
+        ],
+        [
+          -110.41,
+          7761.55,
+          7.89
+        ],
+        [
+          -141.29,
+          7752.24,
+          8.29
+        ],
+        [
+          -180.82,
+          7749.8,
+          8.69
+        ],
+        [
+          -192.22,
+          7749.1,
+          8.31
+        ],
+        [
+          -207.61,
+          7748.86,
+          6.89
+        ],
+        [
+          -233.97,
+          7748.49,
+          4.77
+        ],
+        [
+          -255.56,
+          7748.12,
+          3.51
+        ],
+        [
+          -270.47,
+          7743.97,
+          2.77
+        ],
+        [
+          -278.36,
+          7734.98,
+          1.62
+        ],
+        [
+          -290.44,
+          7688.42,
+          0.05
+        ],
+        [
+          -303.35,
+          7626.7,
+          1.72
+        ],
+        [
+          -296.16,
+          7613.59,
+          2.69
+        ],
+        [
+          -286.41,
+          7603.54,
+          3.91
+        ],
+        [
+          -272.48,
+          7594.8,
+          4.89
+        ],
+        [
+          -264.16,
+          7591.28,
+          5.05
+        ],
+        [
+          -251.41,
+          7585.91,
+          5.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852204",
+      "osm_id": 22852204,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 158.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658752,
+        6165302131,
+        245658762,
+        245658774
+      ],
+      "coordinates_3d": [
+        [
+          -57.65,
+          7640.84,
+          6.36
+        ],
+        [
+          -67.25,
+          7641.2,
+          6.61
+        ],
+        [
+          -104.53,
+          7643.03,
+          5.81
+        ],
+        [
+          -213.3,
+          7669.13,
+          2.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22852239",
+      "osm_id": 22852239,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 82.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658774,
+        245658819
+      ],
+      "coordinates_3d": [
+        [
+          -213.3,
+          7669.13,
+          2.39
+        ],
+        [
+          -192.22,
+          7749.1,
+          8.31
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_211658417",
+      "osm_id": 211658417,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 436.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216352579,
+        2216352565,
+        13814097241,
+        13814097242,
+        11953521037,
+        13814097238,
+        2650054213,
+        13814097237,
+        13814097239,
+        13814097240,
+        13814097236,
+        13814097233,
+        12395960471,
+        13814097232,
+        13814097231,
+        13814097234,
+        13814097235,
+        12395960470,
+        13814097229,
+        13814097230,
+        12395960469,
+        13814097227,
+        13814097228,
+        12395960468,
+        2216352501,
+        13814097226,
+        13814097225,
+        11953521039,
+        13814097224,
+        2216352503,
+        2216352500,
+        13814097222,
+        13814097223,
+        7434309514
+      ],
+      "coordinates_3d": [
+        [
+          -420.07,
+          8003.9,
+          14.79
+        ],
+        [
+          -363.79,
+          7983.24,
+          12.58
+        ],
+        [
+          -355.12,
+          7957.98,
+          11.04
+        ],
+        [
+          -353.79,
+          7950.87,
+          10.68
+        ],
+        [
+          -354.91,
+          7943.04,
+          10.56
+        ],
+        [
+          -379.23,
+          7880.86,
+          7.41
+        ],
+        [
+          -380.15,
+          7879.36,
+          7.47
+        ],
+        [
+          -381.99,
+          7878.4,
+          7.63
+        ],
+        [
+          -386.1,
+          7877.48,
+          8.0
+        ],
+        [
+          -390.55,
+          7877.15,
+          8.41
+        ],
+        [
+          -393.72,
+          7875.77,
+          8.66
+        ],
+        [
+          -397.7,
+          7871.9,
+          8.85
+        ],
+        [
+          -411.8,
+          7836.63,
+          10.9
+        ],
+        [
+          -411.57,
+          7833.86,
+          10.95
+        ],
+        [
+          -410.36,
+          7831.88,
+          10.85
+        ],
+        [
+          -406.38,
+          7828.78,
+          10.4
+        ],
+        [
+          -405.31,
+          7826.75,
+          10.31
+        ],
+        [
+          -405.69,
+          7824.12,
+          10.44
+        ],
+        [
+          -433.93,
+          7756.68,
+          9.49
+        ],
+        [
+          -435.99,
+          7755.44,
+          9.59
+        ],
+        [
+          -438.87,
+          7755.33,
+          9.86
+        ],
+        [
+          -443.81,
+          7756.78,
+          10.44
+        ],
+        [
+          -446.69,
+          7755.64,
+          10.61
+        ],
+        [
+          -448.14,
+          7753.15,
+          10.52
+        ],
+        [
+          -453.49,
+          7739.22,
+          9.66
+        ],
+        [
+          -457.17,
+          7733.16,
+          9.17
+        ],
+        [
+          -465.31,
+          7729.16,
+          8.68
+        ],
+        [
+          -473.65,
+          7727.84,
+          8.49
+        ],
+        [
+          -482.63,
+          7727.98,
+          8.5
+        ],
+        [
+          -491.14,
+          7728.52,
+          7.91
+        ],
+        [
+          -524.09,
+          7731.59,
+          5.64
+        ],
+        [
+          -529.11,
+          7732.54,
+          5.51
+        ],
+        [
+          -532.0,
+          7735.14,
+          5.54
+        ],
+        [
+          -532.58,
+          7739.55,
+          5.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_211658595",
+      "osm_id": 211658595,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 190.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7434309510,
+        13820969067,
+        13820969068,
+        13820969071,
+        13820969070,
+        13820969069,
+        13820969066,
+        13820969063,
+        13820969065,
+        13820969072,
+        13820969064,
+        2216352583,
+        2216352628,
+        10696301474
+      ],
+      "coordinates_3d": [
+        [
+          -484.51,
+          7903.07,
+          10.61
+        ],
+        [
+          -442.14,
+          8009.9,
+          13.56
+        ],
+        [
+          -440.83,
+          8011.01,
+          13.53
+        ],
+        [
+          -439.52,
+          8011.27,
+          13.58
+        ],
+        [
+          -437.91,
+          8011.0,
+          13.71
+        ],
+        [
+          -436.12,
+          8011.82,
+          13.72
+        ],
+        [
+          -434.98,
+          8013.25,
+          13.61
+        ],
+        [
+          -431.83,
+          8020.98,
+          12.75
+        ],
+        [
+          -432.07,
+          8022.69,
+          12.53
+        ],
+        [
+          -433.01,
+          8023.67,
+          12.38
+        ],
+        [
+          -434.36,
+          8025.21,
+          12.17
+        ],
+        [
+          -434.25,
+          8026.94,
+          11.96
+        ],
+        [
+          -425.83,
+          8049.07,
+          9.54
+        ],
+        [
+          -418.93,
+          8076.35,
+          8.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_369464221",
+      "osm_id": 369464221,
+      "name": "Unnamed Road",
+      "highway": "footway",
+      "width_m": 2.5,
+      "width_source": "default_highway_type:footway",
+      "length_m": 412.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659086,
+        3732540603,
+        3732540602,
+        3732540601,
+        9136041546,
+        2650054194,
+        2650054191,
+        2650054197,
+        2650054210,
+        2650054213
+      ],
+      "coordinates_3d": [
+        [
+          -149.3,
+          8212.07,
+          3.48
+        ],
+        [
+          -150.14,
+          8203.05,
+          3.37
+        ],
+        [
+          -150.51,
+          8199.25,
+          3.33
+        ],
+        [
+          -160.39,
+          8174.72,
+          2.99
+        ],
+        [
+          -174.71,
+          8156.45,
+          3.05
+        ],
+        [
+          -181.19,
+          8148.18,
+          3.05
+        ],
+        [
+          -217.18,
+          8104.41,
+          3.08
+        ],
+        [
+          -340.91,
+          7955.83,
+          8.89
+        ],
+        [
+          -376.06,
+          7878.19,
+          7.06
+        ],
+        [
+          -380.15,
+          7879.36,
+          7.47
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_423774260",
+      "osm_id": 423774260,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 208.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658813,
+        245658762,
+        2285894195
+      ],
+      "coordinates_3d": [
+        [
+          -110.41,
+          7761.55,
+          7.89
+        ],
+        [
+          -104.53,
+          7643.03,
+          5.81
+        ],
+        [
+          -101.83,
+          7553.72,
+          6.08
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_430179208",
+      "osm_id": 430179208,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 93.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4294545113,
+        13807757835,
+        13807757815,
+        11036750011,
+        6165302133
+      ],
+      "coordinates_3d": [
+        [
+          -168.93,
+          7886.96,
+          12.76
+        ],
+        [
+          -123.39,
+          7887.49,
+          11.78
+        ],
+        [
+          -95.4,
+          7887.82,
+          10.6
+        ],
+        [
+          -87.15,
+          7887.92,
+          10.04
+        ],
+        [
+          -75.21,
+          7888.06,
+          9.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_438408000",
+      "osm_id": 438408000,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 18.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1966835463,
+        7263858709
+      ],
+      "coordinates_3d": [
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ],
+        [
+          -60.21,
+          8006.91,
+          7.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658365067",
+      "osm_id": 658365067,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 198.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302134,
+        2443990551,
+        3732540599,
+        2443990563
+      ],
+      "coordinates_3d": [
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ],
+        [
+          -85.04,
+          8013.45,
+          7.07
+        ],
+        [
+          -89.36,
+          8157.58,
+          6.7
+        ],
+        [
+          -90.37,
+          8185.92,
+          5.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_658365068",
+      "osm_id": 658365068,
+      "name": "S B Pawar Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 436.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2443990563,
+        4361545040,
+        1375482781,
+        14282678619,
+        14282678621,
+        7434309503,
+        13808145816,
+        7263858713,
+        7263858705,
+        7263858712,
+        7263858711,
+        14282652693,
+        14282652686,
+        7263858710,
+        7263858709
+      ],
+      "coordinates_3d": [
+        [
+          -90.37,
+          8185.92,
+          5.69
+        ],
+        [
+          -63.8,
+          8186.73,
+          7.29
+        ],
+        [
+          24.03,
+          8192.82,
+          6.9
+        ],
+        [
+          28.69,
+          8172.07,
+          6.88
+        ],
+        [
+          33.48,
+          8150.8,
+          6.62
+        ],
+        [
+          42.21,
+          8111.98,
+          6.9
+        ],
+        [
+          45.91,
+          8095.42,
+          7.13
+        ],
+        [
+          65.83,
+          8007.02,
+          8.36
+        ],
+        [
+          63.47,
+          8001.4,
+          8.42
+        ],
+        [
+          59.34,
+          7998.78,
+          8.46
+        ],
+        [
+          45.9,
+          7996.57,
+          8.66
+        ],
+        [
+          17.98,
+          7998.87,
+          7.72
+        ],
+        [
+          -12.12,
+          8001.36,
+          6.89
+        ],
+        [
+          -28.04,
+          8002.67,
+          7.0
+        ],
+        [
+          -60.21,
+          8006.91,
+          7.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_692012280",
+      "osm_id": 692012280,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 206.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6495669155,
+        11036730786,
+        11036730785,
+        6569022381,
+        6495669154,
+        6495669153
+      ],
+      "coordinates_3d": [
+        [
+          -62.81,
+          7496.69,
+          6.57
+        ],
+        [
+          -72.37,
+          7497.03,
+          6.26
+        ],
+        [
+          -105.39,
+          7498.73,
+          5.1
+        ],
+        [
+          -123.35,
+          7503.51,
+          4.65
+        ],
+        [
+          -205.73,
+          7525.23,
+          4.54
+        ],
+        [
+          -264.12,
+          7539.62,
+          6.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_699534780",
+      "osm_id": 699534780,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 23.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6569037085,
+        6569022381
+      ],
+      "coordinates_3d": [
+        [
+          -132.78,
+          7481.69,
+          5.06
+        ],
+        [
+          -123.35,
+          7503.51,
+          4.65
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_699534781",
+      "osm_id": 699534781,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 191.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6495669153,
+        13807740241,
+        13807740240,
+        13807740239,
+        13807740238,
+        6569037090,
+        7374997844,
+        6569037089,
+        6569037088,
+        6569037087,
+        6569037086,
+        13807740237,
+        6569037085
+      ],
+      "coordinates_3d": [
+        [
+          -264.12,
+          7539.62,
+          6.79
+        ],
+        [
+          -266.38,
+          7539.76,
+          6.86
+        ],
+        [
+          -267.99,
+          7539.16,
+          6.96
+        ],
+        [
+          -269.41,
+          7537.42,
+          7.12
+        ],
+        [
+          -273.27,
+          7517.61,
+          8.54
+        ],
+        [
+          -273.72,
+          7514.19,
+          8.77
+        ],
+        [
+          -273.18,
+          7497.75,
+          9.28
+        ],
+        [
+          -271.86,
+          7494.69,
+          9.33
+        ],
+        [
+          -269.75,
+          7493.27,
+          9.3
+        ],
+        [
+          -212.11,
+          7486.54,
+          6.48
+        ],
+        [
+          -138.45,
+          7478.24,
+          5.22
+        ],
+        [
+          -134.85,
+          7479.03,
+          5.23
+        ],
+        [
+          -132.78,
+          7481.69,
+          5.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_725848659",
+      "osm_id": 725848659,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 90.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216352568,
+        6805544260,
+        13820910041,
+        6805544259,
+        6805544258
+      ],
+      "coordinates_3d": [
+        [
+          -521.55,
+          7987.34,
+          16.56
+        ],
+        [
+          -513.68,
+          7984.19,
+          16.92
+        ],
+        [
+          -510.03,
+          7984.53,
+          17.02
+        ],
+        [
+          -507.81,
+          7986.11,
+          16.85
+        ],
+        [
+          -478.75,
+          8055.44,
+          10.98
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_794831502",
+      "osm_id": 794831502,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 127.21,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658814,
+        13807989645,
+        7434309505
+      ],
+      "coordinates_3d": [
+        [
+          -60.95,
+          7764.31,
+          9.65
+        ],
+        [
+          13.35,
+          7759.99,
+          9.95
+        ],
+        [
+          66.05,
+          7756.93,
+          5.63
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_794831504",
+      "osm_id": 794831504,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 310.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216352579,
+        13831183528,
+        13831183538,
+        13831183537,
+        13831183531,
+        13831183532,
+        13831183530,
+        13831183529,
+        13831183534,
+        13831183533,
+        13831183535,
+        13831183536,
+        13831183527,
+        13814097218,
+        13814097221,
+        13814097220,
+        13814097219,
+        7434309514
+      ],
+      "coordinates_3d": [
+        [
+          -420.07,
+          8003.9,
+          14.79
+        ],
+        [
+          -473.48,
+          7869.63,
+          10.38
+        ],
+        [
+          -473.85,
+          7866.58,
+          10.43
+        ],
+        [
+          -472.47,
+          7864.44,
+          10.53
+        ],
+        [
+          -462.79,
+          7858.32,
+          11.27
+        ],
+        [
+          -461.58,
+          7856.69,
+          11.42
+        ],
+        [
+          -461.65,
+          7854.96,
+          11.5
+        ],
+        [
+          -464.6,
+          7848.22,
+          12.18
+        ],
+        [
+          -466.69,
+          7847.27,
+          12.17
+        ],
+        [
+          -468.76,
+          7847.3,
+          12.03
+        ],
+        [
+          -476.95,
+          7849.6,
+          11.18
+        ],
+        [
+          -480.13,
+          7848.8,
+          11.07
+        ],
+        [
+          -482.83,
+          7846.13,
+          11.24
+        ],
+        [
+          -498.04,
+          7807.87,
+          13.04
+        ],
+        [
+          -501.88,
+          7801.98,
+          12.79
+        ],
+        [
+          -508.62,
+          7793.95,
+          12.32
+        ],
+        [
+          -512.08,
+          7787.57,
+          11.05
+        ],
+        [
+          -532.58,
+          7739.55,
+          5.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_988958372",
+      "osm_id": 988958372,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 124.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9140659609,
+        13826257881,
+        9140659608,
+        9140659607,
+        9140659606,
+        9140659605,
+        9140659604,
+        9140659603,
+        9140659602,
+        9140659601,
+        9140659600,
+        13472701328,
+        9140659599
+      ],
+      "coordinates_3d": [
+        [
+          -61.9,
+          7798.85,
+          8.18
+        ],
+        [
+          -28.27,
+          7803.71,
+          8.31
+        ],
+        [
+          -20.24,
+          7806.57,
+          8.18
+        ],
+        [
+          -15.44,
+          7811.13,
+          7.79
+        ],
+        [
+          -6.82,
+          7817.66,
+          7.14
+        ],
+        [
+          5.42,
+          7826.18,
+          7.15
+        ],
+        [
+          15.2,
+          7830.09,
+          7.39
+        ],
+        [
+          31.04,
+          7839.88,
+          6.79
+        ],
+        [
+          37.38,
+          7841.78,
+          6.43
+        ],
+        [
+          39.1,
+          7841.4,
+          6.33
+        ],
+        [
+          40.6,
+          7839.98,
+          6.23
+        ],
+        [
+          41.01,
+          7832.42,
+          6.18
+        ],
+        [
+          40.92,
+          7830.11,
+          6.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1133435199",
+      "osm_id": 1133435199,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 54.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7434309511,
+        7434309510
+      ],
+      "coordinates_3d": [
+        [
+          -534.28,
+          7924.05,
+          10.5
+        ],
+        [
+          -484.51,
+          7903.07,
+          10.61
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138702021",
+      "osm_id": 1138702021,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 929.67,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1966835463,
+        7263858708,
+        14016967936,
+        13144133146,
+        4294545114,
+        9140659609,
+        245658814,
+        13808011000,
+        245658752,
+        13808032805,
+        2285894196,
+        13806313181,
+        13806313178,
+        13806328624,
+        13806328635,
+        13806326196,
+        245658584,
+        13806252836,
+        3736864061,
+        245658472,
+        6165302149,
+        13802511360,
+        6165302148
+      ],
+      "coordinates_3d": [
+        [
+          -64.4,
+          7989.36,
+          7.29
+        ],
+        [
+          -64.25,
+          7985.18,
+          7.36
+        ],
+        [
+          -64.86,
+          7932.15,
+          8.38
+        ],
+        [
+          -65.36,
+          7888.4,
+          8.55
+        ],
+        [
+          -65.1,
+          7876.68,
+          8.52
+        ],
+        [
+          -61.9,
+          7798.85,
+          8.18
+        ],
+        [
+          -60.95,
+          7764.31,
+          9.65
+        ],
+        [
+          -59.19,
+          7698.71,
+          7.37
+        ],
+        [
+          -57.65,
+          7640.84,
+          6.36
+        ],
+        [
+          -57.22,
+          7623.67,
+          7.0
+        ],
+        [
+          -55.36,
+          7548.85,
+          9.37
+        ],
+        [
+          -53.14,
+          7501.0,
+          7.19
+        ],
+        [
+          -52.13,
+          7479.35,
+          5.98
+        ],
+        [
+          -50.8,
+          7450.7,
+          6.96
+        ],
+        [
+          -49.59,
+          7428.83,
+          7.03
+        ],
+        [
+          -47.09,
+          7370.4,
+          6.53
+        ],
+        [
+          -44.54,
+          7315.84,
+          6.72
+        ],
+        [
+          -44.28,
+          7306.78,
+          6.76
+        ],
+        [
+          -42.6,
+          7247.43,
+          7.75
+        ],
+        [
+          -40.66,
+          7138.15,
+          5.6
+        ],
+        [
+          -39.02,
+          7099.72,
+          6.73
+        ],
+        [
+          -38.59,
+          7093.0,
+          6.85
+        ],
+        [
+          -36.43,
+          7060.27,
+          6.38
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188580008",
+      "osm_id": 1188580008,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 100.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302133,
+        13807757852,
+        6165302134
+      ],
+      "coordinates_3d": [
+        [
+          -75.21,
+          7888.06,
+          9.22
+        ],
+        [
+          -76.89,
+          7954.92,
+          8.75
+        ],
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188580409",
+      "osm_id": 1188580409,
+      "name": "Junior Boricha Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 74.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        494909913,
+        13806707414,
+        13806707413,
+        13806707412,
+        13806707411,
+        11036730787,
+        494909909
+      ],
+      "coordinates_3d": [
+        [
+          -332.94,
+          7563.54,
+          5.99
+        ],
+        [
+          -332.33,
+          7565.24,
+          5.79
+        ],
+        [
+          -329.77,
+          7567.06,
+          5.64
+        ],
+        [
+          -325.0,
+          7568.44,
+          5.61
+        ],
+        [
+          -319.92,
+          7570.28,
+          5.54
+        ],
+        [
+          -317.34,
+          7573.58,
+          5.19
+        ],
+        [
+          -303.35,
+          7626.7,
+          1.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1189568296",
+      "osm_id": 1189568296,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 126.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11045894710,
+        11045894711,
+        14267252982,
+        11045894713,
+        11045894712
+      ],
+      "coordinates_3d": [
+        [
+          -60.06,
+          7989.05,
+          7.16
+        ],
+        [
+          -33.76,
+          7979.21,
+          5.8
+        ],
+        [
+          -10.9,
+          7976.98,
+          4.57
+        ],
+        [
+          38.59,
+          7972.15,
+          6.61
+        ],
+        [
+          64.6,
+          7969.63,
+          7.71
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1289081196",
+      "osm_id": 1289081196,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 142.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216352678,
+        13814097243,
+        2216352639,
+        13814097210,
+        13814097211,
+        2216352579
+      ],
+      "coordinates_3d": [
+        [
+          -401.23,
+          8133.8,
+          8.35
+        ],
+        [
+          -398.88,
+          8093.91,
+          8.08
+        ],
+        [
+          -391.47,
+          8046.21,
+          9.26
+        ],
+        [
+          -402.15,
+          8042.58,
+          9.72
+        ],
+        [
+          -406.46,
+          8037.11,
+          10.27
+        ],
+        [
+          -420.07,
+          8003.9,
+          14.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1332856830",
+      "osm_id": 1332856830,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 575.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302129,
+        13808032141,
+        7434309526,
+        13806367333,
+        8699916818,
+        6569022382,
+        6495669155,
+        6165302130,
+        6165302131,
+        6165302132,
+        6165302133
+      ],
+      "coordinates_3d": [
+        [
+          -56.88,
+          7313.26,
+          7.7
+        ],
+        [
+          -57.42,
+          7327.51,
+          7.77
+        ],
+        [
+          -60.58,
+          7410.2,
+          6.71
+        ],
+        [
+          -61.14,
+          7429.68,
+          6.64
+        ],
+        [
+          -61.52,
+          7443.07,
+          6.62
+        ],
+        [
+          -62.61,
+          7480.76,
+          5.57
+        ],
+        [
+          -62.81,
+          7496.69,
+          6.57
+        ],
+        [
+          -64.57,
+          7549.35,
+          8.8
+        ],
+        [
+          -67.25,
+          7641.2,
+          6.61
+        ],
+        [
+          -70.23,
+          7764.58,
+          9.08
+        ],
+        [
+          -75.21,
+          7888.06,
+          9.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1429923990",
+      "osm_id": 1429923990,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 9.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6165302133,
+        13144133146
+      ],
+      "coordinates_3d": [
+        [
+          -75.21,
+          7888.06,
+          9.22
+        ],
+        [
+          -65.36,
+          7888.4,
+          8.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510287671",
+      "osm_id": 1510287671,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 65.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13806313188,
+        13806313187,
+        13806313186,
+        13806313185,
+        13806313184,
+        13806313183,
+        13806313182,
+        13806313180,
+        13806313189,
+        13806313181
+      ],
+      "coordinates_3d": [
+        [
+          11.82,
+          7504.96,
+          5.0
+        ],
+        [
+          -6.31,
+          7504.26,
+          6.5
+        ],
+        [
+          -8.07,
+          7503.87,
+          6.64
+        ],
+        [
+          -9.89,
+          7502.97,
+          6.76
+        ],
+        [
+          -21.4,
+          7503.21,
+          7.53
+        ],
+        [
+          -23.57,
+          7502.78,
+          7.5
+        ],
+        [
+          -24.99,
+          7501.61,
+          7.42
+        ],
+        [
+          -28.15,
+          7500.99,
+          7.38
+        ],
+        [
+          -43.95,
+          7500.99,
+          7.37
+        ],
+        [
+          -53.14,
+          7501.0,
+          7.19
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510443027",
+      "osm_id": 1510443027,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 39.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807701415,
+        13807701422,
+        2285894205
+      ],
+      "coordinates_3d": [
+        [
+          -255.8,
+          7787.35,
+          4.05
+        ],
+        [
+          -255.62,
+          7753.55,
+          3.75
+        ],
+        [
+          -255.56,
+          7748.12,
+          3.51
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510443028",
+      "osm_id": 1510443028,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 27.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807701416,
+        13807701423,
+        13807701417
+      ],
+      "coordinates_3d": [
+        [
+          -234.72,
+          7776.25,
+          4.8
+        ],
+        [
+          -234.14,
+          7754.41,
+          4.95
+        ],
+        [
+          -233.97,
+          7748.49,
+          4.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510443029",
+      "osm_id": 1510443029,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 42.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807701418,
+        13807701419
+      ],
+      "coordinates_3d": [
+        [
+          -207.12,
+          7791.22,
+          6.41
+        ],
+        [
+          -207.61,
+          7748.86,
+          6.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510443030",
+      "osm_id": 1510443030,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 42.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807701420,
+        13807701421
+      ],
+      "coordinates_3d": [
+        [
+          -180.56,
+          7791.82,
+          8.41
+        ],
+        [
+          -180.82,
+          7749.8,
+          8.69
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510443031",
+      "osm_id": 1510443031,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 21.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807701422,
+        13807701423
+      ],
+      "coordinates_3d": [
+        [
+          -255.62,
+          7753.55,
+          3.75
+        ],
+        [
+          -234.14,
+          7754.41,
+          4.95
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510444393",
+      "osm_id": 1510444393,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 79.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658774,
+        245658786
+      ],
+      "coordinates_3d": [
+        [
+          -213.3,
+          7669.13,
+          2.39
+        ],
+        [
+          -290.44,
+          7688.42,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510444394",
+      "osm_id": 1510444394,
+      "name": "Sakubai Mohite Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 46.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2285894195,
+        6165302130,
+        2285894196
+      ],
+      "coordinates_3d": [
+        [
+          -101.83,
+          7553.72,
+          6.08
+        ],
+        [
+          -64.57,
+          7549.35,
+          8.8
+        ],
+        [
+          -55.36,
+          7548.85,
+          9.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510444395",
+      "osm_id": 1510444395,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 39.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807702223,
+        13807702224
+      ],
+      "coordinates_3d": [
+        [
+          -264.16,
+          7591.28,
+          5.05
+        ],
+        [
+          -274.8,
+          7552.84,
+          6.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510444396",
+      "osm_id": 1510444396,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 43.46,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807702225,
+        1286514070
+      ],
+      "coordinates_3d": [
+        [
+          -297.16,
+          7561.43,
+          6.76
+        ],
+        [
+          -286.41,
+          7603.54,
+          3.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449852",
+      "osm_id": 1510449852,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 370.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4294545113,
+        13807757801,
+        13807757802,
+        13807757816,
+        13807757803,
+        13807757817,
+        13807757804,
+        13807757805,
+        13807757806,
+        13807757807,
+        13807757808,
+        13807757809,
+        13807757810,
+        13807757811,
+        13807757812,
+        13807757813,
+        13807757814,
+        13807757851,
+        13807757815
+      ],
+      "coordinates_3d": [
+        [
+          -168.93,
+          7886.96,
+          12.76
+        ],
+        [
+          -204.73,
+          7886.33,
+          8.5
+        ],
+        [
+          -199.12,
+          7899.06,
+          7.57
+        ],
+        [
+          -198.77,
+          7902.46,
+          7.09
+        ],
+        [
+          -199.56,
+          7905.89,
+          6.48
+        ],
+        [
+          -201.47,
+          7907.51,
+          6.06
+        ],
+        [
+          -203.88,
+          7909.04,
+          5.63
+        ],
+        [
+          -224.12,
+          7918.08,
+          3.95
+        ],
+        [
+          -189.44,
+          7993.69,
+          5.63
+        ],
+        [
+          -186.78,
+          7996.47,
+          5.83
+        ],
+        [
+          -183.37,
+          7997.92,
+          6.02
+        ],
+        [
+          -106.13,
+          7999.98,
+          7.19
+        ],
+        [
+          -101.25,
+          7999.2,
+          7.22
+        ],
+        [
+          -98.88,
+          7997.84,
+          7.26
+        ],
+        [
+          -97.77,
+          7996.13,
+          7.32
+        ],
+        [
+          -97.28,
+          7993.45,
+          7.4
+        ],
+        [
+          -96.85,
+          7954.78,
+          9.18
+        ],
+        [
+          -96.46,
+          7902.29,
+          10.68
+        ],
+        [
+          -95.4,
+          7887.82,
+          10.6
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449853",
+      "osm_id": 1510449853,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 98.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807757805,
+        13807757818,
+        13807757819,
+        13807757820,
+        13807757821,
+        13807757822
+      ],
+      "coordinates_3d": [
+        [
+          -224.12,
+          7918.08,
+          3.95
+        ],
+        [
+          -250.43,
+          7854.61,
+          4.18
+        ],
+        [
+          -250.45,
+          7852.96,
+          4.13
+        ],
+        [
+          -249.64,
+          7851.26,
+          4.08
+        ],
+        [
+          -248.15,
+          7850.52,
+          4.11
+        ],
+        [
+          -225.35,
+          7840.29,
+          6.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449854",
+      "osm_id": 1510449854,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 255.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807757801,
+        13807757822,
+        13807757823,
+        13807757824,
+        13807757825,
+        13807757826,
+        13807757827,
+        13807757828,
+        13807757829,
+        13807757830,
+        13807757831,
+        13807757832,
+        13807757833,
+        13807757834,
+        13807757836,
+        13807757835
+      ],
+      "coordinates_3d": [
+        [
+          -204.73,
+          7886.33,
+          8.5
+        ],
+        [
+          -225.35,
+          7840.29,
+          6.15
+        ],
+        [
+          -227.03,
+          7835.99,
+          5.9
+        ],
+        [
+          -227.47,
+          7833.79,
+          5.81
+        ],
+        [
+          -226.51,
+          7811.23,
+          5.35
+        ],
+        [
+          -225.76,
+          7809.64,
+          5.35
+        ],
+        [
+          -224.17,
+          7808.75,
+          5.41
+        ],
+        [
+          -222.26,
+          7808.62,
+          5.52
+        ],
+        [
+          -137.41,
+          7811.35,
+          7.64
+        ],
+        [
+          -131.82,
+          7813.08,
+          7.27
+        ],
+        [
+          -127.51,
+          7815.28,
+          7.02
+        ],
+        [
+          -124.99,
+          7817.67,
+          6.87
+        ],
+        [
+          -120.67,
+          7825.2,
+          6.89
+        ],
+        [
+          -120.16,
+          7828.62,
+          7.04
+        ],
+        [
+          -122.86,
+          7877.31,
+          11.24
+        ],
+        [
+          -123.39,
+          7887.49,
+          11.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449855",
+      "osm_id": 1510449855,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 130.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807757836,
+        13807757837,
+        13807757838,
+        13807757839,
+        13807757840,
+        13807757841,
+        13807757842,
+        13807757843,
+        13807757844,
+        13807757845,
+        13807757846,
+        13807757822
+      ],
+      "coordinates_3d": [
+        [
+          -122.86,
+          7877.31,
+          11.24
+        ],
+        [
+          -146.18,
+          7876.98,
+          12.43
+        ],
+        [
+          -147.64,
+          7876.12,
+          12.41
+        ],
+        [
+          -148.43,
+          7874.8,
+          12.29
+        ],
+        [
+          -148.45,
+          7873.36,
+          12.1
+        ],
+        [
+          -149.14,
+          7854.74,
+          9.71
+        ],
+        [
+          -149.88,
+          7853.46,
+          9.59
+        ],
+        [
+          -163.28,
+          7838.9,
+          9.62
+        ],
+        [
+          -164.84,
+          7838.04,
+          9.56
+        ],
+        [
+          -166.96,
+          7837.76,
+          9.52
+        ],
+        [
+          -216.57,
+          7836.97,
+          6.83
+        ],
+        [
+          -225.35,
+          7840.29,
+          6.15
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449856",
+      "osm_id": 1510449856,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 85.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4294545113,
+        13807757847,
+        13807757848,
+        13807757849,
+        13807757850,
+        13807757851
+      ],
+      "coordinates_3d": [
+        [
+          -168.93,
+          7886.96,
+          12.76
+        ],
+        [
+          -169.3,
+          7897.65,
+          11.12
+        ],
+        [
+          -168.61,
+          7899.54,
+          10.9
+        ],
+        [
+          -167.57,
+          7900.41,
+          10.89
+        ],
+        [
+          -166.22,
+          7900.69,
+          10.99
+        ],
+        [
+          -96.46,
+          7902.29,
+          10.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510449857",
+      "osm_id": 1510449857,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 19.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807757814,
+        13807757853,
+        13807757852
+      ],
+      "coordinates_3d": [
+        [
+          -96.85,
+          7954.78,
+          9.18
+        ],
+        [
+          -88.48,
+          7954.84,
+          9.0
+        ],
+        [
+          -76.89,
+          7954.92,
+          8.75
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510483017",
+      "osm_id": 1510483017,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 48.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13807989641,
+        13807989642,
+        13807989643,
+        13807989644,
+        13807989645
+      ],
+      "coordinates_3d": [
+        [
+          -18.7,
+          7777.25,
+          10.33
+        ],
+        [
+          11.65,
+          7776.87,
+          9.47
+        ],
+        [
+          13.39,
+          7775.77,
+          9.45
+        ],
+        [
+          14.01,
+          7774.02,
+          9.47
+        ],
+        [
+          13.35,
+          7759.99,
+          9.95
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510492364",
+      "osm_id": 1510492364,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 111.48,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808032802,
+        13808032811,
+        13808032806,
+        13808032803,
+        13808032804,
+        13808032805
+      ],
+      "coordinates_3d": [
+        [
+          52.16,
+          7603.54,
+          2.47
+        ],
+        [
+          22.7,
+          7610.19,
+          3.38
+        ],
+        [
+          -25.77,
+          7621.13,
+          6.6
+        ],
+        [
+          -29.86,
+          7621.74,
+          6.63
+        ],
+        [
+          -33.89,
+          7622.46,
+          6.66
+        ],
+        [
+          -57.22,
+          7623.67,
+          7.0
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510492365",
+      "osm_id": 1510492365,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 23.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808032806,
+        13808032808,
+        13808032807
+      ],
+      "coordinates_3d": [
+        [
+          -25.77,
+          7621.13,
+          6.6
+        ],
+        [
+          -22.35,
+          7637.51,
+          6.22
+        ],
+        [
+          -21.07,
+          7643.65,
+          6.58
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510492366",
+      "osm_id": 1510492366,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 81.3,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808032808,
+        13808032812,
+        13808032809
+      ],
+      "coordinates_3d": [
+        [
+          -22.35,
+          7637.51,
+          6.22
+        ],
+        [
+          26.37,
+          7627.92,
+          3.46
+        ],
+        [
+          57.42,
+          7621.79,
+          3.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510496797",
+      "osm_id": 1510496797,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 105.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808011000,
+        13808085510,
+        13808085509,
+        13808085507,
+        13808085505,
+        13808085503,
+        13808085501
+      ],
+      "coordinates_3d": [
+        [
+          -59.19,
+          7698.71,
+          7.37
+        ],
+        [
+          -53.67,
+          7698.65,
+          7.72
+        ],
+        [
+          -36.06,
+          7698.49,
+          8.83
+        ],
+        [
+          -14.37,
+          7698.29,
+          9.98
+        ],
+        [
+          4.68,
+          7698.11,
+          9.39
+        ],
+        [
+          25.44,
+          7697.92,
+          8.23
+        ],
+        [
+          46.36,
+          7697.73,
+          6.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510496799",
+      "osm_id": 1510496799,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 11.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808085504,
+        13808085505
+      ],
+      "coordinates_3d": [
+        [
+          4.72,
+          7709.54,
+          9.66
+        ],
+        [
+          4.68,
+          7698.11,
+          9.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510496800",
+      "osm_id": 1510496800,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 11.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808085506,
+        13808085507
+      ],
+      "coordinates_3d": [
+        [
+          -14.48,
+          7709.93,
+          10.01
+        ],
+        [
+          -14.37,
+          7698.29,
+          9.98
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1510496801",
+      "osm_id": 1510496801,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 12.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13808085508,
+        13808085509
+      ],
+      "coordinates_3d": [
+        [
+          -35.85,
+          7711.06,
+          9.37
+        ],
+        [
+          -36.06,
+          7698.49,
+          8.83
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1511421672",
+      "osm_id": 1511421672,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 70.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2216352639,
+        13814097244,
+        13814097245,
+        13814097246,
+        2216352565
+      ],
+      "coordinates_3d": [
+        [
+          -391.47,
+          8046.21,
+          9.26
+        ],
+        [
+          -381.53,
+          8036.78,
+          9.46
+        ],
+        [
+          -376.98,
+          8031.4,
+          9.66
+        ],
+        [
+          -375.06,
+          8027.35,
+          9.92
+        ],
+        [
+          -363.79,
+          7983.24,
+          12.58
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1511421673",
+      "osm_id": 1511421673,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 77.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13814097246,
+        13814097259,
+        13814097247,
+        13814097248,
+        13814097249,
+        13814097250,
+        13814097251,
+        13814097252,
+        13814097253,
+        13814097254,
+        13814097255,
+        13814097256,
+        13814097257,
+        13814097258,
+        13814097259
+      ],
+      "coordinates_3d": [
+        [
+          -375.06,
+          8027.35,
+          9.92
+        ],
+        [
+          -383.66,
+          8028.69,
+          10.39
+        ],
+        [
+          -390.27,
+          8029.73,
+          10.75
+        ],
+        [
+          -395.27,
+          8028.29,
+          11.12
+        ],
+        [
+          -398.05,
+          8025.05,
+          11.55
+        ],
+        [
+          -401.37,
+          8015.07,
+          12.81
+        ],
+        [
+          -400.27,
+          8012.62,
+          13.02
+        ],
+        [
+          -398.78,
+          8010.92,
+          13.12
+        ],
+        [
+          -386.59,
+          8007.03,
+          12.68
+        ],
+        [
+          -384.23,
+          8008.13,
+          12.42
+        ],
+        [
+          -383.26,
+          8009.99,
+          12.17
+        ],
+        [
+          -381.28,
+          8017.64,
+          11.29
+        ],
+        [
+          -381.16,
+          8019.78,
+          11.08
+        ],
+        [
+          -381.79,
+          8022.31,
+          10.87
+        ],
+        [
+          -383.66,
+          8028.69,
+          10.39
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1512527368",
+      "osm_id": 1512527368,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 138.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7434309513,
+        7434309510
+      ],
+      "coordinates_3d": [
+        [
+          -535.95,
+          7774.11,
+          8.22
+        ],
+        [
+          -484.51,
+          7903.07,
+          10.61
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1513261376",
+      "osm_id": 1513261376,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 85.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13826257874,
+        13826257875,
+        13826257876,
+        13826257877,
+        13826257878,
+        13826257879,
+        13826257880,
+        13826257881
+      ],
+      "coordinates_3d": [
+        [
+          51.48,
+          7791.45,
+          6.05
+        ],
+        [
+          25.51,
+          7793.08,
+          7.96
+        ],
+        [
+          13.06,
+          7791.74,
+          8.81
+        ],
+        [
+          8.72,
+          7790.67,
+          9.01
+        ],
+        [
+          -6.35,
+          7790.86,
+          9.48
+        ],
+        [
+          -17.27,
+          7791.18,
+          9.68
+        ],
+        [
+          -22.9,
+          7797.92,
+          8.91
+        ],
+        [
+          -28.27,
+          7803.71,
+          8.31
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1539370895",
+      "osm_id": 1539370895,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 37.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14016967936,
+        14016967937,
+        14016967939,
+        14016967938
+      ],
+      "coordinates_3d": [
+        [
+          -64.86,
+          7932.15,
+          8.38
+        ],
+        [
+          -58.1,
+          7932.44,
+          7.76
+        ],
+        [
+          -45.98,
+          7932.81,
+          6.64
+        ],
+        [
+          -27.39,
+          7933.39,
+          4.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1539370896",
+      "osm_id": 1539370896,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 35.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14016967939,
+        14016967940,
+        14016967941,
+        14016967942
+      ],
+      "coordinates_3d": [
+        [
+          -45.98,
+          7932.81,
+          6.64
+        ],
+        [
+          -45.46,
+          7921.56,
+          6.91
+        ],
+        [
+          -44.34,
+          7920.35,
+          6.86
+        ],
+        [
+          -21.9,
+          7921.27,
+          5.03
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550759939",
+      "osm_id": 1550759939,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 180.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7263858709,
+        6165302174,
+        14282715608,
+        7434309501,
+        4361545040
+      ],
+      "coordinates_3d": [
+        [
+          -60.21,
+          8006.91,
+          7.15
+        ],
+        [
+          -58.46,
+          8014.26,
+          7.39
+        ],
+        [
+          -60.56,
+          8082.03,
+          9.44
+        ],
+        [
+          -61.43,
+          8110.3,
+          10.18
+        ],
+        [
+          -63.8,
+          8186.73,
+          7.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1550759940",
+      "osm_id": 1550759940,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14104882201,
+        6165302134
+      ],
+      "coordinates_3d": [
+        [
+          -77.58,
+          7982.14,
+          7.76
+        ],
+        [
+          -77.75,
+          7988.96,
+          7.54
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1566758761",
+      "osm_id": 1566758761,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 32.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14267252981,
+        14267252983,
+        14267252989,
+        14267252982
+      ],
+      "coordinates_3d": [
+        [
+          -13.67,
+          7944.53,
+          3.16
+        ],
+        [
+          -12.83,
+          7954.32,
+          3.47
+        ],
+        [
+          -11.38,
+          7971.24,
+          4.07
+        ],
+        [
+          -10.9,
+          7976.98,
+          4.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1566758762",
+      "osm_id": 1566758762,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 36.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14267252983,
+        14267252984,
+        14267252985,
+        14267252986,
+        14267252987,
+        14267252988
+      ],
+      "coordinates_3d": [
+        [
+          -12.83,
+          7954.32,
+          3.47
+        ],
+        [
+          -6.9,
+          7953.86,
+          3.53
+        ],
+        [
+          -1.82,
+          7951.56,
+          3.5
+        ],
+        [
+          3.12,
+          7949.0,
+          3.43
+        ],
+        [
+          5.31,
+          7941.65,
+          3.06
+        ],
+        [
+          8.37,
+          7930.74,
+          4.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1568165270",
+      "osm_id": 1568165270,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 31.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14282652686,
+        14282652687
+      ],
+      "coordinates_3d": [
+        [
+          -12.12,
+          8001.36,
+          6.89
+        ],
+        [
+          -17.6,
+          8032.08,
+          8.76
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

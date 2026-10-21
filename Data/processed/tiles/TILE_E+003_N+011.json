@@ -1,0 +1,91 @@
+{
+  "tile_id": "TILE_E+003_N+011",
+  "bounds": {
+    "min_x": 1500.0,
+    "max_x": 2000.0,
+    "min_y": 5500.0,
+    "max_y": 6000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.972838,
+    "max_lat": 18.977409,
+    "min_lon": 72.846598,
+    "max_lon": 72.851286
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 303.65,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22851510",
+      "osm_id": 22851510,
+      "name": "Signal Hill Avenue",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 303.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657831,
+        10277786593,
+        1287923907,
+        245657905,
+        11273899164,
+        245657972,
+        245658027
+      ],
+      "coordinates_3d": [
+        [
+          1474.3,
+          5859.97,
+          8.57
+        ],
+        [
+          1488.86,
+          5901.64,
+          6.05
+        ],
+        [
+          1496.61,
+          5923.82,
+          6.05
+        ],
+        [
+          1511.5,
+          5958.69,
+          7.05
+        ],
+        [
+          1528.61,
+          5992.91,
+          6.15
+        ],
+        [
+          1536.52,
+          6008.71,
+          5.33
+        ],
+        [
+          1606.18,
+          6132.65,
+          4.95
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

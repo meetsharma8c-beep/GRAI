@@ -1,0 +1,128 @@
+{
+  "report_type": "Source Coverage and Geospatial Verification",
+  "timestamp": "2026-10-14T13:51:40Z",
+  "total_sources_evaluated": 6,
+  "results": {
+    "srtm_n18e072": {
+      "source_id": "srtm_n18e072",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "total_samples": 12967201,
+        "byte_size": 25934402,
+        "elevation_range_meters": {
+          "min": -96.0,
+          "max": 345.0
+        },
+        "resolution": "1-arc-second (~30m)",
+        "status": "VALIDATED"
+      }
+    },
+    "osm_mumbai_official_colaba": {
+      "source_id": "osm_mumbai_official_colaba",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "nodes": 4364,
+        "ways": 688,
+        "relations": 131,
+        "buildings": 278,
+        "buildings_with_explicit_height": 3,
+        "buildings_with_levels": 76,
+        "highways": 251,
+        "bounding_box": {
+          "min_lat": 18.8080383,
+          "max_lat": 19.0441048,
+          "min_lon": 72.8236431,
+          "max_lon": 72.9309607
+        },
+        "status": "VALIDATED"
+      }
+    },
+    "osm_mumbai_colaba_peninsula": {
+      "source_id": "osm_mumbai_colaba_peninsula",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "nodes": 303615,
+        "ways": 5076,
+        "relations": 88,
+        "buildings": 141,
+        "buildings_with_explicit_height": 0,
+        "buildings_with_levels": 47,
+        "highways": 1855,
+        "bounding_box": {
+          "min_lat": -0.7545989,
+          "max_lat": 25.6281949,
+          "min_lon": 50.0218541,
+          "max_lon": 80.8977842
+        },
+        "status": "VALIDATED"
+      }
+    },
+    "osm_mumbai_dharavi": {
+      "source_id": "osm_mumbai_dharavi",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "nodes": 64172,
+        "ways": 7256,
+        "relations": 61,
+        "buildings": 1392,
+        "buildings_with_explicit_height": 0,
+        "buildings_with_levels": 7,
+        "highways": 3068,
+        "bounding_box": {
+          "min_lat": 16.5544747,
+          "max_lat": 28.5918923,
+          "min_lon": 68.1718299,
+          "max_lon": 79.9085427
+        },
+        "status": "VALIDATED"
+      }
+    },
+    "osm_mumbai_worli_dadar": {
+      "source_id": "osm_mumbai_worli_dadar",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "nodes": 257391,
+        "ways": 20789,
+        "relations": 301,
+        "buildings": 5741,
+        "buildings_with_explicit_height": 29,
+        "buildings_with_levels": 577,
+        "highways": 8378,
+        "bounding_box": {
+          "min_lat": 12.974709,
+          "max_lat": 30.3399543,
+          "min_lon": 68.1718299,
+          "max_lon": 80.8977842
+        },
+        "status": "VALIDATED"
+      }
+    },
+    "osm_mumbai_bandra_sealink": {
+      "source_id": "osm_mumbai_bandra_sealink",
+      "status": "PASS",
+      "details": {
+        "valid": true,
+        "nodes": 203084,
+        "ways": 13915,
+        "relations": 149,
+        "buildings": 2820,
+        "buildings_with_explicit_height": 3,
+        "buildings_with_levels": 297,
+        "highways": 6756,
+        "bounding_box": {
+          "min_lat": 14.7529315,
+          "max_lat": 30.3399543,
+          "min_lon": 68.1756585,
+          "max_lon": 80.8977842
+        },
+        "status": "VALIDATED"
+      }
+    }
+  },
+  "overall_status": "PASS"
+}

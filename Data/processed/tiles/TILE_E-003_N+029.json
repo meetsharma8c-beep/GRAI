@@ -1,0 +1,103 @@
+{
+  "tile_id": "TILE_E-003_N+029",
+  "bounds": {
+    "min_x": -1500.0,
+    "max_x": -1000.0,
+    "min_y": 14500.0,
+    "max_y": 15000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.053784,
+    "max_lat": 19.058356,
+    "min_lon": 72.817058,
+    "max_lon": 72.821748
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 108.75,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_552270088",
+      "osm_id": 552270088,
+      "name": "Naushad Ali Road",
+      "highway": "residential",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 108.75,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        347110096,
+        347109838,
+        347109839,
+        7241583688,
+        7241583687,
+        5332431178,
+        347109841,
+        5332431177,
+        10631005829
+      ],
+      "coordinates_3d": [
+        [
+          -975.95,
+          14997.66,
+          0.05
+        ],
+        [
+          -993.19,
+          15002.79,
+          0.05
+        ],
+        [
+          -1010.86,
+          15010.44,
+          0.05
+        ],
+        [
+          -1015.14,
+          15014.54,
+          0.05
+        ],
+        [
+          -1018.04,
+          15020.06,
+          0.05
+        ],
+        [
+          -1019.32,
+          15024.4,
+          0.05
+        ],
+        [
+          -1019.71,
+          15028.32,
+          0.05
+        ],
+        [
+          -1016.82,
+          15042.11,
+          0.05
+        ],
+        [
+          -1009.24,
+          15078.11,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

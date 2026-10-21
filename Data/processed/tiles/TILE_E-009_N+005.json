@@ -1,0 +1,73 @@
+{
+  "tile_id": "TILE_E-009_N+005",
+  "bounds": {
+    "min_x": -4500.0,
+    "max_x": -4000.0,
+    "min_y": 2500.0,
+    "max_y": 3000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.945074,
+    "max_lat": 18.949646,
+    "min_lon": 72.789999,
+    "max_lon": 72.794685
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 1,
+    "road_length_m": 198.23,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_39170213",
+      "osm_id": 39170213,
+      "name": "Jamnadas Mehta Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 198.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654925,
+        245654917,
+        459161704,
+        458966453
+      ],
+      "coordinates_3d": [
+        [
+          -4142.44,
+          3041.3,
+          16.91
+        ],
+        [
+          -4059.49,
+          3010.74,
+          23.52
+        ],
+        [
+          -3996.54,
+          2996.58,
+          35.0
+        ],
+        [
+          -3952.97,
+          2984.16,
+          34.98
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

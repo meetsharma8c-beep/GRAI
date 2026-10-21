@@ -1,0 +1,227 @@
+{
+  "tile_id": "TILE_E+004_N+023",
+  "bounds": {
+    "min_x": 2000.0,
+    "max_x": 2500.0,
+    "min_y": 11500.0,
+    "max_y": 12000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.027081,
+    "max_lat": 19.031652,
+    "min_lon": 72.850648,
+    "max_lon": 72.855338
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 3,
+    "road_length_m": 849.46,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22849127",
+      "osm_id": 22849127,
+      "name": "King's Circle",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 105.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        493925065,
+        245661809,
+        7371796096,
+        245661837,
+        5637109048,
+        245661877,
+        1281204574,
+        245661908
+      ],
+      "coordinates_3d": [
+        [
+          2439.72,
+          11449.64,
+          0.05
+        ],
+        [
+          2436.18,
+          11470.17,
+          0.05
+        ],
+        [
+          2439.51,
+          11490.73,
+          0.05
+        ],
+        [
+          2440.97,
+          11494.6,
+          0.05
+        ],
+        [
+          2447.03,
+          11505.84,
+          0.05
+        ],
+        [
+          2455.21,
+          11515.65,
+          0.05
+        ],
+        [
+          2468.75,
+          11525.75,
+          0.05
+        ],
+        [
+          2484.49,
+          11531.96,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_118442683",
+      "osm_id": 118442683,
+      "name": "Bhau Daji Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 711.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661908,
+        13673732362,
+        245662044,
+        245662087,
+        9598020557,
+        245662200,
+        245662233,
+        245662242,
+        245662417,
+        5576202397,
+        245662437,
+        2155937883,
+        245662487
+      ],
+      "coordinates_3d": [
+        [
+          2484.49,
+          11531.96,
+          0.05
+        ],
+        [
+          2477.48,
+          11574.56,
+          0.05
+        ],
+        [
+          2450.91,
+          11736.25,
+          0.05
+        ],
+        [
+          2441.07,
+          11795.91,
+          0.05
+        ],
+        [
+          2436.89,
+          11821.23,
+          0.05
+        ],
+        [
+          2431.16,
+          11856.01,
+          0.05
+        ],
+        [
+          2422.01,
+          11911.48,
+          0.05
+        ],
+        [
+          2414.29,
+          11958.3,
+          0.05
+        ],
+        [
+          2396.36,
+          12066.95,
+          0.05
+        ],
+        [
+          2386.36,
+          12127.58,
+          0.05
+        ],
+        [
+          2408.87,
+          12160.39,
+          0.05
+        ],
+        [
+          2420.77,
+          12186.79,
+          0.05
+        ],
+        [
+          2440.3,
+          12220.39,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1245773002",
+      "osm_id": 1245773002,
+      "name": "King's Circle",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 33.05,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245661908,
+        1373812084,
+        1650694545
+      ],
+      "coordinates_3d": [
+        [
+          2484.49,
+          11531.96,
+          0.05
+        ],
+        [
+          2500.91,
+          11533.84,
+          0.05
+        ],
+        [
+          2517.26,
+          11531.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

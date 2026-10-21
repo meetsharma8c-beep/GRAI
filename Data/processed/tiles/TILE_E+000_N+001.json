@@ -1,0 +1,1727 @@
+{
+  "tile_id": "TILE_E+000_N+001",
+  "bounds": {
+    "min_x": 0.0,
+    "max_x": 500.0,
+    "min_y": 500.0,
+    "max_y": 1000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.927516,
+    "max_lat": 18.932087,
+    "min_lon": 72.832942,
+    "max_lon": 72.837629
+  },
+  "statistics": {
+    "total_buildings": 9,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 9,
+    "total_roads": 14,
+    "road_length_m": 4096.84,
+    "confidence_score": 0.3
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [
+    {
+      "asset_id": "BLDG_358470290",
+      "source_id": "osm_way_358470290",
+      "osm_id": 358470290,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 608.48,
+      "perimeter_m": 100.01,
+      "local_centroid": [
+        31.29,
+        521.92
+      ],
+      "geo_centroid": [
+        18.927737,
+        72.833207
+      ],
+      "local_polygon_vertices": [
+        [
+          16.33,
+          534.22
+        ],
+        [
+          46.36,
+          530.86
+        ],
+        [
+          43.86,
+          508.83
+        ],
+        [
+          18.11,
+          512.71
+        ],
+        [
+          16.33,
+          534.22
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9278265,
+          72.8330928
+        ],
+        [
+          18.9277995,
+          72.8333781
+        ],
+        [
+          18.9276002,
+          72.833357
+        ],
+        [
+          18.9276324,
+          72.8331122
+        ],
+        [
+          18.9278265,
+          72.8330928
+        ]
+      ],
+      "elevation_msl": 16.83,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_358470295",
+      "source_id": "osm_way_358470295",
+      "osm_id": 358470295,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 778.43,
+      "perimeter_m": 111.85,
+      "local_centroid": [
+        30.28,
+        548.66
+      ],
+      "geo_centroid": [
+        18.927984,
+        72.833197
+      ],
+      "local_polygon_vertices": [
+        [
+          16.44,
+          562.84
+        ],
+        [
+          46.19,
+          560.48
+        ],
+        [
+          44.1,
+          534.48
+        ],
+        [
+          14.36,
+          536.84
+        ],
+        [
+          16.44,
+          562.84
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.928085,
+          72.8330905
+        ],
+        [
+          18.928067,
+          72.8333731
+        ],
+        [
+          18.9278319,
+          72.8333563
+        ],
+        [
+          18.9278499,
+          72.8330738
+        ],
+        [
+          18.928085,
+          72.8330905
+        ]
+      ],
+      "elevation_msl": 17.72,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_379331885",
+      "source_id": "osm_way_379331885",
+      "osm_id": 379331885,
+      "sub_index": 0,
+      "tags": {
+        "building": "commercial"
+      },
+      "area_sqm": 1851.96,
+      "perimeter_m": 177.46,
+      "local_centroid": [
+        77.66,
+        546.01
+      ],
+      "geo_centroid": [
+        18.927915,
+        72.833615
+      ],
+      "local_polygon_vertices": [
+        [
+          48.11,
+          532.44
+        ],
+        [
+          102.67,
+          526.2
+        ],
+        [
+          106.83,
+          560.81
+        ],
+        [
+          51.68,
+          564.64
+        ],
+        [
+          48.11,
+          532.44
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9278139,
+          72.8333946
+        ],
+        [
+          18.9277636,
+          72.8339131
+        ],
+        [
+          18.9280767,
+          72.8339485
+        ],
+        [
+          18.9281051,
+          72.8334247
+        ],
+        [
+          18.9278139,
+          72.8333946
+        ]
+      ],
+      "elevation_msl": 15.49,
+      "height_m": 16.0,
+      "levels": 5.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_commercial"
+    },
+    {
+      "asset_id": "BLDG_379331886",
+      "source_id": "osm_way_379331886",
+      "osm_id": 379331886,
+      "sub_index": 0,
+      "tags": {
+        "building": "commercial"
+      },
+      "area_sqm": 1659.55,
+      "perimeter_m": 167.46,
+      "local_centroid": [
+        82.46,
+        499.23
+      ],
+      "geo_centroid": [
+        18.927475,
+        72.833688
+      ],
+      "local_polygon_vertices": [
+        [
+          63.05,
+          475.84
+        ],
+        [
+          69.93,
+          526.89
+        ],
+        [
+          101.87,
+          522.62
+        ],
+        [
+          94.97,
+          471.57
+        ],
+        [
+          63.05,
+          475.84
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9273044,
+          72.8335429
+        ],
+        [
+          18.9277662,
+          72.8336023
+        ],
+        [
+          18.9277312,
+          72.8339059
+        ],
+        [
+          18.9272694,
+          72.8338464
+        ],
+        [
+          18.9273044,
+          72.8335429
+        ]
+      ],
+      "elevation_msl": 14.34,
+      "height_m": 16.0,
+      "levels": 5.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_commercial"
+    },
+    {
+      "asset_id": "BLDG_1035330576",
+      "source_id": "osm_way_1035330576",
+      "osm_id": 1035330576,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 2370.69,
+      "perimeter_m": 241.72,
+      "local_centroid": [
+        168.61,
+        512.46
+      ],
+      "geo_centroid": [
+        18.92756,
+        72.83445
+      ],
+      "local_polygon_vertices": [
+        [
+          203.81,
+          507.06
+        ],
+        [
+          148.23,
+          488.78
+        ],
+        [
+          145.77,
+          469.2
+        ],
+        [
+          137.47,
+          467.08
+        ],
+        [
+          139.73,
+          496.16
+        ],
+        [
+          143.59,
+          498.95
+        ],
+        [
+          142.16,
+          512.25
+        ],
+        [
+          147.6,
+          514.72
+        ],
+        [
+          144.58,
+          528.03
+        ],
+        [
+          192.16,
+          543.26
+        ],
+        [
+          203.81,
+          507.06
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.927602,
+          72.8348752
+        ],
+        [
+          18.9274307,
+          72.8343498
+        ],
+        [
+          18.9272536,
+          72.8343287
+        ],
+        [
+          18.9272336,
+          72.8342502
+        ],
+        [
+          18.9274964,
+          72.8342683
+        ],
+        [
+          18.9275221,
+          72.8343046
+        ],
+        [
+          18.927642,
+          72.8342895
+        ],
+        [
+          18.9276649,
+          72.8343408
+        ],
+        [
+          18.9277848,
+          72.8343106
+        ],
+        [
+          18.9279276,
+          72.8347604
+        ],
+        [
+          18.927602,
+          72.8348752
+        ]
+      ],
+      "elevation_msl": 13.92,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1223501448",
+      "source_id": "osm_way_1223501448",
+      "osm_id": 1223501448,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Maharashtra",
+        "addr:housenumber": "14",
+        "addr:postcode": "400001",
+        "addr:street": "New Bakehouse, Lane, Kala Ghoda, Fort",
+        "building": "yes",
+        "name": "Maharashtra Chambers"
+      },
+      "area_sqm": 217.81,
+      "perimeter_m": 63.33,
+      "local_centroid": [
+        -3.2,
+        550.34
+      ],
+      "geo_centroid": [
+        18.927978,
+        72.832886
+      ],
+      "local_polygon_vertices": [
+        [
+          -14.06,
+          554.82
+        ],
+        [
+          -13.63,
+          544.43
+        ],
+        [
+          7.72,
+          546.13
+        ],
+        [
+          7.57,
+          555.96
+        ],
+        [
+          -14.06,
+          554.82
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9280092,
+          72.8328019
+        ],
+        [
+          18.9279154,
+          72.8328072
+        ],
+        [
+          18.9279331,
+          72.8330097
+        ],
+        [
+          18.9280219,
+          72.8330071
+        ],
+        [
+          18.9280092,
+          72.8328019
+        ]
+      ],
+      "elevation_msl": 18.28,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1223501449",
+      "source_id": "osm_way_1223501449",
+      "osm_id": 1223501449,
+      "sub_index": 0,
+      "tags": {
+        "addr:city": "Mumbai",
+        "addr:district": "Maharashtra",
+        "addr:housenumber": "22",
+        "addr:postcode": "400001",
+        "addr:street": "Chamber of Commerce Ln, Kala Ghoda, Fort",
+        "building": "yes"
+      },
+      "area_sqm": 226.31,
+      "perimeter_m": 61.06,
+      "local_centroid": [
+        -0.94,
+        537.49
+      ],
+      "geo_centroid": [
+        18.927865,
+        72.832911
+      ],
+      "local_polygon_vertices": [
+        [
+          -9.65,
+          543.09
+        ],
+        [
+          -9.94,
+          530.38
+        ],
+        [
+          8.32,
+          531.93
+        ],
+        [
+          7.34,
+          544.84
+        ],
+        [
+          -9.65,
+          543.09
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9279037,
+          72.8328452
+        ],
+        [
+          18.9277889,
+          72.8328439
+        ],
+        [
+          18.9278049,
+          72.833017
+        ],
+        [
+          18.9279214,
+          72.8330062
+        ],
+        [
+          18.9279037,
+          72.8328452
+        ]
+      ],
+      "elevation_msl": 18.15,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1288957935",
+      "source_id": "osm_way_1288957935",
+      "osm_id": 1288957935,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 202.57,
+      "perimeter_m": 57.86,
+      "local_centroid": [
+        118.92,
+        496.49
+      ],
+      "geo_centroid": [
+        18.927512,
+        72.834083
+      ],
+      "local_polygon_vertices": [
+        [
+          125.46,
+          504.45
+        ],
+        [
+          124.22,
+          487.46
+        ],
+        [
+          112.26,
+          488.6
+        ],
+        [
+          113.75,
+          505.58
+        ],
+        [
+          125.46,
+          504.45
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.9275697,
+          72.8341319
+        ],
+        [
+          18.9274161,
+          72.8341221
+        ],
+        [
+          18.9274251,
+          72.8340085
+        ],
+        [
+          18.9275786,
+          72.8340206
+        ],
+        [
+          18.9275697,
+          72.8341319
+        ]
+      ],
+      "elevation_msl": 14.31,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    },
+    {
+      "asset_id": "BLDG_1288957938",
+      "source_id": "osm_way_1288957938",
+      "osm_id": 1288957938,
+      "sub_index": 0,
+      "tags": {
+        "building": "yes"
+      },
+      "area_sqm": 806.43,
+      "perimeter_m": 154.16,
+      "local_centroid": [
+        125.47,
+        537.3
+      ],
+      "geo_centroid": [
+        18.927906,
+        72.83415
+      ],
+      "local_polygon_vertices": [
+        [
+          140.52,
+          564.97
+        ],
+        [
+          133.17,
+          545.37
+        ],
+        [
+          129.47,
+          532.78
+        ],
+        [
+          125.46,
+          504.45
+        ],
+        [
+          113.75,
+          505.58
+        ],
+        [
+          117.51,
+          536.85
+        ],
+        [
+          121.06,
+          549.31
+        ],
+        [
+          128.47,
+          570.17
+        ],
+        [
+          140.52,
+          564.97
+        ]
+      ],
+      "geo_coordinates": [
+        [
+          18.928118,
+          72.8342678
+        ],
+        [
+          18.9279401,
+          72.8342003
+        ],
+        [
+          18.927826,
+          72.8341667
+        ],
+        [
+          18.9275697,
+          72.8341319
+        ],
+        [
+          18.9275786,
+          72.8340206
+        ],
+        [
+          18.9278615,
+          72.8340527
+        ],
+        [
+          18.9279744,
+          72.8340849
+        ],
+        [
+          18.9281636,
+          72.8341528
+        ],
+        [
+          18.928118,
+          72.8342678
+        ]
+      ],
+      "elevation_msl": 13.66,
+      "height_m": 9.6,
+      "levels": 3.0,
+      "roof_shape": "flat",
+      "roof_material": "concrete",
+      "confidence_tier": "LEVEL_C_UNAVAILABLE",
+      "confidence_score": 0.3,
+      "height_source": "default_heuristic_for_yes"
+    }
+  ],
+  "roads": [
+    {
+      "source_id": "osm_road_42376646",
+      "osm_id": 42376646,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 313.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654172,
+        1704906175,
+        317162432,
+        245654150,
+        4362509338,
+        1704905993,
+        12400112795,
+        529002922,
+        245654113,
+        12400147208,
+        662446662,
+        10598322644,
+        10598322638
+      ],
+      "coordinates_3d": [
+        [
+          447.35,
+          1267.38,
+          10.33
+        ],
+        [
+          446.65,
+          1241.37,
+          10.76
+        ],
+        [
+          439.02,
+          1185.41,
+          14.35
+        ],
+        [
+          430.75,
+          1156.04,
+          14.53
+        ],
+        [
+          425.03,
+          1145.32,
+          14.61
+        ],
+        [
+          417.21,
+          1134.52,
+          14.81
+        ],
+        [
+          385.97,
+          1104.74,
+          14.33
+        ],
+        [
+          357.35,
+          1077.46,
+          14.7
+        ],
+        [
+          314.84,
+          1041.37,
+          17.26
+        ],
+        [
+          311.05,
+          1034.16,
+          17.03
+        ],
+        [
+          309.11,
+          1030.44,
+          16.83
+        ],
+        [
+          308.32,
+          1026.73,
+          16.72
+        ],
+        [
+          304.14,
+          1007.22,
+          14.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_158253011",
+      "osm_id": 158253011,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 197.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1704905262,
+        1704905288,
+        12400112791,
+        10598322635,
+        10598322639
+      ],
+      "coordinates_3d": [
+        [
+          265.64,
+          825.64,
+          14.43
+        ],
+        [
+          274.11,
+          848.7,
+          17.06
+        ],
+        [
+          286.26,
+          932.12,
+          14.33
+        ],
+        [
+          288.22,
+          945.57,
+          12.01
+        ],
+        [
+          300.92,
+          1019.9,
+          15.72
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_158253012",
+      "osm_id": 158253012,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 113.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        662446652,
+        245653997,
+        12948782012,
+        1704905252,
+        6616201986
+      ],
+      "coordinates_3d": [
+        [
+          295.1,
+          930.39,
+          13.9
+        ],
+        [
+          284.22,
+          845.12,
+          16.18
+        ],
+        [
+          278.58,
+          831.96,
+          14.97
+        ],
+        [
+          275.47,
+          824.71,
+          14.46
+        ],
+        [
+          272.81,
+          820.02,
+          14.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206346654",
+      "osm_id": 206346654,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 320.99,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        495097987,
+        2163538993,
+        2163538995,
+        13698317936,
+        245653917,
+        2163538997,
+        2163539000,
+        245653956,
+        495097996
+      ],
+      "coordinates_3d": [
+        [
+          103.13,
+          438.03,
+          12.78
+        ],
+        [
+          111.78,
+          518.29,
+          15.06
+        ],
+        [
+          115.9,
+          550.88,
+          14.24
+        ],
+        [
+          119.9,
+          569.22,
+          14.44
+        ],
+        [
+          129.1,
+          594.14,
+          15.45
+        ],
+        [
+          136.85,
+          612.24,
+          15.81
+        ],
+        [
+          159.78,
+          669.33,
+          13.47
+        ],
+        [
+          179.58,
+          713.63,
+          14.16
+        ],
+        [
+          196.87,
+          740.97,
+          12.33
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1334185617",
+      "osm_id": 1334185617,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 29.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        495098003,
+        2163539003
+      ],
+      "coordinates_3d": [
+        [
+          219.48,
+          772.68,
+          8.25
+        ],
+        [
+          241.97,
+          792.14,
+          10.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1334186236",
+      "osm_id": 1334186236,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 38.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        495097996,
+        495098003
+      ],
+      "coordinates_3d": [
+        [
+          196.87,
+          740.97,
+          12.33
+        ],
+        [
+          219.48,
+          772.68,
+          8.25
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1446483250",
+      "osm_id": 1446483250,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 77.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10598322638,
+        11034003549,
+        10598322636,
+        662446652
+      ],
+      "coordinates_3d": [
+        [
+          304.14,
+          1007.22,
+          14.8
+        ],
+        [
+          303.11,
+          998.84,
+          13.58
+        ],
+        [
+          297.67,
+          954.48,
+          10.8
+        ],
+        [
+          295.1,
+          930.39,
+          13.9
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1453286566",
+      "osm_id": 1453286566,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 23.69,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6616201986,
+        13327789496
+      ],
+      "coordinates_3d": [
+        [
+          272.81,
+          820.02,
+          14.09
+        ],
+        [
+          257.57,
+          801.88,
+          12.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1453286567",
+      "osm_id": 1453286567,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 20.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539003,
+        13327789497
+      ],
+      "coordinates_3d": [
+        [
+          241.97,
+          792.14,
+          10.22
+        ],
+        [
+          253.81,
+          808.89,
+          12.76
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1453286568",
+      "osm_id": 1453286568,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 18.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13327789496,
+        2163539003
+      ],
+      "coordinates_3d": [
+        [
+          257.57,
+          801.88,
+          12.18
+        ],
+        [
+          241.97,
+          792.14,
+          10.22
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1453286569",
+      "osm_id": 1453286569,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 20.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13327789497,
+        1704905262
+      ],
+      "coordinates_3d": [
+        [
+          253.81,
+          808.89,
+          12.76
+        ],
+        [
+          265.64,
+          825.64,
+          14.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22845862",
+      "osm_id": 22845862,
+      "name": "Maharashtra Chamber of Commerce Lane",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 148.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245653908,
+        528686528,
+        486040899,
+        486040903,
+        486040911,
+        486040916,
+        13698395292,
+        13698395291,
+        245653867
+      ],
+      "coordinates_3d": [
+        [
+          8.6,
+          585.84,
+          18.9
+        ],
+        [
+          13.48,
+          563.88,
+          19.01
+        ],
+        [
+          13.34,
+          534.63,
+          18.17
+        ],
+        [
+          16.48,
+          510.57,
+          17.66
+        ],
+        [
+          24.42,
+          499.05,
+          16.79
+        ],
+        [
+          30.71,
+          480.13,
+          15.7
+        ],
+        [
+          30.09,
+          474.86,
+          15.61
+        ],
+        [
+          24.92,
+          457.79,
+          15.57
+        ],
+        [
+          17.06,
+          444.68,
+          15.41
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_72875287",
+      "osm_id": 72875287,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 2059.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        864875277,
+        864875297,
+        864875306,
+        864875310,
+        864875318,
+        864875324,
+        864875334,
+        11021735262,
+        864875341,
+        864875379,
+        9557330023,
+        864875391,
+        864875394,
+        9557330021,
+        864875397,
+        864875419,
+        864875425,
+        864875448,
+        864875455,
+        864875460,
+        864875466,
+        864875472,
+        864875477,
+        864875487,
+        864875496,
+        864875501,
+        864875506,
+        864875510,
+        2242540277,
+        864875515,
+        7350034027,
+        2248555878,
+        864875518,
+        864875522,
+        864875554,
+        864881784,
+        864875562,
+        864875569,
+        864875576,
+        864875585,
+        864875593,
+        864875597,
+        864875602,
+        13329881233,
+        864875608,
+        864875613,
+        864875617,
+        864875622,
+        864875626,
+        864875630,
+        864875634,
+        2168667465,
+        2168667464
+      ],
+      "coordinates_3d": [
+        [
+          395.42,
+          296.47,
+          6.45
+        ],
+        [
+          280.18,
+          345.0,
+          10.89
+        ],
+        [
+          247.39,
+          361.19,
+          9.19
+        ],
+        [
+          227.14,
+          369.17,
+          7.92
+        ],
+        [
+          190.58,
+          376.05,
+          7.81
+        ],
+        [
+          180.21,
+          379.86,
+          8.14
+        ],
+        [
+          161.16,
+          393.57,
+          7.97
+        ],
+        [
+          156.96,
+          399.6,
+          7.49
+        ],
+        [
+          150.28,
+          409.18,
+          7.69
+        ],
+        [
+          125.76,
+          447.1,
+          10.74
+        ],
+        [
+          123.47,
+          469.36,
+          12.03
+        ],
+        [
+          129.65,
+          520.11,
+          14.05
+        ],
+        [
+          138.85,
+          555.39,
+          12.0
+        ],
+        [
+          159.02,
+          602.65,
+          11.96
+        ],
+        [
+          184.11,
+          646.53,
+          8.23
+        ],
+        [
+          185.72,
+          667.46,
+          9.41
+        ],
+        [
+          191.69,
+          693.52,
+          11.34
+        ],
+        [
+          219.71,
+          743.18,
+          6.19
+        ],
+        [
+          232.07,
+          760.45,
+          6.4
+        ],
+        [
+          243.74,
+          765.92,
+          6.36
+        ],
+        [
+          254.43,
+          762.14,
+          5.68
+        ],
+        [
+          273.65,
+          739.98,
+          3.67
+        ],
+        [
+          298.94,
+          727.45,
+          4.0
+        ],
+        [
+          329.28,
+          723.58,
+          3.19
+        ],
+        [
+          357.42,
+          726.03,
+          4.56
+        ],
+        [
+          386.9,
+          732.42,
+          5.92
+        ],
+        [
+          424.37,
+          746.57,
+          4.81
+        ],
+        [
+          453.99,
+          764.18,
+          6.53
+        ],
+        [
+          463.09,
+          769.37,
+          7.65
+        ],
+        [
+          472.2,
+          775.2,
+          8.27
+        ],
+        [
+          518.5,
+          810.47,
+          9.87
+        ],
+        [
+          567.07,
+          847.45,
+          10.08
+        ],
+        [
+          637.67,
+          901.28,
+          12.41
+        ],
+        [
+          649.11,
+          912.38,
+          12.03
+        ],
+        [
+          658.33,
+          926.87,
+          11.79
+        ],
+        [
+          728.38,
+          1049.73,
+          6.0
+        ],
+        [
+          746.13,
+          1080.87,
+          6.81
+        ],
+        [
+          754.18,
+          1092.01,
+          7.37
+        ],
+        [
+          769.05,
+          1105.72,
+          7.37
+        ],
+        [
+          783.59,
+          1116.64,
+          5.56
+        ],
+        [
+          806.37,
+          1129.27,
+          1.3
+        ],
+        [
+          826.77,
+          1136.46,
+          3.89
+        ],
+        [
+          849.36,
+          1140.59,
+          7.55
+        ],
+        [
+          877.0,
+          1140.64,
+          9.61
+        ],
+        [
+          880.46,
+          1140.64,
+          9.68
+        ],
+        [
+          905.92,
+          1135.94,
+          9.65
+        ],
+        [
+          934.38,
+          1129.12,
+          8.71
+        ],
+        [
+          954.65,
+          1122.98,
+          5.67
+        ],
+        [
+          975.62,
+          1116.55,
+          4.18
+        ],
+        [
+          991.47,
+          1105.81,
+          2.88
+        ],
+        [
+          1005.09,
+          1087.81,
+          3.44
+        ],
+        [
+          1011.68,
+          1065.57,
+          4.37
+        ],
+        [
+          1071.61,
+          669.99,
+          10.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_214780254",
+      "osm_id": 214780254,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 714.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2242540267,
+        2242540272,
+        9557330018,
+        9557330017,
+        9557293316,
+        9557293315,
+        9557293314,
+        9557293313,
+        9557293312,
+        9168645651,
+        864875324
+      ],
+      "coordinates_3d": [
+        [
+          287.71,
+          356.28,
+          10.31
+        ],
+        [
+          523.83,
+          463.86,
+          0.13
+        ],
+        [
+          507.83,
+          497.6,
+          3.93
+        ],
+        [
+          407.17,
+          465.04,
+          5.87
+        ],
+        [
+          398.41,
+          511.22,
+          2.3
+        ],
+        [
+          394.52,
+          516.32,
+          1.41
+        ],
+        [
+          390.03,
+          518.62,
+          0.87
+        ],
+        [
+          383.52,
+          517.86,
+          0.79
+        ],
+        [
+          376.71,
+          515.98,
+          0.87
+        ],
+        [
+          201.5,
+          402.55,
+          7.07
+        ],
+        [
+          180.21,
+          379.86,
+          8.14
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

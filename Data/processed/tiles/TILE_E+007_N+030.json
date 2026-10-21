@@ -1,0 +1,315 @@
+{
+  "tile_id": "TILE_E+007_N+030",
+  "bounds": {
+    "min_x": 3500.0,
+    "max_x": 4000.0,
+    "min_y": 15000.0,
+    "max_y": 15500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.058856,
+    "max_lat": 19.063426,
+    "min_lon": 72.864488,
+    "max_lon": 72.869179
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 5,
+    "road_length_m": 775.12,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_49684334",
+      "osm_id": 49684334,
+      "name": "BKC Connector",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 57.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        14005273057,
+        8443498442,
+        6986983420
+      ],
+      "coordinates_3d": [
+        [
+          3505.4,
+          15013.23,
+          0.05
+        ],
+        [
+          3506.58,
+          14987.88,
+          0.05
+        ],
+        [
+          3509.49,
+          14955.51,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382843",
+      "osm_id": 909382843,
+      "name": "Unnamed Road",
+      "highway": "secondary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:secondary_link",
+      "length_m": 36.5,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7749797456,
+        8894102988,
+        8443498449,
+        8894102987,
+        8443498448
+      ],
+      "coordinates_3d": [
+        [
+          3495.67,
+          14987.34,
+          0.05
+        ],
+        [
+          3494.76,
+          14996.19,
+          0.05
+        ],
+        [
+          3492.05,
+          15003.39,
+          0.05
+        ],
+        [
+          3486.62,
+          15009.5,
+          0.05
+        ],
+        [
+          3475.98,
+          15014.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_909382847",
+      "osm_id": 909382847,
+      "name": "Street 3",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 166.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666274,
+        11144313392,
+        12409410378,
+        12409410389,
+        4271113412,
+        12409410388,
+        4296977743,
+        13614334305,
+        13164579636,
+        8443498438
+      ],
+      "coordinates_3d": [
+        [
+          3485.97,
+          15212.04,
+          0.05
+        ],
+        [
+          3490.58,
+          15170.16,
+          0.05
+        ],
+        [
+          3491.28,
+          15164.46,
+          0.05
+        ],
+        [
+          3491.69,
+          15161.22,
+          0.05
+        ],
+        [
+          3493.51,
+          15146.36,
+          0.05
+        ],
+        [
+          3494.86,
+          15132.58,
+          0.05
+        ],
+        [
+          3496.02,
+          15121.64,
+          0.05
+        ],
+        [
+          3496.32,
+          15117.95,
+          0.05
+        ],
+        [
+          3496.8,
+          15113.11,
+          0.05
+        ],
+        [
+          3503.43,
+          15046.04,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238603942",
+      "osm_id": 1238603942,
+      "name": "Street 3",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 32.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8443498438,
+        14005273057
+      ],
+      "coordinates_3d": [
+        [
+          3503.43,
+          15046.04,
+          0.05
+        ],
+        [
+          3505.4,
+          15013.23,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_928008005",
+      "osm_id": 928008005,
+      "name": "Avenue 3",
+      "highway": "secondary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 480.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7749797456,
+        8894102983,
+        8443498451,
+        8894102982,
+        8443498450,
+        631507964,
+        6429017348,
+        2897022050,
+        631507919,
+        2897022053,
+        2897022068,
+        245665854,
+        2897022073
+      ],
+      "coordinates_3d": [
+        [
+          3495.67,
+          14987.34,
+          0.05
+        ],
+        [
+          3490.34,
+          14994.6,
+          0.05
+        ],
+        [
+          3483.91,
+          14999.75,
+          0.05
+        ],
+        [
+          3474.64,
+          15002.24,
+          0.05
+        ],
+        [
+          3463.87,
+          15002.95,
+          0.05
+        ],
+        [
+          3290.22,
+          14990.77,
+          0.05
+        ],
+        [
+          3244.78,
+          14987.59,
+          0.05
+        ],
+        [
+          3169.46,
+          14982.3,
+          0.05
+        ],
+        [
+          3147.66,
+          14983.86,
+          0.05
+        ],
+        [
+          3131.3,
+          14992.42,
+          0.05
+        ],
+        [
+          3062.48,
+          15038.72,
+          0.05
+        ],
+        [
+          3049.52,
+          15047.98,
+          0.05
+        ],
+        [
+          3042.2,
+          15053.2,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

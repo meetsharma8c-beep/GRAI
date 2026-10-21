@@ -1,0 +1,333 @@
+{
+  "tile_id": "TILE_E+004_N+030",
+  "bounds": {
+    "min_x": 2000.0,
+    "max_x": 2500.0,
+    "min_y": 15000.0,
+    "max_y": 15500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.05869,
+    "max_lat": 19.063261,
+    "min_lon": 72.850241,
+    "max_lon": 72.854932
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 5,
+    "road_length_m": 1665.26,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22859299",
+      "osm_id": 22859299,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 170.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245665925,
+        6428811272,
+        6428811258,
+        6428811259,
+        13621901232,
+        12350446596,
+        11054585756,
+        13621901230,
+        6428811269,
+        6428811268
+      ],
+      "coordinates_3d": [
+        [
+          1950.27,
+          15215.0,
+          0.05
+        ],
+        [
+          1966.72,
+          15208.47,
+          0.05
+        ],
+        [
+          1970.64,
+          15207.73,
+          0.05
+        ],
+        [
+          1974.5,
+          15207.51,
+          0.05
+        ],
+        [
+          1978.99,
+          15207.53,
+          0.05
+        ],
+        [
+          2030.46,
+          15207.78,
+          0.05
+        ],
+        [
+          2055.14,
+          15207.89,
+          0.05
+        ],
+        [
+          2084.75,
+          15208.03,
+          0.05
+        ],
+        [
+          2105.41,
+          15208.13,
+          0.05
+        ],
+        [
+          2119.18,
+          15204.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_39537375",
+      "osm_id": 39537375,
+      "name": "M D Abasaheb Shinde Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 195.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245666223,
+        10696453284,
+        473698889,
+        473698890,
+        473698891,
+        10653501374
+      ],
+      "coordinates_3d": [
+        [
+          1923.58,
+          15398.89,
+          0.05
+        ],
+        [
+          1969.1,
+          15393.94,
+          0.05
+        ],
+        [
+          1998.37,
+          15385.91,
+          0.05
+        ],
+        [
+          2039.64,
+          15357.8,
+          0.05
+        ],
+        [
+          2080.41,
+          15319.91,
+          0.05
+        ],
+        [
+          2093.36,
+          15315.2,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151938275",
+      "osm_id": 151938275,
+      "name": "Bandra Kurla Complex Road",
+      "highway": "primary",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 624.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1398117087,
+        13366310463,
+        5291748976,
+        9992808306,
+        9918433454,
+        12600517269,
+        5571724629,
+        10770664995,
+        8928716219,
+        245665650
+      ],
+      "coordinates_3d": [
+        [
+          2056.19,
+          14672.93,
+          0.05
+        ],
+        [
+          2075.29,
+          14688.39,
+          0.05
+        ],
+        [
+          2214.19,
+          14823.52,
+          0.05
+        ],
+        [
+          2231.28,
+          14839.29,
+          0.05
+        ],
+        [
+          2354.47,
+          14952.95,
+          0.05
+        ],
+        [
+          2400.07,
+          14995.01,
+          0.05
+        ],
+        [
+          2485.01,
+          15073.37,
+          0.05
+        ],
+        [
+          2494.78,
+          15082.15,
+          0.05
+        ],
+        [
+          2498.09,
+          15085.12,
+          0.05
+        ],
+        [
+          2514.7,
+          15096.4,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1154760963",
+      "osm_id": 1154760963,
+      "name": "Bandra Kurla Complex Road",
+      "highway": "primary",
+      "width_m": 17.5,
+      "width_source": "osm_lanes_inferred:5",
+      "length_m": 555.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11271653057,
+        9918433453,
+        13619351302,
+        13617732052
+      ],
+      "coordinates_3d": [
+        [
+          2485.07,
+          15052.06,
+          0.05
+        ],
+        [
+          2364.15,
+          14942.95,
+          0.05
+        ],
+        [
+          2304.65,
+          14887.51,
+          0.05
+        ],
+        [
+          2076.72,
+          14675.1,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767985",
+      "osm_id": 1235767985,
+      "name": "M D Abasaheb Shinde Marg",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 118.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10653501374,
+        13621901222,
+        10696472310,
+        473698894,
+        14007992843,
+        245665910
+      ],
+      "coordinates_3d": [
+        [
+          2093.36,
+          15315.2,
+          0.05
+        ],
+        [
+          2096.79,
+          15308.44,
+          0.05
+        ],
+        [
+          2125.78,
+          15251.39,
+          0.05
+        ],
+        [
+          2130.82,
+          15230.01,
+          0.05
+        ],
+        [
+          2129.58,
+          15225.55,
+          0.05
+        ],
+        [
+          2124.02,
+          15205.64,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

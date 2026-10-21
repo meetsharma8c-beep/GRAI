@@ -1,0 +1,1545 @@
+{
+  "tile_id": "TILE_E+006_N+025",
+  "bounds": {
+    "min_x": 3000.0,
+    "max_x": 3500.0,
+    "min_y": 12500.0,
+    "max_y": 13000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 19.036222,
+    "max_lat": 19.040793,
+    "min_lon": 72.860029,
+    "max_lon": 72.864719
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 29,
+    "road_length_m": 6377.33,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_102184716",
+      "osm_id": 102184716,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "primary",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 277.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631494019,
+        5792168771,
+        1179191819,
+        9598020565,
+        245663228,
+        1179314523,
+        1179314459
+      ],
+      "coordinates_3d": [
+        [
+          3402.2,
+          13145.75,
+          0.05
+        ],
+        [
+          3393.3,
+          13138.68,
+          0.05
+        ],
+        [
+          3385.48,
+          13128.74,
+          0.05
+        ],
+        [
+          3365.64,
+          13100.22,
+          0.05
+        ],
+        [
+          3286.59,
+          12986.58,
+          0.05
+        ],
+        [
+          3259.11,
+          12947.07,
+          0.05
+        ],
+        [
+          3236.23,
+          12924.47,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151500965",
+      "osm_id": 151500965,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 52.26,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        631470659,
+        1643134454
+      ],
+      "coordinates_3d": [
+        [
+          3386.84,
+          12637.37,
+          5.55
+        ],
+        [
+          3439.08,
+          12635.76,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_611839305",
+      "osm_id": 611839305,
+      "name": "Road Number 29",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 450.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10733085808,
+        11190316056,
+        14283168548,
+        10733085807,
+        13982482479,
+        12071058819,
+        13982361832,
+        13982361838,
+        13982361839,
+        13800569641,
+        10733085806,
+        5792425830
+      ],
+      "coordinates_3d": [
+        [
+          3601.92,
+          13012.7,
+          0.05
+        ],
+        [
+          3598.64,
+          13003.62,
+          0.05
+        ],
+        [
+          3545.5,
+          12938.98,
+          0.05
+        ],
+        [
+          3507.05,
+          12892.2,
+          0.05
+        ],
+        [
+          3475.16,
+          12857.31,
+          0.05
+        ],
+        [
+          3423.9,
+          12801.21,
+          0.05
+        ],
+        [
+          3388.6,
+          12761.39,
+          0.05
+        ],
+        [
+          3378.0,
+          12749.43,
+          0.05
+        ],
+        [
+          3374.15,
+          12745.1,
+          0.05
+        ],
+        [
+          3351.66,
+          12719.72,
+          0.05
+        ],
+        [
+          3317.95,
+          12682.15,
+          0.05
+        ],
+        [
+          3310.8,
+          12670.29,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138166",
+      "osm_id": 618138166,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 267.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179314445,
+        13985354950,
+        1179314446,
+        5360812116,
+        13984956537,
+        9598020562,
+        1179314448,
+        11039453274,
+        1179314452,
+        9909512455
+      ],
+      "coordinates_3d": [
+        [
+          3224.89,
+          12932.27,
+          0.05
+        ],
+        [
+          3228.54,
+          12946.27,
+          0.05
+        ],
+        [
+          3233.32,
+          12964.56,
+          0.05
+        ],
+        [
+          3261.7,
+          13004.16,
+          0.05
+        ],
+        [
+          3321.85,
+          13089.09,
+          0.05
+        ],
+        [
+          3334.94,
+          13107.59,
+          0.05
+        ],
+        [
+          3359.63,
+          13140.79,
+          0.05
+        ],
+        [
+          3360.11,
+          13141.78,
+          0.05
+        ],
+        [
+          3365.8,
+          13153.45,
+          0.05
+        ],
+        [
+          3366.79,
+          13156.36,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138167",
+      "osm_id": 618138167,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 330.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179314459,
+        13985354937,
+        245663089,
+        5792168770,
+        10770179998,
+        4362786418,
+        1643134461,
+        1643134423
+      ],
+      "coordinates_3d": [
+        [
+          3236.23,
+          12924.47,
+          0.05
+        ],
+        [
+          3234.42,
+          12921.18,
+          0.05
+        ],
+        [
+          3208.98,
+          12875.03,
+          0.05
+        ],
+        [
+          3184.31,
+          12830.26,
+          0.05
+        ],
+        [
+          3166.53,
+          12790.29,
+          0.05
+        ],
+        [
+          3164.89,
+          12786.61,
+          0.05
+        ],
+        [
+          3125.7,
+          12698.49,
+          0.05
+        ],
+        [
+          3094.27,
+          12626.68,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138168",
+      "osm_id": 618138168,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 520.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631473301,
+        2258304548,
+        2258304539,
+        10722958771,
+        2155937885,
+        5792168773,
+        245662648,
+        13992243872,
+        13992243879,
+        7374243973,
+        7374243971,
+        245662398,
+        2258304504
+      ],
+      "coordinates_3d": [
+        [
+          3065.24,
+          12534.4,
+          0.05
+        ],
+        [
+          3043.17,
+          12481.62,
+          0.05
+        ],
+        [
+          3023.27,
+          12427.75,
+          0.05
+        ],
+        [
+          3003.08,
+          12377.13,
+          0.05
+        ],
+        [
+          2997.53,
+          12362.48,
+          0.05
+        ],
+        [
+          2989.8,
+          12344.12,
+          0.05
+        ],
+        [
+          2981.88,
+          12325.79,
+          0.05
+        ],
+        [
+          2968.63,
+          12295.3,
+          0.05
+        ],
+        [
+          2956.98,
+          12268.49,
+          0.05
+        ],
+        [
+          2925.16,
+          12195.26,
+          0.05
+        ],
+        [
+          2914.92,
+          12171.71,
+          0.05
+        ],
+        [
+          2865.74,
+          12058.52,
+          0.05
+        ],
+        [
+          2864.14,
+          12054.31,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138169",
+      "osm_id": 618138169,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 14.0,
+      "width_source": "osm_lanes_inferred:4",
+      "length_m": 333.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643134428,
+        6430699599,
+        7374085671,
+        10770179999,
+        5792191065,
+        245663047,
+        13985354939,
+        13985354943,
+        13985354945,
+        13985354936,
+        1179314445
+      ],
+      "coordinates_3d": [
+        [
+          3076.79,
+          12634.28,
+          0.05
+        ],
+        [
+          3108.57,
+          12705.05,
+          0.05
+        ],
+        [
+          3140.29,
+          12775.81,
+          0.05
+        ],
+        [
+          3146.05,
+          12788.54,
+          0.05
+        ],
+        [
+          3148.59,
+          12794.14,
+          0.05
+        ],
+        [
+          3168.63,
+          12838.8,
+          0.05
+        ],
+        [
+          3204.89,
+          12899.03,
+          0.05
+        ],
+        [
+          3218.75,
+          12922.08,
+          0.05
+        ],
+        [
+          3221.28,
+          12926.26,
+          0.05
+        ],
+        [
+          3222.74,
+          12928.69,
+          0.05
+        ],
+        [
+          3224.89,
+          12932.27,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_618138172",
+      "osm_id": 618138172,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 266.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2155937886,
+        6430461382,
+        6430461378,
+        631493993,
+        2258304558,
+        1643134428
+      ],
+      "coordinates_3d": [
+        [
+          2974.72,
+          12389.04,
+          0.05
+        ],
+        [
+          2995.47,
+          12442.43,
+          0.05
+        ],
+        [
+          3038.07,
+          12551.98,
+          0.05
+        ],
+        [
+          3044.0,
+          12567.22,
+          0.05
+        ],
+        [
+          3061.72,
+          12612.8,
+          0.05
+        ],
+        [
+          3076.79,
+          12634.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_788555968",
+      "osm_id": 788555968,
+      "name": "Road No 29",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 487.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965954,
+        631497215,
+        5792425829,
+        631497219,
+        12071058818,
+        2247988763,
+        13982482467,
+        13982482476,
+        14283466223,
+        14283168540,
+        14283168545,
+        11190316055,
+        10733085808
+      ],
+      "coordinates_3d": [
+        [
+          3282.32,
+          12645.64,
+          0.05
+        ],
+        [
+          3285.29,
+          12653.45,
+          0.05
+        ],
+        [
+          3311.75,
+          12687.62,
+          0.05
+        ],
+        [
+          3345.28,
+          12724.37,
+          0.05
+        ],
+        [
+          3378.19,
+          12759.08,
+          0.05
+        ],
+        [
+          3418.39,
+          12805.43,
+          0.05
+        ],
+        [
+          3468.08,
+          12862.88,
+          0.05
+        ],
+        [
+          3483.41,
+          12880.6,
+          0.05
+        ],
+        [
+          3485.3,
+          12882.78,
+          0.05
+        ],
+        [
+          3538.45,
+          12944.24,
+          0.05
+        ],
+        [
+          3552.19,
+          12960.11,
+          0.05
+        ],
+        [
+          3593.38,
+          13007.73,
+          0.05
+        ],
+        [
+          3601.92,
+          13012.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093403",
+      "osm_id": 1171093403,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.8,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643134454,
+        10882965949,
+        10882965948
+      ],
+      "coordinates_3d": [
+        [
+          3439.08,
+          12635.76,
+          0.05
+        ],
+        [
+          3447.23,
+          12635.62,
+          0.05
+        ],
+        [
+          3453.64,
+          12631.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093404",
+      "osm_id": 1171093404,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 82.79,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965955,
+        10882965951,
+        13982256569,
+        10882965953
+      ],
+      "coordinates_3d": [
+        [
+          3386.95,
+          12629.48,
+          0.05
+        ],
+        [
+          3331.83,
+          12636.63,
+          0.05
+        ],
+        [
+          3325.48,
+          12637.51,
+          0.05
+        ],
+        [
+          3305.06,
+          12641.46,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093406",
+      "osm_id": 1171093406,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 15.89,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965948,
+        10882965952,
+        10882965956
+      ],
+      "coordinates_3d": [
+        [
+          3453.64,
+          12631.44,
+          0.05
+        ],
+        [
+          3447.81,
+          12627.28,
+          0.05
+        ],
+        [
+          3439.08,
+          12627.45,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093407",
+      "osm_id": 1171093407,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 52.17,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        10882965956,
+        10882965955
+      ],
+      "coordinates_3d": [
+        [
+          3439.08,
+          12627.45,
+          5.55
+        ],
+        [
+          3386.95,
+          12629.48,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235569524",
+      "osm_id": 1235569524,
+      "name": "Laxmibai Kelkar Marg",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 97.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643134423,
+        2258304556,
+        631473301
+      ],
+      "coordinates_3d": [
+        [
+          3094.27,
+          12626.68,
+          0.05
+        ],
+        [
+          3090.58,
+          12601.52,
+          0.05
+        ],
+        [
+          3065.24,
+          12534.4,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771383",
+      "osm_id": 1235771383,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 89.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631487133,
+        10882965948
+      ],
+      "coordinates_3d": [
+        [
+          3542.85,
+          12628.97,
+          0.05
+        ],
+        [
+          3453.64,
+          12631.44,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239339895",
+      "osm_id": 1239339895,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 51.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643134459,
+        631470659
+      ],
+      "coordinates_3d": [
+        [
+          3336.05,
+          12643.97,
+          0.05
+        ],
+        [
+          3386.84,
+          12637.37,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239339898",
+      "osm_id": 1239339898,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 23.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965953,
+        12260876962,
+        10882965954
+      ],
+      "coordinates_3d": [
+        [
+          3305.06,
+          12641.46,
+          0.05
+        ],
+        [
+          3298.58,
+          12642.65,
+          0.05
+        ],
+        [
+          3282.32,
+          12645.64,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1324973653",
+      "osm_id": 1324973653,
+      "name": "Unnamed Road",
+      "highway": "secondary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:secondary_link",
+      "length_m": 37.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5792425830,
+        5792425832,
+        5792425833,
+        1643134459
+      ],
+      "coordinates_3d": [
+        [
+          3310.8,
+          12670.29,
+          0.05
+        ],
+        [
+          3314.43,
+          12662.39,
+          0.05
+        ],
+        [
+          3321.54,
+          12654.94,
+          0.05
+        ],
+        [
+          3336.05,
+          12643.97,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22847770",
+      "osm_id": 22847770,
+      "name": "Sion Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 900.15,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        529589674,
+        1176701799,
+        245663995,
+        1176703271,
+        245663930,
+        2258304594,
+        245663831,
+        1176703273,
+        1643134478,
+        1643134471,
+        10228066169,
+        10228066170,
+        10228066171,
+        10228066172
+      ],
+      "coordinates_3d": [
+        [
+          3698.89,
+          13699.04,
+          5.55
+        ],
+        [
+          3638.9,
+          13635.59,
+          5.55
+        ],
+        [
+          3601.34,
+          13596.88,
+          5.55
+        ],
+        [
+          3585.62,
+          13579.04,
+          5.55
+        ],
+        [
+          3554.8,
+          13535.65,
+          5.55
+        ],
+        [
+          3531.37,
+          13501.85,
+          5.55
+        ],
+        [
+          3499.82,
+          13436.52,
+          5.55
+        ],
+        [
+          3484.07,
+          13398.41,
+          5.55
+        ],
+        [
+          3429.41,
+          13243.36,
+          5.55
+        ],
+        [
+          3405.71,
+          13191.22,
+          5.55
+        ],
+        [
+          3378.52,
+          13144.83,
+          5.55
+        ],
+        [
+          3339.18,
+          13085.36,
+          5.55
+        ],
+        [
+          3277.29,
+          12997.25,
+          5.55
+        ],
+        [
+          3239.28,
+          12935.45,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161861",
+      "osm_id": 102161861,
+      "name": "Sion Hospital Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 573.89,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304516,
+        1179093374,
+        1179093375,
+        1179093376,
+        2258304534,
+        2258304543,
+        2258304552,
+        1179093380
+      ],
+      "coordinates_3d": [
+        [
+          2852.47,
+          12078.66,
+          5.55
+        ],
+        [
+          2868.52,
+          12116.57,
+          5.55
+        ],
+        [
+          2893.47,
+          12177.0,
+          5.55
+        ],
+        [
+          2947.21,
+          12297.2,
+          5.55
+        ],
+        [
+          2972.26,
+          12355.47,
+          5.55
+        ],
+        [
+          3003.62,
+          12435.15,
+          5.55
+        ],
+        [
+          3023.52,
+          12489.04,
+          5.55
+        ],
+        [
+          3071.31,
+          12609.05,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_102161862",
+      "osm_id": 102161862,
+      "name": "Sion Hospital Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 574.06,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        1179093391,
+        2258304550,
+        2258304541,
+        1179093390,
+        1179093388,
+        1179093386,
+        1179093385,
+        2258304514
+      ],
+      "coordinates_3d": [
+        [
+          3081.04,
+          12605.25,
+          5.55
+        ],
+        [
+          3032.41,
+          12485.69,
+          5.55
+        ],
+        [
+          3012.51,
+          12431.81,
+          5.55
+        ],
+        [
+          2981.06,
+          12351.9,
+          5.55
+        ],
+        [
+          2955.92,
+          12293.42,
+          5.55
+        ],
+        [
+          2902.22,
+          12173.28,
+          5.55
+        ],
+        [
+          2877.3,
+          12112.94,
+          5.55
+        ],
+        [
+          2861.25,
+          12075.06,
+          5.55
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151500963",
+      "osm_id": 151500963,
+      "name": "Sion Hospital Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 25.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1179093380,
+        1643134428
+      ],
+      "coordinates_3d": [
+        [
+          3071.31,
+          12609.05,
+          0.05
+        ],
+        [
+          3076.79,
+          12634.28,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_151500969",
+      "osm_id": 151500969,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 133.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7372036724,
+        7372036723,
+        631497215,
+        12260876963,
+        13982256570,
+        1643134459
+      ],
+      "coordinates_3d": [
+        [
+          3205.37,
+          12662.67,
+          0.05
+        ],
+        [
+          3211.04,
+          12666.1,
+          0.05
+        ],
+        [
+          3285.29,
+          12653.45,
+          0.05
+        ],
+        [
+          3301.23,
+          12650.38,
+          0.05
+        ],
+        [
+          3329.21,
+          12644.91,
+          0.05
+        ],
+        [
+          3336.05,
+          12643.97,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_215382529",
+      "osm_id": 215382529,
+      "name": "MT Sangam Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 411.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2247988609,
+        2247988626,
+        2247988652,
+        5792191064,
+        2247988655,
+        2247988688,
+        13991824318,
+        4362786421,
+        631470661
+      ],
+      "coordinates_3d": [
+        [
+          2995.97,
+          12320.79,
+          0.05
+        ],
+        [
+          3083.27,
+          12410.96,
+          0.05
+        ],
+        [
+          3140.9,
+          12470.54,
+          0.05
+        ],
+        [
+          3153.06,
+          12485.93,
+          0.05
+        ],
+        [
+          3163.8,
+          12507.27,
+          0.05
+        ],
+        [
+          3172.12,
+          12544.51,
+          0.05
+        ],
+        [
+          3178.98,
+          12575.25,
+          0.05
+        ],
+        [
+          3187.9,
+          12615.22,
+          0.05
+        ],
+        [
+          3200.25,
+          12662.73,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_611811722",
+      "osm_id": 611811722,
+      "name": "Sion Hospital Flyover",
+      "highway": "trunk",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 25.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643134423,
+        1179093391
+      ],
+      "coordinates_3d": [
+        [
+          3094.27,
+          12626.68,
+          0.05
+        ],
+        [
+          3081.04,
+          12605.25,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_741826273",
+      "osm_id": 741826273,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 186.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        631470661,
+        7372036725,
+        7372036726,
+        7372036727,
+        4362786420,
+        631473301
+      ],
+      "coordinates_3d": [
+        [
+          3200.25,
+          12662.73,
+          0.05
+        ],
+        [
+          3198.26,
+          12661.98,
+          0.05
+        ],
+        [
+          3194.85,
+          12660.07,
+          0.05
+        ],
+        [
+          3189.36,
+          12655.7,
+          0.05
+        ],
+        [
+          3159.14,
+          12626.45,
+          0.05
+        ],
+        [
+          3065.24,
+          12534.4,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093402",
+      "osm_id": 1171093402,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 5.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7372036724,
+        631470661
+      ],
+      "coordinates_3d": [
+        [
+          3205.37,
+          12662.67,
+          0.05
+        ],
+        [
+          3200.25,
+          12662.73,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171093405",
+      "osm_id": 1171093405,
+      "name": "M Ambedkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 79.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10882965954,
+        10882965950,
+        7372036724
+      ],
+      "coordinates_3d": [
+        [
+          3282.32,
+          12645.64,
+          0.05
+        ],
+        [
+          3209.12,
+          12659.07,
+          0.05
+        ],
+        [
+          3205.37,
+          12662.67,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1451526982",
+      "osm_id": 1451526982,
+      "name": "Sion Circle Flyover",
+      "highway": "trunk",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 11.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10228066172,
+        1179314459
+      ],
+      "coordinates_3d": [
+        [
+          3239.28,
+          12935.45,
+          0.05
+        ],
+        [
+          3236.23,
+          12924.47,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

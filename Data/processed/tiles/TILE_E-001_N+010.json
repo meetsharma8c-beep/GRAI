@@ -1,0 +1,604 @@
+{
+  "tile_id": "TILE_E-001_N+010",
+  "bounds": {
+    "min_x": -500.0,
+    "max_x": 0.0,
+    "min_y": 5000.0,
+    "max_y": 5500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.968101,
+    "max_lat": 18.972672,
+    "min_lon": 72.827671,
+    "max_lon": 72.832359
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 10,
+    "road_length_m": 2087.53,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_123299204",
+      "osm_id": 123299204,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 226.31,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2258304326,
+        1375482669,
+        474700959,
+        1375482676,
+        1375482679,
+        1375482671,
+        474700960
+      ],
+      "coordinates_3d": [
+        [
+          16.84,
+          5285.78,
+          14.11
+        ],
+        [
+          5.69,
+          5324.93,
+          14.36
+        ],
+        [
+          -3.77,
+          5357.64,
+          15.55
+        ],
+        [
+          -7.58,
+          5377.04,
+          15.28
+        ],
+        [
+          -7.41,
+          5401.54,
+          15.41
+        ],
+        [
+          -4.15,
+          5423.55,
+          16.27
+        ],
+        [
+          18.37,
+          5505.54,
+          17.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_123299214",
+      "osm_id": 123299214,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 341.51,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657656,
+        6167841737,
+        1375482718,
+        7379857228,
+        1375482714,
+        1375482708,
+        1375482701,
+        1375482696,
+        1375482691,
+        1375482683,
+        1375482678,
+        1375482677,
+        1375482674
+      ],
+      "coordinates_3d": [
+        [
+          -29.99,
+          5680.57,
+          8.18
+        ],
+        [
+          -17.82,
+          5668.86,
+          8.14
+        ],
+        [
+          17.17,
+          5620.24,
+          9.0
+        ],
+        [
+          22.81,
+          5603.69,
+          8.6
+        ],
+        [
+          25.2,
+          5596.68,
+          8.43
+        ],
+        [
+          28.67,
+          5575.64,
+          8.17
+        ],
+        [
+          30.31,
+          5548.2,
+          8.84
+        ],
+        [
+          29.75,
+          5522.28,
+          10.67
+        ],
+        [
+          22.67,
+          5488.17,
+          13.64
+        ],
+        [
+          5.14,
+          5421.04,
+          10.87
+        ],
+        [
+          2.38,
+          5401.25,
+          10.43
+        ],
+        [
+          2.63,
+          5377.98,
+          10.22
+        ],
+        [
+          5.56,
+          5360.61,
+          10.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895021",
+      "osm_id": 1238895021,
+      "name": "N M Joshi Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 78.02,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482674,
+        5845797343,
+        5637109060
+      ],
+      "coordinates_3d": [
+        [
+          5.56,
+          5360.61,
+          10.09
+        ],
+        [
+          15.82,
+          5327.82,
+          7.9
+        ],
+        [
+          28.75,
+          5286.12,
+          6.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853334",
+      "osm_id": 22853334,
+      "name": "Mirza Ghalib Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 592.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6574282572,
+        245657392,
+        2244632946,
+        245657363,
+        245657333,
+        245657307,
+        10883734225,
+        1379760147,
+        245657272,
+        245657232,
+        4362509370,
+        245657159,
+        11033664435,
+        10883734227,
+        10883734226
+      ],
+      "coordinates_3d": [
+        [
+          -26.53,
+          5331.81,
+          11.21
+        ],
+        [
+          -80.07,
+          5287.13,
+          14.1
+        ],
+        [
+          -103.8,
+          5267.11,
+          15.0
+        ],
+        [
+          -132.59,
+          5246.22,
+          15.3
+        ],
+        [
+          -201.99,
+          5212.99,
+          15.14
+        ],
+        [
+          -232.84,
+          5193.16,
+          14.34
+        ],
+        [
+          -247.04,
+          5182.2,
+          13.93
+        ],
+        [
+          -265.21,
+          5160.25,
+          12.91
+        ],
+        [
+          -287.98,
+          5117.26,
+          12.67
+        ],
+        [
+          -309.59,
+          5064.06,
+          13.05
+        ],
+        [
+          -321.44,
+          5033.5,
+          8.96
+        ],
+        [
+          -347.38,
+          4958.14,
+          8.52
+        ],
+        [
+          -369.7,
+          4904.41,
+          10.07
+        ],
+        [
+          -374.17,
+          4893.64,
+          10.4
+        ],
+        [
+          -381.33,
+          4892.82,
+          11.02
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_48891306",
+      "osm_id": 48891306,
+      "name": "Haines Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 179.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657418,
+        6574282575,
+        494882469,
+        245657576,
+        1375482697
+      ],
+      "coordinates_3d": [
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ],
+        [
+          -16.1,
+          5383.38,
+          9.23
+        ],
+        [
+          -8.16,
+          5432.66,
+          11.47
+        ],
+        [
+          14.31,
+          5513.19,
+          11.97
+        ],
+        [
+          23.23,
+          5523.08,
+          10.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171228004",
+      "osm_id": 1171228004,
+      "name": "Mirza Ghalib Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 601.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10883734226,
+        10883734228,
+        10883734229,
+        10883734230,
+        10883734231,
+        11043981700,
+        13472962668,
+        10883734232,
+        10883734233,
+        12080118494,
+        10883734234,
+        10883734235,
+        10883734236,
+        10883734237,
+        10883734238,
+        10883734239
+      ],
+      "coordinates_3d": [
+        [
+          -381.33,
+          4892.82,
+          11.02
+        ],
+        [
+          -382.24,
+          4899.73,
+          11.03
+        ],
+        [
+          -351.88,
+          4980.17,
+          7.26
+        ],
+        [
+          -331.47,
+          5036.91,
+          9.84
+        ],
+        [
+          -298.6,
+          5115.83,
+          11.95
+        ],
+        [
+          -283.29,
+          5145.83,
+          12.97
+        ],
+        [
+          -275.65,
+          5160.81,
+          12.4
+        ],
+        [
+          -273.81,
+          5164.4,
+          12.35
+        ],
+        [
+          -253.38,
+          5189.64,
+          13.08
+        ],
+        [
+          -243.29,
+          5197.58,
+          13.4
+        ],
+        [
+          -238.63,
+          5201.24,
+          13.64
+        ],
+        [
+          -207.73,
+          5219.88,
+          15.06
+        ],
+        [
+          -137.05,
+          5253.86,
+          15.7
+        ],
+        [
+          -106.58,
+          5276.56,
+          14.8
+        ],
+        [
+          -32.1,
+          5337.86,
+          11.07
+        ],
+        [
+          -24.12,
+          5339.65,
+          10.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171228006",
+      "osm_id": 1171228006,
+      "name": "Mirza Ghalib Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657418,
+        10883734239
+      ],
+      "coordinates_3d": [
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ],
+        [
+          -24.12,
+          5339.65,
+          10.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1238895020",
+      "osm_id": 1238895020,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 18.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1375482674,
+        245657418
+      ],
+      "coordinates_3d": [
+        [
+          5.56,
+          5360.61,
+          10.09
+        ],
+        [
+          -9.96,
+          5351.23,
+          10.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239122783",
+      "osm_id": 1239122783,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 23.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5845797344,
+        1375482674
+      ],
+      "coordinates_3d": [
+        [
+          27.7,
+          5369.48,
+          9.64
+        ],
+        [
+          5.56,
+          5360.61,
+          10.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241917374",
+      "osm_id": 1241917374,
+      "name": "Mirza Ghalib Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 8.2,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10883734239,
+        6574282572
+      ],
+      "coordinates_3d": [
+        [
+          -24.12,
+          5339.65,
+          10.82
+        ],
+        [
+          -26.53,
+          5331.81,
+          11.21
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

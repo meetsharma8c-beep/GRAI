@@ -1,0 +1,2737 @@
+{
+  "tile_id": "TILE_E-004_N+007",
+  "bounds": {
+    "min_x": -2000.0,
+    "max_x": -1500.0,
+    "min_y": 3500.0,
+    "max_y": 4000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.954386,
+    "max_lat": 18.958958,
+    "min_lon": 72.813609,
+    "max_lon": 72.818296
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 61,
+    "road_length_m": 9427.94,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22852961",
+      "osm_id": 22852961,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 72.29,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        471972442,
+        13905421973,
+        7384062496
+      ],
+      "coordinates_3d": [
+        [
+          -1714.95,
+          3720.69,
+          14.49
+        ],
+        [
+          -1699.66,
+          3758.19,
+          14.5
+        ],
+        [
+          -1687.66,
+          3787.63,
+          13.51
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853793",
+      "osm_id": 22853793,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 233.87,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4362345214,
+        2247863048,
+        11050702813,
+        11050727057,
+        245655580
+      ],
+      "coordinates_3d": [
+        [
+          -1693.84,
+          3420.32,
+          8.15
+        ],
+        [
+          -1707.96,
+          3508.94,
+          10.01
+        ],
+        [
+          -1734.38,
+          3610.06,
+          14.53
+        ],
+        [
+          -1741.78,
+          3644.78,
+          15.26
+        ],
+        [
+          -1742.89,
+          3648.75,
+          15.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853800",
+      "osm_id": 22853800,
+      "name": "Warerkar Bridge",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 40.17,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        245655689,
+        471954482
+      ],
+      "coordinates_3d": [
+        [
+          -1864.0,
+          3734.94,
+          17.3
+        ],
+        [
+          -1902.07,
+          3722.12,
+          17.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22853801",
+      "osm_id": 22853801,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 56.24,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        471954482,
+        2442510066,
+        7383810759
+      ],
+      "coordinates_3d": [
+        [
+          -1902.07,
+          3722.12,
+          11.59
+        ],
+        [
+          -1909.38,
+          3719.73,
+          12.13
+        ],
+        [
+          -1955.38,
+          3704.19,
+          16.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_47977746",
+      "osm_id": 47977746,
+      "name": "A Irani Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 188.96,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        356178487,
+        12121961990,
+        2442514347,
+        610251008,
+        13905421972,
+        245656091
+      ],
+      "coordinates_3d": [
+        [
+          -1864.7,
+          3956.22,
+          16.06
+        ],
+        [
+          -1869.7,
+          3975.33,
+          15.1
+        ],
+        [
+          -1873.73,
+          3987.17,
+          14.32
+        ],
+        [
+          -1880.96,
+          4003.35,
+          13.7
+        ],
+        [
+          -1903.73,
+          4063.0,
+          14.54
+        ],
+        [
+          -1937.45,
+          4130.14,
+          14.26
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_152322064",
+      "osm_id": 152322064,
+      "name": "Jagannath Shankarsheth Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 240.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13905428415,
+        2247863060,
+        245655594,
+        2247863062,
+        245655609,
+        2247863065,
+        245655641,
+        2247863067,
+        13904420014,
+        10885739626
+      ],
+      "coordinates_3d": [
+        [
+          -1499.11,
+          3600.09,
+          14.92
+        ],
+        [
+          -1540.68,
+          3620.2,
+          14.12
+        ],
+        [
+          -1557.95,
+          3628.99,
+          14.21
+        ],
+        [
+          -1569.59,
+          3634.82,
+          14.04
+        ],
+        [
+          -1585.17,
+          3644.35,
+          13.81
+        ],
+        [
+          -1607.48,
+          3656.98,
+          14.73
+        ],
+        [
+          -1634.13,
+          3673.05,
+          14.39
+        ],
+        [
+          -1647.59,
+          3681.08,
+          13.42
+        ],
+        [
+          -1671.15,
+          3695.2,
+          12.82
+        ],
+        [
+          -1708.96,
+          3717.17,
+          14.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236184861",
+      "osm_id": 236184861,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 52.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510070,
+        2442510071
+      ],
+      "coordinates_3d": [
+        [
+          -1868.71,
+          3745.69,
+          12.64
+        ],
+        [
+          -1819.36,
+          3762.65,
+          13.78
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236184865",
+      "osm_id": 236184865,
+      "name": "Warerkar Bridge",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 39.38,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        2442510068,
+        2442510070
+      ],
+      "coordinates_3d": [
+        [
+          -1905.95,
+          3732.88,
+          17.42
+        ],
+        [
+          -1868.71,
+          3745.69,
+          18.14
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236184868",
+      "osm_id": 236184868,
+      "name": "N Spatkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 368.48,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885746546,
+        9909489518,
+        11050534782,
+        2442510073,
+        2442510067,
+        2442510065
+      ],
+      "coordinates_3d": [
+        [
+          -2267.93,
+          3923.17,
+          14.73
+        ],
+        [
+          -2175.24,
+          3863.0,
+          10.54
+        ],
+        [
+          -2167.57,
+          3858.01,
+          10.67
+        ],
+        [
+          -2092.83,
+          3809.36,
+          11.55
+        ],
+        [
+          -1977.4,
+          3723.72,
+          17.98
+        ],
+        [
+          -1965.49,
+          3713.16,
+          17.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236186399",
+      "osm_id": 236186399,
+      "name": "Unnamed Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 78.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7383810757,
+        10669422034,
+        610244325
+      ],
+      "coordinates_3d": [
+        [
+          -1792.83,
+          3797.61,
+          13.1
+        ],
+        [
+          -1818.74,
+          3859.45,
+          12.58
+        ],
+        [
+          -1822.98,
+          3870.35,
+          12.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_236229466",
+      "osm_id": 236229466,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 83.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655728,
+        245655758
+      ],
+      "coordinates_3d": [
+        [
+          -1764.4,
+          3776.25,
+          14.77
+        ],
+        [
+          -1683.44,
+          3798.56,
+          13.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_438491420",
+      "osm_id": 438491420,
+      "name": "Mathew Road",
+      "highway": "tertiary",
+      "width_m": 3.5,
+      "width_source": "osm_lanes_inferred:1",
+      "length_m": 346.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510069,
+        4362345206,
+        7383810766,
+        7383810767,
+        11050658652,
+        4362345207,
+        4362345208,
+        4362345209,
+        4362345210,
+        11050730331,
+        11050730337
+      ],
+      "coordinates_3d": [
+        [
+          -1779.98,
+          3749.01,
+          12.82
+        ],
+        [
+          -1863.81,
+          3721.21,
+          10.19
+        ],
+        [
+          -1865.54,
+          3719.87,
+          10.05
+        ],
+        [
+          -1865.79,
+          3717.84,
+          10.01
+        ],
+        [
+          -1860.56,
+          3693.35,
+          9.47
+        ],
+        [
+          -1855.43,
+          3669.23,
+          9.93
+        ],
+        [
+          -1834.13,
+          3603.7,
+          10.87
+        ],
+        [
+          -1817.13,
+          3548.87,
+          12.34
+        ],
+        [
+          -1804.19,
+          3522.98,
+          12.03
+        ],
+        [
+          -1801.69,
+          3518.7,
+          11.61
+        ],
+        [
+          -1779.55,
+          3480.65,
+          6.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_697932956",
+      "osm_id": 697932956,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 28.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7383810757,
+        13905421971,
+        7383810756
+      ],
+      "coordinates_3d": [
+        [
+          -1792.83,
+          3797.61,
+          13.1
+        ],
+        [
+          -1787.17,
+          3791.91,
+          13.28
+        ],
+        [
+          -1778.87,
+          3772.76,
+          13.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1081145894",
+      "osm_id": 1081145894,
+      "name": "N Spatkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 13.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        471955208,
+        2442510064
+      ],
+      "coordinates_3d": [
+        [
+          -1964.08,
+          3700.83,
+          16.01
+        ],
+        [
+          -1974.29,
+          3709.38,
+          16.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264265",
+      "osm_id": 1138264265,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 14.88,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7383810756,
+        245655728
+      ],
+      "coordinates_3d": [
+        [
+          -1778.87,
+          3772.76,
+          13.66
+        ],
+        [
+          -1764.4,
+          3776.25,
+          14.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264266",
+      "osm_id": 1138264266,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.16,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7383810756,
+        6554614255
+      ],
+      "coordinates_3d": [
+        [
+          -1778.87,
+          3772.76,
+          13.66
+        ],
+        [
+          -1774.93,
+          3763.4,
+          13.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264267",
+      "osm_id": 1138264267,
+      "name": "Jagannath Shankarsheth Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 11.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614259,
+        2442510069
+      ],
+      "coordinates_3d": [
+        [
+          -1769.48,
+          3752.6,
+          13.67
+        ],
+        [
+          -1779.98,
+          3749.01,
+          12.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264270",
+      "osm_id": 1138264270,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 12.1,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614255,
+        6554614259
+      ],
+      "coordinates_3d": [
+        [
+          -1774.93,
+          3763.4,
+          13.64
+        ],
+        [
+          -1769.48,
+          3752.6,
+          13.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264271",
+      "osm_id": 1138264271,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510069,
+        245655702
+      ],
+      "coordinates_3d": [
+        [
+          -1779.98,
+          3749.01,
+          12.82
+        ],
+        [
+          -1784.41,
+          3759.68,
+          12.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264272",
+      "osm_id": 1138264272,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 63.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12558715793,
+        245655689
+      ],
+      "coordinates_3d": [
+        [
+          -1803.1,
+          3753.03,
+          12.57
+        ],
+        [
+          -1864.0,
+          3734.94,
+          11.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264273",
+      "osm_id": 1138264273,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655702,
+        2442510072
+      ],
+      "coordinates_3d": [
+        [
+          -1784.41,
+          3759.68,
+          12.87
+        ],
+        [
+          -1788.46,
+          3770.87,
+          12.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264274",
+      "osm_id": 1138264274,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510072,
+        7383810756
+      ],
+      "coordinates_3d": [
+        [
+          -1788.46,
+          3770.87,
+          12.94
+        ],
+        [
+          -1778.87,
+          3772.76,
+          13.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264275",
+      "osm_id": 1138264275,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.78,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510072,
+        13905421970,
+        7383810757
+      ],
+      "coordinates_3d": [
+        [
+          -1788.46,
+          3770.87,
+          12.94
+        ],
+        [
+          -1794.3,
+          3789.14,
+          13.2
+        ],
+        [
+          -1792.83,
+          3797.61,
+          13.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138265653",
+      "osm_id": 1138265653,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 31.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510071,
+        2442510072
+      ],
+      "coordinates_3d": [
+        [
+          -1819.36,
+          3762.65,
+          13.78
+        ],
+        [
+          -1788.46,
+          3770.87,
+          12.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138621554",
+      "osm_id": 1138621554,
+      "name": "Jagannath Shankarsheth Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 63.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        471972442,
+        12794457278,
+        7383810754,
+        7383810755,
+        245655690,
+        6554614259
+      ],
+      "coordinates_3d": [
+        [
+          -1714.95,
+          3720.69,
+          14.49
+        ],
+        [
+          -1722.2,
+          3725.08,
+          14.88
+        ],
+        [
+          -1754.67,
+          3745.32,
+          14.46
+        ],
+        [
+          -1764.0,
+          3750.77,
+          13.99
+        ],
+        [
+          -1767.54,
+          3752.32,
+          13.79
+        ],
+        [
+          -1769.48,
+          3752.6,
+          13.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138631851",
+      "osm_id": 1138631851,
+      "name": "Raja Ram Mohan Roy Road (Charni Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 162.36,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277881694,
+        2244783665,
+        705149125,
+        705149139,
+        2247863045
+      ],
+      "coordinates_3d": [
+        [
+          -1585.66,
+          3348.42,
+          12.84
+        ],
+        [
+          -1577.04,
+          3364.88,
+          12.83
+        ],
+        [
+          -1547.49,
+          3418.82,
+          12.23
+        ],
+        [
+          -1534.77,
+          3444.87,
+          11.15
+        ],
+        [
+          -1511.4,
+          3492.76,
+          10.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138632136",
+      "osm_id": 1138632136,
+      "name": "Raja Ram Mohan Roy Road (Charni Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 51.03,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2247863045,
+        705149145
+      ],
+      "coordinates_3d": [
+        [
+          -1511.4,
+          3492.76,
+          10.97
+        ],
+        [
+          -1489.42,
+          3538.81,
+          12.04
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1153977137",
+      "osm_id": 1153977137,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 62.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510065,
+        2442510068
+      ],
+      "coordinates_3d": [
+        [
+          -1965.49,
+          3713.16,
+          17.1
+        ],
+        [
+          -1905.95,
+          3732.88,
+          11.92
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1153977138",
+      "osm_id": 1153977138,
+      "name": "N Spatkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 363.55,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510064,
+        9909482310,
+        10962960258,
+        245655802,
+        245655817,
+        10885746545
+      ],
+      "coordinates_3d": [
+        [
+          -1974.29,
+          3709.38,
+          16.96
+        ],
+        [
+          -2024.78,
+          3747.34,
+          13.21
+        ],
+        [
+          -2027.22,
+          3749.16,
+          12.76
+        ],
+        [
+          -2097.52,
+          3802.0,
+          11.76
+        ],
+        [
+          -2129.59,
+          3821.75,
+          12.68
+        ],
+        [
+          -2276.04,
+          3911.43,
+          14.18
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1153977139",
+      "osm_id": 1153977139,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.33,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7383810759,
+        471955208
+      ],
+      "coordinates_3d": [
+        [
+          -1955.38,
+          3704.19,
+          16.05
+        ],
+        [
+          -1964.08,
+          3700.83,
+          16.01
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171486341",
+      "osm_id": 1171486341,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.83,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655580,
+        6554614261
+      ],
+      "coordinates_3d": [
+        [
+          -1742.89,
+          3648.75,
+          15.28
+        ],
+        [
+          -1737.47,
+          3658.13,
+          15.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1171486342",
+      "osm_id": 1171486342,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 521.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9201447745,
+        13905421977,
+        10885739633,
+        10885739632,
+        10885739631,
+        13905111288,
+        5279592373,
+        5279599068,
+        5279599554,
+        10885739630,
+        10885739629,
+        10277863433
+      ],
+      "coordinates_3d": [
+        [
+          -1572.81,
+          4324.06,
+          7.06
+        ],
+        [
+          -1579.96,
+          4299.97,
+          9.1
+        ],
+        [
+          -1595.59,
+          4221.14,
+          10.95
+        ],
+        [
+          -1602.43,
+          4170.65,
+          10.76
+        ],
+        [
+          -1604.49,
+          4133.75,
+          13.97
+        ],
+        [
+          -1602.45,
+          4108.03,
+          13.98
+        ],
+        [
+          -1600.09,
+          4078.29,
+          11.8
+        ],
+        [
+          -1598.27,
+          4041.54,
+          10.38
+        ],
+        [
+          -1597.47,
+          4031.13,
+          9.9
+        ],
+        [
+          -1602.37,
+          4008.92,
+          8.73
+        ],
+        [
+          -1626.76,
+          3941.62,
+          9.01
+        ],
+        [
+          -1669.41,
+          3818.23,
+          12.79
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243868",
+      "osm_id": 1174243868,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 11.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7384062496,
+        245655758
+      ],
+      "coordinates_3d": [
+        [
+          -1687.66,
+          3787.63,
+          13.51
+        ],
+        [
+          -1683.44,
+          3798.56,
+          13.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243871",
+      "osm_id": 1174243871,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 56.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739626,
+        13905421976,
+        10885739625,
+        10885739623
+      ],
+      "coordinates_3d": [
+        [
+          -1708.96,
+          3717.17,
+          14.2
+        ],
+        [
+          -1719.44,
+          3693.08,
+          14.14
+        ],
+        [
+          -1729.13,
+          3670.8,
+          15.24
+        ],
+        [
+          -1733.96,
+          3667.11,
+          15.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243872",
+      "osm_id": 1174243872,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739628,
+        10885739627
+      ],
+      "coordinates_3d": [
+        [
+          -1674.33,
+          3800.94,
+          13.06
+        ],
+        [
+          -1677.68,
+          3790.71,
+          13.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243875",
+      "osm_id": 1174243875,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 536.31,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655758,
+        2244783764,
+        471972441,
+        10885739636,
+        10885739635,
+        10885739637,
+        245656123,
+        13905111289,
+        245656169,
+        13821217651,
+        11050458385,
+        3743631916,
+        5279597925,
+        13905421978,
+        10885739622
+      ],
+      "coordinates_3d": [
+        [
+          -1683.44,
+          3798.56,
+          13.37
+        ],
+        [
+          -1668.45,
+          3844.27,
+          12.78
+        ],
+        [
+          -1633.22,
+          3944.22,
+          8.62
+        ],
+        [
+          -1609.39,
+          4011.41,
+          8.7
+        ],
+        [
+          -1606.44,
+          4024.44,
+          9.27
+        ],
+        [
+          -1604.47,
+          4041.11,
+          10.26
+        ],
+        [
+          -1607.12,
+          4077.73,
+          11.78
+        ],
+        [
+          -1609.02,
+          4107.69,
+          14.1
+        ],
+        [
+          -1610.91,
+          4134.65,
+          13.89
+        ],
+        [
+          -1608.48,
+          4171.4,
+          10.16
+        ],
+        [
+          -1608.36,
+          4182.97,
+          9.43
+        ],
+        [
+          -1601.23,
+          4222.24,
+          10.79
+        ],
+        [
+          -1594.58,
+          4264.94,
+          10.75
+        ],
+        [
+          -1587.04,
+          4305.13,
+          9.09
+        ],
+        [
+          -1583.43,
+          4319.29,
+          8.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573822",
+      "osm_id": 1237573822,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 17.98,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277863433,
+        10885739628
+      ],
+      "coordinates_3d": [
+        [
+          -1669.41,
+          3818.23,
+          12.79
+        ],
+        [
+          -1674.33,
+          3800.94,
+          13.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239092985",
+      "osm_id": 1239092985,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 79.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739627,
+        13905421974,
+        10885739626
+      ],
+      "coordinates_3d": [
+        [
+          -1677.68,
+          3790.71,
+          13.17
+        ],
+        [
+          -1692.77,
+          3755.25,
+          14.16
+        ],
+        [
+          -1708.96,
+          3717.17,
+          14.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239092992",
+      "osm_id": 1239092992,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 106.9,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655580,
+        2442510069
+      ],
+      "coordinates_3d": [
+        [
+          -1742.89,
+          3648.75,
+          15.28
+        ],
+        [
+          -1779.98,
+          3749.01,
+          12.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239434249",
+      "osm_id": 1239434249,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614261,
+        10885739623
+      ],
+      "coordinates_3d": [
+        [
+          -1737.47,
+          3658.13,
+          15.77
+        ],
+        [
+          -1733.96,
+          3667.11,
+          15.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239434250",
+      "osm_id": 1239434250,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 99.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614259,
+        6554614260,
+        6554614261
+      ],
+      "coordinates_3d": [
+        [
+          -1769.48,
+          3752.6,
+          13.67
+        ],
+        [
+          -1763.63,
+          3736.94,
+          13.56
+        ],
+        [
+          -1737.47,
+          3658.13,
+          15.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241391628",
+      "osm_id": 1241391628,
+      "name": "Mama Paramanand Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 241.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614261,
+        13905421969,
+        6554614262,
+        6554614263,
+        6554614256
+      ],
+      "coordinates_3d": [
+        [
+          -1737.47,
+          3658.13,
+          15.77
+        ],
+        [
+          -1726.39,
+          3612.5,
+          14.64
+        ],
+        [
+          -1701.28,
+          3511.71,
+          10.73
+        ],
+        [
+          -1686.79,
+          3431.25,
+          9.43
+        ],
+        [
+          -1685.35,
+          3422.63,
+          9.46
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1309007508",
+      "osm_id": 1309007508,
+      "name": "A Irani Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 83.04,
+      "is_bridge": true,
+      "is_tunnel": false,
+      "layer": 1,
+      "node_ids": [
+        13765830574,
+        356178487
+      ],
+      "coordinates_3d": [
+        [
+          -1828.23,
+          3881.62,
+          18.44
+        ],
+        [
+          -1864.7,
+          3956.22,
+          16.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1356900709",
+      "osm_id": 1356900709,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 19.84,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655702,
+        610908557,
+        12558715793
+      ],
+      "coordinates_3d": [
+        [
+          -1784.41,
+          3759.68,
+          12.87
+        ],
+        [
+          -1799.39,
+          3754.31,
+          12.49
+        ],
+        [
+          -1803.1,
+          3753.03,
+          12.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1381958763",
+      "osm_id": 1381958763,
+      "name": "Jagannath Shankarsheth Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 6.95,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739626,
+        471972442
+      ],
+      "coordinates_3d": [
+        [
+          -1708.96,
+          3717.17,
+          14.2
+        ],
+        [
+          -1714.95,
+          3720.69,
+          14.49
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1381958764",
+      "osm_id": 1381958764,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 51.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739623,
+        10885739624,
+        13905421975,
+        12794457279
+      ],
+      "coordinates_3d": [
+        [
+          -1733.96,
+          3667.11,
+          15.4
+        ],
+        [
+          -1734.58,
+          3674.23,
+          14.91
+        ],
+        [
+          -1725.55,
+          3695.66,
+          14.24
+        ],
+        [
+          -1717.49,
+          3714.82,
+          14.45
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1381958766",
+      "osm_id": 1381958766,
+      "name": "Dr Dadasaheb Bhadkamkar Marg",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 6.4,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12794457279,
+        471972442
+      ],
+      "coordinates_3d": [
+        [
+          -1717.49,
+          3714.82,
+          14.45
+        ],
+        [
+          -1714.95,
+          3720.69,
+          14.49
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1504312296",
+      "osm_id": 1504312296,
+      "name": "A Irani Flyover",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 12.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        610244325,
+        13765830574
+      ],
+      "coordinates_3d": [
+        [
+          -1822.98,
+          3870.35,
+          12.94
+        ],
+        [
+          -1828.23,
+          3881.62,
+          12.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1525576647",
+      "osm_id": 1525576647,
+      "name": "Jagannath Shankarsheth Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 27.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13905428415,
+        13905428416,
+        2920010928
+      ],
+      "coordinates_3d": [
+        [
+          -1499.11,
+          3600.09,
+          14.92
+        ],
+        [
+          -1491.51,
+          3601.37,
+          14.4
+        ],
+        [
+          -1472.9,
+          3593.67,
+          13.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_260799368",
+      "osm_id": 260799368,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2442510064,
+        2442510065
+      ],
+      "coordinates_3d": [
+        [
+          -1974.29,
+          3709.38,
+          16.96
+        ],
+        [
+          -1965.49,
+          3713.16,
+          17.1
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_260799369",
+      "osm_id": 260799369,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 120.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        471955208,
+        10277863427
+      ],
+      "coordinates_3d": [
+        [
+          -1964.08,
+          3700.83,
+          16.01
+        ],
+        [
+          -2078.47,
+          3662.72,
+          12.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136622918",
+      "osm_id": 1136622918,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 1883.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654525,
+        12506352385,
+        13236079124,
+        13338040638,
+        11727052525,
+        13073684413,
+        11727052526,
+        245654646,
+        245654667,
+        12121814713,
+        245654765,
+        489648861,
+        13997581450,
+        12555901905,
+        245654992,
+        489648866,
+        11762288189,
+        245655177,
+        13997581445,
+        245655227,
+        10720495864,
+        245655253,
+        245655311,
+        245655331,
+        11050748225,
+        10720459375,
+        12367371433,
+        245655408,
+        245655430,
+        245655488,
+        10720459377,
+        245655521,
+        2442510059,
+        7384417484
+      ],
+      "coordinates_3d": [
+        [
+          -984.04,
+          2173.92,
+          6.02
+        ],
+        [
+          -986.61,
+          2180.51,
+          6.17
+        ],
+        [
+          -995.23,
+          2197.91,
+          6.06
+        ],
+        [
+          -1000.23,
+          2212.7,
+          6.22
+        ],
+        [
+          -1007.89,
+          2235.38,
+          7.36
+        ],
+        [
+          -1020.19,
+          2270.85,
+          6.0
+        ],
+        [
+          -1029.93,
+          2297.01,
+          4.23
+        ],
+        [
+          -1060.99,
+          2368.22,
+          0.64
+        ],
+        [
+          -1093.72,
+          2440.64,
+          1.34
+        ],
+        [
+          -1108.26,
+          2468.35,
+          1.09
+        ],
+        [
+          -1126.65,
+          2514.03,
+          5.68
+        ],
+        [
+          -1214.47,
+          2657.48,
+          4.14
+        ],
+        [
+          -1246.79,
+          2705.91,
+          1.13
+        ],
+        [
+          -1284.48,
+          2758.47,
+          1.86
+        ],
+        [
+          -1344.87,
+          2845.92,
+          7.35
+        ],
+        [
+          -1398.85,
+          2925.61,
+          6.38
+        ],
+        [
+          -1441.93,
+          2980.22,
+          7.61
+        ],
+        [
+          -1548.91,
+          3111.18,
+          7.86
+        ],
+        [
+          -1607.25,
+          3179.94,
+          8.59
+        ],
+        [
+          -1693.26,
+          3278.8,
+          5.93
+        ],
+        [
+          -1735.61,
+          3328.69,
+          5.82
+        ],
+        [
+          -1739.07,
+          3331.73,
+          5.63
+        ],
+        [
+          -1786.72,
+          3394.36,
+          7.43
+        ],
+        [
+          -1813.43,
+          3435.42,
+          5.52
+        ],
+        [
+          -1815.61,
+          3438.25,
+          5.34
+        ],
+        [
+          -1829.01,
+          3455.58,
+          5.23
+        ],
+        [
+          -1843.58,
+          3470.17,
+          6.78
+        ],
+        [
+          -1846.94,
+          3473.53,
+          7.33
+        ],
+        [
+          -1881.17,
+          3503.41,
+          13.7
+        ],
+        [
+          -1936.09,
+          3544.39,
+          12.94
+        ],
+        [
+          -1962.61,
+          3564.12,
+          14.13
+        ],
+        [
+          -1992.43,
+          3585.16,
+          11.57
+        ],
+        [
+          -2039.84,
+          3610.56,
+          9.89
+        ],
+        [
+          -2109.01,
+          3639.98,
+          6.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138264269",
+      "osm_id": 1138264269,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6554614255,
+        245655702
+      ],
+      "coordinates_3d": [
+        [
+          -1774.93,
+          3763.4,
+          13.64
+        ],
+        [
+          -1784.41,
+          3759.68,
+          12.87
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138671683",
+      "osm_id": 1138671683,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 264.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7384002984,
+        7384062495,
+        7384062485,
+        7384062486,
+        10885739627
+      ],
+      "coordinates_3d": [
+        [
+          -1426.22,
+          3871.38,
+          10.05
+        ],
+        [
+          -1478.73,
+          3854.4,
+          10.75
+        ],
+        [
+          -1564.19,
+          3827.54,
+          9.05
+        ],
+        [
+          -1592.16,
+          3818.72,
+          9.32
+        ],
+        [
+          -1677.68,
+          3790.71,
+          13.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1138675561",
+      "osm_id": 1138675561,
+      "name": "Marine Drive",
+      "highway": "primary",
+      "width_m": 10.5,
+      "width_source": "osm_lanes_inferred:3",
+      "length_m": 1865.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277863431,
+        2442510060,
+        8625417533,
+        486415768,
+        11054528614,
+        486415777,
+        2442510057,
+        486415794,
+        11050725771,
+        3306535086,
+        486415800,
+        10720459376,
+        486415809,
+        486415814,
+        3170331369,
+        486385346,
+        10720495863,
+        486385354,
+        13997581446,
+        11762288195,
+        13697631920,
+        1236410212,
+        11024144386,
+        11024144398,
+        11024144388,
+        12389780670,
+        13997581449,
+        486385366,
+        4307040404,
+        11762288205,
+        486385374,
+        486327580,
+        486327551,
+        1127774801,
+        486390417,
+        12506352386
+      ],
+      "coordinates_3d": [
+        [
+          -2081.58,
+          3645.41,
+          9.91
+        ],
+        [
+          -2032.99,
+          3624.4,
+          10.8
+        ],
+        [
+          -2006.52,
+          3610.06,
+          10.34
+        ],
+        [
+          -1982.81,
+          3596.28,
+          12.16
+        ],
+        [
+          -1955.69,
+          3577.43,
+          14.35
+        ],
+        [
+          -1938.98,
+          3565.82,
+          14.92
+        ],
+        [
+          -1891.04,
+          3528.0,
+          14.65
+        ],
+        [
+          -1880.63,
+          3519.79,
+          14.95
+        ],
+        [
+          -1875.03,
+          3514.91,
+          14.45
+        ],
+        [
+          -1855.38,
+          3497.78,
+          11.99
+        ],
+        [
+          -1830.93,
+          3477.7,
+          6.49
+        ],
+        [
+          -1816.76,
+          3464.07,
+          5.05
+        ],
+        [
+          -1804.7,
+          3448.84,
+          5.05
+        ],
+        [
+          -1782.29,
+          3418.89,
+          6.57
+        ],
+        [
+          -1771.98,
+          3401.73,
+          7.1
+        ],
+        [
+          -1729.16,
+          3338.57,
+          5.71
+        ],
+        [
+          -1726.14,
+          3335.87,
+          5.9
+        ],
+        [
+          -1616.63,
+          3211.77,
+          8.48
+        ],
+        [
+          -1493.26,
+          3058.19,
+          6.17
+        ],
+        [
+          -1455.8,
+          3018.45,
+          6.85
+        ],
+        [
+          -1420.44,
+          2972.99,
+          8.62
+        ],
+        [
+          -1416.56,
+          2967.11,
+          7.99
+        ],
+        [
+          -1403.49,
+          2949.88,
+          7.19
+        ],
+        [
+          -1390.18,
+          2926.81,
+          7.02
+        ],
+        [
+          -1376.18,
+          2908.79,
+          6.8
+        ],
+        [
+          -1336.86,
+          2856.01,
+          7.76
+        ],
+        [
+          -1302.41,
+          2808.0,
+          9.3
+        ],
+        [
+          -1268.22,
+          2760.65,
+          1.92
+        ],
+        [
+          -1210.63,
+          2677.18,
+          4.18
+        ],
+        [
+          -1165.69,
+          2601.1,
+          2.16
+        ],
+        [
+          -1122.58,
+          2529.14,
+          6.31
+        ],
+        [
+          -1092.33,
+          2472.08,
+          1.81
+        ],
+        [
+          -1033.11,
+          2343.57,
+          2.52
+        ],
+        [
+          -1014.52,
+          2293.64,
+          6.74
+        ],
+        [
+          -978.02,
+          2203.23,
+          8.53
+        ],
+        [
+          -973.31,
+          2185.09,
+          7.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243869",
+      "osm_id": 1174243869,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 90.57,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7384062496,
+        7384062497,
+        6554614255
+      ],
+      "coordinates_3d": [
+        [
+          -1687.66,
+          3787.63,
+          13.51
+        ],
+        [
+          -1755.03,
+          3768.97,
+          14.87
+        ],
+        [
+          -1774.93,
+          3763.4,
+          13.64
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243870",
+      "osm_id": 1174243870,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.44,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739627,
+        7384062496
+      ],
+      "coordinates_3d": [
+        [
+          -1677.68,
+          3790.71,
+          13.17
+        ],
+        [
+          -1687.66,
+          3787.63,
+          13.51
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243873",
+      "osm_id": 1174243873,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 333.0,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10277863436,
+        2247863069,
+        4362345215,
+        356178506,
+        245655872,
+        11918035231,
+        7384002982,
+        13904524528,
+        13904524531
+      ],
+      "coordinates_3d": [
+        [
+          -1656.3,
+          3807.11,
+          11.89
+        ],
+        [
+          -1585.43,
+          3829.67,
+          9.05
+        ],
+        [
+          -1569.26,
+          3834.6,
+          9.05
+        ],
+        [
+          -1435.07,
+          3875.63,
+          10.05
+        ],
+        [
+          -1411.51,
+          3883.12,
+          10.05
+        ],
+        [
+          -1404.33,
+          3885.24,
+          10.41
+        ],
+        [
+          -1374.73,
+          3889.76,
+          12.43
+        ],
+        [
+          -1344.22,
+          3896.45,
+          14.51
+        ],
+        [
+          -1336.27,
+          3897.41,
+          15.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1174243874",
+      "osm_id": 1174243874,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.42,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655758,
+        10885739628
+      ],
+      "coordinates_3d": [
+        [
+          -1683.44,
+          3798.56,
+          13.37
+        ],
+        [
+          -1674.33,
+          3800.94,
+          13.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573821",
+      "osm_id": 1237573821,
+      "name": "Sardar Vallabhbhai Patel Marg (Sandhurst Road)",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 19.06,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885739628,
+        10277863436
+      ],
+      "coordinates_3d": [
+        [
+          -1674.33,
+          3800.94,
+          13.06
+        ],
+        [
+          -1656.3,
+          3807.11,
+          11.89
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1278096558",
+      "osm_id": 1278096558,
+      "name": "Sardar Vallabhbhai Patel Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 140.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6167532230,
+        2442510063,
+        2442510064
+      ],
+      "coordinates_3d": [
+        [
+          -2107.01,
+          3663.23,
+          10.74
+        ],
+        [
+          -2094.49,
+          3668.06,
+          12.08
+        ],
+        [
+          -1974.29,
+          3709.38,
+          16.96
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

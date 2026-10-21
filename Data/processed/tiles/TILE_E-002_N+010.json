@@ -1,0 +1,659 @@
+{
+  "tile_id": "TILE_E-002_N+010",
+  "bounds": {
+    "min_x": -1000.0,
+    "max_x": -500.0,
+    "min_y": 5000.0,
+    "max_y": 5500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.968045,
+    "max_lat": 18.972616,
+    "min_lon": 72.822924,
+    "max_lon": 72.827612
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 15,
+    "road_length_m": 1807.54,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22852203",
+      "osm_id": 22852203,
+      "name": "Mohmad Shahid Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 564.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6925978233,
+        4366159084,
+        2244632931,
+        245657372,
+        494863940,
+        2244784066,
+        245657412,
+        2244784087,
+        2244784093,
+        245657458,
+        14119093223,
+        2244784127,
+        2244784140,
+        245657496,
+        2244784161,
+        245657575
+      ],
+      "coordinates_3d": [
+        [
+          -816.32,
+          5010.13,
+          9.36
+        ],
+        [
+          -765.99,
+          5169.83,
+          4.38
+        ],
+        [
+          -749.4,
+          5219.14,
+          5.05
+        ],
+        [
+          -734.6,
+          5271.34,
+          5.97
+        ],
+        [
+          -724.55,
+          5302.59,
+          6.16
+        ],
+        [
+          -718.92,
+          5320.1,
+          6.05
+        ],
+        [
+          -707.48,
+          5351.87,
+          7.09
+        ],
+        [
+          -700.25,
+          5378.2,
+          8.66
+        ],
+        [
+          -693.29,
+          5399.89,
+          9.83
+        ],
+        [
+          -685.32,
+          5424.7,
+          9.15
+        ],
+        [
+          -684.01,
+          5428.79,
+          9.05
+        ],
+        [
+          -677.37,
+          5449.42,
+          8.79
+        ],
+        [
+          -670.46,
+          5470.96,
+          8.05
+        ],
+        [
+          -665.95,
+          5485.4,
+          7.43
+        ],
+        [
+          -659.18,
+          5506.02,
+          6.52
+        ],
+        [
+          -646.31,
+          5548.81,
+          7.38
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_739701631",
+      "osm_id": 739701631,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 274.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6925978242,
+        6925978241,
+        12069225874,
+        13352579033,
+        9582264367,
+        6925978240,
+        9582264374
+      ],
+      "coordinates_3d": [
+        [
+          -1222.31,
+          5091.81,
+          4.52
+        ],
+        [
+          -1097.12,
+          5078.28,
+          6.87
+        ],
+        [
+          -1092.43,
+          5077.6,
+          6.71
+        ],
+        [
+          -1036.66,
+          5069.41,
+          4.84
+        ],
+        [
+          -1014.94,
+          5066.22,
+          5.72
+        ],
+        [
+          -1008.81,
+          5065.32,
+          6.04
+        ],
+        [
+          -952.19,
+          5048.57,
+          8.71
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1137216795",
+      "osm_id": 1137216795,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 23.04,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2244784033,
+        6925978260
+      ],
+      "coordinates_3d": [
+        [
+          -926.94,
+          5031.88,
+          7.17
+        ],
+        [
+          -949.25,
+          5037.64,
+          8.16
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236032547",
+      "osm_id": 1236032547,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 196.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6925978233,
+        12639940739,
+        11041555432,
+        12429960548,
+        11041542438,
+        10580688537
+      ],
+      "coordinates_3d": [
+        [
+          -816.32,
+          5010.13,
+          9.36
+        ],
+        [
+          -759.24,
+          4994.86,
+          8.32
+        ],
+        [
+          -744.07,
+          4990.81,
+          7.64
+        ],
+        [
+          -730.2,
+          4987.11,
+          6.77
+        ],
+        [
+          -676.81,
+          4972.83,
+          4.26
+        ],
+        [
+          -626.76,
+          4959.46,
+          6.11
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236032562",
+      "osm_id": 1236032562,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 197.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245657095,
+        13720196520,
+        13720196523,
+        245657105,
+        245656677
+      ],
+      "coordinates_3d": [
+        [
+          -630.03,
+          4949.22,
+          6.15
+        ],
+        [
+          -654.86,
+          4956.09,
+          4.95
+        ],
+        [
+          -702.08,
+          4969.29,
+          4.43
+        ],
+        [
+          -760.53,
+          4985.62,
+          8.45
+        ],
+        [
+          -820.22,
+          5001.44,
+          9.34
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1236034231",
+      "osm_id": 1236034231,
+      "name": "Unnamed Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 9.38,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7411177814,
+        11475989646
+      ],
+      "coordinates_3d": [
+        [
+          -886.21,
+          5029.93,
+          8.0
+        ],
+        [
+          -889.21,
+          5021.04,
+          7.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239127973",
+      "osm_id": 1239127973,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 72.64,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7411177814,
+        6925978237,
+        6925978233
+      ],
+      "coordinates_3d": [
+        [
+          -886.21,
+          5029.93,
+          8.0
+        ],
+        [
+          -848.54,
+          5019.38,
+          7.84
+        ],
+        [
+          -816.32,
+          5010.13,
+          9.36
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1239127974",
+      "osm_id": 1239127974,
+      "name": "Mohmad Shahid Marg (Morland Road)",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 9.53,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656677,
+        6925978233
+      ],
+      "coordinates_3d": [
+        [
+          -820.22,
+          5001.44,
+          9.34
+        ],
+        [
+          -816.32,
+          5010.13,
+          9.36
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1248814264",
+      "osm_id": 1248814264,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 71.72,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656677,
+        2244784030,
+        11475989646
+      ],
+      "coordinates_3d": [
+        [
+          -820.22,
+          5001.44,
+          9.34
+        ],
+        [
+          -842.17,
+          5007.51,
+          7.93
+        ],
+        [
+          -889.21,
+          5021.04,
+          7.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885001",
+      "osm_id": 1517885001,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 10.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11041556373,
+        7411177814
+      ],
+      "coordinates_3d": [
+        [
+          -896.63,
+          5033.19,
+          8.37
+        ],
+        [
+          -886.21,
+          5029.93,
+          8.0
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885002",
+      "osm_id": 1517885002,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11475989646,
+        13854935292
+      ],
+      "coordinates_3d": [
+        [
+          -889.21,
+          5021.04,
+          7.21
+        ],
+        [
+          -897.57,
+          5023.44,
+          7.35
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885003",
+      "osm_id": 1517885003,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 30.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13854935292,
+        2244784033
+      ],
+      "coordinates_3d": [
+        [
+          -897.57,
+          5023.44,
+          7.35
+        ],
+        [
+          -926.94,
+          5031.88,
+          7.17
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885004",
+      "osm_id": 1517885004,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 28.07,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6925978238,
+        11041556373
+      ],
+      "coordinates_3d": [
+        [
+          -923.42,
+          5041.58,
+          8.55
+        ],
+        [
+          -896.63,
+          5033.19,
+          8.37
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885005",
+      "osm_id": 1517885005,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 280.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6925978260,
+        13352585668,
+        3591974015,
+        245657146,
+        4294951462
+      ],
+      "coordinates_3d": [
+        [
+          -949.25,
+          5037.64,
+          8.16
+        ],
+        [
+          -1011.53,
+          5052.56,
+          7.13
+        ],
+        [
+          -1039.37,
+          5059.22,
+          5.49
+        ],
+        [
+          -1094.56,
+          5067.76,
+          6.78
+        ],
+        [
+          -1225.83,
+          5083.66,
+          5.13
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517885006",
+      "osm_id": 1517885006,
+      "name": "J Boman Behram Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 29.61,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        9582264374,
+        6925978239,
+        6925978238
+      ],
+      "coordinates_3d": [
+        [
+          -952.19,
+          5048.57,
+          8.71
+        ],
+        [
+          -949.04,
+          5047.64,
+          8.73
+        ],
+        [
+          -923.42,
+          5041.58,
+          8.55
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

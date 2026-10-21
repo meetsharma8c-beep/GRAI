@@ -1,0 +1,591 @@
+{
+  "tile_id": "TILE_E+002_N+007",
+  "bounds": {
+    "min_x": 1000.0,
+    "max_x": 1500.0,
+    "min_y": 3500.0,
+    "max_y": 4000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.95472,
+    "max_lat": 18.959291,
+    "min_lon": 72.842084,
+    "max_lon": 72.846772
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 11,
+    "road_length_m": 3545.51,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_55784549",
+      "osm_id": 55784549,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 487.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        700736527,
+        11068221212,
+        700736511,
+        700736536,
+        700736521,
+        700736541,
+        700736523,
+        700736550,
+        700736532,
+        700736515,
+        700736512,
+        245656132
+      ],
+      "coordinates_3d": [
+        [
+          1775.09,
+          3773.07,
+          1.05
+        ],
+        [
+          1770.53,
+          3776.92,
+          1.05
+        ],
+        [
+          1762.94,
+          3783.7,
+          1.05
+        ],
+        [
+          1620.98,
+          3840.84,
+          3.8
+        ],
+        [
+          1590.74,
+          3843.82,
+          4.61
+        ],
+        [
+          1539.99,
+          3857.97,
+          2.7
+        ],
+        [
+          1514.29,
+          3873.55,
+          2.79
+        ],
+        [
+          1455.21,
+          3888.24,
+          3.97
+        ],
+        [
+          1439.95,
+          3896.27,
+          4.66
+        ],
+        [
+          1430.05,
+          3912.54,
+          5.01
+        ],
+        [
+          1429.69,
+          3990.43,
+          6.19
+        ],
+        [
+          1433.36,
+          4019.96,
+          6.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237545825",
+      "osm_id": 1237545825,
+      "name": "Unnamed Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 480.97,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245656132,
+        700736551,
+        700736526,
+        700736543,
+        700736514,
+        700736531,
+        700736549,
+        700736535,
+        700736533,
+        11068221213
+      ],
+      "coordinates_3d": [
+        [
+          1433.36,
+          4019.96,
+          6.91
+        ],
+        [
+          1440.21,
+          3988.98,
+          5.46
+        ],
+        [
+          1439.73,
+          3914.82,
+          4.46
+        ],
+        [
+          1447.92,
+          3902.07,
+          4.25
+        ],
+        [
+          1459.71,
+          3896.69,
+          3.98
+        ],
+        [
+          1518.79,
+          3882.88,
+          3.32
+        ],
+        [
+          1546.26,
+          3868.15,
+          3.05
+        ],
+        [
+          1621.52,
+          3849.12,
+          3.47
+        ],
+        [
+          1782.26,
+          3784.34,
+          1.05
+        ],
+        [
+          1785.53,
+          3781.72,
+          1.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261153",
+      "osm_id": 647261153,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 968.58,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176215934,
+        2176144744,
+        245654959,
+        2176144781,
+        13994864631,
+        11135786307,
+        2176144785,
+        2176144787,
+        2176144797,
+        2176144800,
+        2176144803,
+        2176144825,
+        2176144826,
+        2176144827,
+        2176144828,
+        2176144829,
+        2176144830
+      ],
+      "coordinates_3d": [
+        [
+          819.76,
+          2846.61,
+          5.05
+        ],
+        [
+          827.29,
+          2876.78,
+          6.37
+        ],
+        [
+          852.66,
+          2977.9,
+          10.32
+        ],
+        [
+          869.43,
+          3042.43,
+          7.75
+        ],
+        [
+          884.3,
+          3105.35,
+          6.02
+        ],
+        [
+          885.47,
+          3110.29,
+          5.98
+        ],
+        [
+          900.71,
+          3171.48,
+          5.78
+        ],
+        [
+          915.29,
+          3229.97,
+          4.38
+        ],
+        [
+          931.44,
+          3294.75,
+          4.58
+        ],
+        [
+          947.32,
+          3358.47,
+          4.29
+        ],
+        [
+          959.8,
+          3408.61,
+          5.06
+        ],
+        [
+          977.24,
+          3478.59,
+          7.05
+        ],
+        [
+          991.91,
+          3537.45,
+          6.63
+        ],
+        [
+          1007.83,
+          3601.36,
+          3.84
+        ],
+        [
+          1023.1,
+          3662.6,
+          5.63
+        ],
+        [
+          1036.56,
+          3716.66,
+          8.39
+        ],
+        [
+          1053.3,
+          3786.6,
+          6.31
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261155",
+      "osm_id": 647261155,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 959.85,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12797244674,
+        10720897942,
+        2244632844,
+        2176144805,
+        2176144788,
+        2244632810,
+        2244632789,
+        2244632764,
+        2176144748
+      ],
+      "coordinates_3d": [
+        [
+          1063.96,
+          3775.24,
+          5.97
+        ],
+        [
+          1056.29,
+          3741.64,
+          8.48
+        ],
+        [
+          1050.23,
+          3717.52,
+          9.03
+        ],
+        [
+          989.29,
+          3475.14,
+          6.9
+        ],
+        [
+          943.33,
+          3292.32,
+          4.32
+        ],
+        [
+          939.99,
+          3279.03,
+          4.41
+        ],
+        [
+          908.16,
+          3152.43,
+          6.05
+        ],
+        [
+          838.2,
+          2874.13,
+          6.68
+        ],
+        [
+          830.48,
+          2844.23,
+          5.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237545821",
+      "osm_id": 1237545821,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 269.14,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144837,
+        245656245
+      ],
+      "coordinates_3d": [
+        [
+          1066.88,
+          3835.83,
+          4.43
+        ],
+        [
+          1129.59,
+          4097.56,
+          5.77
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573819",
+      "osm_id": 1237573819,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 43.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885845682,
+        2176144837
+      ],
+      "coordinates_3d": [
+        [
+          1055.34,
+          3793.98,
+          5.94
+        ],
+        [
+          1066.88,
+          3835.83,
+          4.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573832",
+      "osm_id": 1237573832,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 51.17,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        5330552414,
+        10885845683
+      ],
+      "coordinates_3d": [
+        [
+          1080.92,
+          3839.63,
+          4.05
+        ],
+        [
+          1067.67,
+          3790.21,
+          5.21
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1237573833",
+      "osm_id": 1237573833,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 262.19,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144839,
+        5330552414
+      ],
+      "coordinates_3d": [
+        [
+          1142.71,
+          4094.43,
+          6.43
+        ],
+        [
+          1080.92,
+          3839.63,
+          4.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1382227754",
+      "osm_id": 1382227754,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.41,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10885845683,
+        245655908
+      ],
+      "coordinates_3d": [
+        [
+          1067.67,
+          3790.21,
+          5.21
+        ],
+        [
+          1065.75,
+          3783.05,
+          5.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1382227755",
+      "osm_id": 1382227755,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 8.01,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245655908,
+        12797244674
+      ],
+      "coordinates_3d": [
+        [
+          1065.75,
+          3783.05,
+          5.57
+        ],
+        [
+          1063.96,
+          3775.24,
+          5.97
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1382227757",
+      "osm_id": 1382227757,
+      "name": "P D' Mello Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.66,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2176144830,
+        10885845682
+      ],
+      "coordinates_3d": [
+        [
+          1053.3,
+          3786.6,
+          6.31
+        ],
+        [
+          1055.34,
+          3793.98,
+          5.94
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

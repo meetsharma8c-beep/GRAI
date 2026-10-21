@@ -1,0 +1,185 @@
+{
+  "tile_id": "TILE_E-005_N-004",
+  "bounds": {
+    "min_x": -2500.0,
+    "max_x": -2000.0,
+    "min_y": -2000.0,
+    "max_y": -1500.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.904659,
+    "max_lat": 18.909231,
+    "min_lon": 72.809511,
+    "max_lon": 72.814196
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 3,
+    "road_length_m": 1063.26,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_38751080",
+      "osm_id": 38751080,
+      "name": "Dr Homi Bhaba Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 348.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        4307040282,
+        459482334,
+        1934089145,
+        2241842235,
+        459482557,
+        1934089147
+      ],
+      "coordinates_3d": [
+        [
+          -1954.8,
+          -1780.22,
+          9.28
+        ],
+        [
+          -1978.32,
+          -1771.41,
+          10.05
+        ],
+        [
+          -2039.79,
+          -1763.47,
+          9.65
+        ],
+        [
+          -2166.88,
+          -1750.53,
+          10.52
+        ],
+        [
+          -2267.09,
+          -1739.46,
+          8.39
+        ],
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1244585202",
+      "osm_id": 1244585202,
+      "name": "Dr Homi Bhaba Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 329.26,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1934089147,
+        459482358,
+        4307040294,
+        459482388,
+        4307040295,
+        459482553
+      ],
+      "coordinates_3d": [
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ],
+        [
+          -2464.97,
+          -1717.34,
+          9.4
+        ],
+        [
+          -2545.55,
+          -1705.17,
+          8.86
+        ],
+        [
+          -2564.28,
+          -1702.34,
+          9.12
+        ],
+        [
+          -2580.87,
+          -1699.97,
+          9.7
+        ],
+        [
+          -2626.64,
+          -1693.7,
+          10.43
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_423753820",
+      "osm_id": 423753820,
+      "name": "Unnamed Road",
+      "highway": "residential",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:residential",
+      "length_m": 385.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1278343362,
+        459482368,
+        8609876358,
+        1934089148,
+        1934089147
+      ],
+      "coordinates_3d": [
+        [
+          -2075.95,
+          -1424.01,
+          3.53
+        ],
+        [
+          -2105.82,
+          -1466.85,
+          4.45
+        ],
+        [
+          -2180.66,
+          -1591.16,
+          11.1
+        ],
+        [
+          -2210.4,
+          -1634.11,
+          11.62
+        ],
+        [
+          -2300.12,
+          -1735.68,
+          9.57
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

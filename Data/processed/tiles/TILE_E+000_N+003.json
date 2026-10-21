@@ -1,0 +1,2079 @@
+{
+  "tile_id": "TILE_E+000_N+003",
+  "bounds": {
+    "min_x": 0.0,
+    "max_x": 500.0,
+    "min_y": 1500.0,
+    "max_y": 2000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.936547,
+    "max_lat": 18.941118,
+    "min_lon": 72.832825,
+    "max_lon": 72.837512
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 47,
+    "road_length_m": 5433.46,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22845584",
+      "osm_id": 22845584,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 113.22,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163503480,
+        13509238783,
+        2163503473,
+        2163503472,
+        2163503470,
+        6078180260
+      ],
+      "coordinates_3d": [
+        [
+          203.41,
+          1737.46,
+          11.4
+        ],
+        [
+          215.29,
+          1727.85,
+          11.06
+        ],
+        [
+          228.59,
+          1717.08,
+          11.3
+        ],
+        [
+          241.11,
+          1708.65,
+          11.92
+        ],
+        [
+          256.09,
+          1708.07,
+          12.45
+        ],
+        [
+          306.22,
+          1715.95,
+          10.24
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206344111",
+      "osm_id": 206344111,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 99.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654379,
+        245654378,
+        2163503468,
+        245654376
+      ],
+      "coordinates_3d": [
+        [
+          337.77,
+          1711.39,
+          10.94
+        ],
+        [
+          307.74,
+          1706.04,
+          11.04
+        ],
+        [
+          257.11,
+          1698.09,
+          12.81
+        ],
+        [
+          239.53,
+          1698.53,
+          12.2
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206347084",
+      "osm_id": 206347084,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 9.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539024,
+        245654381
+      ],
+      "coordinates_3d": [
+        [
+          437.83,
+          1710.68,
+          18.91
+        ],
+        [
+          440.39,
+          1701.94,
+          18.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133450",
+      "osm_id": 647133450,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 419.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643093973,
+        6078180220,
+        13095803556
+      ],
+      "coordinates_3d": [
+        [
+          185.31,
+          2291.34,
+          11.85
+        ],
+        [
+          220.15,
+          1918.38,
+          14.2
+        ],
+        [
+          221.88,
+          1873.85,
+          13.61
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133473",
+      "osm_id": 647133473,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 164.47,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13700651181,
+        10282056982,
+        2163544990,
+        2163544989,
+        2163544988,
+        2163544987,
+        2163544986,
+        13700651182
+      ],
+      "coordinates_3d": [
+        [
+          443.34,
+          1675.16,
+          16.68
+        ],
+        [
+          442.35,
+          1663.59,
+          15.91
+        ],
+        [
+          440.54,
+          1642.23,
+          14.49
+        ],
+        [
+          438.09,
+          1608.63,
+          11.73
+        ],
+        [
+          436.23,
+          1583.41,
+          10.46
+        ],
+        [
+          435.11,
+          1569.79,
+          10.05
+        ],
+        [
+          437.59,
+          1516.75,
+          11.02
+        ],
+        [
+          437.51,
+          1511.07,
+          11.04
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133476",
+      "osm_id": 647133476,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 423.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084177,
+        1643160180,
+        13698397963,
+        13508235967,
+        588669469,
+        245654474,
+        13961689177,
+        628655131
+      ],
+      "coordinates_3d": [
+        [
+          211.14,
+          1868.64,
+          11.67
+        ],
+        [
+          209.1,
+          1917.51,
+          13.37
+        ],
+        [
+          208.21,
+          1927.28,
+          13.19
+        ],
+        [
+          204.28,
+          1970.81,
+          14.05
+        ],
+        [
+          201.32,
+          2003.62,
+          18.44
+        ],
+        [
+          191.62,
+          2111.1,
+          20.35
+        ],
+        [
+          185.85,
+          2174.99,
+          14.19
+        ],
+        [
+          175.43,
+          2290.42,
+          13.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1169867090",
+      "osm_id": 1169867090,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 10.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        10877637591,
+        6078180283
+      ],
+      "coordinates_3d": [
+        [
+          222.45,
+          1859.18,
+          12.66
+        ],
+        [
+          222.82,
+          1848.33,
+          11.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466409",
+      "osm_id": 1235466409,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 114.11,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180283,
+        6078180277,
+        6078180278,
+        13509238776,
+        2163503480
+      ],
+      "coordinates_3d": [
+        [
+          222.82,
+          1848.33,
+          11.91
+        ],
+        [
+          224.04,
+          1836.79,
+          10.76
+        ],
+        [
+          222.83,
+          1795.66,
+          8.73
+        ],
+        [
+          209.22,
+          1754.87,
+          11.59
+        ],
+        [
+          203.41,
+          1737.46,
+          11.4
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235466422",
+      "osm_id": 1235466422,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 114.27,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654386,
+        13509238775,
+        2166873264,
+        12447084178,
+        12447084183,
+        6078180279,
+        13509244009,
+        6078180284
+      ],
+      "coordinates_3d": [
+        [
+          193.02,
+          1736.81,
+          12.06
+        ],
+        [
+          199.63,
+          1757.84,
+          12.22
+        ],
+        [
+          211.7,
+          1796.22,
+          9.49
+        ],
+        [
+          211.78,
+          1799.65,
+          9.49
+        ],
+        [
+          211.84,
+          1802.34,
+          9.49
+        ],
+        [
+          212.6,
+          1834.53,
+          10.24
+        ],
+        [
+          212.46,
+          1837.67,
+          10.38
+        ],
+        [
+          212.0,
+          1848.19,
+          10.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765605",
+      "osm_id": 1240765605,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 58.37,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539023,
+        245654380,
+        245654379
+      ],
+      "coordinates_3d": [
+        [
+          395.14,
+          1711.67,
+          18.0
+        ],
+        [
+          372.54,
+          1716.83,
+          14.41
+        ],
+        [
+          337.77,
+          1711.39,
+          10.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765613",
+      "osm_id": 1240765613,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 68.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163503477,
+        2163539022,
+        2163539024
+      ],
+      "coordinates_3d": [
+        [
+          371.47,
+          1726.2,
+          13.84
+        ],
+        [
+          427.51,
+          1713.24,
+          19.25
+        ],
+        [
+          437.83,
+          1710.68,
+          18.91
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241025363",
+      "osm_id": 1241025363,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 66.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180260,
+        2163503474,
+        2163503475,
+        2163503477
+      ],
+      "coordinates_3d": [
+        [
+          306.22,
+          1715.95,
+          10.24
+        ],
+        [
+          329.89,
+          1718.8,
+          9.96
+        ],
+        [
+          341.08,
+          1721.3,
+          10.08
+        ],
+        [
+          371.47,
+          1726.2,
+          13.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241295274",
+      "osm_id": 1241295274,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 60.56,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654376,
+        2163503471,
+        13509238782,
+        1643105886,
+        245654386
+      ],
+      "coordinates_3d": [
+        [
+          239.53,
+          1698.53,
+          12.2
+        ],
+        [
+          221.17,
+          1710.55,
+          11.37
+        ],
+        [
+          209.79,
+          1720.14,
+          11.1
+        ],
+        [
+          200.18,
+          1728.25,
+          11.29
+        ],
+        [
+          193.02,
+          1736.81,
+          12.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1345444841",
+      "osm_id": 1345444841,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 11.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180284,
+        12447084172
+      ],
+      "coordinates_3d": [
+        [
+          212.0,
+          1848.19,
+          10.82
+        ],
+        [
+          211.53,
+          1859.31,
+          11.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1374016340",
+      "osm_id": 1374016340,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 9.34,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084172,
+        12447084177
+      ],
+      "coordinates_3d": [
+        [
+          211.53,
+          1859.31,
+          11.29
+        ],
+        [
+          211.14,
+          1868.64,
+          11.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400710",
+      "osm_id": 1495400710,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 150.76,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13700651182,
+        13700651179,
+        2163539015,
+        2163539014,
+        2163544984,
+        2163544983
+      ],
+      "coordinates_3d": [
+        [
+          437.51,
+          1511.07,
+          11.04
+        ],
+        [
+          440.29,
+          1502.33,
+          11.05
+        ],
+        [
+          444.82,
+          1422.44,
+          10.74
+        ],
+        [
+          446.31,
+          1413.11,
+          10.56
+        ],
+        [
+          450.86,
+          1379.44,
+          9.67
+        ],
+        [
+          460.99,
+          1364.38,
+          9.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400711",
+      "osm_id": 1495400711,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 161.39,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539009,
+        245654232,
+        2177642337,
+        666042478,
+        13700651180,
+        13700651182
+      ],
+      "coordinates_3d": [
+        [
+          442.32,
+          1351.0,
+          8.95
+        ],
+        [
+          440.39,
+          1358.55,
+          9.26
+        ],
+        [
+          437.96,
+          1378.71,
+          10.35
+        ],
+        [
+          437.13,
+          1407.88,
+          10.87
+        ],
+        [
+          433.83,
+          1503.68,
+          11.07
+        ],
+        [
+          437.51,
+          1511.07,
+          11.04
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1495400713",
+      "osm_id": 1495400713,
+      "name": "Mint Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.23,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654381,
+        2163544993,
+        13700651181
+      ],
+      "coordinates_3d": [
+        [
+          440.39,
+          1701.94,
+          18.56
+        ],
+        [
+          443.83,
+          1688.72,
+          17.73
+        ],
+        [
+          443.34,
+          1675.16,
+          16.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1545333291",
+      "osm_id": 1545333291,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 6.18,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13982160265,
+        10877637591
+      ],
+      "coordinates_3d": [
+        [
+          222.21,
+          1865.36,
+          13.07
+        ],
+        [
+          222.45,
+          1859.18,
+          12.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133449",
+      "osm_id": 647133449,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 189.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        1643105879,
+        7816847135,
+        1643105867,
+        7816847136,
+        1643105866
+      ],
+      "coordinates_3d": [
+        [
+          170.41,
+          1663.18,
+          18.28
+        ],
+        [
+          153.19,
+          1612.41,
+          20.44
+        ],
+        [
+          141.85,
+          1579.02,
+          19.25
+        ],
+        [
+          131.22,
+          1548.34,
+          20.22
+        ],
+        [
+          110.14,
+          1483.34,
+          20.06
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133451",
+      "osm_id": 647133451,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 377.45,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        485963363,
+        245654509,
+        13703003229,
+        11953569097,
+        4361337172,
+        11953569096,
+        11031780439
+      ],
+      "coordinates_3d": [
+        [
+          -271.39,
+          2223.68,
+          10.64
+        ],
+        [
+          -210.21,
+          2177.82,
+          15.45
+        ],
+        [
+          -159.74,
+          2139.98,
+          15.72
+        ],
+        [
+          -129.87,
+          2117.59,
+          13.91
+        ],
+        [
+          -33.61,
+          2045.42,
+          14.95
+        ],
+        [
+          13.42,
+          2010.18,
+          15.71
+        ],
+        [
+          30.62,
+          1997.28,
+          15.8
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133477",
+      "osm_id": 647133477,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 595.49,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084174,
+        12447084175,
+        12447084173,
+        10845362181,
+        4063477437,
+        10845362182,
+        2175054066,
+        7350321053,
+        11953569100,
+        11953569095,
+        11953569094,
+        10845362188,
+        10845362191,
+        11953569098,
+        6078180496,
+        6078180222
+      ],
+      "coordinates_3d": [
+        [
+          195.87,
+          1853.44,
+          10.68
+        ],
+        [
+          191.16,
+          1855.48,
+          10.97
+        ],
+        [
+          187.43,
+          1857.96,
+          11.16
+        ],
+        [
+          183.22,
+          1861.9,
+          11.31
+        ],
+        [
+          160.43,
+          1883.15,
+          11.65
+        ],
+        [
+          146.04,
+          1896.14,
+          12.56
+        ],
+        [
+          120.46,
+          1921.2,
+          13.4
+        ],
+        [
+          93.56,
+          1942.65,
+          11.59
+        ],
+        [
+          67.8,
+          1961.14,
+          11.82
+        ],
+        [
+          6.86,
+          2002.35,
+          13.27
+        ],
+        [
+          -38.53,
+          2039.78,
+          14.1
+        ],
+        [
+          -73.6,
+          2067.31,
+          11.85
+        ],
+        [
+          -101.83,
+          2088.81,
+          14.29
+        ],
+        [
+          -134.12,
+          2111.99,
+          13.77
+        ],
+        [
+          -214.41,
+          2172.3,
+          15.08
+        ],
+        [
+          -274.56,
+          2217.11,
+          10.42
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133482",
+      "osm_id": 647133482,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180283,
+        2440098104,
+        6078180284
+      ],
+      "coordinates_3d": [
+        [
+          222.82,
+          1848.33,
+          11.91
+        ],
+        [
+          216.96,
+          1848.11,
+          11.3
+        ],
+        [
+          212.0,
+          1848.19,
+          10.82
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1136669849",
+      "osm_id": 1136669849,
+      "name": "Oxford Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 655.54,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654283,
+        9911678745,
+        245654290,
+        245654319,
+        245654360,
+        245654395,
+        7350550541,
+        2175054044,
+        4063477436,
+        10282056990,
+        12447084174
+      ],
+      "coordinates_3d": [
+        [
+          -207.79,
+          1373.92,
+          7.9
+        ],
+        [
+          -192.79,
+          1408.47,
+          9.69
+        ],
+        [
+          -165.51,
+          1471.35,
+          11.01
+        ],
+        [
+          -127.42,
+          1559.1,
+          10.38
+        ],
+        [
+          -68.02,
+          1687.98,
+          12.17
+        ],
+        [
+          -60.02,
+          1695.68,
+          13.14
+        ],
+        [
+          100.55,
+          1794.41,
+          12.68
+        ],
+        [
+          155.02,
+          1828.19,
+          13.42
+        ],
+        [
+          172.15,
+          1838.44,
+          12.5
+        ],
+        [
+          191.53,
+          1849.94,
+          10.92
+        ],
+        [
+          195.87,
+          1853.44,
+          10.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1188016372",
+      "osm_id": 1188016372,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 220.65,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        11031780439,
+        11953569099,
+        588669452,
+        13698397962,
+        245654440,
+        10845362180,
+        12447084176
+      ],
+      "coordinates_3d": [
+        [
+          30.62,
+          1997.28,
+          15.8
+        ],
+        [
+          71.91,
+          1967.73,
+          12.78
+        ],
+        [
+          97.96,
+          1949.08,
+          12.53
+        ],
+        [
+          161.75,
+          1902.28,
+          12.23
+        ],
+        [
+          171.02,
+          1895.48,
+          11.7
+        ],
+        [
+          199.45,
+          1868.95,
+          10.81
+        ],
+        [
+          205.97,
+          1863.75,
+          10.75
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1241295273",
+      "osm_id": 1241295273,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 81.32,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163503480,
+        1643105886,
+        13509238779,
+        1643105879
+      ],
+      "coordinates_3d": [
+        [
+          203.41,
+          1737.46,
+          11.4
+        ],
+        [
+          200.18,
+          1728.25,
+          11.29
+        ],
+        [
+          195.25,
+          1717.49,
+          11.55
+        ],
+        [
+          170.41,
+          1663.18,
+          18.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732083",
+      "osm_id": 1424732083,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.92,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084172,
+        10877637591
+      ],
+      "coordinates_3d": [
+        [
+          211.53,
+          1859.31,
+          11.29
+        ],
+        [
+          222.45,
+          1859.18,
+          12.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732084",
+      "osm_id": 1424732084,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 7.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084176,
+        12447084172
+      ],
+      "coordinates_3d": [
+        [
+          205.97,
+          1863.75,
+          10.75
+        ],
+        [
+          211.53,
+          1859.31,
+          11.29
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732085",
+      "osm_id": 1424732085,
+      "name": "Oxford Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 7.12,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084176,
+        12447084177
+      ],
+      "coordinates_3d": [
+        [
+          205.97,
+          1863.75,
+          10.75
+        ],
+        [
+          211.14,
+          1868.64,
+          11.67
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732087",
+      "osm_id": 1424732087,
+      "name": "Corporation Street",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 16.96,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180284,
+        12447084174
+      ],
+      "coordinates_3d": [
+        [
+          212.0,
+          1848.19,
+          10.82
+        ],
+        [
+          195.87,
+          1853.44,
+          10.68
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732088",
+      "osm_id": 1424732088,
+      "name": "Oxford Road",
+      "highway": "primary",
+      "width_m": 7.0,
+      "width_source": "osm_lanes_inferred:2",
+      "length_m": 14.43,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        12447084174,
+        12447084176
+      ],
+      "coordinates_3d": [
+        [
+          195.87,
+          1853.44,
+          10.68
+        ],
+        [
+          205.97,
+          1863.75,
+          10.75
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22845583",
+      "osm_id": 22845583,
+      "name": "Walchand Hirachand Road (Fort Street)",
+      "highway": "primary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:primary_link",
+      "length_m": 77.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654376,
+        1234802625,
+        13509238780,
+        1643105879
+      ],
+      "coordinates_3d": [
+        [
+          239.53,
+          1698.53,
+          12.2
+        ],
+        [
+          187.46,
+          1673.5,
+          16.7
+        ],
+        [
+          183.52,
+          1671.11,
+          17.17
+        ],
+        [
+          170.41,
+          1663.18,
+          18.28
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_42943115",
+      "osm_id": 42943115,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 63.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13700725452,
+        6078180252,
+        13700725455,
+        2163503483,
+        6078180264
+      ],
+      "coordinates_3d": [
+        [
+          343.09,
+          1807.1,
+          15.05
+        ],
+        [
+          336.39,
+          1800.89,
+          14.45
+        ],
+        [
+          333.65,
+          1792.68,
+          13.47
+        ],
+        [
+          329.7,
+          1766.76,
+          11.05
+        ],
+        [
+          334.63,
+          1747.78,
+          9.93
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_206347085",
+      "osm_id": 206347085,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 167.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539013,
+        13700651178,
+        2163539016,
+        13700728419,
+        2163539017
+      ],
+      "coordinates_3d": [
+        [
+          476.47,
+          1404.59,
+          9.88
+        ],
+        [
+          472.41,
+          1417.57,
+          10.13
+        ],
+        [
+          492.28,
+          1502.31,
+          11.21
+        ],
+        [
+          501.36,
+          1538.71,
+          11.04
+        ],
+        [
+          508.64,
+          1567.58,
+          11.09
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133453",
+      "osm_id": 647133453,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.45,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163503475,
+        245654379
+      ],
+      "coordinates_3d": [
+        [
+          341.08,
+          1721.3,
+          10.08
+        ],
+        [
+          337.77,
+          1711.39,
+          10.94
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133471",
+      "osm_id": 647133471,
+      "name": "Unnamed Road",
+      "highway": "primary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:primary_link",
+      "length_m": 33.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180260,
+        6078180261,
+        6078180262,
+        6078180263
+      ],
+      "coordinates_3d": [
+        [
+          306.22,
+          1715.95,
+          10.24
+        ],
+        [
+          316.51,
+          1727.16,
+          9.25
+        ],
+        [
+          319.95,
+          1731.11,
+          9.27
+        ],
+        [
+          324.17,
+          1743.67,
+          9.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647133472",
+      "osm_id": 647133472,
+      "name": "Unnamed Road",
+      "highway": "primary_link",
+      "width_m": 6.5,
+      "width_source": "default_highway_type:primary_link",
+      "length_m": 42.7,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180264,
+        2163503477
+      ],
+      "coordinates_3d": [
+        [
+          334.63,
+          1747.78,
+          9.93
+        ],
+        [
+          371.47,
+          1726.2,
+          13.84
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_647261150",
+      "osm_id": 647261150,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 165.59,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654338,
+        245654291,
+        245654261,
+        6079346474,
+        2163539013
+      ],
+      "coordinates_3d": [
+        [
+          518.11,
+          1564.17,
+          11.65
+        ],
+        [
+          501.95,
+          1499.72,
+          11.46
+        ],
+        [
+          488.75,
+          1437.62,
+          10.79
+        ],
+        [
+          483.44,
+          1415.82,
+          10.07
+        ],
+        [
+          476.47,
+          1404.59,
+          9.88
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_872161395",
+      "osm_id": 872161395,
+      "name": "CSMT Bus Station Road",
+      "highway": "service",
+      "width_m": 4.5,
+      "width_source": "default_highway_type:service",
+      "length_m": 136.86,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        8123318471,
+        8123318486,
+        8123318472,
+        8123318473,
+        8123318474,
+        8123318475,
+        8123318476,
+        8123318485,
+        8123318477,
+        8123318478,
+        8123318482,
+        8123318487,
+        8123318483
+      ],
+      "coordinates_3d": [
+        [
+          320.51,
+          1768.49,
+          11.32
+        ],
+        [
+          313.85,
+          1770.67,
+          11.86
+        ],
+        [
+          305.55,
+          1777.35,
+          12.83
+        ],
+        [
+          288.78,
+          1780.93,
+          13.55
+        ],
+        [
+          276.63,
+          1780.8,
+          12.87
+        ],
+        [
+          264.2,
+          1780.67,
+          12.18
+        ],
+        [
+          258.56,
+          1782.7,
+          11.63
+        ],
+        [
+          258.47,
+          1786.08,
+          11.58
+        ],
+        [
+          258.64,
+          1789.02,
+          11.78
+        ],
+        [
+          262.79,
+          1793.05,
+          12.71
+        ],
+        [
+          309.43,
+          1793.74,
+          14.4
+        ],
+        [
+          318.12,
+          1793.49,
+          14.08
+        ],
+        [
+          321.98,
+          1792.34,
+          13.81
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767978",
+      "osm_id": 1235767978,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 99.93,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539024,
+        2163539020
+      ],
+      "coordinates_3d": [
+        [
+          437.83,
+          1710.68,
+          18.91
+        ],
+        [
+          535.23,
+          1688.34,
+          13.27
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235767995",
+      "osm_id": 1235767995,
+      "name": "Fort Street",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 141.77,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539019,
+        10282056984,
+        245654381,
+        12258145308,
+        2163539023
+      ],
+      "coordinates_3d": [
+        [
+          533.34,
+          1680.17,
+          13.28
+        ],
+        [
+          460.53,
+          1696.58,
+          15.87
+        ],
+        [
+          440.39,
+          1701.94,
+          18.56
+        ],
+        [
+          428.11,
+          1704.13,
+          19.41
+        ],
+        [
+          395.14,
+          1711.67,
+          18.0
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765602",
+      "osm_id": 1240765602,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.09,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180263,
+        6078180223,
+        8123318471
+      ],
+      "coordinates_3d": [
+        [
+          324.17,
+          1743.67,
+          9.73
+        ],
+        [
+          321.04,
+          1763.46,
+          10.83
+        ],
+        [
+          320.51,
+          1768.49,
+          11.32
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765603",
+      "osm_id": 1240765603,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 25.52,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163503474,
+        6078180263
+      ],
+      "coordinates_3d": [
+        [
+          329.89,
+          1718.8,
+          9.96
+        ],
+        [
+          324.17,
+          1743.67,
+          9.73
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765604",
+      "osm_id": 1240765604,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 10.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245654379,
+        2163503474
+      ],
+      "coordinates_3d": [
+        [
+          337.77,
+          1711.39,
+          10.94
+        ],
+        [
+          329.89,
+          1718.8,
+          9.96
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1240765614",
+      "osm_id": 1240765614,
+      "name": "Saint George Road",
+      "highway": "secondary",
+      "width_m": 12.0,
+      "width_source": "default_highway_type:secondary",
+      "length_m": 27.25,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6078180264,
+        2163503475
+      ],
+      "coordinates_3d": [
+        [
+          334.63,
+          1747.78,
+          9.93
+        ],
+        [
+          341.08,
+          1721.3,
+          10.08
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1424732086",
+      "osm_id": 1424732086,
+      "name": "Dr Dadabhai Naoroji Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 14.68,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        13095803556,
+        13509238798,
+        13982160265,
+        10877637591
+      ],
+      "coordinates_3d": [
+        [
+          221.88,
+          1873.85,
+          13.61
+        ],
+        [
+          222.09,
+          1868.56,
+          13.28
+        ],
+        [
+          222.21,
+          1865.36,
+          13.07
+        ],
+        [
+          222.45,
+          1859.18,
+          12.66
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1517955245",
+      "osm_id": 1517955245,
+      "name": "Shahid Bhagat Singh Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 115.28,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        2163539017,
+        2163539018,
+        2163539019
+      ],
+      "coordinates_3d": [
+        [
+          508.64,
+          1567.58,
+          11.09
+        ],
+        [
+          519.29,
+          1619.31,
+          12.91
+        ],
+        [
+          533.34,
+          1680.17,
+          13.28
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "tile_id": "TILE_E+004_N+017",
+  "bounds": {
+    "min_x": 2000.0,
+    "max_x": 2500.0,
+    "min_y": 8500.0,
+    "max_y": 9000.0
+  },
+  "geographic_bounds": {
+    "min_lat": 18.999987,
+    "max_lat": 19.004558,
+    "min_lon": 72.850997,
+    "max_lon": 72.855686
+  },
+  "statistics": {
+    "total_buildings": 0,
+    "level_a_verified": 0,
+    "level_b_inferred": 0,
+    "level_c_unavailable": 0,
+    "total_roads": 9,
+    "road_length_m": 3580.43,
+    "confidence_score": 0.5
+  },
+  "sources_used": [
+    "srtm_n18e072",
+    "osm_mumbai_official_colaba"
+  ],
+  "status": "PROCESSED",
+  "buildings": [],
+  "roads": [
+    {
+      "source_id": "osm_road_22848097",
+      "osm_id": 22848097,
+      "name": "Tokersee Jivraj Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 222.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659328,
+        11273946790,
+        245659329,
+        245659346,
+        245659355
+      ],
+      "coordinates_3d": [
+        [
+          1994.79,
+          8533.12,
+          0.05
+        ],
+        [
+          2006.24,
+          8535.19,
+          0.05
+        ],
+        [
+          2047.66,
+          8542.64,
+          0.05
+        ],
+        [
+          2136.11,
+          8547.24,
+          0.05
+        ],
+        [
+          2216.45,
+          8551.3,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_22848099",
+      "osm_id": 22848099,
+      "name": "Tokersee Jivraj Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 202.13,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7735948667,
+        245659328
+      ],
+      "coordinates_3d": [
+        [
+          1929.64,
+          8341.78,
+          14.47
+        ],
+        [
+          1994.79,
+          8533.12,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_692196517",
+      "osm_id": 692196517,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 508.15,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        6497342997,
+        6497342996,
+        6583290200,
+        6497342995,
+        6497342994,
+        6583290208,
+        6497342993
+      ],
+      "coordinates_3d": [
+        [
+          2301.21,
+          8554.55,
+          0.05
+        ],
+        [
+          2287.87,
+          8477.13,
+          7.7
+        ],
+        [
+          2249.85,
+          8342.15,
+          8.94
+        ],
+        [
+          2239.29,
+          8303.32,
+          10.35
+        ],
+        [
+          2224.21,
+          8194.09,
+          11.11
+        ],
+        [
+          2199.36,
+          8078.42,
+          4.91
+        ],
+        [
+          2193.18,
+          8058.83,
+          5.56
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_699841565",
+      "osm_id": 699841565,
+      "name": "Jivraj Road",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 70.91,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659355,
+        245659363
+      ],
+      "coordinates_3d": [
+        [
+          2216.45,
+          8551.3,
+          0.05
+        ],
+        [
+          2287.28,
+          8554.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1139181308",
+      "osm_id": 1139181308,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 472.6,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507888,
+        7374507896,
+        9867855178,
+        12949047421,
+        7374507895,
+        7374507894,
+        7374507893,
+        7374507892,
+        7374507891,
+        7374507890,
+        7374507889
+      ],
+      "coordinates_3d": [
+        [
+          2336.26,
+          9031.75,
+          0.05
+        ],
+        [
+          2333.59,
+          8962.17,
+          0.05
+        ],
+        [
+          2331.02,
+          8924.04,
+          0.05
+        ],
+        [
+          2325.58,
+          8843.3,
+          0.05
+        ],
+        [
+          2325.31,
+          8839.28,
+          0.05
+        ],
+        [
+          2320.46,
+          8762.75,
+          0.05
+        ],
+        [
+          2319.01,
+          8739.95,
+          0.05
+        ],
+        [
+          2309.21,
+          8584.78,
+          0.05
+        ],
+        [
+          2308.66,
+          8574.26,
+          0.05
+        ],
+        [
+          2306.89,
+          8568.39,
+          0.05
+        ],
+        [
+          2301.68,
+          8562.16,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766584",
+      "osm_id": 1235766584,
+      "name": "Unnamed Road",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.62,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507889,
+        6497342997
+      ],
+      "coordinates_3d": [
+        [
+          2301.68,
+          8562.16,
+          0.05
+        ],
+        [
+          2301.21,
+          8554.55,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235766594",
+      "osm_id": 1235766594,
+      "name": "Rafi Ahmed Kidwai Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 7.82,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245659363,
+        7374507906
+      ],
+      "coordinates_3d": [
+        [
+          2287.28,
+          8554.7,
+          0.05
+        ],
+        [
+          2287.81,
+          8562.5,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_1235771388",
+      "osm_id": 1235771388,
+      "name": "R.A. Kidwai Marg",
+      "highway": "tertiary",
+      "width_m": 9.0,
+      "width_source": "default_highway_type:tertiary",
+      "length_m": 472.74,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        7374507906,
+        7374507905,
+        7374507907,
+        7374507908,
+        7374507909,
+        12949047422,
+        7374507910
+      ],
+      "coordinates_3d": [
+        [
+          2287.81,
+          8562.5,
+          0.05
+        ],
+        [
+          2283.99,
+          8566.91,
+          0.05
+        ],
+        [
+          2282.78,
+          8571.9,
+          0.05
+        ],
+        [
+          2295.3,
+          8787.7,
+          0.05
+        ],
+        [
+          2303.06,
+          8915.99,
+          0.05
+        ],
+        [
+          2304.26,
+          8936.65,
+          0.05
+        ],
+        [
+          2309.83,
+          9032.88,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    },
+    {
+      "source_id": "osm_road_936649873",
+      "osm_id": 936649873,
+      "name": "Rafi Ahmed Kidwai Marg",
+      "highway": "primary",
+      "width_m": 16.0,
+      "width_source": "default_highway_type:primary",
+      "length_m": 1615.73,
+      "is_bridge": false,
+      "is_tunnel": false,
+      "layer": 0,
+      "node_ids": [
+        245658682,
+        2216533654,
+        245658703,
+        245658712,
+        245658718,
+        12322937974,
+        245658734,
+        12322961991,
+        2216534051,
+        700895741,
+        5907931798,
+        8708710758,
+        3878673194,
+        6580768154,
+        700895684,
+        3878673195,
+        6580768156,
+        245659049,
+        245659078,
+        3878673199,
+        4292873290,
+        13986227349,
+        700886321,
+        5907931746,
+        245659363
+      ],
+      "coordinates_3d": [
+        [
+          1436.35,
+          7267.78,
+          7.54
+        ],
+        [
+          1508.41,
+          7322.1,
+          6.44
+        ],
+        [
+          1562.95,
+          7364.87,
+          4.81
+        ],
+        [
+          1608.5,
+          7402.85,
+          6.47
+        ],
+        [
+          1657.59,
+          7438.11,
+          5.53
+        ],
+        [
+          1707.58,
+          7480.98,
+          5.05
+        ],
+        [
+          1739.0,
+          7507.94,
+          5.64
+        ],
+        [
+          1741.38,
+          7510.07,
+          5.72
+        ],
+        [
+          1913.0,
+          7664.24,
+          9.73
+        ],
+        [
+          1979.59,
+          7729.3,
+          8.24
+        ],
+        [
+          2025.48,
+          7767.14,
+          6.96
+        ],
+        [
+          2035.61,
+          7777.51,
+          6.89
+        ],
+        [
+          2053.61,
+          7795.95,
+          8.19
+        ],
+        [
+          2068.38,
+          7813.18,
+          9.06
+        ],
+        [
+          2095.87,
+          7845.22,
+          9.9
+        ],
+        [
+          2112.46,
+          7876.98,
+          9.82
+        ],
+        [
+          2152.01,
+          7985.72,
+          9.76
+        ],
+        [
+          2176.9,
+          8054.18,
+          6.09
+        ],
+        [
+          2185.05,
+          8084.0,
+          4.59
+        ],
+        [
+          2204.44,
+          8157.48,
+          8.46
+        ],
+        [
+          2227.63,
+          8283.4,
+          11.13
+        ],
+        [
+          2228.54,
+          8293.57,
+          11.08
+        ],
+        [
+          2229.62,
+          8305.51,
+          11.02
+        ],
+        [
+          2269.55,
+          8454.74,
+          10.0
+        ],
+        [
+          2287.28,
+          8554.7,
+          0.05
+        ]
+      ],
+      "has_junction": true
+    }
+  ]
+}

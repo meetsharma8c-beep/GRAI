@@ -31,3 +31,9 @@ GRAI/*.sln
 # Backups & Raw frame caches
 Backups/
 renders/drone_opengl_frames/
+renders/*.gif
+renders/blender_screen*.png
+renders/blender_app*.png
+renders/blender_solid*.png
+renders/blender_window*.png
+renders/blender_active*.png

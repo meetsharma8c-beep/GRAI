@@ -1,0 +1,2502 @@
+{
+  "project": "GRAI \u2014 Grand Roads of India",
+  "subproject": "Mumbai Digital Twin",
+  "timestamp": "2026-10-14T13:57:45Z",
+  "geographic_extent": {
+    "description": "Full Greater Mumbai Metropolitan Extent",
+    "min_lat": 18.88,
+    "max_lat": 19.3,
+    "min_lon": 72.75,
+    "max_lon": 73.05
+  },
+  "world_origin": {
+    "latitude": 18.923,
+    "longitude": 72.833,
+    "elevation_msl": 0.0,
+    "description": "Colaba / Gateway of India reference axis"
+  },
+  "grid_metrics": {
+    "total_tiles_defined": 780,
+    "active_populated_tiles": 352,
+    "empty_sea_or_unmapped_tiles": 428
+  },
+  "feature_metrics": {
+    "total_buildings": 11152,
+    "level_a_verified": 34,
+    "level_b_inferred": 998,
+    "level_c_unavailable": 10120,
+    "total_roads": 9281,
+    "total_road_network_km": 1913.26
+  },
+  "data_provenance": {
+    "elevation": "NASA/USGS SRTM 1-arc-second (30m) DEM (N18E072.hgt.gz)",
+    "building_footprints": "OpenStreetMap Authoritative Vector Records (ODbL)",
+    "road_network": "OpenStreetMap Authoritative Vector Records (ODbL)"
+  },
+  "active_tiles": [
+    {
+      "tile_id": "TILE_E-009_N+005",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.2,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-009_N+006",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.75,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-008_N+005",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 4.38,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-008_N+006",
+      "buildings": 0,
+      "roads": 16,
+      "road_km": 3.51,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-008_N+007",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 0.88,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-008_N+008",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 3.42,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+005",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 4.68,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+006",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 4.38,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+007",
+      "buildings": 0,
+      "roads": 12,
+      "road_km": 9.33,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+008",
+      "buildings": 0,
+      "roads": 19,
+      "road_km": 11.52,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+009",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 5.17,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+010",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 6.81,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-007_N+011",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.29,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N-004",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.33,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N-003",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.7,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N-002",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.7,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+006",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.5,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+007",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 8.94,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+008",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 0.95,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+009",
+      "buildings": 0,
+      "roads": 23,
+      "road_km": 4.2,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+010",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 2.19,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+011",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 6.17,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-006_N+012",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.29,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N-006",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.76,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N-005",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.76,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N-004",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 1.06,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N-003",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 1.09,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+006",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 6.05,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+007",
+      "buildings": 0,
+      "roads": 39,
+      "road_km": 14.43,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+008",
+      "buildings": 0,
+      "roads": 27,
+      "road_km": 4.13,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+009",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 1.13,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+010",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 2.1,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+011",
+      "buildings": 0,
+      "roads": 19,
+      "road_km": 4.48,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+012",
+      "buildings": 0,
+      "roads": 22,
+      "road_km": 10.57,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+013",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 2.01,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+014",
+      "buildings": 2,
+      "roads": 12,
+      "road_km": 4.81,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-005_N+015",
+      "buildings": 4,
+      "roads": 19,
+      "road_km": 7.75,
+      "confidence": 0.6
+    },
+    {
+      "tile_id": "TILE_E-005_N+016",
+      "buildings": 17,
+      "roads": 28,
+      "road_km": 11.84,
+      "confidence": 0.465
+    },
+    {
+      "tile_id": "TILE_E-005_N+017",
+      "buildings": 20,
+      "roads": 48,
+      "road_km": 13.61,
+      "confidence": 0.42
+    },
+    {
+      "tile_id": "TILE_E-005_N+018",
+      "buildings": 0,
+      "roads": 19,
+      "road_km": 9.14,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+019",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 5.54,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+020",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 7.46,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+021",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 3.21,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+026",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+027",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+028",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-005_N+029",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 5.52,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N-005",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.76,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N-004",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 2.15,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N-003",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 1.0,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N-002",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 2.24,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+006",
+      "buildings": 0,
+      "roads": 20,
+      "road_km": 12.08,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+007",
+      "buildings": 0,
+      "roads": 61,
+      "road_km": 9.43,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+008",
+      "buildings": 1,
+      "roads": 20,
+      "road_km": 3.17,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-004_N+009",
+      "buildings": 1,
+      "roads": 7,
+      "road_km": 1.79,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-004_N+010",
+      "buildings": 0,
+      "roads": 25,
+      "road_km": 2.65,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+011",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 1.7,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+012",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 2.03,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+013",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 3.86,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+014",
+      "buildings": 6,
+      "roads": 28,
+      "road_km": 5.9,
+      "confidence": 0.367
+    },
+    {
+      "tile_id": "TILE_E-004_N+015",
+      "buildings": 48,
+      "roads": 65,
+      "road_km": 9.88,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+016",
+      "buildings": 75,
+      "roads": 111,
+      "road_km": 14.27,
+      "confidence": 0.555
+    },
+    {
+      "tile_id": "TILE_E-004_N+017",
+      "buildings": 88,
+      "roads": 94,
+      "road_km": 16.64,
+      "confidence": 0.455
+    },
+    {
+      "tile_id": "TILE_E-004_N+018",
+      "buildings": 85,
+      "roads": 78,
+      "road_km": 21.76,
+      "confidence": 0.566
+    },
+    {
+      "tile_id": "TILE_E-004_N+019",
+      "buildings": 51,
+      "roads": 45,
+      "road_km": 12.66,
+      "confidence": 0.596
+    },
+    {
+      "tile_id": "TILE_E-004_N+020",
+      "buildings": 29,
+      "roads": 29,
+      "road_km": 6.72,
+      "confidence": 0.369
+    },
+    {
+      "tile_id": "TILE_E-004_N+021",
+      "buildings": 727,
+      "roads": 21,
+      "road_km": 2.5,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-004_N+022",
+      "buildings": 156,
+      "roads": 7,
+      "road_km": 4.88,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-004_N+023",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 3.1,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+024",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 3.1,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+026",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+028",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 4.28,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+029",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+030",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 15.28,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-004_N+031",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 9.4,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N-003",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 3.06,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N-002",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 4.06,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N-001",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.47,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+000",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 1.6,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+001",
+      "buildings": 0,
+      "roads": 31,
+      "road_km": 2.94,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+002",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 0.46,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+004",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 4.53,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+005",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 12.09,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+006",
+      "buildings": 0,
+      "roads": 16,
+      "road_km": 12.83,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+007",
+      "buildings": 0,
+      "roads": 21,
+      "road_km": 3.39,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+008",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 0.95,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+009",
+      "buildings": 0,
+      "roads": 27,
+      "road_km": 2.82,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+010",
+      "buildings": 0,
+      "roads": 14,
+      "road_km": 2.89,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+011",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 2.2,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+012",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 1.01,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+014",
+      "buildings": 2,
+      "roads": 16,
+      "road_km": 4.22,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+015",
+      "buildings": 42,
+      "roads": 54,
+      "road_km": 6.87,
+      "confidence": 0.31
+    },
+    {
+      "tile_id": "TILE_E-003_N+016",
+      "buildings": 54,
+      "roads": 88,
+      "road_km": 11.62,
+      "confidence": 0.407
+    },
+    {
+      "tile_id": "TILE_E-003_N+017",
+      "buildings": 108,
+      "roads": 84,
+      "road_km": 13.89,
+      "confidence": 0.641
+    },
+    {
+      "tile_id": "TILE_E-003_N+018",
+      "buildings": 67,
+      "roads": 112,
+      "road_km": 18.46,
+      "confidence": 0.372
+    },
+    {
+      "tile_id": "TILE_E-003_N+019",
+      "buildings": 83,
+      "roads": 95,
+      "road_km": 13.04,
+      "confidence": 0.372
+    },
+    {
+      "tile_id": "TILE_E-003_N+020",
+      "buildings": 1146,
+      "roads": 99,
+      "road_km": 10.22,
+      "confidence": 0.306
+    },
+    {
+      "tile_id": "TILE_E-003_N+021",
+      "buildings": 1077,
+      "roads": 22,
+      "road_km": 3.25,
+      "confidence": 0.301
+    },
+    {
+      "tile_id": "TILE_E-003_N+022",
+      "buildings": 58,
+      "roads": 3,
+      "road_km": 1.07,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-003_N+025",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 6.46,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+026",
+      "buildings": 12,
+      "roads": 38,
+      "road_km": 20.98,
+      "confidence": 0.367
+    },
+    {
+      "tile_id": "TILE_E-003_N+027",
+      "buildings": 55,
+      "roads": 47,
+      "road_km": 5.59,
+      "confidence": 0.424
+    },
+    {
+      "tile_id": "TILE_E-003_N+028",
+      "buildings": 6,
+      "roads": 15,
+      "road_km": 3.73,
+      "confidence": 0.433
+    },
+    {
+      "tile_id": "TILE_E-003_N+029",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.11,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-003_N+030",
+      "buildings": 5,
+      "roads": 12,
+      "road_km": 11.16,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-003_N+031",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N-002",
+      "buildings": 5,
+      "roads": 10,
+      "road_km": 3.49,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-002_N-001",
+      "buildings": 19,
+      "roads": 26,
+      "road_km": 6.22,
+      "confidence": 0.342
+    },
+    {
+      "tile_id": "TILE_E-002_N+000",
+      "buildings": 1,
+      "roads": 51,
+      "road_km": 7.9,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-002_N+001",
+      "buildings": 0,
+      "roads": 18,
+      "road_km": 2.64,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+002",
+      "buildings": 0,
+      "roads": 40,
+      "road_km": 4.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+003",
+      "buildings": 0,
+      "roads": 15,
+      "road_km": 3.15,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+004",
+      "buildings": 0,
+      "roads": 23,
+      "road_km": 10.98,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+005",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 3.12,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+006",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 1.69,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+007",
+      "buildings": 0,
+      "roads": 14,
+      "road_km": 1.98,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+009",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 1.71,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+010",
+      "buildings": 0,
+      "roads": 15,
+      "road_km": 1.81,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+011",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 2.54,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+012",
+      "buildings": 0,
+      "roads": 26,
+      "road_km": 6.87,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+013",
+      "buildings": 0,
+      "roads": 18,
+      "road_km": 4.6,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-002_N+014",
+      "buildings": 13,
+      "roads": 11,
+      "road_km": 3.82,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-002_N+015",
+      "buildings": 52,
+      "roads": 70,
+      "road_km": 10.72,
+      "confidence": 0.331
+    },
+    {
+      "tile_id": "TILE_E-002_N+016",
+      "buildings": 60,
+      "roads": 94,
+      "road_km": 11.24,
+      "confidence": 0.36
+    },
+    {
+      "tile_id": "TILE_E-002_N+017",
+      "buildings": 51,
+      "roads": 82,
+      "road_km": 9.44,
+      "confidence": 0.367
+    },
+    {
+      "tile_id": "TILE_E-002_N+018",
+      "buildings": 25,
+      "roads": 96,
+      "road_km": 11.3,
+      "confidence": 0.36
+    },
+    {
+      "tile_id": "TILE_E-002_N+019",
+      "buildings": 81,
+      "roads": 89,
+      "road_km": 11.99,
+      "confidence": 0.458
+    },
+    {
+      "tile_id": "TILE_E-002_N+020",
+      "buildings": 189,
+      "roads": 93,
+      "road_km": 10.0,
+      "confidence": 0.332
+    },
+    {
+      "tile_id": "TILE_E-002_N+021",
+      "buildings": 16,
+      "roads": 26,
+      "road_km": 2.13,
+      "confidence": 0.375
+    },
+    {
+      "tile_id": "TILE_E-002_N+026",
+      "buildings": 11,
+      "roads": 18,
+      "road_km": 21.66,
+      "confidence": 0.336
+    },
+    {
+      "tile_id": "TILE_E-002_N+027",
+      "buildings": 117,
+      "roads": 81,
+      "road_km": 8.9,
+      "confidence": 0.426
+    },
+    {
+      "tile_id": "TILE_E-002_N+028",
+      "buildings": 220,
+      "roads": 122,
+      "road_km": 12.28,
+      "confidence": 0.372
+    },
+    {
+      "tile_id": "TILE_E-002_N+029",
+      "buildings": 202,
+      "roads": 103,
+      "road_km": 10.22,
+      "confidence": 0.373
+    },
+    {
+      "tile_id": "TILE_E-002_N+030",
+      "buildings": 196,
+      "roads": 80,
+      "road_km": 21.42,
+      "confidence": 0.353
+    },
+    {
+      "tile_id": "TILE_E-002_N+031",
+      "buildings": 68,
+      "roads": 56,
+      "road_km": 8.59,
+      "confidence": 0.353
+    },
+    {
+      "tile_id": "TILE_E-001_N-002",
+      "buildings": 15,
+      "roads": 29,
+      "road_km": 4.04,
+      "confidence": 0.453
+    },
+    {
+      "tile_id": "TILE_E-001_N-001",
+      "buildings": 131,
+      "roads": 82,
+      "road_km": 10.19,
+      "confidence": 0.466
+    },
+    {
+      "tile_id": "TILE_E-001_N+000",
+      "buildings": 65,
+      "roads": 101,
+      "road_km": 11.56,
+      "confidence": 0.429
+    },
+    {
+      "tile_id": "TILE_E-001_N+001",
+      "buildings": 11,
+      "roads": 25,
+      "road_km": 5.36,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-001_N+002",
+      "buildings": 0,
+      "roads": 42,
+      "road_km": 6.05,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+003",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 2.92,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+004",
+      "buildings": 0,
+      "roads": 26,
+      "road_km": 4.53,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+005",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.03,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+006",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 1.18,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+007",
+      "buildings": 0,
+      "roads": 26,
+      "road_km": 8.48,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+008",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 7.91,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+009",
+      "buildings": 1,
+      "roads": 19,
+      "road_km": 9.42,
+      "confidence": 0.7
+    },
+    {
+      "tile_id": "TILE_E-001_N+010",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 2.09,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+011",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 2.49,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+012",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 3.92,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+013",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 4.03,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+014",
+      "buildings": 10,
+      "roads": 25,
+      "road_km": 6.75,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+015",
+      "buildings": 65,
+      "roads": 70,
+      "road_km": 9.41,
+      "confidence": 0.349
+    },
+    {
+      "tile_id": "TILE_E-001_N+016",
+      "buildings": 50,
+      "roads": 119,
+      "road_km": 13.82,
+      "confidence": 0.372
+    },
+    {
+      "tile_id": "TILE_E-001_N+017",
+      "buildings": 61,
+      "roads": 86,
+      "road_km": 13.28,
+      "confidence": 0.357
+    },
+    {
+      "tile_id": "TILE_E-001_N+018",
+      "buildings": 56,
+      "roads": 103,
+      "road_km": 14.63,
+      "confidence": 0.436
+    },
+    {
+      "tile_id": "TILE_E-001_N+019",
+      "buildings": 122,
+      "roads": 85,
+      "road_km": 8.9,
+      "confidence": 0.385
+    },
+    {
+      "tile_id": "TILE_E-001_N+020",
+      "buildings": 113,
+      "roads": 115,
+      "road_km": 11.48,
+      "confidence": 0.318
+    },
+    {
+      "tile_id": "TILE_E-001_N+021",
+      "buildings": 67,
+      "roads": 96,
+      "road_km": 8.03,
+      "confidence": 0.366
+    },
+    {
+      "tile_id": "TILE_E-001_N+022",
+      "buildings": 1,
+      "roads": 3,
+      "road_km": 0.19,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E-001_N+026",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 3.13,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E-001_N+027",
+      "buildings": 31,
+      "roads": 78,
+      "road_km": 13.21,
+      "confidence": 0.39
+    },
+    {
+      "tile_id": "TILE_E-001_N+028",
+      "buildings": 300,
+      "roads": 152,
+      "road_km": 12.4,
+      "confidence": 0.336
+    },
+    {
+      "tile_id": "TILE_E-001_N+029",
+      "buildings": 216,
+      "roads": 88,
+      "road_km": 10.38,
+      "confidence": 0.348
+    },
+    {
+      "tile_id": "TILE_E-001_N+030",
+      "buildings": 232,
+      "roads": 151,
+      "road_km": 16.12,
+      "confidence": 0.321
+    },
+    {
+      "tile_id": "TILE_E-001_N+031",
+      "buildings": 122,
+      "roads": 59,
+      "road_km": 6.65,
+      "confidence": 0.307
+    },
+    {
+      "tile_id": "TILE_E+000_N-001",
+      "buildings": 5,
+      "roads": 21,
+      "road_km": 4.48,
+      "confidence": 0.52
+    },
+    {
+      "tile_id": "TILE_E+000_N+000",
+      "buildings": 45,
+      "roads": 55,
+      "road_km": 11.26,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+000_N+001",
+      "buildings": 9,
+      "roads": 14,
+      "road_km": 4.1,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+000_N+002",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 2.52,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+003",
+      "buildings": 0,
+      "roads": 47,
+      "road_km": 5.43,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+004",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 5.0,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+005",
+      "buildings": 0,
+      "roads": 24,
+      "road_km": 7.37,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+006",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 6.25,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+007",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 5.27,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+008",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.58,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+009",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 1.42,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+010",
+      "buildings": 0,
+      "roads": 35,
+      "road_km": 4.78,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+011",
+      "buildings": 0,
+      "roads": 25,
+      "road_km": 4.86,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+012",
+      "buildings": 0,
+      "roads": 22,
+      "road_km": 7.66,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+013",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 7.02,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+000_N+014",
+      "buildings": 11,
+      "roads": 36,
+      "road_km": 10.08,
+      "confidence": 0.373
+    },
+    {
+      "tile_id": "TILE_E+000_N+015",
+      "buildings": 54,
+      "roads": 106,
+      "road_km": 14.65,
+      "confidence": 0.367
+    },
+    {
+      "tile_id": "TILE_E+000_N+016",
+      "buildings": 49,
+      "roads": 45,
+      "road_km": 9.95,
+      "confidence": 0.365
+    },
+    {
+      "tile_id": "TILE_E+000_N+017",
+      "buildings": 19,
+      "roads": 10,
+      "road_km": 1.65,
+      "confidence": 0.342
+    },
+    {
+      "tile_id": "TILE_E+000_N+018",
+      "buildings": 74,
+      "roads": 96,
+      "road_km": 11.31,
+      "confidence": 0.347
+    },
+    {
+      "tile_id": "TILE_E+000_N+019",
+      "buildings": 82,
+      "roads": 135,
+      "road_km": 16.24,
+      "confidence": 0.305
+    },
+    {
+      "tile_id": "TILE_E+000_N+020",
+      "buildings": 140,
+      "roads": 162,
+      "road_km": 12.08,
+      "confidence": 0.303
+    },
+    {
+      "tile_id": "TILE_E+000_N+021",
+      "buildings": 146,
+      "roads": 130,
+      "road_km": 11.12,
+      "confidence": 0.308
+    },
+    {
+      "tile_id": "TILE_E+000_N+022",
+      "buildings": 58,
+      "roads": 32,
+      "road_km": 4.47,
+      "confidence": 0.307
+    },
+    {
+      "tile_id": "TILE_E+000_N+027",
+      "buildings": 1,
+      "roads": 15,
+      "road_km": 4.76,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+000_N+028",
+      "buildings": 150,
+      "roads": 108,
+      "road_km": 15.68,
+      "confidence": 0.329
+    },
+    {
+      "tile_id": "TILE_E+000_N+029",
+      "buildings": 287,
+      "roads": 119,
+      "road_km": 11.93,
+      "confidence": 0.322
+    },
+    {
+      "tile_id": "TILE_E+000_N+030",
+      "buildings": 265,
+      "roads": 110,
+      "road_km": 10.74,
+      "confidence": 0.329
+    },
+    {
+      "tile_id": "TILE_E+000_N+031",
+      "buildings": 100,
+      "roads": 49,
+      "road_km": 6.55,
+      "confidence": 0.308
+    },
+    {
+      "tile_id": "TILE_E+001_N-001",
+      "buildings": 3,
+      "roads": 4,
+      "road_km": 3.39,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+001_N+000",
+      "buildings": 3,
+      "roads": 5,
+      "road_km": 3.83,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+001_N+001",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.77,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+002",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 4.02,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+003",
+      "buildings": 0,
+      "roads": 15,
+      "road_km": 3.6,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+004",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.28,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+005",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 4.22,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+006",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 1.93,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+007",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.97,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+008",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 0.79,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+009",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 1.22,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+010",
+      "buildings": 0,
+      "roads": 16,
+      "road_km": 2.79,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+011",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 1.62,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+012",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 0.93,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+013",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 1.46,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+014",
+      "buildings": 14,
+      "roads": 15,
+      "road_km": 2.11,
+      "confidence": 0.471
+    },
+    {
+      "tile_id": "TILE_E+001_N+015",
+      "buildings": 65,
+      "roads": 90,
+      "road_km": 8.58,
+      "confidence": 0.374
+    },
+    {
+      "tile_id": "TILE_E+001_N+016",
+      "buildings": 37,
+      "roads": 89,
+      "road_km": 14.36,
+      "confidence": 0.354
+    },
+    {
+      "tile_id": "TILE_E+001_N+017",
+      "buildings": 94,
+      "roads": 57,
+      "road_km": 7.99,
+      "confidence": 0.33
+    },
+    {
+      "tile_id": "TILE_E+001_N+018",
+      "buildings": 59,
+      "roads": 117,
+      "road_km": 12.01,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+001_N+019",
+      "buildings": 18,
+      "roads": 45,
+      "road_km": 4.99,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+001_N+020",
+      "buildings": 82,
+      "roads": 106,
+      "road_km": 8.95,
+      "confidence": 0.305
+    },
+    {
+      "tile_id": "TILE_E+001_N+021",
+      "buildings": 142,
+      "roads": 131,
+      "road_km": 9.95,
+      "confidence": 0.349
+    },
+    {
+      "tile_id": "TILE_E+001_N+022",
+      "buildings": 112,
+      "roads": 69,
+      "road_km": 8.05,
+      "confidence": 0.327
+    },
+    {
+      "tile_id": "TILE_E+001_N+023",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 2.46,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+001_N+024",
+      "buildings": 15,
+      "roads": 19,
+      "road_km": 3.63,
+      "confidence": 0.433
+    },
+    {
+      "tile_id": "TILE_E+001_N+025",
+      "buildings": 47,
+      "roads": 27,
+      "road_km": 3.26,
+      "confidence": 0.419
+    },
+    {
+      "tile_id": "TILE_E+001_N+026",
+      "buildings": 32,
+      "roads": 36,
+      "road_km": 7.3,
+      "confidence": 0.4
+    },
+    {
+      "tile_id": "TILE_E+001_N+027",
+      "buildings": 12,
+      "roads": 53,
+      "road_km": 6.88,
+      "confidence": 0.367
+    },
+    {
+      "tile_id": "TILE_E+001_N+028",
+      "buildings": 53,
+      "roads": 81,
+      "road_km": 11.47,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+001_N+029",
+      "buildings": 119,
+      "roads": 100,
+      "road_km": 11.51,
+      "confidence": 0.323
+    },
+    {
+      "tile_id": "TILE_E+001_N+030",
+      "buildings": 140,
+      "roads": 105,
+      "road_km": 13.79,
+      "confidence": 0.303
+    },
+    {
+      "tile_id": "TILE_E+001_N+031",
+      "buildings": 82,
+      "roads": 35,
+      "road_km": 7.43,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+002_N+000",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 2.0,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+001",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 2.06,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+002",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 2.06,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+007",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 3.55,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+008",
+      "buildings": 0,
+      "roads": 12,
+      "road_km": 3.74,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+009",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 4.88,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+010",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 2.23,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+011",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 5.54,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+012",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+013",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 3.33,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+014",
+      "buildings": 0,
+      "roads": 12,
+      "road_km": 4.43,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+015",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 1.47,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+016",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.49,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+017",
+      "buildings": 0,
+      "roads": 30,
+      "road_km": 5.39,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+018",
+      "buildings": 0,
+      "roads": 18,
+      "road_km": 4.3,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+019",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 4.7,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+020",
+      "buildings": 0,
+      "roads": 12,
+      "road_km": 4.25,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+021",
+      "buildings": 0,
+      "roads": 27,
+      "road_km": 7.49,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+022",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 4.33,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+023",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 3.22,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+024",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 4.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+025",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.25,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+026",
+      "buildings": 0,
+      "roads": 19,
+      "road_km": 5.02,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+027",
+      "buildings": 0,
+      "roads": 13,
+      "road_km": 2.27,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+028",
+      "buildings": 0,
+      "roads": 15,
+      "road_km": 2.99,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+029",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 0.73,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+002_N+030",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.39,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N-002",
+      "buildings": 1,
+      "roads": 0,
+      "road_km": 0.0,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+003_N-001",
+      "buildings": 1,
+      "roads": 0,
+      "road_km": 0.0,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+003_N+007",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 1.09,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+009",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.72,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+011",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.3,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+012",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 1.63,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+014",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 4.04,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+015",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 3.75,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+016",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 2.67,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+017",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.04,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+018",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.36,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+019",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 2.48,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+020",
+      "buildings": 0,
+      "roads": 29,
+      "road_km": 4.99,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+021",
+      "buildings": 0,
+      "roads": 25,
+      "road_km": 6.69,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+022",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 3.42,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+023",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 5.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+024",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 6.89,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+025",
+      "buildings": 60,
+      "roads": 51,
+      "road_km": 6.13,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+003_N+026",
+      "buildings": 67,
+      "roads": 70,
+      "road_km": 11.52,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+003_N+027",
+      "buildings": 24,
+      "roads": 29,
+      "road_km": 3.72,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+003_N+028",
+      "buildings": 0,
+      "roads": 39,
+      "road_km": 5.11,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+029",
+      "buildings": 0,
+      "roads": 32,
+      "road_km": 5.16,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+030",
+      "buildings": 0,
+      "roads": 27,
+      "road_km": 4.29,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+003_N+031",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 4.62,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+012",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 1.0,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+015",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.65,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+016",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 3.56,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+017",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 3.58,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+018",
+      "buildings": 0,
+      "roads": 8,
+      "road_km": 3.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+019",
+      "buildings": 0,
+      "roads": 18,
+      "road_km": 3.27,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+020",
+      "buildings": 0,
+      "roads": 14,
+      "road_km": 2.9,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+021",
+      "buildings": 0,
+      "roads": 33,
+      "road_km": 7.53,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+022",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 4.86,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+023",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 0.85,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+024",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 3.72,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+025",
+      "buildings": 647,
+      "roads": 88,
+      "road_km": 10.75,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+004_N+026",
+      "buildings": 205,
+      "roads": 66,
+      "road_km": 9.63,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+004_N+027",
+      "buildings": 183,
+      "roads": 57,
+      "road_km": 8.63,
+      "confidence": 0.315
+    },
+    {
+      "tile_id": "TILE_E+004_N+029",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 2.11,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+030",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 1.67,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+004_N+031",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 1.61,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+012",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 1.0,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+019",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 0.55,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+020",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 2.37,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+021",
+      "buildings": 0,
+      "roads": 29,
+      "road_km": 5.55,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+022",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 3.55,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+023",
+      "buildings": 0,
+      "roads": 21,
+      "road_km": 6.15,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+024",
+      "buildings": 0,
+      "roads": 21,
+      "road_km": 4.8,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+025",
+      "buildings": 21,
+      "roads": 20,
+      "road_km": 5.74,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+005_N+026",
+      "buildings": 246,
+      "roads": 37,
+      "road_km": 8.04,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+005_N+027",
+      "buildings": 53,
+      "roads": 42,
+      "road_km": 8.5,
+      "confidence": 0.3
+    },
+    {
+      "tile_id": "TILE_E+005_N+028",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 2.42,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+030",
+      "buildings": 0,
+      "roads": 23,
+      "road_km": 5.53,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+005_N+031",
+      "buildings": 0,
+      "roads": 3,
+      "road_km": 1.09,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+020",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.35,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+021",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 4.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+022",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 3.19,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+023",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 1.43,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+024",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.99,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+025",
+      "buildings": 0,
+      "roads": 29,
+      "road_km": 6.38,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+026",
+      "buildings": 0,
+      "roads": 25,
+      "road_km": 3.44,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+027",
+      "buildings": 0,
+      "roads": 15,
+      "road_km": 4.83,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+028",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 1.57,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+029",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 2.41,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+030",
+      "buildings": 0,
+      "roads": 18,
+      "road_km": 4.48,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+006_N+031",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 3.25,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+020",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 3.38,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+021",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 3.88,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+022",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 2.61,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+023",
+      "buildings": 0,
+      "roads": 9,
+      "road_km": 2.04,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+024",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 2.35,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+025",
+      "buildings": 0,
+      "roads": 16,
+      "road_km": 4.66,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+026",
+      "buildings": 0,
+      "roads": 11,
+      "road_km": 2.65,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+027",
+      "buildings": 0,
+      "roads": 19,
+      "road_km": 4.34,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+028",
+      "buildings": 0,
+      "roads": 17,
+      "road_km": 11.83,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+029",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 7.73,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+030",
+      "buildings": 0,
+      "roads": 5,
+      "road_km": 0.78,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+007_N+031",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.85,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+020",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.41,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+021",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 2.41,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+022",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+025",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 1.24,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+026",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 1.24,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+027",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 4.16,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+028",
+      "buildings": 0,
+      "roads": 10,
+      "road_km": 5.65,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+029",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.08,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+030",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.08,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+008_N+031",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.08,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+021",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 2.77,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+022",
+      "buildings": 0,
+      "roads": 7,
+      "road_km": 2.07,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+023",
+      "buildings": 0,
+      "roads": 4,
+      "road_km": 1.86,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+024",
+      "buildings": 0,
+      "roads": 6,
+      "road_km": 0.97,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+026",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 1.24,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+027",
+      "buildings": 0,
+      "roads": 14,
+      "road_km": 3.39,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+028",
+      "buildings": 0,
+      "roads": 24,
+      "road_km": 5.58,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+030",
+      "buildings": 0,
+      "roads": 1,
+      "road_km": 2.04,
+      "confidence": 0.5
+    },
+    {
+      "tile_id": "TILE_E+009_N+031",
+      "buildings": 0,
+      "roads": 2,
+      "road_km": 4.08,
+      "confidence": 0.5
+    }
+  ]
+}

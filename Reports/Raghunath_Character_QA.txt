@@ -1,0 +1,64 @@
+================================================================
+GRAI — RAGHUNATH MATTRE: AUTOMATED QUALITY ASSURANCE REPORT
+================================================================
+
+[PASS] 1_missing_body_parts
+    - missing: []
+    - found_parts: 10
+
+[PASS] 2_non_manifold_geometry
+    - boundary_edges_by_mesh: {'Raghunath_Head_Mesh': 147, 'Raghunath_Teeth_Mouth': 13, 'Raghunath_Body_Mesh': 560, 'Raghunath_Shirt_Mesh': 128, 'Raghunath_Jeans_Mesh': 128}
+
+[PASS] 3_duplicate_vertices
+    - duplicates_found: {}
+
+[PASS] 4_invalid_normals
+    - zero_normals_count: {}
+
+[PASS] 5_mesh_scale_and_transforms
+    - unapplied_scales: {}
+
+[PASS] 6_character_height
+    - height_meters: 1.8591
+    - target_range_meters: 1.80 - 1.92
+
+[PASS] 7_uv_existence
+    - missing_uv_meshes: []
+
+[PASS] 8_material_assignment
+    - unassigned_meshes: []
+
+[PASS] 9_missing_textures
+    - missing_texture_files: []
+
+[PASS] 10_rig_existence
+    - armature_name: Armature_Raghunath
+    - bone_count: 59
+
+[PASS] 11_armature_hierarchy
+    - missing_essential_bones: []
+
+[PASS] 12_vertex_groups
+    - vertex_group_counts: {'Raghunath_Body_Mesh': 59, 'Raghunath_Shirt_Mesh': 59, 'Raghunath_Jeans_Mesh': 59}
+
+[PASS] 13_hand_fingers_rigged
+    - total_finger_bones_expected: 30
+    - missing_bones: []
+
+[PASS] 14_feet_and_toes_rigged
+    - missing_bones: []
+
+[PASS] 15_eye_geometry
+    - left_eye: Raghunath_Eye_L
+    - right_eye: Raghunath_Eye_R
+
+[PASS] 16_facial_shape_keys
+    - total_shape_keys: 13
+    - keys: ['Basis', 'Blink_L', 'Blink_R', 'Eye_Look_Up', 'Eye_Look_Down', 'Eye_Look_Left', 'Eye_Look_Right', 'Brow_Raise_L', 'Brow_Raise_R', 'Brow_Furrow', 'Jaw_Open', 'Mouth_Smile', 'Mouth_Frown']
+
+[PASS] 17_lod_availability
+    - lods_found: ['SKM_Raghunath_LOD0.fbx', 'SKM_Raghunath_LOD1.fbx', 'SKM_Raghunath_LOD2.fbx', 'SKM_Raghunath_LOD3.fbx']
+
+[PASS] 18_export_readiness
+
+FINAL AUDIT VERDICT: PASS

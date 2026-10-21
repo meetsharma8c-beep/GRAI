@@ -1,0 +1,1024 @@
+{
+  "collection_name": "Character_Raghunath_Mattre",
+  "total_objects": 37,
+  "objects": [
+    {
+      "name": "Cam_Face_Projector",
+      "type": "CAMERA",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        -0.787,
+        1.731
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1099.213,
+        8.969
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cam_Raghunath_Cinematic_Street",
+      "type": "CAMERA",
+      "parent": null,
+      "location": [
+        -1005.65,
+        1097.4,
+        8.738
+      ],
+      "world_matrix_translation": [
+        -1005.65,
+        1097.4,
+        8.738
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cam_Raghunath_Full_Body",
+      "type": "CAMERA",
+      "parent": null,
+      "location": [
+        -1006.95,
+        1096.6,
+        8.288
+      ],
+      "world_matrix_translation": [
+        -1006.95,
+        1096.6,
+        8.288
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cam_Raghunath_Hero_Portrait",
+      "type": "CAMERA",
+      "parent": null,
+      "location": [
+        -1006.98,
+        1098.95,
+        8.858
+      ],
+      "world_matrix_translation": [
+        -1006.98,
+        1098.95,
+        8.858
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Character_Raghunath_Root",
+      "type": "EMPTY",
+      "parent": null,
+      "location": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Light_Raghunath_Fill",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        -1006.35,
+        1098.95,
+        8.888
+      ],
+      "world_matrix_translation": [
+        -1006.35,
+        1098.95,
+        8.888
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Light_Raghunath_Ground",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        -1007.0,
+        1098.0,
+        7.688
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1098.0,
+        7.688
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Light_Raghunath_Key",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        -1007.45,
+        1098.8,
+        9.288
+      ],
+      "world_matrix_translation": [
+        -1007.45,
+        1098.8,
+        9.288
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Light_Raghunath_Rim",
+      "type": "LIGHT",
+      "parent": null,
+      "location": [
+        -1006.65,
+        1100.85,
+        9.488
+      ],
+      "world_matrix_translation": [
+        -1006.65,
+        1100.85,
+        9.488
+      ],
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Raghunath_Collar_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Collar_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Cuff_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.244,
+        -0.012,
+        1.17
+      ],
+      "world_matrix_translation": [
+        -1006.756,
+        1099.988,
+        8.408
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [],
+      "vertices": 576,
+      "polygons": 576,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Cuff_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        -0.244,
+        -0.012,
+        1.17
+      ],
+      "world_matrix_translation": [
+        -1007.244,
+        1099.988,
+        8.408
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [],
+      "vertices": 576,
+      "polygons": 576,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Foot_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Foot_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Forearm_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 120,
+      "polygons": 100,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Forearm_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 120,
+      "polygons": 100,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Hair_Mesh",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Hair_Master"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        },
+        {
+          "name": "UVProject",
+          "type": "UV_PROJECT"
+        }
+      ],
+      "vertices": 974,
+      "polygons": 1008,
+      "uv_layers": [
+        "UVMap",
+        "UV_HiresFace"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Hand_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Hand_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Head_Mesh",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Face_Photoreal"
+      ],
+      "modifiers": [
+        {
+          "name": "UVProject",
+          "type": "UV_PROJECT"
+        }
+      ],
+      "vertices": 24049,
+      "polygons": 24002,
+      "uv_layers": [
+        "UVMap",
+        "UV_HiresFace"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Jeans_Leg_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Jeans_Charcoal"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 200,
+      "polygons": 180,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Jeans_Leg_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Jeans_Charcoal"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 200,
+      "polygons": 180,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Jeans_Pelvis",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Jeans_Charcoal"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 160,
+      "polygons": 128,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Neck_Chest_Skin",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Skin_PBR"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 288,
+      "polygons": 256,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Necklace_Cord",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        -0.02,
+        1.492
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1099.98,
+        8.73
+      ],
+      "materials": [
+        "M_Raghunath_Necklace"
+      ],
+      "modifiers": [],
+      "vertices": 576,
+      "polygons": 576,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Pendant",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        -0.095,
+        1.46
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1099.905,
+        8.698
+      ],
+      "materials": [
+        "M_Raghunath_Necklace"
+      ],
+      "modifiers": [],
+      "vertices": 482,
+      "polygons": 512,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Shirt_Pocket",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Shirt_Torso",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 352,
+      "polygons": 320,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Sleeve_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 140,
+      "polygons": 120,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Sleeve_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Shirt_Burgundy"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 140,
+      "polygons": 120,
+      "uv_layers": [],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Sole_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Sandal_Sole"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Sole_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Sandal_Sole"
+      ],
+      "modifiers": [
+        {
+          "name": "Subsurf",
+          "type": "SUBSURF"
+        }
+      ],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Strap_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Leather_Sandals"
+      ],
+      "modifiers": [],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_Strap_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_matrix_translation": [
+        -1007.0,
+        1100.0,
+        7.238
+      ],
+      "materials": [
+        "M_Raghunath_Leather_Sandals"
+      ],
+      "modifiers": [],
+      "vertices": 8,
+      "polygons": 6,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_ToeRing_L",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        0.094,
+        -0.115,
+        0.02
+      ],
+      "world_matrix_translation": [
+        -1006.906,
+        1099.885,
+        7.258
+      ],
+      "materials": [
+        "M_Raghunath_Leather_Sandals"
+      ],
+      "modifiers": [],
+      "vertices": 576,
+      "polygons": 576,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    },
+    {
+      "name": "Raghunath_ToeRing_R",
+      "type": "MESH",
+      "parent": "Character_Raghunath_Root",
+      "location": [
+        -0.094,
+        -0.115,
+        0.02
+      ],
+      "world_matrix_translation": [
+        -1007.094,
+        1099.885,
+        7.258
+      ],
+      "materials": [
+        "M_Raghunath_Leather_Sandals"
+      ],
+      "modifiers": [],
+      "vertices": 576,
+      "polygons": 576,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "vertex_groups": []
+    }
+  ],
+  "materials": [
+    {
+      "name": "M_Raghunath_Face_Photoreal",
+      "use_nodes": true,
+      "textures": [
+        {
+          "node_name": "Image Texture",
+          "image_name": "raghunath_face_hires.jpg",
+          "image_filepath": "/Users/ms/Downloads/GRAI/renders/raghunath_face_hires.jpg",
+          "image_size": [
+            1024,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "name": "M_Raghunath_Hair_Master",
+      "use_nodes": true,
+      "textures": [
+        {
+          "node_name": "Image Texture",
+          "image_name": "raghunath_face_hires.jpg.001",
+          "image_filepath": "/Users/ms/Downloads/GRAI/renders/raghunath_face_hires.jpg",
+          "image_size": [
+            1024,
+            1024
+          ]
+        }
+      ]
+    },
+    {
+      "name": "M_Raghunath_Jeans_Charcoal",
+      "use_nodes": true,
+      "textures": []
+    },
+    {
+      "name": "M_Raghunath_Leather_Sandals",
+      "use_nodes": true,
+      "textures": []
+    },
+    {
+      "name": "M_Raghunath_Necklace",
+      "use_nodes": true,
+      "textures": []
+    },
+    {
+      "name": "M_Raghunath_Sandal_Sole",
+      "use_nodes": true,
+      "textures": []
+    },
+    {
+      "name": "M_Raghunath_Shirt_Burgundy",
+      "use_nodes": true,
+      "textures": []
+    },
+    {
+      "name": "M_Raghunath_Skin_PBR",
+      "use_nodes": true,
+      "textures": []
+    }
+  ],
+  "armatures": [],
+  "overall_stats": {
+    "total_vertices": 30193,
+    "total_polygons": 29972,
+    "min_coord": [
+      -1007.31201171875,
+      1099.79638671875,
+      7.238999843597412
+    ],
+    "max_coord": [
+      -1006.68798828125,
+      1100.1300048828125,
+      9.104028701782227
+    ],
+    "dimensions": {
+      "width_x_meters": 0.624,
+      "depth_y_meters": 0.3336,
+      "height_z_meters": 1.865,
+      "world_bbox_min": [
+        -1007.312,
+        1099.7964,
+        7.239
+      ],
+      "world_bbox_max": [
+        -1006.688,
+        1100.13,
+        9.104
+      ]
+    }
+  }
+}

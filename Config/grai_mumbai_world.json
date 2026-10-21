@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "project": {
+    "name": "GRAI — Grand Roads of India",
+    "subproject": "Mumbai Digital Twin",
+    "version": "1.0.0",
+    "phase": "Environment & World Building",
+    "exclusions": [
+      "NO characters",
+      "NO pedestrians",
+      "NO vehicles",
+      "NO traffic",
+      "NO animated living entities"
+    ]
+  },
+  "geospatial": {
+    "crs_source": "EPSG:4326 (WGS 84 Geographic 2D)",
+    "crs_projected": "EPSG:32643 (WGS 84 / UTM Zone 43N)",
+    "projection_type": "Transverse Mercator",
+    "vertical_datum": "EGM96 / Mean Sea Level (MSL)",
+    "elevation_unit": "meters",
+    "unreal_world_origin": {
+      "latitude": 18.923000,
+      "longitude": 72.833000,
+      "elevation_msl": 0.0,
+      "description": "Colaba / Gateway of India reference axis"
+    },
+    "unit_conversion": {
+      "metric_to_unreal_scale": 100.0,
+      "axis_mapping": {
+        "x": "East (X_Forward)",
+        "y": "North (Y_Right)",
+        "z": "Up (Z_Up)"
+      }
+    },
+    "boundaries": {
+      "metropolitan_mumbai": {
+        "description": "Full Greater Mumbai Metropolitan Extent",
+        "min_lat": 18.8800,
+        "max_lat": 19.3000,
+        "min_lon": 72.7500,
+        "max_lon": 73.0500
+      },
+      "south_mumbai_core": {
+        "description": "Colaba, Fort, Marine Drive, Nariman Point, Girgaon, Dadar, Worli",
+        "min_lat": 18.8950,
+        "max_lat": 19.0300,
+        "min_lon": 72.7900,
+        "max_lon": 72.8600
+      },
+      "active_sample_tile": {
+        "description": "Apollo Bunder & Colaba Heritage Precinct (Phase B sample)",
+        "min_lat": 18.9180,
+        "max_lat": 18.9280,
+        "min_lon": 72.8280,
+        "max_lon": 72.8380
+      },
+      "expanded_coverage_phase_d": {
+        "description": "Phase D Expanded Metropolitan Peninsula (Colaba to Bandra, Worli, Dadar, Dharavi)",
+        "min_lat": 18.8950,
+        "max_lat": 19.0700,
+        "min_lon": 72.8100,
+        "max_lon": 72.8650
+      }
+    }
+  },
+  "tiling": {
+    "tile_size_meters": 500.0,
+    "tile_overlap_meters": 10.0,
+    "tile_naming_pattern": "TILE_E{col:+04d}_N{row:+04d}",
+    "grid_origin_coords": {
+      "latitude": 18.923000,
+      "longitude": 72.833000
+    }
+  },
+  "sources": {
+    "openstreetmap": {
+      "provider": "OpenStreetMap Contributors",
+      "license": "ODbL (Open Database License)",
+      "attribution": "© OpenStreetMap contributors",
+      "data_types": ["buildings", "roads", "waterways", "landuse"],
+      "verified_date": "2026-07-15",
+      "redistribution_permitted": true
+    },
+    "srtm_elevation": {
+      "provider": "NASA / USGS SRTM 1-Arc-Second Global (30m)",
+      "license": "Public Domain / NASA Open Data Policy",
+      "resolution_meters": 30.0,
+      "vertical_accuracy_meters": 5.0,
+      "redistribution_permitted": true
+    },
+    "photogrammetry_landmarks": {
+      "provider": "GRAI Surveyed / Open Reference Capture",
+      "confidence_level": "Level A — Verified",
+      "entities": [
+        "Gateway_of_India",
+        "Taj_Mahal_Palace",
+        "CSMT_Victoria_Terminus",
+        "Bandra_Worli_Sea_Link"
+      ]
+    }
+  },
+  "confidence_thresholds": {
+    "LEVEL_A_VERIFIED": {
+      "code": "A",
+      "description": "Supported by surveyed ground geometry, verified GIS heights or high-res LiDAR/photogrammetry",
+      "min_confidence": 0.85
+    },
+    "LEVEL_B_INFERRED": {
+      "code": "B",
+      "description": "Footprint verified by OSM; height or storeys inferred from building:levels or zoning rules",
+      "min_confidence": 0.50
+    },
+    "LEVEL_C_UNAVAILABLE": {
+      "code": "C",
+      "description": "No reliable height/facade data available; minimal placeholder marked as unverified",
+      "min_confidence": 0.00
+    }
+  },
+  "building_rules": {
+    "default_level_height_meters": 3.2,
+    "min_building_height_meters": 3.5,
+    "max_building_height_meters": 320.0,
+    "roof_mumty_probability": 0.75,
+    "water_tank_probability": 0.85,
+    "ac_compressor_probability": 0.60,
+    "lod_distances": {
+      "LOD0_FullDetail": 75.0,
+      "LOD1_ReducedGeometry": 250.0,
+      "LOD2_SimpleBox": 1000.0,
+      "LOD3_HLODProxy": 5000.0
+    }
+  },
+  "road_rules": {
+    "widths_by_highway_type": {
+      "motorway": 24.0,
+      "trunk": 20.0,
+      "primary": 16.0,
+      "secondary": 12.0,
+      "tertiary": 9.0,
+      "residential": 6.5,
+      "service": 4.5,
+      "unclassified": 5.5,
+      "footway": 2.5,
+      "pedestrian": 4.0,
+      "path": 1.8
+    },
+    "curb_height_meters": 0.15,
+    "curb_width_meters": 0.25,
+    "sidewalk_elevation_meters": 0.15
+  },
+  "unreal_engine": {
+    "version": "5.8",
+    "project_file": "GRAI/GRAI.uproject",
+    "world_partition": {
+      "enabled": true,
+      "grid_size": 25600,
+      "loading_range": 100000,
+      "hlod_enabled": true
+    },
+    "nanite": {
+      "enabled_for_static_meshes": true,
+      "max_edge_length": 1.0
+    },
+    "lumen": {
+      "enabled": true,
+      "software_ray_tracing": true
+    }
+  },
+  "blender": {
+    "executable": "/Users/ms/Desktop/Blender.app/Contents/MacOS/Blender",
+    "bridge_socket_port": 9876,
+    "background_mode": true
+  },
+  "validation": {
+    "strict_mode": true,
+    "max_polygon_vertex_count": 50000,
+    "allow_unverified_geometry": false,
+    "require_reproducible_hash": true
+  }
+}

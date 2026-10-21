@@ -1,0 +1,108 @@
+{
+  "1_missing_body_parts": {
+    "status": "PASS",
+    "missing": [],
+    "found_parts": 10
+  },
+  "2_non_manifold_geometry": {
+    "status": "PASS",
+    "boundary_edges_by_mesh": {
+      "Raghunath_Head_Mesh": 147,
+      "Raghunath_Teeth_Mouth": 13,
+      "Raghunath_Body_Mesh": 560,
+      "Raghunath_Shirt_Mesh": 128,
+      "Raghunath_Jeans_Mesh": 128
+    }
+  },
+  "3_duplicate_vertices": {
+    "status": "PASS",
+    "duplicates_found": {}
+  },
+  "4_invalid_normals": {
+    "status": "PASS",
+    "zero_normals_count": {}
+  },
+  "5_mesh_scale_and_transforms": {
+    "status": "PASS",
+    "unapplied_scales": {}
+  },
+  "6_character_height": {
+    "status": "PASS",
+    "height_meters": 1.8591,
+    "target_range_meters": "1.80 - 1.92"
+  },
+  "7_uv_existence": {
+    "status": "PASS",
+    "missing_uv_meshes": []
+  },
+  "8_material_assignment": {
+    "status": "PASS",
+    "unassigned_meshes": []
+  },
+  "9_missing_textures": {
+    "status": "PASS",
+    "missing_texture_files": []
+  },
+  "10_rig_existence": {
+    "status": "PASS",
+    "armature_name": "Armature_Raghunath",
+    "bone_count": 59
+  },
+  "11_armature_hierarchy": {
+    "status": "PASS",
+    "missing_essential_bones": []
+  },
+  "12_vertex_groups": {
+    "status": "PASS",
+    "vertex_group_counts": {
+      "Raghunath_Body_Mesh": 59,
+      "Raghunath_Shirt_Mesh": 59,
+      "Raghunath_Jeans_Mesh": 59
+    }
+  },
+  "13_hand_fingers_rigged": {
+    "status": "PASS",
+    "total_finger_bones_expected": 30,
+    "missing_bones": []
+  },
+  "14_feet_and_toes_rigged": {
+    "status": "PASS",
+    "missing_bones": []
+  },
+  "15_eye_geometry": {
+    "status": "PASS",
+    "left_eye": "Raghunath_Eye_L",
+    "right_eye": "Raghunath_Eye_R"
+  },
+  "16_facial_shape_keys": {
+    "status": "PASS",
+    "total_shape_keys": 13,
+    "keys": [
+      "Basis",
+      "Blink_L",
+      "Blink_R",
+      "Eye_Look_Up",
+      "Eye_Look_Down",
+      "Eye_Look_Left",
+      "Eye_Look_Right",
+      "Brow_Raise_L",
+      "Brow_Raise_R",
+      "Brow_Furrow",
+      "Jaw_Open",
+      "Mouth_Smile",
+      "Mouth_Frown"
+    ]
+  },
+  "17_lod_availability": {
+    "status": "PASS",
+    "lods_found": [
+      "SKM_Raghunath_LOD0.fbx",
+      "SKM_Raghunath_LOD1.fbx",
+      "SKM_Raghunath_LOD2.fbx",
+      "SKM_Raghunath_LOD3.fbx"
+    ]
+  },
+  "18_export_readiness": {
+    "status": "PASS"
+  }
+}

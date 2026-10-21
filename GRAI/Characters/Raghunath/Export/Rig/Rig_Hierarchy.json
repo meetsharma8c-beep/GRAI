@@ -1,0 +1,945 @@
+{
+  "armature_name": "Armature_Raghunath",
+  "total_bones": 56,
+  "root_bones": [
+    "root"
+  ],
+  "bone_hierarchy": {
+    "root": {
+      "parent": null,
+      "children": [
+        "pelvis",
+        "ik_foot_root"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        0.1
+      ],
+      "length": 0.1
+    },
+    "pelvis": {
+      "parent": "root",
+      "children": [
+        "spine_01",
+        "thigh_l",
+        "thigh_r"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        0.89
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        0.96
+      ],
+      "length": 0.07
+    },
+    "spine_01": {
+      "parent": "pelvis",
+      "children": [
+        "spine_02"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        0.96
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        1.08
+      ],
+      "length": 0.12
+    },
+    "spine_02": {
+      "parent": "spine_01",
+      "children": [
+        "spine_03"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        1.08
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        1.2
+      ],
+      "length": 0.12
+    },
+    "spine_03": {
+      "parent": "spine_02",
+      "children": [
+        "neck_01",
+        "clavicle_l",
+        "clavicle_r"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        1.2
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        1.36
+      ],
+      "length": 0.16
+    },
+    "neck_01": {
+      "parent": "spine_03",
+      "children": [
+        "head"
+      ],
+      "head": [
+        0.0,
+        -0.012,
+        1.36
+      ],
+      "tail": [
+        0.0,
+        -0.015,
+        1.48
+      ],
+      "length": 0.12
+    },
+    "head": {
+      "parent": "neck_01",
+      "children": [],
+      "head": [
+        0.0,
+        -0.015,
+        1.48
+      ],
+      "tail": [
+        0.0,
+        -0.02,
+        1.78
+      ],
+      "length": 0.3
+    },
+    "clavicle_l": {
+      "parent": "spine_03",
+      "children": [
+        "upperarm_l"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        1.36
+      ],
+      "tail": [
+        0.16,
+        0.0,
+        1.36
+      ],
+      "length": 0.16
+    },
+    "upperarm_l": {
+      "parent": "clavicle_l",
+      "children": [
+        "lowerarm_l"
+      ],
+      "head": [
+        0.16,
+        0.0,
+        1.36
+      ],
+      "tail": [
+        0.255,
+        -0.015,
+        1.1
+      ],
+      "length": 0.2772
+    },
+    "lowerarm_l": {
+      "parent": "upperarm_l",
+      "children": [
+        "hand_l"
+      ],
+      "head": [
+        0.255,
+        -0.015,
+        1.1
+      ],
+      "tail": [
+        0.263,
+        -0.024,
+        0.84
+      ],
+      "length": 0.2603
+    },
+    "hand_l": {
+      "parent": "lowerarm_l",
+      "children": [
+        "thumb_01_l",
+        "index_01_l",
+        "middle_01_l",
+        "ring_01_l",
+        "pinky_01_l"
+      ],
+      "head": [
+        0.263,
+        -0.024,
+        0.84
+      ],
+      "tail": [
+        0.263,
+        -0.024,
+        0.76
+      ],
+      "length": 0.08
+    },
+    "thumb_01_l": {
+      "parent": "hand_l",
+      "children": [
+        "thumb_02_l"
+      ],
+      "head": [
+        0.239,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        0.239,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "thumb_02_l": {
+      "parent": "thumb_01_l",
+      "children": [
+        "thumb_03_l"
+      ],
+      "head": [
+        0.239,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        0.239,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "thumb_03_l": {
+      "parent": "thumb_02_l",
+      "children": [],
+      "head": [
+        0.239,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        0.239,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "index_01_l": {
+      "parent": "hand_l",
+      "children": [
+        "index_02_l"
+      ],
+      "head": [
+        0.247,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        0.247,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "index_02_l": {
+      "parent": "index_01_l",
+      "children": [
+        "index_03_l"
+      ],
+      "head": [
+        0.247,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        0.247,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "index_03_l": {
+      "parent": "index_02_l",
+      "children": [],
+      "head": [
+        0.247,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        0.247,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "middle_01_l": {
+      "parent": "hand_l",
+      "children": [
+        "middle_02_l"
+      ],
+      "head": [
+        0.258,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        0.258,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "middle_02_l": {
+      "parent": "middle_01_l",
+      "children": [
+        "middle_03_l"
+      ],
+      "head": [
+        0.258,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        0.258,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "middle_03_l": {
+      "parent": "middle_02_l",
+      "children": [],
+      "head": [
+        0.258,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        0.258,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "ring_01_l": {
+      "parent": "hand_l",
+      "children": [
+        "ring_02_l"
+      ],
+      "head": [
+        0.27,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        0.27,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "ring_02_l": {
+      "parent": "ring_01_l",
+      "children": [
+        "ring_03_l"
+      ],
+      "head": [
+        0.27,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        0.27,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "ring_03_l": {
+      "parent": "ring_02_l",
+      "children": [],
+      "head": [
+        0.27,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        0.27,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "pinky_01_l": {
+      "parent": "hand_l",
+      "children": [
+        "pinky_02_l"
+      ],
+      "head": [
+        0.281,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        0.281,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "pinky_02_l": {
+      "parent": "pinky_01_l",
+      "children": [
+        "pinky_03_l"
+      ],
+      "head": [
+        0.281,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        0.281,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "pinky_03_l": {
+      "parent": "pinky_02_l",
+      "children": [],
+      "head": [
+        0.281,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        0.281,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "clavicle_r": {
+      "parent": "spine_03",
+      "children": [
+        "upperarm_r"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        1.36
+      ],
+      "tail": [
+        -0.16,
+        0.0,
+        1.36
+      ],
+      "length": 0.16
+    },
+    "upperarm_r": {
+      "parent": "clavicle_r",
+      "children": [
+        "lowerarm_r"
+      ],
+      "head": [
+        -0.16,
+        0.0,
+        1.36
+      ],
+      "tail": [
+        -0.255,
+        -0.015,
+        1.1
+      ],
+      "length": 0.2772
+    },
+    "lowerarm_r": {
+      "parent": "upperarm_r",
+      "children": [
+        "hand_r"
+      ],
+      "head": [
+        -0.255,
+        -0.015,
+        1.1
+      ],
+      "tail": [
+        -0.263,
+        -0.024,
+        0.84
+      ],
+      "length": 0.2603
+    },
+    "hand_r": {
+      "parent": "lowerarm_r",
+      "children": [
+        "thumb_01_r",
+        "index_01_r",
+        "middle_01_r",
+        "ring_01_r",
+        "pinky_01_r"
+      ],
+      "head": [
+        -0.263,
+        -0.024,
+        0.84
+      ],
+      "tail": [
+        -0.263,
+        -0.024,
+        0.76
+      ],
+      "length": 0.08
+    },
+    "thumb_01_r": {
+      "parent": "hand_r",
+      "children": [
+        "thumb_02_r"
+      ],
+      "head": [
+        -0.239,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        -0.239,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "thumb_02_r": {
+      "parent": "thumb_01_r",
+      "children": [
+        "thumb_03_r"
+      ],
+      "head": [
+        -0.239,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        -0.239,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "thumb_03_r": {
+      "parent": "thumb_02_r",
+      "children": [],
+      "head": [
+        -0.239,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        -0.239,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "index_01_r": {
+      "parent": "hand_r",
+      "children": [
+        "index_02_r"
+      ],
+      "head": [
+        -0.247,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        -0.247,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "index_02_r": {
+      "parent": "index_01_r",
+      "children": [
+        "index_03_r"
+      ],
+      "head": [
+        -0.247,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        -0.247,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "index_03_r": {
+      "parent": "index_02_r",
+      "children": [],
+      "head": [
+        -0.247,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        -0.247,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "middle_01_r": {
+      "parent": "hand_r",
+      "children": [
+        "middle_02_r"
+      ],
+      "head": [
+        -0.258,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        -0.258,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "middle_02_r": {
+      "parent": "middle_01_r",
+      "children": [
+        "middle_03_r"
+      ],
+      "head": [
+        -0.258,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        -0.258,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "middle_03_r": {
+      "parent": "middle_02_r",
+      "children": [],
+      "head": [
+        -0.258,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        -0.258,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "ring_01_r": {
+      "parent": "hand_r",
+      "children": [
+        "ring_02_r"
+      ],
+      "head": [
+        -0.27,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        -0.27,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "ring_02_r": {
+      "parent": "ring_01_r",
+      "children": [
+        "ring_03_r"
+      ],
+      "head": [
+        -0.27,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        -0.27,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "ring_03_r": {
+      "parent": "ring_02_r",
+      "children": [],
+      "head": [
+        -0.27,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        -0.27,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "pinky_01_r": {
+      "parent": "hand_r",
+      "children": [
+        "pinky_02_r"
+      ],
+      "head": [
+        -0.281,
+        -0.024,
+        0.76
+      ],
+      "tail": [
+        -0.281,
+        -0.024,
+        0.738
+      ],
+      "length": 0.022
+    },
+    "pinky_02_r": {
+      "parent": "pinky_01_r",
+      "children": [
+        "pinky_03_r"
+      ],
+      "head": [
+        -0.281,
+        -0.024,
+        0.738
+      ],
+      "tail": [
+        -0.281,
+        -0.024,
+        0.716
+      ],
+      "length": 0.022
+    },
+    "pinky_03_r": {
+      "parent": "pinky_02_r",
+      "children": [],
+      "head": [
+        -0.281,
+        -0.024,
+        0.716
+      ],
+      "tail": [
+        -0.281,
+        -0.024,
+        0.694
+      ],
+      "length": 0.022
+    },
+    "thigh_l": {
+      "parent": "pelvis",
+      "children": [
+        "calf_l"
+      ],
+      "head": [
+        0.1,
+        0.0,
+        0.86
+      ],
+      "tail": [
+        0.105,
+        0.0,
+        0.5
+      ],
+      "length": 0.36
+    },
+    "calf_l": {
+      "parent": "thigh_l",
+      "children": [
+        "foot_l"
+      ],
+      "head": [
+        0.105,
+        0.0,
+        0.5
+      ],
+      "tail": [
+        0.1,
+        0.0,
+        0.085
+      ],
+      "length": 0.415
+    },
+    "foot_l": {
+      "parent": "calf_l",
+      "children": [
+        "ball_l"
+      ],
+      "head": [
+        0.1,
+        0.0,
+        0.085
+      ],
+      "tail": [
+        0.1,
+        -0.1,
+        0.025
+      ],
+      "length": 0.1166
+    },
+    "ball_l": {
+      "parent": "foot_l",
+      "children": [],
+      "head": [
+        0.1,
+        -0.1,
+        0.025
+      ],
+      "tail": [
+        0.1,
+        -0.16,
+        0.015
+      ],
+      "length": 0.0608
+    },
+    "thigh_r": {
+      "parent": "pelvis",
+      "children": [
+        "calf_r"
+      ],
+      "head": [
+        -0.1,
+        0.0,
+        0.86
+      ],
+      "tail": [
+        -0.105,
+        0.0,
+        0.5
+      ],
+      "length": 0.36
+    },
+    "calf_r": {
+      "parent": "thigh_r",
+      "children": [
+        "foot_r"
+      ],
+      "head": [
+        -0.105,
+        0.0,
+        0.5
+      ],
+      "tail": [
+        -0.1,
+        0.0,
+        0.085
+      ],
+      "length": 0.415
+    },
+    "foot_r": {
+      "parent": "calf_r",
+      "children": [
+        "ball_r"
+      ],
+      "head": [
+        -0.1,
+        0.0,
+        0.085
+      ],
+      "tail": [
+        -0.1,
+        -0.1,
+        0.025
+      ],
+      "length": 0.1166
+    },
+    "ball_r": {
+      "parent": "foot_r",
+      "children": [],
+      "head": [
+        -0.1,
+        -0.1,
+        0.025
+      ],
+      "tail": [
+        -0.1,
+        -0.16,
+        0.015
+      ],
+      "length": 0.0608
+    },
+    "ik_foot_root": {
+      "parent": "root",
+      "children": [
+        "ik_foot_l",
+        "ik_foot_r"
+      ],
+      "head": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "tail": [
+        0.0,
+        0.1,
+        0.0
+      ],
+      "length": 0.1
+    },
+    "ik_foot_l": {
+      "parent": "ik_foot_root",
+      "children": [],
+      "head": [
+        0.1,
+        -0.05,
+        0.025
+      ],
+      "tail": [
+        0.1,
+        -0.12,
+        0.025
+      ],
+      "length": 0.07
+    },
+    "ik_foot_r": {
+      "parent": "ik_foot_root",
+      "children": [],
+      "head": [
+        -0.1,
+        -0.05,
+        0.025
+      ],
+      "tail": [
+        -0.1,
+        -0.12,
+        0.025
+      ],
+      "length": 0.07
+    }
+  }
+}

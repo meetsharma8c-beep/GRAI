@@ -1,0 +1,79 @@
+{
+  "M_Raghunath_Face_Photoreal": {
+    "assigned_meshes": [
+      "Raghunath_Head_Mesh"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Hair_Master": {
+    "assigned_meshes": [
+      "Raghunath_Hair_Mesh"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Skin_PBR": {
+    "assigned_meshes": [
+      "Raghunath_Body_Mesh"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Eyes_PBR": {
+    "assigned_meshes": [
+      "Raghunath_Eye_L",
+      "Raghunath_Eye_R"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Teeth_PBR": {
+    "assigned_meshes": [
+      "Raghunath_Teeth_Mouth"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Shirt_Burgundy": {
+    "assigned_meshes": [
+      "Raghunath_Shirt_Mesh",
+      "Raghunath_Shirt_Pocket"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Jeans_Charcoal": {
+    "assigned_meshes": [
+      "Raghunath_Jeans_Mesh"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Sandal_Sole": {
+    "assigned_meshes": [
+      "Raghunath_Sandal_Sole_L",
+      "Raghunath_Sandal_Sole_R"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Leather_Sandals": {
+    "assigned_meshes": [
+      "Raghunath_Sandal_Strap_L",
+      "Raghunath_Sandal_ToeRing_L",
+      "Raghunath_Sandal_Strap_R",
+      "Raghunath_Sandal_ToeRing_R"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  },
+  "M_Raghunath_Necklace": {
+    "assigned_meshes": [
+      "Raghunath_Necklace_Cord",
+      "Raghunath_Pendant"
+    ],
+    "blend_method": "HASHED",
+    "use_backface_culling": false
+  }
+}

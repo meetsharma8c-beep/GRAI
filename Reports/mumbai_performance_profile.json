@@ -1,0 +1,22 @@
+{
+  "benchmark_timestamp": "2026-10-14T13:57:45Z",
+  "hardware_target": "Apple Silicon MacBook Pro (M-Series)",
+  "memory_footprint_mb": 35.14,
+  "disk_status_gb": {
+    "total": 460.38,
+    "free": 86.32,
+    "used": 374.06
+  },
+  "asset_sizes_mb": {
+    "buildings_obj": 6.93,
+    "roads_obj": 8.09,
+    "terrain_obj": 3.7
+  },
+  "streaming_optimization": {
+    "world_partition_grid_m": 256.0,
+    "loading_range_m": 1000.0,
+    "hlod_enabled": true,
+    "nanite_enabled": true,
+    "separate_collision_geometry": true
+  }
+}

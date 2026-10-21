@@ -27,3 +27,7 @@ GRAI/*.sln
 # Agent temp
 .agents/
 .tempmediaStorage/
+
+# Backups & Raw frame caches
+Backups/
+renders/drone_opengl_frames/

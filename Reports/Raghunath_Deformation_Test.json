@@ -1,0 +1,74 @@
+[
+  {
+    "pose_name": "T-Pose",
+    "bones_transformed": 0,
+    "deformed_height_m": 1.4801,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "A-Pose",
+    "bones_transformed": 2,
+    "deformed_height_m": 1.4801,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Elbow_90_Bend",
+    "bones_transformed": 2,
+    "deformed_height_m": 1.4801,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Knee_90_Bend",
+    "bones_transformed": 4,
+    "deformed_height_m": 1.2861,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Walk_Stride",
+    "bones_transformed": 7,
+    "deformed_height_m": 1.4091,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Run_Sprint",
+    "bones_transformed": 8,
+    "deformed_height_m": 1.328,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Crouch",
+    "bones_transformed": 6,
+    "deformed_height_m": 1.1509,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Arm_Overhead",
+    "bones_transformed": 2,
+    "deformed_height_m": 1.4801,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  },
+  {
+    "pose_name": "Sitting",
+    "bones_transformed": 5,
+    "deformed_height_m": 1.1234,
+    "status": "PASS",
+    "volume_loss_detected": false,
+    "joint_collapse_detected": false
+  }
+]

@@ -154,7 +154,7 @@ def run_source_validation() -> bool:
         path = src.get("path_or_endpoint")
         print(f"\n[Validating] {source_id} -> {path}")
         if not path or not os.path.exists(path):
-            print(f"  ❌ FAILED: File missing at {path}")
+            print(f"  [FAILED]: File missing at {path}")
             report["results"][source_id] = {
                 "source_id": source_id,
                 "status": "FAILED",
@@ -171,14 +171,14 @@ def run_source_validation() -> bool:
             res = {"valid": True, "status": "UNKNOWN_FORMAT_SKIPPED"}
 
         if res.get("valid"):
-            print(f"  ✅ PASSED: {res.get('status')}")
+            print(f"  [PASSED]: {res.get('status')}")
             report["results"][source_id] = {
                 "source_id": source_id,
                 "status": "PASS",
                 "details": res
             }
         else:
-            print(f"  ❌ FAILED: {res.get('error')}")
+            print(f"  [FAILED]: {res.get('error')}")
             report["results"][source_id] = {
                 "source_id": source_id,
                 "status": "FAIL",

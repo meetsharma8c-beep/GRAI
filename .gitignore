@@ -37,3 +37,6 @@ renders/blender_app*.png
 renders/blender_solid*.png
 renders/blender_window*.png
 renders/blender_active*.png
+
+# Environment variables
+.env*

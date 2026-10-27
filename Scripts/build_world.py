@@ -215,9 +215,9 @@ class WorldBuilderPipeline:
         elapsed = time.time() - start_time
 
         if success:
-            print(f"\n✅ STAGE [{stage_name}] COMPLETED SUCCESSFULLY in {elapsed:.2f}s")
+            print(f"\n[SUCCESS] STAGE [{stage_name}] COMPLETED SUCCESSFULLY in {elapsed:.2f}s")
         else:
-            print(f"\n❌ STAGE [{stage_name}] FAILED in {elapsed:.2f}s")
+            print(f"\n[FAILED] STAGE [{stage_name}] FAILED in {elapsed:.2f}s")
         return success
 
     def run_all(self) -> bool:
@@ -242,12 +242,12 @@ class WorldBuilderPipeline:
         for s in stages:
             ok = self.run_stage(s)
             if not ok:
-                print(f"\n❌ PIPELINE HALTED AT STAGE: {s}")
+                print(f"\n[FAILED] PIPELINE HALTED AT STAGE: {s}")
                 return False
 
         total_elapsed = time.time() - overall_start
         print("\n" + "=" * 75)
-        print(f"🎉 ALL PIPELINE STAGES COMPLETED SUCCESSFULLY in {total_elapsed:.2f}s!")
+        print(f"[SUCCESS] ALL PIPELINE STAGES COMPLETED SUCCESSFULLY in {total_elapsed:.2f}s!")
         print("=" * 75)
         return True
 

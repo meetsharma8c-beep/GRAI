@@ -289,8 +289,8 @@ class GRAI_OT_PlayController(bpy.types.Operator):
                 landmark_name = get_closest_landmark(root.location)
                 speed_txt = f"{speed*3.6:.0f} km/h" if moving else "Idle"
                 hud = (
-                    f"🎮 GRAI MUMBAI [CHARACTER MODE] | 📍 {landmark_name} "
-                    f"({root.location.x:.1f}, {root.location.y:.1f}) | ⚡ {speed_txt} | "
+                    f"GRAI MUMBAI [CHARACTER MODE] | Location: {landmark_name} "
+                    f"({root.location.x:.1f}, {root.location.y:.1f}) | Speed: {speed_txt} | "
                     f"[W/A/S/D] Walk/Steer | [Shift] Sprint | [M] Map View | [V] Cam | [1-5] Teleport | [ESC] Exit"
                 )
                 try:
@@ -319,7 +319,7 @@ class GRAI_OT_PlayController(bpy.types.Operator):
                         cam_map.location.z = min(35000.0, cam_map.location.z + pan * 1.5)
 
                 hud = (
-                    f"🗺️ GRAI MUMBAI [MAP OVERVIEW MODE] | Alt: {cam_map.location.z:.0f}m | "
+                    f"GRAI MUMBAI [MAP OVERVIEW MODE] | Alt: {cam_map.location.z:.0f}m | "
                     f"[W/A/S/D] Pan Map | [Q/E] Alt Zoom | [M/Tab] Return to Player | [1-5] Teleport | [ESC] Exit"
                 )
                 try:
@@ -434,34 +434,34 @@ class GRAI_PT_PlayerController(bpy.types.Panel):
         # Big Play Button
         col = layout.column(align=True)
         col.scale_y = 1.8
-        col.operator("grai.play", text="▶ START PLAYABLE CONTROLLER (WASD)", icon='PLAY')
+        col.operator("grai.play", text="START PLAYABLE CONTROLLER (WASD)", icon='PLAY')
 
         # Map View / Player Toggle
         col = layout.column(align=True)
         col.scale_y = 1.3
-        col.operator("grai.toggle_map_view", text="🗺️ TOGGLE MAP VIEW (Whole Mumbai)", icon='RESTRICT_VIEW_OFF')
+        col.operator("grai.toggle_map_view", text="TOGGLE MAP VIEW (Whole Mumbai)", icon='RESTRICT_VIEW_OFF')
 
         # Camera Perspective Switcher
         layout.separator()
         box_cam = layout.box()
         box_cam.label(text="Camera Perspectives", icon='CAMERA_DATA')
         col_c = box_cam.column(align=True)
-        col_c.operator("grai.switch_camera", text="🚶 3rd Person Follow", icon='OUTLINER_OB_CAMERA').camera_name = "Cam_Player_ThirdPerson_Road"
-        col_c.operator("grai.switch_camera", text="👁️ 1st Person Eyes", icon='HIDE_OFF').camera_name = "Cam_Player_FirstPerson_Eyes"
-        col_c.operator("grai.switch_camera", text="🚁 Drone Follow", icon='TRACKING').camera_name = "Cam_Player_Drone_Overview"
-        col_c.operator("grai.switch_camera", text="🌐 City Map Overview", icon='WORLD').camera_name = "Cam_Mumbai_Playable_Map_Master"
-        col_c.operator("grai.switch_camera", text="🛰️ Satellite Topdown Map", icon='IMAGE_DATA').camera_name = "Cam_Mumbai_Full_Map_TopDown"
+        col_c.operator("grai.switch_camera", text="3rd Person Follow", icon='OUTLINER_OB_CAMERA').camera_name = "Cam_Player_ThirdPerson_Road"
+        col_c.operator("grai.switch_camera", text="1st Person Eyes", icon='HIDE_OFF').camera_name = "Cam_Player_FirstPerson_Eyes"
+        col_c.operator("grai.switch_camera", text="Drone Follow", icon='TRACKING').camera_name = "Cam_Player_Drone_Overview"
+        col_c.operator("grai.switch_camera", text="City Map Overview", icon='WORLD').camera_name = "Cam_Mumbai_Playable_Map_Master"
+        col_c.operator("grai.switch_camera", text="Satellite Topdown Map", icon='IMAGE_DATA').camera_name = "Cam_Mumbai_Full_Map_TopDown"
 
         # Fast-Travel Teleportation
         layout.separator()
         box_tp = layout.box()
-        box_tp.label(text="🚀 Fast-Travel (Mumbai Landmarks)", icon='WORKSPACE')
+        box_tp.label(text="Fast-Travel (Mumbai Landmarks)", icon='WORKSPACE')
         col_t = box_tp.column(align=True)
-        col_t.operator("grai.teleport", text="🌊 Marine Drive (Queen's Necklace)").destination = "MARINEDRIVE"
-        col_t.operator("grai.teleport", text="🏛️ Gateway of India & Taj Mahal").destination = "GATEWAY"
-        col_t.operator("grai.teleport", text="🌉 Bandra-Worli Sea Link").destination = "SEALINK"
-        col_t.operator("grai.teleport", text="🏰 CSMT & Fort Heritage District").destination = "FORT"
-        col_t.operator("grai.teleport", text="🏖️ Girgaon Chowpatty Beach").destination = "CHOWPATTY"
+        col_t.operator("grai.teleport", text="Marine Drive (Queen's Necklace)").destination = "MARINEDRIVE"
+        col_t.operator("grai.teleport", text="Gateway of India & Taj Mahal").destination = "GATEWAY"
+        col_t.operator("grai.teleport", text="Bandra-Worli Sea Link").destination = "SEALINK"
+        col_t.operator("grai.teleport", text="CSMT & Fort Heritage District").destination = "FORT"
+        col_t.operator("grai.teleport", text="Girgaon Chowpatty Beach").destination = "CHOWPATTY"
 
         # Help / Keybinds Box
         layout.separator()

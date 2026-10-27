@@ -6,7 +6,7 @@ High-fidelity geospatial 3D digital twin and playable architectural reconstructi
 
 ---
 
-## 🌆 Overview & Key Features
+## Overview & Key Features
 
 This repository contains the complete, self-contained 3D digital twin of Mumbai:
 
@@ -33,7 +33,7 @@ This repository contains the complete, self-contained 3D digital twin of Mumbai:
 
 ---
 
-## 📸 Render Highlights
+## Render Highlights
 
 ### Marine Drive Driver View (Netaji Subhash Road)
 ![Marine Drive Driver](renders/definitive_scanned_marine_driver.png)
@@ -43,7 +43,7 @@ This repository contains the complete, self-contained 3D digital twin of Mumbai:
 
 ---
 
-## 🚀 How to Open on Any Device
+## How to Open on Any Device
 
 ### Requirements:
 - **Blender 4.0 or higher** (Tested on Blender 4.3 & 5.2).
